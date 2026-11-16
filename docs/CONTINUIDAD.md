@@ -144,7 +144,7 @@ al empezar, con falsos positivos). Flujo por curso, desde `backend/`:
 ```
 - Si **no explica** → `cambiar(...)`: explicar por qué la clave es correcta (y, si cabe, el error de un distractor típico).
 - Si **sí explica con otras palabras** → agregar `(archivo, inicio del enunciado)` a `REVISADAS_A_MANO` del detector.
-Hechos: 1.° a 8.° básico (98 reescritas, 58 revisadas). Siguiente: 1.° medio. Al terminar los 12, agregar una guarda en pytest.
+Hechos: 1.° básico a 1.° medio (144 reescritas, 67 revisadas). Siguiente: 2.° medio. Al terminar los 12, agregar una guarda en pytest.
 
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.
@@ -200,5 +200,7 @@ tutor IA detrás de variable de entorno, pasarela de pago detrás de variable de
   `test_la_explicacion_no_incluye_la_etiqueta_retroalimentacion`.
 - **Al limpiar texto con expresiones regulares, mirar lo que queda:** una limpieza quitó el sujeto de 5 explicaciones
   («El petróleo. tardó…»). Revisar siempre una muestra del `git diff` y buscar oraciones que empiecen en minúscula.
+- **Dos textos pueden empezar igual.** `retro_guia.cambiar` reemplazó una vez la retroalimentación de otra pregunta que
+  compartía las primeras palabras; ahora exige una ubicación única y verifica que cambió la pregunta buscada.
 - **Revisar el sesgo de longitud de lo rehecho:** la correcta tiende a quedar más larga y detallada. Medir con
   `ajustar_distractores.sesgada` y alargar distractores con `aplicar_en` (sin tocar la clave).

@@ -164,7 +164,7 @@ usan expresiones como *he is good at...* o *she is interested in...*.
    c) Chilean / 1942 / The House of the Spirits
    d) Writer / Chilean / 1942
    **Respuesta correcta:** c) Chilean / 1942 / The House of the Spirits.
-   **Retroalimentación:** Completar esquemas exige extraer datos puntuales y clasificarlos según la categoría.
+   **Retroalimentación:** El texto dice que Isabel Allende es chilena (nacionalidad), nació en 1942 (año) y es famosa por «The House of the Spirits» (obra). Cada dato va en su categoría.
 
 7. *(Alternativas — desafiante)* Read a text about renewable energy in other
    countries that includes some unfamiliar vocabulary (*hydropower,
@@ -186,7 +186,7 @@ usan expresiones como *he is good at...* o *she is interested in...*.
    c) Pesticides help bees grow and pollinate more plants. In recent years, bee populations have increased because there are more fruits.
    d) Fruits and vegetables pollinate bees, which helps bees make honey. Bee populations are declining because people eat too many fruits.
    **Respuesta correcta:** a) Bees pollinate plants, which helps fruits and vegetables grow. Bee populations are declining because of pesticides and habitat loss.
-   **Retroalimentación:** El resumen debe responder las tres preguntas guía con palabras propias y fiel al texto.
+   **Retroalimentación:** El resumen dice qué hacen las abejas (polinizan y así crecen frutas y verduras) y por qué disminuyen (pesticidas y pérdida de hábitat), con otras palabras y sin agregar información que no está en el texto.
 
 9. *(Alternativas — Comprensión — desafiante)* Read: *"Chess was invented in India more than 1,500 years ago and later spread to Persia, Europe and the rest of the world."* *Where did chess originate and how did it spread?*
    a) It originated in Persia and later spread to India, Europe and the rest of the world.
@@ -454,7 +454,7 @@ coherente, usando conectores variados y justificando siempre tus opiniones.
    c) plastic pollution / ignore it because it is not our problem
    d) plastic pollution / use less plastic and recycle more
    **Respuesta correcta:** d) plastic pollution / use less plastic and recycle more.
-   **Retroalimentación:** El problema y la solución deben estar conectados de forma lógica.
+   **Retroalimentación:** Usar menos plástico y reciclar más reduce directamente la contaminación por plástico, así que la solución responde de forma lógica al problema.
 
 6. *(Alternativas — Función)* ¿Qué función cumple *"As a result, many species are in danger"*?
    a) Dar un ejemplo
@@ -470,7 +470,7 @@ coherente, usando conectores variados y justificando siempre tus opiniones.
    c) a forest being cut down / this is a serious problem / it destroys the habitat of many animals
    d) a forest with many trees / this is a nice place / people like to walk in the forest
    **Respuesta correcta:** c) a forest being cut down / this is a serious problem / it destroys the habitat of many animals.
-   **Retroalimentación:** Un buen pie de foto describe la imagen, agrega una opinión y la justifica con *because*.
+   **Retroalimentación:** La opción describe la imagen (un bosque talado), da una opinión (es un problema grave) y la justifica con «because» (destruye el hábitat de muchos animales).
 
 8. *(Alternativas — desafiante)* Estás escribiendo sobre un texto que leíste
    acerca de un inventor famoso. ¿Qué oración resume mejor la información

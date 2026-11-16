@@ -167,7 +167,7 @@ las especies están tan bien adaptadas a su ambiente.
    c) Ambos trabajaron juntos en el mismo laboratorio de Londres, comparando muestras enviadas por otros naturalistas
    d) Ambos observaron que las especies nunca cambian, y que cada una fue creada adaptada a su ambiente desde el inicio
    **Respuesta correcta:** a) Observaron gran diversidad de especies emparentadas con variaciones adaptadas a ambientes distintos, como los pinzones de Galápagos.
-   **Retroalimentación:** Que dos científicos lleguen de forma independiente a conclusiones similares a partir de evidencia fortalece la credibilidad de una teoría.
+   **Retroalimentación:** Darwin en Galápagos y Wallace en el sudeste asiático vieron muchas especies emparentadas con variaciones adaptadas a ambientes distintos, como los pinzones. Que llegaran por separado a la misma idea fortalece la teoría de la selección natural.
 
 7. *(Alternativas — Aplicación)* Una población de bacterias expuesta repetidamente a un antibiótico termina compuesta casi totalmente por bacterias resistentes. ¿Qué explicación es correcta?
    a) Ya existían algunas bacterias resistentes por variación; el antibiótico eliminó a las no resistentes y las resistentes se reprodujeron masivamente
@@ -262,7 +262,7 @@ funcionan como redes de relaciones interdependientes.
    c) Depredación, comensalismo, mutualismo y parasitismo
    d) Parasitismo, competencia, depredación y mutualismo
    **Respuesta correcta:** d) Parasitismo, competencia, depredación y mutualismo.
-   **Retroalimentación:** Conviene preguntarse si cada especie se beneficia, se perjudica o no se ve afectada.
+   **Retroalimentación:** El piojo se beneficia y daña al ave (parasitismo); las dos aves se perjudican al disputar el nido (competencia); el cóndor caza y se come a la liebre (depredación), y las bacterias y el ser humano se benefician mutuamente (mutualismo).
 
 4. *(Alternativas)* ¿Qué diferencia hay entre competencia intraespecífica e interespecífica?
    a) La intraespecífica ocurre entre especies distintas que usan el mismo recurso (dos aves que comen las mismas semillas); la interespecífica, entre individuos de la misma especie (dos guanacos machos)
@@ -278,7 +278,7 @@ funcionan como redes de relaciones interdependientes.
    c) Porque las especies están interconectadas: sin el polinizador disminuye la reproducción de plantas, afectando el alimento y refugio de otras poblaciones
    d) Porque las plantas no necesitan polinizadores para reproducirse, así que la desaparición de una especie clave no tiene efectos en la comunidad
    **Respuesta correcta:** c) Porque las especies están interconectadas: sin el polinizador disminuye la reproducción de plantas, afectando el alimento y refugio de otras poblaciones.
-   **Retroalimentación:** Los niveles de organización biológica no son independientes entre sí.
+   **Retroalimentación:** Sin el polinizador, muchas plantas no se reproducen; al haber menos plantas, disminuyen el alimento y el refugio de otras especies. Como las especies están interconectadas, la pérdida de una especie clave afecta a toda la comunidad.
 
 6. *(Alternativas — Análisis de evidencia)* Al eliminar un depredador tope en un bosque nativo, la población de su presa aumentó y la vegetación de la que se alimentaba disminuyó. ¿Cómo se llama este efecto en cadena?
    a) Cascada trófica
@@ -294,7 +294,7 @@ funcionan como redes de relaciones interdependientes.
    c) Gaviota que caza peces: mutualismo
    d) Lapas que compiten por espacio: comensalismo
    **Respuesta correcta:** a y b.
-   **Retroalimentación:** Reconocer interacciones en ecosistemas locales ayuda a comprender la biodiversidad chilena.
+   **Retroalimentación:** La gaviota caza y se come a los peces: es depredación. Las lapas se disputan el espacio en las rocas, que es un recurso limitado: es competencia.
 
 ---
 
@@ -392,7 +392,7 @@ afectar gravemente a los depredadores tope, incluido el ser humano.
    c) 1: agua; 2: carbono; 3: fósforo
    d) 1: fósforo; 2: nitrógeno; 3: agua
    **Respuesta correcta:** d) 1: fósforo; 2: nitrógeno; 3: agua.
-   **Retroalimentación:** Cada ciclo biogeoquímico tiene características propias según sus reservorios y procesos.
+   **Retroalimentación:** El fósforo no tiene una fase gaseosa importante y circula entre rocas, suelo, agua y seres vivos; el ciclo del nitrógeno depende de bacterias fijadoras, y el del agua incluye evaporación, condensación y precipitación.
 
 4. *(Alternativas)* ¿Por qué la energía no se recicla en un ecosistema como los nutrientes?
    a) Porque la energía se recicla infinitamente en los descomponedores, que la devuelven a los productores sin pérdidas en cada nivel trófico
@@ -516,7 +516,7 @@ interconectados.
    d) Sequía prolongada
    e) Erupción volcánica
    **Respuesta correcta:** a, b y c.
-   **Retroalimentación:** Distinguir el origen de un cambio ambiental es clave para evaluar medidas de mitigación o adaptación.
+   **Retroalimentación:** La forestación, la deforestación para cultivar y la creación de un área protegida son decisiones de las personas, por eso son acciones humanas; los otros cambios ocurren por procesos de la naturaleza.
 
 4. *(Alternativas)* ¿Qué diferencia hay entre un recurso natural renovable y uno no renovable?
    a) El renovable nunca se agota, aunque se sobreexplote (agua de una cuenca, madera de un bosque); el no renovable se regenera en pocos años si se deja de usar (cobre, petróleo)
@@ -649,7 +649,7 @@ su auscultación).
    c) 1: efecto Doppler; 2: resonancia; 3: eco
    d) 1: eco; 2: efecto Doppler; 3: resonancia
    **Respuesta correcta:** a) 1: eco; 2: resonancia; 3: efecto Doppler.
-   **Retroalimentación:** Cada fenómeno acústico tiene una causa física distinta, aunque todos se explican con el modelo ondulatorio.
+   **Retroalimentación:** El eco es un sonido reflejado que llega con retraso; la resonancia es el aumento de amplitud cuando un objeto recibe sonido en su frecuencia natural, y el efecto Doppler es el cambio aparente de frecuencia cuando la fuente o quien escucha se mueven.
 
 4. *(Alternativas)* ¿Por qué una copa de cristal puede romperse al exponerse a un sonido de determinada frecuencia?
    a) Porque cualquier sonido fuerte rompe el cristal, sin importar su frecuencia, ya que la intensidad es lo único que determina si el material se quiebra
@@ -777,7 +777,7 @@ iluminación.
    c) Refracción; efecto Doppler; reflexión; resonancia
    d) Propagación rectilínea; reflexión; efecto Doppler; reflexión total interna
    **Respuesta correcta:** d) Propagación rectilínea; reflexión; efecto Doppler; reflexión total interna.
-   **Retroalimentación:** Cada fenómeno óptico tiene una explicación física específica.
+   **Retroalimentación:** Las sombras se forman porque la luz viaja en línea recta; los espejos funcionan por reflexión; el cambio aparente de color por movimiento es efecto Doppler, y la fibra óptica guía la luz por reflexión total interna.
 
 4. *(Alternativas)* ¿Cuál es la diferencia entre reflexión y refracción de la luz?
    a) En la reflexión la luz cambia de medio y de rapidez al pasar del aire al agua; en la refracción rebota sin cambiar de medio, como ocurre en un espejo
@@ -1056,7 +1056,7 @@ aprovechando directamente las ventajas del cielo chileno para sus observaciones.
    c) Si se aleja o se acerca (efecto Doppler)
    d) El nombre que le dieron sus descubridores
    **Respuesta correcta:** a, b y c.
-   **Retroalimentación:** La luz de los astros suele ser la única fuente de información directa para estudiarlos.
+   **Retroalimentación:** Las líneas del espectro revelan qué elementos químicos tiene un astro, el color de su luz indica su temperatura y el corrimiento de esas líneas (efecto Doppler) muestra si se aleja o se acerca.
 
 5. *(Alternativas — Análisis)* ¿Por qué los observatorios del norte de Chile son una oportunidad y un desafío a la vez?
    a) Oportunidad: no traen inversión, pero dan prestigio internacional. Desafío: el cielo del norte está siempre nublado por la camanchaca y dificulta la observación
@@ -1072,7 +1072,7 @@ aprovechando directamente las ventajas del cielo chileno para sus observaciones.
    c) Porque mediante observación sistemática por generaciones establecieron calendarios agrícolas y ceremoniales, un patrimonio cultural y científico propio
    d) No es relevante: solo importa la astronomía con telescopios
    **Respuesta correcta:** c) Porque mediante observación sistemática por generaciones establecieron calendarios agrícolas y ceremoniales, un patrimonio cultural y científico propio.
-   **Retroalimentación:** Es un saber complementario a la astronomía desarrollada con tecnología moderna.
+   **Retroalimentación:** Los pueblos originarios observaron el cielo de forma sistemática durante generaciones y con eso crearon calendarios para la agricultura y las ceremonias. Es un patrimonio cultural y científico propio que complementa la astronomía moderna.
 
 7. *(Alternativas — Aplicación)* ¿Por qué contar con observatorios de clase mundial en Chile favorece a la astronomía chilena?
    a) Porque facilita el acceso directo de científicos nacionales a esos instrumentos y su participación en investigaciones de vanguardia
@@ -1080,7 +1080,7 @@ aprovechando directamente las ventajas del cielo chileno para sus observaciones.
    c) Porque solo sirven para el turismo
    d) Porque reemplazan la formación de astrónomos en las universidades: los instrumentos hacen el trabajo sin necesidad de investigadores
    **Respuesta correcta:** a) Porque facilita el acceso directo de científicos nacionales a esos instrumentos y su participación en investigaciones de vanguardia.
-   **Retroalimentación:** La astronomía es también una disciplina activa y en desarrollo dentro del país.
+   **Retroalimentación:** Al tener los observatorios en su territorio, Chile cuenta con acceso a parte del tiempo de observación, lo que permite a científicos nacionales usar esos instrumentos y participar en investigaciones de punta.
 
 ---
 
@@ -1182,7 +1182,7 @@ ambientales como la contaminación atmosférica.
    c) 1: sustitución; 2: síntesis; 3: oxidación
    d) 1: oxidación; 2: síntesis; 3: descomposición
    **Respuesta correcta:** d) 1: oxidación; 2: síntesis; 3: descomposición.
-   **Retroalimentación:** Reconocer si los reactantes se combinan, se separan o intercambian elementos permite clasificar la reacción.
+   **Retroalimentación:** El hierro del clavo reacciona con el oxígeno y se oxida; el hidrógeno y el oxígeno se combinan en una sola sustancia, el agua (síntesis), y el agua oxigenada se separa en agua y oxígeno (descomposición).
 
 4. *(Alternativas)* ¿Qué diferencia hay entre una reacción exotérmica y una endotérmica?
    a) La exotérmica absorbe calor del entorno (compresa fría instantánea); la endotérmica libera calor (combustión de gas)
@@ -1198,7 +1198,7 @@ ambientales como la contaminación atmosférica.
    c) Porque en ambos un combustible reacciona con el oxígeno liberando energía; solo cambia cómo se aprovecha esa energía
    d) No son el mismo tipo de reacción
    **Respuesta correcta:** c) Porque en ambos un combustible reacciona con el oxígeno liberando energía; solo cambia cómo se aprovecha esa energía.
-   **Retroalimentación:** Los conceptos químicos se aplican a múltiples situaciones de la vida diaria.
+   **Retroalimentación:** En el motor y en el calefactor un combustible reacciona con el oxígeno y libera energía: los dos son combustiones. Solo cambia el uso de esa energía, que mueve el auto o calienta la casa.
 
 6. *(Alternativas — Análisis experimental)* Un frasco con levadura, azúcar y agua tibia, cerrado con un globo, infla el globo después de un tiempo. ¿Qué ocurre?
    a) La levadura fermenta el azúcar y libera dióxido de carbono; la producción de gas es evidencia de reacción química
@@ -1206,7 +1206,7 @@ ambientales como la contaminación atmosférica.
    c) El azúcar se derrite con el agua tibia y produce aire, que sube al globo porque es más liviano
    d) No ocurre ninguna reacción química: el globo se infla solo por la diferencia de temperatura del frasco
    **Respuesta correcta:** a) La levadura fermenta el azúcar y libera dióxido de carbono; la producción de gas es evidencia de reacción química.
-   **Retroalimentación:** Este proceso es el mismo que ocurre en la elaboración del pan.
+   **Retroalimentación:** La levadura fermenta el azúcar y produce dióxido de carbono; ese gas infla el globo. La formación de un gas nuevo es evidencia de una reacción química, la misma que hace subir la masa del pan.
 
 7. *(Alternativas — Evaluación)* "Las reacciones de combustión son procesos completamente naturales y, por lo tanto, no representan ningún riesgo para el ambiente." ¿Qué evaluación es correcta?
    a) Es correcta: todo lo natural es inofensivo, y la combustión ocurre en la naturaleza desde siempre, por lo que el ambiente se adapta a sus efectos
@@ -1214,7 +1214,7 @@ ambientales como la contaminación atmosférica.
    c) Es incorrecta: la combustión no es una reacción química sino un cambio físico, y por eso no puede calificarse como un proceso natural
    d) Es incorrecta: la combustión de combustibles fósiles a gran escala libera CO₂ y contaminantes que contribuyen al cambio climático y a la contaminación del aire
    **Respuesta correcta:** d) Es incorrecta: la combustión de combustibles fósiles a gran escala libera CO₂ y contaminantes que contribuyen al cambio climático y a la contaminación del aire.
-   **Retroalimentación:** La magnitud y frecuencia de un proceso también determinan su impacto.
+   **Retroalimentación:** Aunque la combustión ocurre en la naturaleza, quemar combustibles fósiles a gran escala libera mucho CO₂ y contaminantes, que contribuyen al cambio climático y contaminan el aire. Que algo sea natural no lo hace inofensivo.
 
 ---
 
@@ -1309,7 +1309,7 @@ atmosférico puede llegar a ser capturado por una determinada cantidad de vegeta
    c) Porque balancear cambia los productos de la reacción y permite obtener más cantidad de ellos
    d) No es necesario balancearla, porque los coeficientes no influyen en los cálculos estequiométricos
    **Respuesta correcta:** b) Porque solo así refleja la proporción real en que reaccionan las sustancias, según la conservación de la materia.
-   **Retroalimentación:** Balancear es siempre el primer paso antes de cualquier cálculo estequiométrico.
+   **Retroalimentación:** Una ecuación balanceada tiene la misma cantidad de átomos de cada elemento a ambos lados, como exige la conservación de la materia; solo así indica en qué proporción reaccionan las sustancias, que es lo que usan los cálculos estequiométricos.
 
 5. *(Alternativas — Cálculo)* Según N₂ + 3H₂ → 2NH₃, si reaccionan completamente 2 moles de N₂, ¿cuántos moles de H₂ se necesitan y cuántos de NH₃ se producen?
    a) 3 moles de H₂ y 2 moles de NH₃
@@ -1333,7 +1333,7 @@ atmosférico puede llegar a ser capturado por una determinada cantidad de vegeta
    c) Porque no tiene relación con el CO₂: solo produce oxígeno para respirar
    d) Porque por cada molécula de glucosa producida se consumen 6 moléculas de CO₂
    **Respuesta correcta:** d) Porque por cada molécula de glucosa producida se consumen 6 moléculas de CO₂.
-   **Retroalimentación:** La estequiometría permite pasar de una explicación cualitativa a una comprensión cuantitativa.
+   **Retroalimentación:** La ecuación indica que, para formar una molécula de glucosa, se usan 6 moléculas de CO₂: por eso la fotosíntesis retira CO₂ de la atmósfera, y la estequiometría permite calcular cuánto.
 
 ---
 

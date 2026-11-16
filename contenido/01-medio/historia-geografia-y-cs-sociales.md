@@ -192,7 +192,7 @@ c) Porque solo las mujeres pudieron votar al comienzo del siglo
 d) Porque el voto se extendió poco a poco (primero eliminando requisitos de renta entre los hombres), mientras grupos como las mujeres quedaron excluidos casi todo el siglo
 
 ✅ Respuesta correcta: **d) Porque el voto se extendió poco a poco (primero eliminando requisitos de renta entre los hombres), mientras grupos como las mujeres quedaron excluidos casi todo el siglo**
-💬 *Retroalimentación:* La ampliación no fue inmediata ni benefició a todos por igual.
+💬 *Retroalimentación:* El derecho a voto se amplió por etapas: primero se eliminaron los requisitos de renta para los hombres, mientras que las mujeres y otros grupos siguieron excluidos por mucho tiempo. Por eso fue gradual y desigual.
 
 ---
 
@@ -203,7 +203,7 @@ c) Porque el republicanismo rechazaba toda forma de participación ciudadana y c
 d) Porque el liberalismo enfatizaba las libertades individuales y económicas, incluso frente a las mayorías, y el republicanismo la soberanía popular y la participación, lo que generaba debates sobre el rol del Estado o la extensión del voto
 
 ✅ Respuesta correcta: **d) Porque el liberalismo enfatizaba las libertades individuales y económicas, incluso frente a las mayorías, y el republicanismo la soberanía popular y la participación, lo que generaba debates sobre el rol del Estado o la extensión del voto**
-💬 *Retroalimentación:* Compartir un adversario (el absolutismo) no implica coincidir en todo.
+💬 *Retroalimentación:* Ambos rechazaban el poder absoluto, pero el liberalismo ponía en primer lugar las libertades individuales y económicas, incluso frente a la mayoría, y el republicanismo, la soberanía popular y la participación. Esas prioridades podían chocar.
 
 ---
 
@@ -326,7 +326,7 @@ c) La expansión del Imperio español en América, que incorporó nuevos virrein
 d) La formación de la Unión Europea, que reunió a varios países en una sola organización política
 
 ✅ Respuesta correcta: **a) La reorganización de la geografía política americana, mediante la disolución de una unión mayor en Estados-nación más pequeños**
-💬 *Retroalimentación:* Comparar mapas de distintos momentos permite visualizar procesos de fragmentación o unificación.
+💬 *Retroalimentación:* En el mapa, la Gran Colombia se disolvió en tres países (Venezuela, Nueva Granada y Ecuador): una unión mayor se fragmentó en Estados-nación más pequeños, reorganizando la geografía política de América.
 
 ---
 
@@ -489,7 +489,7 @@ c) Porque duró solo unos días
 d) Por su escala planetaria, sus nuevas tecnologías destructivas (ametralladoras, gas, tanques, aviación) y la movilización de toda la sociedad civil
 
 ✅ Respuesta correcta: **d) Por su escala planetaria, sus nuevas tecnologías destructivas (ametralladoras, gas, tanques, aviación) y la movilización de toda la sociedad civil**
-💬 *Retroalimentación:* Se percibió como mucho más devastadora que las guerras del siglo XIX.
+💬 *Retroalimentación:* La guerra fue mundial, usó nuevas armas muy destructivas (ametralladoras, gas, tanques y aviones) y movilizó a toda la sociedad civil, no solo a los ejércitos. Por eso cambió la forma de hacer la guerra y cómo se la percibía.
 
 ---
 
@@ -500,7 +500,7 @@ c) Porque restauró las monarquías absolutas en Europa y en Rusia, y puso fin a
 d) Porque entraron en crisis certezas como la confianza en el progreso y el predominio europeo, dando paso a un nuevo orden con la URSS y la influencia de EE.UU.
 
 ✅ Respuesta correcta: **d) Porque entraron en crisis certezas como la confianza en el progreso y el predominio europeo, dando paso a un nuevo orden con la URSS y la influencia de EE.UU**
-💬 *Retroalimentación:* También generó una visión más crítica sobre los efectos de la tecnología y el desarrollo.
+💬 *Retroalimentación:* La guerra hizo dudar de la confianza en el progreso y terminó con el predominio europeo; surgieron la URSS y la influencia de Estados Unidos. Ese cambio de época marca el fin del largo siglo XIX.
 
 ---
 
@@ -798,7 +798,7 @@ c) Porque el salitre no generaba ganancias
 d) Porque las condiciones de trabajo eran las mejores del país, y las dificultades solo aparecían en las pulperías, que no dependían de las oficinas
 
 ✅ Respuesta correcta: **b) Porque la riqueza beneficiaba principalmente al Estado (impuestos) y a los inversionistas, mientras los obreros vivían aislados y dependientes de las pulperías**
-💬 *Retroalimentación:* Estas condiciones alimentaron más tarde las demandas que dieron origen a la "cuestión social".
+💬 *Retroalimentación:* La riqueza del salitre quedaba sobre todo en el Estado, por los impuestos, y en los inversionistas; los obreros vivían aislados en las oficinas y dependían de las pulperías. Esas condiciones alimentaron después la «cuestión social».
 
 ---
 
@@ -944,7 +944,7 @@ c) Porque mejoró la autonomía de las comunidades mapuches, que recibieron más
 d) Porque solo afectó a los colonos europeos
 
 ✅ Respuesta correcta: **b) Porque la pérdida de la mayor parte del territorio ancestral generó empobrecimiento, pérdida de autonomía y cambios forzados de vida, que explican demandas territoriales vigentes**
-💬 *Retroalimentación:* Las consecuencias de ese despojo llegan hasta el presente.
+💬 *Retroalimentación:* El pueblo mapuche perdió la mayor parte de su territorio ancestral, lo que trajo empobrecimiento, pérdida de autonomía y cambios forzados en su forma de vida. Esas consecuencias explican demandas territoriales que siguen vigentes.
 
 ---
 
@@ -1089,7 +1089,7 @@ c) Porque Bolivia recuperó su litoral en 1900 mediante un tratado, y desde ento
 d) Porque no hubo cambios territoriales
 
 ✅ Respuesta correcta: **b) Porque los cambios territoriales, en especial la pérdida del acceso soberano al mar de Bolivia, no fueron aceptados de la misma manera por todos, manteniendo un tema sensible**
-💬 *Retroalimentación:* Un conflicto histórico puede proyectar efectos diplomáticos de muy largo plazo.
+💬 *Retroalimentación:* Tras la guerra, Bolivia perdió su acceso soberano al mar y Perú perdió territorios; esos cambios no fueron aceptados igual por todos los países, y por eso el tema sigue presente en sus relaciones.
 
 ---
 
@@ -1218,7 +1218,7 @@ c) La modernización completa de las ciudades, con agua potable y alcantarillado
 d) La ausencia de problemas sanitarios
 
 ✅ Respuesta correcta: **a) El hacinamiento y la falta de servicios básicos de los sectores populares urbanos, junto con la propagación de enfermedades**
-💬 *Retroalimentación:* Las fuentes periodísticas documentan las condiciones de vida que llevaron a la cuestión social.
+💬 *Retroalimentación:* El reportaje describe familias en una sola pieza de conventillo, sin agua potable y con epidemias: muestra el hacinamiento y la falta de servicios básicos de los sectores populares urbanos, parte central de la cuestión social.
 
 ---
 
@@ -1240,7 +1240,7 @@ c) Cambio: desaparecieron todas las desigualdades salariales y de vivienda. Cont
 d) Cambio: hoy hay más conventillos que en 1905, porque las ciudades crecieron sin planificación. Continuidad: la legislación laboral de 1900 sigue vigente sin cambios
 
 ✅ Respuesta correcta: **b) Cambio: hoy existe legislación laboral y negociación colectiva. Continuidad: persisten desigualdades salariales o de acceso a vivienda digna en ciertos sectores**
-💬 *Retroalimentación:* Evaluar críticamente implica reconocer avances y problemas aún vigentes.
+💬 *Retroalimentación:* Un cambio es que hoy existen leyes laborales y negociación colectiva, que a comienzos del siglo XX no existían; una continuidad es que todavía hay desigualdades de salario o de acceso a una vivienda digna.
 
 ---
 
@@ -1396,7 +1396,7 @@ c) Porque los censos no producían información útil para el Estado, y la buroc
 d) Porque la burocracia impedía aplicar políticas públicas, y por eso el Estado debía reducirla antes de usar los censos
 
 ✅ Respuesta correcta: **b) Porque reunir información no bastaba: se requerían funcionarios y oficinas que la procesaran, aplicaran políticas y ejercieran presencia estatal**
-💬 *Retroalimentación:* La burocracia fue el complemento institucional del conocimiento científico.
+💬 *Retroalimentación:* Los censos y las misiones científicas reunían información, pero hacían falta funcionarios y oficinas para procesarla, aplicar políticas y hacer presente al Estado en el territorio. Sin burocracia, los datos no se convertían en administración.
 
 ---
 
@@ -1977,7 +1977,7 @@ c) La industrialización, con una quema masiva y creciente de combustibles fósi
 d) La disminución de la población mundial por las guerras y las epidemias del siglo XIX
 
 ✅ Respuesta correcta: **c) La industrialización, con una quema masiva y creciente de combustibles fósiles**
-💬 *Retroalimentación:* Los gráficos de largo plazo conectan procesos históricos con problemas ambientales actuales.
+💬 *Retroalimentación:* El aumento empieza en el siglo XIX, cuando la industrialización comenzó a quemar carbón y luego petróleo en enormes cantidades. Por eso el gráfico se explica mejor por la industrialización.
 
 ---
 

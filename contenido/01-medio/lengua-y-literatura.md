@@ -144,7 +144,7 @@ b) Anuncia que Tomás se convertirá en marinero del Caleuche al final del relat
 c) Conecta el relato con la mitología chilota y refuerza el mensaje del abuelo de que el mar exige respeto, dando una dimensión cultural más amplia
 d) Explica el funcionamiento de un bote de pesca artesanal y las precauciones técnicas que deben tomar los pescadores antes de salir al mar
 
-*Respuesta correcta: c.* Retroalimentación: una referencia intertextual debe iluminar o profundizar el sentido del texto.
+*Respuesta correcta: c.* Retroalimentación: El Caleuche es un barco fantasma de la mitología chilota; al mencionarlo, el relato se conecta con esa tradición y refuerza el mensaje del abuelo: el mar exige respeto.
 
 **8. (Alternativas — análisis integrado)** ¿Qué hipótesis explica mejor por qué el relato se narra en tercera persona y no desde la voz de Tomás?
 
@@ -153,7 +153,7 @@ b) Porque la tercera persona impide conocer los pensamientos de cualquier person
 c) Porque así el relato es más corto y el narrador puede resumir los hechos sin detenerse en las emociones de los personajes
 d) Porque Tomás no sabe escribir
 
-*Respuesta correcta: a.* Retroalimentación: describir el efecto del tipo de narrador implica imaginar cómo cambiaría la información disponible con la otra opción.
+*Respuesta correcta: a.* Retroalimentación: Un narrador en tercera persona puede mostrar lo que siente Tomás y también lo que hacen o sienten otros personajes, como el padre, que Tomás no siempre ve. Narrado por Tomás, solo conoceríamos su mirada.
 
 ---
 
@@ -248,7 +248,7 @@ b) Permite cambiar la escenografía sin que el público lo note, sin otro efecto
 c) Refuerza el paso del tiempo hacia un desenlace incierto e intensifica la tensión, sin que los personajes lo digan
 d) Ninguno: la iluminación es solo decorativa y no se relaciona con lo que ocurre entre los personajes
 
-*Respuesta correcta: c.* Retroalimentación: los elementos de la puesta en escena son recursos deliberados para construir sentido y emoción.
+*Respuesta correcta: c.* Retroalimentación: A medida que la luz se apaga y suena la sirena, el espectador siente que el tiempo avanza hacia un final incierto; la tensión crece sin que ningún personaje tenga que decirlo.
 
 **5. (Alternativas)** ¿Qué objeto funciona como símbolo de la identidad y trayectoria de Don Héctor como minero?
 
@@ -275,7 +275,7 @@ b) Con la poesía amorosa de Neruda, por sus metáforas marinas y su retrato de 
 c) Con la novela de ciencia ficción, por su ambientación subterránea y su visión de un futuro en que las máquinas reemplazan a los mineros
 d) No dialoga con ninguna tradición
 
-*Respuesta correcta: a.* Retroalimentación: reconocer relaciones intertextuales permite ubicar una obra en una tradición más amplia.
+*Respuesta correcta: a.* Retroalimentación: Como Sub terra, de Baldomero Lillo, la obra retrata el peligro del trabajo minero y la tensión entre necesidad, orgullo y miedo; por eso dialoga con esa tradición de la literatura chilena.
 
 **8. (Varias correctas — análisis integrado)** Como director o directora, ¿qué decisiones de puesta en escena reforzarían el problema humano central de la obra? Marca **todas** las correctas.
 
@@ -338,7 +338,7 @@ b) El relato es una lista de datos sobre el clima y las mareas, y su sentido gen
 c) El relato no tiene ningún sentido general
 d) El relato reflexiona sobre cómo el saber ancestral de los pueblos originarios puede anticipar fenómenos que hoy confirma la ciencia, cuestionando que solo el conocimiento científico sea válido
 
-*Respuesta correcta: d.* Retroalimentación: una hipótesis histórica o social vincula la obra con procesos o tensiones más amplias que la anécdota.
+*Respuesta correcta: d.* Retroalimentación: Esa hipótesis va más allá de la anécdota: relaciona el relato con una tensión social amplia, el valor del saber ancestral de los pueblos originarios frente a la idea de que solo la ciencia conoce.
 
 **3. (Verdadero o Falso)** Según el Ejemplo 2, el microcuento presenta la cosmovisión mapuche y el discurso científico como visiones opuestas, donde una desmiente a la otra.
 
@@ -378,7 +378,7 @@ b) Ambas rechazan el mito por completo: la abuela lo cuenta como un cuento infan
 c) La abuela niega cualquier relación con la naturaleza y la narradora adulta descubre por su cuenta el mito en los libros de historia
 d) La narradora olvida todo lo que le contó su abuela
 
-*Respuesta correcta: a.* Retroalimentación: relacionar la visión de mundo con el texto exige mostrar cómo se manifiesta en acciones o palabras concretas.
+*Respuesta correcta: a.* Retroalimentación: La abuela presenta el mito como una explicación válida («el mar nunca olvida lo que le deben»), y la narradora adulta no lo descarta: lo conecta con la ciencia. Esas palabras concretas muestran la visión de mundo mapuche.
 
 **8. (Alternativas — interpretación integrada)** ¿Qué interpretación de "Marejada" integra un punto de vista, una cita y la relación entre el mito y el cambio climático?
 
@@ -387,7 +387,7 @@ b) Desde un punto de vista científico, el relato demuestra que la ciencia del c
 c) El relato trata sobre deportes acuáticos
 d) Desde un punto de vista social, el relato muestra que el mito de Kai Kai Vilu y la ciencia del cambio climático convergen, como evidencia la frase sobre el mar que "sigue subiendo, más lento pero sin detenerse"
 
-*Respuesta correcta: d.* Retroalimentación: una interpretación completa integra los elementos del texto en una lectura propia, coherente y respaldada.
+*Respuesta correcta: d.* Retroalimentación: La opción integra los tres elementos pedidos: un punto de vista (social), una cita del texto (la frase sobre el mar) y la relación entre el mito de Kai Kai Vilu y el cambio climático.
 
 ---
 
@@ -454,7 +454,7 @@ b) Es pertinente pero insuficiente: mide una percepción, no un resultado de apr
 c) Es irrelevante: no tiene relación con la tesis, porque la percepción docente no se vincula con el uso del celular en clases
 d) Es falso, porque el texto no presenta datos
 
-*Respuesta correcta: b.* Retroalimentación: evaluar la suficiencia no significa descartar un dato, sino identificar qué preguntas deja sin responder.
+*Respuesta correcta: b.* Retroalimentación: El dato es pertinente, pero mide lo que perciben los docentes, no cuánto aprenden los estudiantes, y el propio texto reconoce otros factores que podrían explicar la mejora. Por eso no basta para sostener toda la tesis.
 
 **4. (Alternativas — Aplicación)** ¿Qué intención tiene la oración desiderativa "Ojalá los establecimientos que implementan esta medida la acompañaran... de espacios de conversación sobre el uso responsable de la tecnología"?
 
@@ -481,7 +481,7 @@ b) "Estoy de acuerdo con el autor, porque lo que dice sobre el celular en clases
 c) "No sé qué pensar"
 d) "El autor dice que hay que conversar con los estudiantes sobre el celular, y que la restricción por sí sola no basta para que aprendan"
 
-*Respuesta correcta: a.* Retroalimentación: una postura fundamentada aporta una razón propia, no solo repite la conclusión del autor.
+*Respuesta correcta: a.* Retroalimentación: La respuesta toma posición y aporta una razón propia que no está en la columna: fuera del colegio nadie controla el uso del celular, así que los estudiantes deben aprender a regularse solos.
 
 **7. (Alternativas)** ¿Cómo organiza el autor su columna y qué efecto produce?
 
@@ -490,7 +490,7 @@ b) Solo datos estadísticos presentados uno tras otro, sin pregunta inicial ni p
 c) Una narración de ficción sobre un estudiante y su celular, sin datos ni propuestas; esto hace que el texto sea entretenido, pero no constituya una columna de opinión
 d) Pregunta retórica inicial, presentación y problematización de un dato y propuesta complementaria; genera un argumento equilibrado y reflexivo, más persuasivo
 
-*Respuesta correcta: d.* Retroalimentación: evaluar la organización implica ver cómo la secuencia de ideas contribuye a convencer al lector.
+*Respuesta correcta: d.* Retroalimentación: El autor abre con una pregunta retórica, presenta un dato y lo problematiza, y cierra con una propuesta complementaria. Esa secuencia muestra un argumento equilibrado y reflexivo, lo que lo hace más persuasivo.
 
 **8. (Alternativas — análisis integrado)** ¿Por qué el uso de oraciones dubitativas ("quizás", "probablemente") en la conclusión es coherente con la tesis?
 
@@ -572,7 +572,7 @@ b) El A usa humor y la experiencia directa de los usuarios; el B usa cifras prec
 c) El A usa cifras precisas para transmitir rigor institucional; el B usa humor y la experiencia directa de los usuarios para cuestionar la versión oficial
 d) Ninguno busca persuadir
 
-*Respuesta correcta: c.* Retroalimentación: comparar estrategias implica identificar cómo cada texto busca convencer a su audiencia.
+*Respuesta correcta: c.* Retroalimentación: El Texto A busca convencer con cifras precisas que transmiten rigor institucional; el Texto B usa el humor y la experiencia de los usuarios para poner en duda la versión oficial.
 
 **4. (Alternativas — Aplicación)** ¿Qué efecto produce la fotografía del Texto A (la alcaldesa sonriente con niños con cascos nuevos y la pista vacía)?
 
@@ -667,7 +667,7 @@ b) Restringir el celular en la sala de clases es necesario, pero insuficiente si
 c) Los estudios sobre concentración y celulares no son confiables, por lo que no conviene restringirlo
 d) La restricción del celular no produce ningún efecto positivo
 
-*Respuesta correcta: b.* Retroalimentación: la hipótesis se plantea explícitamente en el primer párrafo y se sostiene, matizada, a lo largo de todo el ensayo hasta la conclusión.
+*Respuesta correcta: b.* Retroalimentación: Desde el primer párrafo, el ensayo sostiene que restringir el celular en clases es necesario, pero no basta sin educar en su uso responsable, y mantiene esa idea hasta la conclusión.
 
 **2. (Verdadero o Falso)** En el ensayo modelo, la conclusión introduce una idea completamente nueva que no había sido mencionada antes en el texto.
 
@@ -725,7 +725,7 @@ b) "Las leyes ambientales."
 c) "En síntesis, las leyes ambientales son necesarias, pero no bastan por sí solas: la fiscalización ciudadana permite detectar incumplimientos que las autoridades no alcanzan a ver. Por eso, ambas deben actuar de forma complementaria."
 d) "Para terminar, hay muchas opiniones sobre las leyes ambientales y la fiscalización ciudadana, y todas valen lo mismo, así que cada lector debe sacar su propia conclusión."
 
-*Respuesta correcta: c.* Retroalimentación: una conclusión coherente retoma la hipótesis y la evidencia sin introducir ideas nuevas no desarrolladas.
+*Respuesta correcta: c.* Retroalimentación: Ese párrafo resume la hipótesis (las leyes son necesarias, pero no bastan) y la idea que la apoya (la fiscalización ciudadana detecta incumplimientos), sin agregar temas nuevos. Las otras opciones introducen ideas nuevas o no concluyen nada.
 
 ---
 

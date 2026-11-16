@@ -37,19 +37,23 @@ def cambiar(archivo, inicio, nueva):
         raise SystemExit(f'{archivo}: {len(objetivo)} retroalimentaciones empiezan con «{inicio[:40]}»')
     actual = _norm(objetivo[0][2].retroalimentacion)
     lineas = t.split('\n')
-    # ubicar la línea con la marca de retroalimentación cuyo texto empieza como la actual
-    clave = _norm(inicio)[:30]
-    idx = None
+    # Ubicar la marca de retroalimentación cuyo texto (con sus líneas de continuación) coincide con la retroalimentación
+    # completa de la pregunta objetivo. Debe haber exactamente una: dos retroalimentaciones pueden empezar igual (2026-11-16
+    # se reemplazó por error la de otra pregunta que compartía las primeras palabras).
+    ubicaciones = []
     for k, linea in enumerate(lineas):
         m = MARCA.search(linea)
-        if m and _norm(linea[m.end():]).startswith(clave):
-            idx, col = k, m.end()
-            break
-    if idx is None:
-        raise SystemExit(f'{archivo}: no encontré la línea de «{clave}»')
-    fin = idx + 1
-    while fin < len(lineas) and not FIN.match(lineas[fin]) and not MARCA.search(lineas[fin]):
-        fin += 1
+        if not m:
+            continue
+        f = k + 1
+        while f < len(lineas) and not FIN.match(lineas[f]) and not MARCA.search(lineas[f]):
+            f += 1
+        texto = _norm(' '.join([linea[m.end():]] + lineas[k + 1:f]))
+        if texto.startswith(actual[:120]) or actual.startswith(texto[:120]):
+            ubicaciones.append((k, m.end(), f))
+    if len(ubicaciones) != 1:
+        raise SystemExit(f'{archivo}: {len(ubicaciones)} lugares coinciden con «{actual[:50]}»; usa un inicio más largo')
+    idx, col, fin = ubicaciones[0]
     cola_marca = lineas[idx][:col]
     # conservar cierre de cursiva/negrita del formato original si la línea terminaba con «*»
     nueva_linea = cola_marca + ' '.join(nueva.split())
@@ -62,6 +66,7 @@ def cambiar(archivo, inicio, nueva):
                (oa1, i1, q1.tipo, q1.enunciado, q1.opciones, q1.respuesta_correcta), f'cambió otra parte de {oa0} #{i0}'
         if q0.retroalimentacion != q1.retroalimentacion:
             cambios += 1
+            assert (oa0, i0) == objetivo[0][:2], f'cambió la pregunta {oa0} #{i0}, no la buscada {objetivo[0][:2]}'
             assert _norm(q1.retroalimentacion) == _norm(nueva), (q1.retroalimentacion, nueva)
     assert cambios == 1, f'{cambios} retroalimentaciones cambiaron'
     ruta.write_text(nuevo_t, encoding='utf-8')

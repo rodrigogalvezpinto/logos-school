@@ -82,6 +82,15 @@ REVISADAS_A_MANO: list[tuple[str, str]] = [
     ("08-basico/matematica.md", "Si un estudiante se ubica en el percentil 40"),
     ("08-basico/matematica.md", "¿Cuál de las siguientes es una forma común de manipular"),
     ("08-basico/matematica.md", "Un aviso muestra que las ventas pasaron"),
+    ("01-medio/ciencias-naturales.md", "¿Cuál de las siguientes opciones corresponde a un ejemplo de estructuras homólogas?"),
+    ("01-medio/ciencias-naturales.md", "\"Escuchar música con audífonos"),
+    ("01-medio/ingles.md", "Read: \"In 1969"),
+    ("01-medio/ingles.md", "Which option completes \"One global issue"),
+    ("01-medio/ingles.md", "¿Qué tipo de información busca \"How many"),
+    ("01-medio/ingles.md", "Read: \"Chess was invented"),
+    ("01-medio/ingles.md", "Estás escribiendo sobre un texto que leíste acerca de un inventor"),
+    ("01-medio/lengua-y-literatura.md", "¿Cuál es el conflicto central de \"El turno de las tres\"?"),
+    ("01-medio/matematica.md", "Sin calcular, ¿qué se puede afirmar de (3/2)⁴"),
 ]
 
 
