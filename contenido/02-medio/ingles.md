@@ -176,7 +176,7 @@ now* (condición).
    c) Pakistani / 1997 / won the Nobel Peace Prize for her work on girls' education
    d) Activist / Pakistani / 1997, the year she won the Nobel Prize
    **Respuesta correcta:** c) Pakistani / 1997 / won the Nobel Peace Prize for her work on girls' education.
-   **Retroalimentación:** Completar esquemas exige extraer datos puntuales y clasificarlos según la categoría pedida.
+   **Retroalimentación:** El texto dice que Malala es pakistaní (nacionalidad), nació en 1997 (año) y ganó el Premio Nobel de la Paz por su trabajo por la educación de las niñas (logro). Cada dato va en su categoría.
 
 7. *(Alternativas — desafiante)* Read a text about renewable energy that
    includes unfamiliar vocabulary (*geothermal, biomass*). ¿Qué estrategia es
@@ -197,7 +197,7 @@ now* (condición).
    c) Streaming services reduce screen time among teenagers, because they can choose exactly what to watch and when to stop.
    d) Experts love watching movies at the cinema, and they worry that people no longer go to stores to buy DVDs and video games.
    **Respuesta correcta:** a) Streaming services have changed how people watch content, allowing access anytime, anywhere. However, experts worry it increases teenagers' screen time.
-   **Retroalimentación:** El resumen debe responder las tres preguntas guía con palabras propias y fiel al texto.
+   **Retroalimentación:** El resumen dice qué cambió (cómo vemos películas y series), cómo (en cualquier momento y lugar) y cuál es la preocupación (más tiempo frente a pantallas de los adolescentes), con otras palabras y sin agregar datos.
 
 ---
 
@@ -472,7 +472,7 @@ perfecto continuo, pasado perfecto, conectores como *as a result* o
    c) because / Malala Yousafzai / she is a role model for girls' education worldwide
    d) a role model / Malala Yousafzai / she has fought for girls' education worldwide
    **Respuesta correcta:** a) Malala Yousafzai / she is a role model / she has fought for girls' education worldwide.
-   **Retroalimentación:** El líder mencionado y la justificación deben estar conectados lógicamente.
+   **Retroalimentación:** Malala es una líder conocida; decir que es un modelo a seguir y justificarlo con su lucha por la educación de las niñas conecta lógicamente las tres partes de la oración.
 
 6. *(Alternativas — Función)* ¿Qué función cumple *"As a result, more people are losing their jobs to automation"*?
    a) Dar un ejemplo
@@ -488,7 +488,7 @@ perfecto continuo, pasado perfecto, conectores como *as a result* o
    c) a coal mine producing energy / this is a great solution / it pollutes the air too much
    d) a wind farm / unless / in my opinion it is a great solution for clean energy
    **Respuesta correcta:** b) a wind farm generating clean energy / this is a great solution / it affects local wildlife too much.
-   **Retroalimentación:** Un buen pie de foto describe la imagen, agrega una opinión y la matiza con una condición usando *unless*.
+   **Retroalimentación:** La opción describe la imagen (un parque eólico que genera energía limpia), da una opinión (es una gran solución) y la matiza con «unless» (a menos que afecte demasiado a la fauna local).
 
 8. *(Alternativas — desafiante)* Estás escribiendo sobre un texto que leíste
    acerca de una activista famosa. ¿Qué oración resume mejor la información

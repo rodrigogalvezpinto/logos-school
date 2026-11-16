@@ -220,7 +220,7 @@ c) Ambos amplían el rol del Estado, pero el Estado de Bienestar mantiene el plu
 d) El Estado de Bienestar elimina los partidos y las elecciones libres para concentrar el poder en el gobierno, mientras el totalitarismo garantiza el pluralismo y reduce el rol del Estado
 
 ✅ Respuesta correcta: **c) Ambos amplían el rol del Estado, pero el Estado de Bienestar mantiene el pluralismo y las elecciones libres, mientras el totalitarismo los elimina y concentra el poder en un partido único**
-💬 *Retroalimentación:* La diferencia fundamental está en su vínculo con la democracia.
+💬 *Retroalimentación:* Los dos amplían el papel del Estado, pero el Estado de Bienestar conserva el pluralismo y las elecciones libres, mientras el totalitarismo los suprime y concentra todo el poder. La diferencia está en su relación con la democracia.
 
 ---
 
@@ -491,7 +491,7 @@ c) Porque, aunque tenían intereses distintos, ambos aumentaron los grupos capac
 d) Porque ambos reemplazaron a la élite por completo en la vida política y cultural, y desde entonces la oligarquía dejó de tener influencia en el país
 
 ✅ Respuesta correcta: **c) Porque, aunque tenían intereses distintos, ambos aumentaron los grupos capaces de organizarse, hacer valer demandas y participar en la vida política y cultural**
-💬 *Retroalimentación:* El resultado fue una sociedad más plural que la del siglo XIX, dominada casi exclusivamente por las élites.
+💬 *Retroalimentación:* Clase media y clase obrera tenían intereses distintos, pero ambas se organizaron, hicieron valer sus demandas y participaron en la política y la cultura. Al sumar más grupos a la vida pública, la sociedad se democratizó.
 
 ---
 
@@ -617,7 +617,7 @@ c) Porque compartían la misma ideología
 d) Porque no hubo ninguna competencia entre ellas: EE.UU. y la URSS cooperaron en la reconstrucción de Europa, y el término frío alude solo al clima ruso
 
 ✅ Respuesta correcta: **b) Porque EE.UU. y la URSS representaban proyectos de sociedad antagónicos y compitieron por su influencia, pero evitaron un choque militar directo por el riesgo nuclear**
-💬 *Retroalimentación:* Capitalismo y democracia liberal frente a comunismo y partido único.
+💬 *Retroalimentación:* Estados Unidos (capitalismo y democracia liberal) y la URSS (comunismo y partido único) defendían modelos de sociedad opuestos y compitieron por influencia, pero evitaron enfrentarse directamente por el riesgo de una guerra nuclear.
 
 ---
 
@@ -746,7 +746,7 @@ c) La Alianza del Pacífico
 d) La Doctrina de la Seguridad Nacional
 
 ✅ Respuesta correcta: **d) La Doctrina de la Seguridad Nacional**
-💬 *Retroalimentación:* La Guerra Fría influyó directamente en decisiones políticas y militares dentro de cada país latinoamericano.
+💬 *Retroalimentación:* El documento pide preparar a las Fuerzas Armadas latinoamericanas para combatir una «amenaza» interna: es la lógica de la Doctrina de la Seguridad Nacional, que trasladó la Guerra Fría al interior de cada país.
 
 ---
 
@@ -1626,7 +1626,7 @@ c) El cierre de los tribunales de justicia que investigaban las violaciones a lo
 d) Comisiones de verdad (Rettig, 1991; luego Valech) que documentaron las violaciones, junto con reparaciones económicas, simbólicas y de acceso a la justicia
 
 ✅ Respuesta correcta: **d) Comisiones de verdad (Rettig, 1991; luego Valech) que documentaron las violaciones, junto con reparaciones económicas, simbólicas y de acceso a la justicia**
-💬 *Retroalimentación:* Estas políticas buscaron reivindicar los Derechos Humanos de las víctimas y sus familias.
+💬 *Retroalimentación:* Las comisiones Rettig (1991) y Valech documentaron las violaciones a los derechos humanos, y el Estado entregó reparaciones económicas y simbólicas y facilitó el acceso a la justicia a víctimas y familiares.
 
 ---
 
@@ -1637,7 +1637,7 @@ c) Porque no hubo elecciones
 d) Porque se eliminaron todas las instituciones anteriores en un día, incluida la Constitución de 1980, y Pinochet dejó de inmediato la Comandancia en Jefe del Ejército
 
 ✅ Respuesta correcta: **b) Porque se mantuvieron elementos del período dictatorial, como la Constitución de 1980 y Pinochet como Comandante en Jefe hasta 1998, lo que obligó a negociar reformas gradualmente**
-💬 *Retroalimentación:* La continuidad de ciertos enclaves generó episodios de tensión cívico-militar.
+💬 *Retroalimentación:* La transición mantuvo elementos de la dictadura, como la Constitución de 1980 y a Pinochet como Comandante en Jefe del Ejército hasta 1998; eso obligó a negociar reformas y produjo episodios de tensión cívico-militar.
 
 ---
 
@@ -2082,7 +2082,7 @@ c) Porque la diversidad no tiene relación con los derechos: las creencias y la 
 d) Porque las personas ejercen su libertad al definir su identidad, creencias o forma de vida, y respetar esa diversidad reconoce la igual dignidad de cada una
 
 ✅ Respuesta correcta: **d) Porque las personas ejercen su libertad al definir su identidad, creencias o forma de vida, y respetar esa diversidad reconoce la igual dignidad de cada una**
-💬 *Retroalimentación:* Las diferencias no deben implicar un trato desigual en derechos y oportunidades.
+💬 *Retroalimentación:* Cada persona ejerce su libertad al definir su identidad, sus creencias y su forma de vida; respetar esa diversidad es reconocer que todas tienen la misma dignidad y los mismos derechos.
 
 ---
 

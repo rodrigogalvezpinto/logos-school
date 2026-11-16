@@ -147,7 +147,7 @@ una capacidad de regeneración muy limitada.
    c) 1: interneurona; 2: motora; 3: sensorial
    d) 1: sensorial; 2: interneurona; 3: motora
    **Respuesta correcta:** a) 1: sensorial; 2: motora; 3: interneurona.
-   **Retroalimentación:** Todo circuito nervioso se construye a partir de estos tres tipos funcionales de neuronas.
+   **Retroalimentación:** La neurona sensorial lleva la información desde el receptor hacia el sistema nervioso central; la motora lleva las órdenes desde el SNC al músculo, y la interneurona conecta a ambas dentro de la médula o el encéfalo.
 
 4. *(Alternativas)* En un acto reflejo, ¿qué rol cumplen la médula espinal y el cerebro?
    a) El cerebro genera la respuesta motora inmediata mediante interneuronas, y la médula no participa en el acto reflejo, porque solo conduce información hacia los órganos
@@ -179,7 +179,7 @@ una capacidad de regeneración muy limitada.
    c) Es correcta: el café mejora la memoria sin ningún efecto secundario, por lo que es la mejor forma de prepararse para un examen
    d) Es incorrecta: el café no tiene ningún efecto en el cuerpo ni en el sistema nervioso, así que tomarlo no ayuda ni perjudica al estudiar
    **Respuesta correcta:** a) Es incorrecta: el café aumenta la alerta temporalmente, pero no reemplaza el sueño y su exceso puede alterar el ciclo de sueño y generar ansiedad.
-   **Retroalimentación:** Se puede entrar en un círculo que empeora el rendimiento a mediano plazo.
+   **Retroalimentación:** El café da una alerta pasajera, pero no reemplaza el descanso que el cerebro necesita; en exceso altera el sueño y puede generar ansiedad, y así se entra en un círculo que empeora el rendimiento.
 
 ---
 
@@ -271,7 +271,7 @@ relación afectiva o sexual.
    c) Sociocultural, psicológica, afectiva y biológica
    d) Biológica, afectiva, psicológica y sociocultural
    **Respuesta correcta:** d) Biológica, afectiva, psicológica y sociocultural.
-   **Retroalimentación:** Reconocer sus dimensiones ayuda a comprender la sexualidad como un fenómeno complejo.
+   **Retroalimentación:** La producción de espermatozoides es biológica; el enamoramiento, afectivo; la construcción de la identidad de género, psicológica, y las expectativas familiares sobre el matrimonio, socioculturales. La sexualidad tiene todas esas dimensiones.
 
 4. *(Alternativas)* ¿Por qué el acceso a información sobre métodos de regulación de la fecundidad es relevante para prevenir el embarazo adolescente no planificado?
    a) Porque permite tomar decisiones informadas, considerando que un embarazo adolescente puede tener consecuencias educativas, económicas y de salud para la madre y el padre
@@ -295,7 +295,7 @@ relación afectiva o sexual.
    c) Solo se ve afectado el ámbito biológico
    d) No existe ningún tipo de apoyo posible
    **Respuesta correcta:** a y b.
-   **Retroalimentación:** Considerar todas las dimensiones ayuda a comprender por qué su prevención es un tema de salud pública.
+   **Retroalimentación:** Un embarazo adolescente afecta varios ámbitos, como el educativo (asistencia) y el económico (gastos), y cada uno tiene apoyos posibles, como la flexibilidad horaria del colegio. Por eso su prevención es un tema de salud pública.
 
 7. *(Alternativas — Evaluación)* ¿Por qué el consentimiento y la comunicación son centrales en cualquier relación afectiva o sexual?
    a) Porque aseguran que ambas personas participen libre e informadamente y permiten acordar protección y expresar límites, reduciendo riesgos físicos y emocionales
@@ -404,7 +404,7 @@ del cromosoma 21 en vez de dos.
    c) Porque la mitosis produce gametos con la mitad de los cromosomas, mientras la meiosis solo repara tejidos y no participa en la reproducción sexual de los organismos
    d) Porque la meiosis solo ocurre en bacterias
    **Respuesta correcta:** b) Porque produce gametos genéticamente distintos y, al combinarse el material de dos progenitores en la fecundación, cada descendiente es una combinación única.
-   **Retroalimentación:** Esta variación es además la base sobre la que actúa la selección natural.
+   **Retroalimentación:** En la meiosis se forman gametos genéticamente distintos, y en la fecundación se combina el material de dos progenitores: cada descendiente es único. La mitosis, en cambio, produce células idénticas. Esa variación es la base de la selección natural.
 
 5. *(Alternativas — Análisis)* ¿Por qué la pérdida de control de la proliferación celular puede derivar en cáncer?
    a) Porque las células dejan de dividirse por completo y se acumulan sin morir, formando tumores que bloquean los órganos y luego invaden otros tejidos del cuerpo
@@ -420,7 +420,7 @@ del cromosoma 21 en vez de dos.
    c) Por exceso de mitosis en la piel
    d) Porque el cromosoma 21 desaparece en la meiosis y, al faltar, el embrión produce tres copias para compensar la pérdida
    **Respuesta correcta:** a) Por no disyunción: un par de cromosomas no se separa y se forma un gameto con un cromosoma 21 extra que participa en la fecundación.
-   **Retroalimentación:** Un error puntual en la meiosis puede tener consecuencias en todas las células del organismo resultante.
+   **Retroalimentación:** Si en la meiosis un par de cromosomas 21 no se separa (no disyunción), se forma un gameto con un cromosoma 21 extra; al participar en la fecundación, todas las células del nuevo organismo tienen tres copias.
 
 7. *(Alternativas — Comparación)* ¿Qué comparación entre mitosis y meiosis es correcta?
    a) Mitosis: dos divisiones, cuatro células distintas. Meiosis: una división, dos células idénticas
@@ -428,7 +428,7 @@ del cromosoma 21 en vez de dos.
    c) Ambas producen gametos con la mitad de cromosomas, y se diferencian solo en el tipo de célula en que ocurren
    d) Mitosis: una división, dos células hijas idénticas. Meiosis: dos divisiones, cuatro células hijas distintas con la mitad de cromosomas
    **Respuesta correcta:** d) Mitosis: una división, dos células hijas idénticas. Meiosis: dos divisiones, cuatro células hijas distintas con la mitad de cromosomas.
-   **Retroalimentación:** Comparar con criterios explícitos evita confusiones frecuentes entre ambos procesos.
+   **Retroalimentación:** La mitosis tiene una división y produce dos células idénticas a la madre; la meiosis tiene dos divisiones y produce cuatro células distintas, con la mitad de los cromosomas.
 
 ---
 
@@ -526,7 +526,7 @@ genética, especialmente en seres humanos.
    c) Alimentación, energía, industria y medicina
    d) Energía, alimentación, medicina e industria
    **Respuesta correcta:** b) Industria, medicina, alimentación y energía.
-   **Retroalimentación:** La biotecnología tiene aplicaciones en sectores productivos muy diversos.
+   **Retroalimentación:** Las enzimas para detergentes son una aplicación industrial; la producción de insulina, médica; los cultivos resistentes a plagas, alimentaria, y los biocombustibles a partir de microorganismos, energética.
 
 4. *(Alternativas)* ¿Cuál es la diferencia entre ingeniería genética y terapia génica?
    a) Son exactamente lo mismo: ambos nombres se refieren a las técnicas que corrigen genes en pacientes, y se usan como sinónimos en la medicina actual
@@ -542,7 +542,7 @@ genética, especialmente en seres humanos.
    c) Existen interrogantes sobre sus efectos a largo plazo en la biodiversidad
    d) Está demostrado que no tienen ningún impacto económico ni ambiental
    **Respuesta correcta:** a, b y c.
-   **Retroalimentación:** Evaluarlos implica sopesar beneficios productivos y ambientales frente a riesgos que aún se investigan.
+   **Retroalimentación:** Los transgénicos pueden reducir el uso de pesticidas y aumentar el rendimiento, pero también generar dependencia de las empresas dueñas de las patentes, y hay preguntas que aún se investigan. Evaluarlos exige sopesar beneficios y riesgos.
 
 6. *(Alternativas — Evaluación ética)* "Si una tecnología biotecnológica trae beneficios económicos y de salud, no es necesario evaluar sus implicancias éticas y sociales." ¿Qué evaluación es correcta?
    a) Es incorrecta: igualmente hay implicancias como el acceso equitativo, la información a la población (etiquetado) y los límites de su aplicación en seres humanos
@@ -558,7 +558,7 @@ genética, especialmente en seres humanos.
    c) Beneficio: solo sirven a quienes pueden pagarlas en clínicas privadas. Implicancia: ninguna, porque su distribución no afecta a la sociedad
    d) Beneficio: previenen enfermedades eficazmente y a gran escala. Implicancia: asegurar el acceso equitativo a toda la población
    **Respuesta correcta:** d) Beneficio: previenen enfermedades eficazmente y a gran escala. Implicancia: asegurar el acceso equitativo a toda la población.
-   **Retroalimentación:** La biotecnología ya forma parte de la vida cotidiana más allá de lo que se percibe.
+   **Retroalimentación:** El beneficio es prevenir enfermedades de forma eficaz y a gran escala; la implicancia social es asegurar que toda la población tenga acceso a ellas, no solo quienes pueden pagarlas.
 
 ---
 
@@ -682,7 +682,7 @@ de velocidad en función del tiempo, la pendiente corresponde a la aceleración,
    c) Movimiento hacia atrás desde el inicio, cada vez más rápido
    d) MRU durante 10 s y luego desaceleración constante hasta detenerse a los 15 s
    **Respuesta correcta:** d) MRU durante 10 s y luego desaceleración constante hasta detenerse a los 15 s.
-   **Retroalimentación:** La pendiente de un gráfico v-t representa la aceleración.
+   **Retroalimentación:** Entre 0 y 10 s la velocidad se mantiene en 8 m/s (línea horizontal): es un MRU. Entre 10 y 15 s baja de forma constante hasta 0: es una desaceleración constante. La pendiente del gráfico v-t es la aceleración.
 
 ---
 
@@ -769,7 +769,7 @@ mediante la segunda ley de Newton, cómo se moverá el objeto.
    c) 1: segunda; 2: tercera; 3: primera
    d) 1: tercera; 2: segunda; 3: primera
    **Respuesta correcta:** b) 1: tercera; 2: primera; 3: segunda.
-   **Retroalimentación:** Inercia, vínculo cuantitativo fuerza-aceleración e interacción entre cuerpos.
+   **Retroalimentación:** El cohete sube porque los gases empujan de vuelta (acción y reacción: tercera ley); el objeto en reposo sigue así sin fuerza neta (inercia: primera ley), y al duplicar la fuerza se duplica la aceleración (F = m · a: segunda ley).
 
 4. *(Alternativas)* Según la primera ley de Newton, ¿por qué es importante el cinturón de seguridad?
    a) Porque aumenta la velocidad del auto en un frenazo, de modo que el vehículo se detiene antes y el cuerpo del pasajero no alcanza a moverse
@@ -899,7 +899,7 @@ livianos observada en el Universo.
    c) Copérnico, Brahe, Galileo y Newton
    d) Newton, Galileo, Brahe y Copérnico
    **Respuesta correcta:** c) Copérnico, Brahe, Galileo y Newton.
-   **Retroalimentación:** La revolución astronómica fue un proceso acumulativo con aportes de varios científicos.
+   **Retroalimentación:** Copérnico propuso el heliocentrismo; Tycho Brahe hizo observaciones muy precisas sin telescopio; Galileo descubrió las lunas de Júpiter y las fases de Venus con el telescopio, y Newton explicó la gravitación de los planetas.
 
 4. *(Alternativas)* ¿Por qué el paso del modelo geocéntrico al heliocéntrico ejemplifica cómo funciona el conocimiento científico?
    a) Porque los modelos se reemplazan cuando surge evidencia que los contradice o cuando otro modelo explica lo mismo de forma más simple y precisa
@@ -1162,7 +1162,7 @@ construir las moléculas grandes y diversas que sostienen la vida.
    c) La molecular muestra cada átomo y todos sus enlaces; la estructural expandida solo indica el tipo y la cantidad de átomos
    d) El etano no tiene fórmula estructural, porque es un gas y sus átomos no forman enlaces fijos
    **Respuesta correcta:** b) La molecular (C₂H₆) indica tipo y cantidad de átomos; la estructural expandida muestra cada átomo y todos sus enlaces.
-   **Retroalimentación:** Elegir el modelo adecuado depende de qué se quiera comunicar o analizar.
+   **Retroalimentación:** La fórmula molecular C₂H₆ solo dice qué átomos hay y cuántos; la estructural expandida dibuja cada átomo y cada enlace, así que muestra cómo están unidos.
 
 5. *(Alternativas — Análisis)* ¿Por qué el carbono es la base de las biomoléculas?
    a) Porque es el elemento más pesado de la tabla periódica, lo que da estabilidad a las biomoléculas de los seres vivos

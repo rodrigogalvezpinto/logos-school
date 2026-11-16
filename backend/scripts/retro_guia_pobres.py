@@ -91,6 +91,16 @@ REVISADAS_A_MANO: list[tuple[str, str]] = [
     ("01-medio/ingles.md", "Estás escribiendo sobre un texto que leíste acerca de un inventor"),
     ("01-medio/lengua-y-literatura.md", "¿Cuál es el conflicto central de \"El turno de las tres\"?"),
     ("01-medio/matematica.md", "Sin calcular, ¿qué se puede afirmar de (3/2)⁴"),
+    ("02-medio/ciencias-naturales.md", "¿Cómo el corrimiento al rojo"),
+    ("02-medio/ciencias-naturales.md", "¿Qué clasificación de hidrocarburos es correcta"),
+    ("02-medio/historia-geografia-y-cs-sociales.md", "¿Qué dos países emergieron como superpotencias"),
+    ("02-medio/historia-geografia-y-cs-sociales.md", "¿Por qué el deporte y las ciencias"),
+    ("02-medio/ingles.md", "Read: \"Neither the government"),
+    ("02-medio/ingles.md", "Read: \"Streaming services"),
+    ("02-medio/ingles.md", "Estás escribiendo sobre un texto que leíste acerca de una activista"),
+    ("02-medio/matematica.md", "¿Cuál es mayor: 3^(1/2) o 3^(1/3)?"),
+    ("02-medio/matematica.md", "¿Qué afirmación sobre f(x) = x² − 4"),
+    ("02-medio/matematica.md", "f(x) = x/3 + 1 divide por 3"),
 ]
 
 
