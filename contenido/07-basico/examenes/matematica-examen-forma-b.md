@@ -28,12 +28,12 @@ relación con otras formas: segunda versión (Forma B), con preguntas propias
 
 ## Eje 1: Números y Operaciones
 
-**Pregunta 1 (alternativas).** Un submarino está a −300 metros bajo el nivel del mar y desciende 150 metros más. ¿A qué profundidad queda?
+**Pregunta 1 (alternativas).** Un buzo está a −45 metros bajo el nivel del mar y desciende 30 metros más. ¿A qué profundidad queda?
 
-a) −150 m
-b) −450 m
-c) 450 m
-d) 150 m
+a) −15 m
+b) −75 m
+c) 75 m
+d) 15 m
 
 ---
 
@@ -138,12 +138,12 @@ d) x + (x + 1) + (x + 2) = 48; 16, 17 y 18
 
 ---
 
-**Pregunta 13 (alternativas).** Si 3 entradas al cine cuestan $9.000, ¿cuánto cuestan 5 entradas (manteniendo la misma proporción)?
+**Pregunta 13 (alternativas).** Si 4 cuadernos cuestan $6.000, ¿cuánto cuestan 7 cuadernos (manteniendo la misma proporción)?
 
-a) $18.000
-b) $15.000
-c) $12.000
-d) $10.000
+a) $12.000
+b) $10.500
+c) $9.000
+d) $7.000
 
 ---
 
@@ -176,12 +176,12 @@ d) 188,4 cm
 
 ---
 
-**Pregunta 17 (alternativas).** ¿Cuál es el área aproximada de un círculo de radio 10 cm? (usa π ≈ 3,14)
+**Pregunta 17 (alternativas).** Una mesa redonda tiene un radio de 5 dm. ¿Cuál es el área aproximada de su cubierta? (usa π ≈ 3,14)
 
-a) 31,4 cm²
-b) 62,8 cm²
-c) 100 cm²
-d) 314 cm²
+a) 15,7 dm²
+b) 31,4 dm²
+c) 25 dm²
+d) 78,5 dm²
 
 ---
 
@@ -280,7 +280,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | b) −450 m (−300 − 150 = −450) | OA 1 | Números y Operaciones |
+| 1 | **b) −75 m.** b) Descender es restar: −45 − 30 = −75. Queda a 75 metros bajo el nivel del mar. | OA 1 | Números y Operaciones |
 | 2 | **b) 5 °C.** −7 + 12 = 5: si partes en −7 y subes 12 grados, pasas el 0 y llegas a 5 °C. −19 resultaría de restar en vez de sumar. | OA 1 | Números y Operaciones |
 | 3 | **a) 15 °C.** 6 − (−9) = 6 + 9 = 15 °C. Restar un negativo equivale a sumar su valor; 3 °C resulta de restar 9 en vez de sumarlo. | OA 1 | Números y Operaciones |
 | 4 | c) 1/6 ((3×2)/(4×9)=6/36, simplificado dividiendo por 6 = 1/6) | OA 3 | Números y Operaciones |
@@ -292,11 +292,11 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 10 | **a) 3x − 4.** «El triple de un número» es 3x y «disminuido en 4» resta 4 al resultado: 3x − 4. 3(x − 4) restaría 4 antes de triplicar. | OA 6 | Patrones y Álgebra |
 | 11 | **d) 3n + 4.** Cada figura agrega 3 fósforos, así que la expresión es 3n + algo. Para n = 1 debe dar 7: 3·1 + 4 = 7. Comprobación: 3·2 + 4 = 10 y 3·3 + 4 = 13. | OA 6 | Patrones y Álgebra |
 | 12 | **c) x + (x + 1) + (x + 2) = 48; 15, 16 y 17.** x + (x + 1) + (x + 2) = 48 → 3x + 3 = 48 → x = 15; los números son 15, 16 y 17 (suman 48). | OA 6 | Patrones y Álgebra |
-| 13 | b) $15.000 (9.000÷3=3.000 por entrada; 3.000×5=15.000) | OA 8 | Patrones y Álgebra |
+| 13 | **b) $10.500.** b) Cada cuaderno cuesta $6.000 ÷ 4 = $1.500, y 7 × $1.500 = $10.500. | OA 8 | Patrones y Álgebra |
 | 14 | **a) Proporcionalidad directa.** Si compras el doble de cuadernos pagas el doble: ambas cantidades varían en la misma razón (proporcionalidad directa). | OA 8 | Patrones y Álgebra |
 | 15 | **d) 9 horas.** Es proporcionalidad inversa: llaves × horas es constante, 3 × 12 = 36; con 4 llaves, 36 ÷ 4 = 9 horas. 16 horas sería tratarla como directa. | OA 8 | Patrones y Álgebra |
 | 16 | **c) 60 cm.** El diámetro mide el doble del radio: 2 × 30 = 60 cm. 188,4 cm es el perímetro y 900 es el radio al cuadrado. | OA 11 | Geometría |
-| 17 | d) 314 cm² (A=3,14×10²=3,14×100=314) | OA 11 | Geometría |
+| 17 | **d) 78,5 dm².** d) El área del círculo es π × r² = 3,14 × 5 × 5 = 78,5 dm². 31,4 dm² es el perímetro (2 × π × r). | OA 11 | Geometría |
 | 18 | **d) 1.256 cm².** A = π · r² = 3,14 × 20² = 3,14 × 400 = 1.256 cm². 125,6 es el perímetro (2πr) y 400 es solo r². | OA 11 | Geometría |
 | 19 | **d) Cuadrante IV.** x positivo y y negativo: el punto está a la derecha y abajo del origen, en el cuadrante IV. | OA 14 | Geometría |
 | 20 | **a) (2, −2).** A la derecha suma a x: −1 + 3 = 2; hacia abajo resta a y: 5 − 7 = −2. Cada movimiento afecta solo a su coordenada. | OA 14 | Geometría |

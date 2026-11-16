@@ -242,13 +242,12 @@ d) Disponibilidad de recursos minerales
 
 ---
 
-**Pregunta 17.** (2 puntos)
-¿Por qué es importante identificar la "fragilidad del medio ante la acción humana" al estudiar el asentamiento de las sociedades, en el pasado y en el presente?
+**Pregunta 17.** (2 puntos) Un pueblo del Norte Grande se abastece de un acuífero (agua subterránea) que se recarga muy lentamente. Si se extrae más agua de la que entra, ¿qué concepto explica el riesgo?
 
-a) Porque algunos entornos pueden dañarse de forma severa o irreversible (deforestación, agotamiento de recursos), y comprenderlo permite tomar decisiones más responsables sobre cómo habitar el territorio
-b) Porque el medio natural nunca se ve afectado por la acción humana, y estudiarlo permite demostrar que las sociedades pueden habitar cualquier entorno sin consecuencias
-c) Porque así se justifica explotar los recursos sin límites mientras duren, ya que los entornos frágiles se recuperan solos en pocos años después de ser abandonados
-d) Porque solo importa para entender el pasado: las sociedades actuales cuentan con tecnología suficiente para evitar cualquier daño grave al medio natural
+a) La fragilidad del medio ante la acción humana: algunos entornos pueden dañarse de forma severa o irreversible
+b) La abundancia permanente de los recursos naturales
+c) La idea de que el desierto no se ve afectado por las personas
+d) La tecnología, que evita cualquier daño ambiental
 
 ---
 
@@ -394,7 +393,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 14 | Alternativas | **c) Porque forma parte de la identidad histórica de los pueblos latinoamericanos y su pérdida significaría perder conocimiento sobre el pasado; ejemplo: el maíz y el cacao en la alimentación actual (legado maya/azteca).** También son válidos otros ejemplos de legado, como las ideas de ciudadanía y república (grecorromano) o las catedrales (europeo medieval); el sitio maya ya aparece en el estímulo. | OA 16 | Historia | 3 |
 | 15 | Alternativas | c) Vulnerabilidad de la población ante amenazas del entorno. Vivir cerca de un volcán activo expone a la población a un peligro natural: es su vulnerabilidad ante amenazas del entorno. | OA 21 | Geografía | 1 |
 | 16 | Alternativas | b) Fragilidad del medio ante la acción humana. La selva dañada por una tala excesiva muestra que el medio natural es frágil frente a la acción humana. | OA 21 | Geografía | 1 |
-| 17 | Alternativas | **a) Porque algunos entornos pueden dañarse de forma severa o irreversible (deforestación, agotamiento de recursos), y comprenderlo permite tomar decisiones más responsables sobre cómo habitar el territorio.** Algunos ecosistemas tardan siglos en recuperarse o no se recuperan; saberlo ayuda a decidir dónde y cómo habitar sin destruir el entorno. | OA 21 | Geografía | 2 |
+| 17 | Alternativas | **a) La fragilidad del medio ante la acción humana: algunos entornos pueden dañarse de forma severa o irreversible.** a) En un desierto, el agua es escasa y se renueva muy lentamente: es un medio frágil. Si se sobreexplota, el acuífero puede agotarse y el daño sería difícil de revertir. | OA 21 | Geografía | 2 |
 | 18 | Alternativas | b) Generó impactos importantes, como la tala de bosques para cultivar y la modificación de cursos de agua para el riego. Para cultivar y criar animales, las sociedades neolíticas talaron bosques y desviaron aguas: transformaron el medio natural. | OA 22 | Geografía | 1 |
 | 19 | Alternativas | **d) Continuidad: en ambos casos se transforma el medio con fines agrícolas. Cambio: la escala del impacto y la tecnología son mucho mayores hoy, gracias a la maquinaria industrial.** Desde el Neolítico se transforma el medio para cultivar (continuidad); lo que cambió es la escala del impacto y la tecnología, hoy mucho mayores. | OA 22 | Geografía | 2 |
 | 20 | Alternativas | b) "La cosa pública": un gobierno en el que el poder no pertenece a un solo individuo, sino que se ejerce a través de instituciones y magistrados. "Res publica" significa "la cosa pública": el gobierno es asunto de todos los ciudadanos, no de un rey ni de una sola familia. | OA 18 | Formación Ciudadana | 1 |

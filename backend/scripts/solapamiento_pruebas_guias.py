@@ -49,6 +49,13 @@ REVISADAS_A_MANO = {
     "06-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {1, 4, 5},  # 5: otra hipérbole ("mil años en el muelle")
     "06-basico/pruebas/ingles-unidad-1.md": {3},  # otra oración con can/can't (bird, dog)
     "06-basico/pruebas/ingles-unidad-2.md": {1},  # otra invitación (on Friday, June 12th)
+    "07-basico/pruebas/ciencias-naturales-unidad-quimica.md": {5},  # otros datos (6 L a 1 atm)
+    "07-basico/pruebas/lengua-y-literatura-unidad-1.md": {3, 6, 8},  # V/F y sentidos sobre otros textos de la prueba
+    "07-basico/pruebas/lengua-y-literatura-unidad-2.md": {2},  # otra frase de hecho verificable
+    "07-basico/pruebas/ingles-unidad-1.md": {5, 8, 9, 14},  # otras frases, instrucciones y oraciones
+    "07-basico/pruebas/matematica-unidad-datos-y-probabilidades.md": {10, 13},  # otros datos (4 y 12 lápices; mayor que 3)
+    "07-basico/pruebas/matematica-unidad-patrones-y-algebra.md": {13},  # otra tabla (pan a $1.500)
+    "07-basico/examenes/ciencias-naturales-examen-forma-b.md": {19},  # Ley de Charles, no de Boyle
     "06-basico/pruebas/lenguaje-y-comunicacion-unidad-2.md": {1, 4},
     "08-basico/pruebas/lengua-y-literatura-unidad-1.md": {15},
     "02-medio/pruebas/ciencias-naturales-unidad-fisica.md": {1},

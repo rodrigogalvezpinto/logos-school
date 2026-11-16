@@ -29,11 +29,12 @@ d) El paso de la vida nómade, basada en la caza y la recolección, a la vida se
 
 **Pregunta 2 (verdadero o falso).** El maíz fue domesticado en América, mientras que el trigo fue domesticado en el Medio Oriente.
 
-**Pregunta 3 (alternativas).** ¿Cuál de los siguientes NO es un rasgo característico de las primeras civilizaciones?
-a) Centralización de la administración en manos de un gobernante
-b) Organización de la vida en torno a ciudades con templos y mercados
-c) Sociedades completamente igualitarias, sin diferencias sociales
-d) Desarrollo de la escritura y la contabilidad para registrar las cosechas
+**Pregunta 3 (alternativas).** Un arqueólogo encuentra restos de una antigua ciudad. ¿Cuál de estos hallazgos NO sería una señal de que pertenece a una de las primeras civilizaciones?
+
+a) Un palacio desde donde gobernaba un rey
+b) Templos y un mercado en el centro de la ciudad
+c) Viviendas todas iguales y ninguna señal de diferencias entre grupos sociales
+d) Tablillas con escritura que registran impuestos y cosechas
 
 **Pregunta 4 (alternativas — unir).** Une cada rasgo de las primeras civilizaciones con su explicación:
 
@@ -75,11 +76,12 @@ b) 1-B, 2-C, 3-A
 c) 1-C, 2-B, 3-A
 d) 1-C, 2-A, 3-B
 
-**Pregunta 9 (alternativas).** ¿Qué tres tradiciones confluyen en la formación de la civilización europea medieval?
+**Pregunta 9 (alternativas).** Un monasterio medieval guarda libros de autores romanos copiados en latín, celebra la misa cristiana y está en un reino fundado por un pueblo germano. ¿Qué tradiciones se combinan en este ejemplo?
+
 a) Grecorromana, judeocristiana y germana
-b) Egipcia, mesopotámica y persa, del Cercano Oriente
-c) Maya, azteca e inca, de la América precolombina
-d) China, india y árabe, de las rutas comerciales de Asia
+b) Egipcia, mesopotámica y persa
+c) Maya, azteca e inca
+d) China, india y árabe
 
 **Pregunta 10 (verdadero o falso).** Después de la caída del Imperio romano de Occidente, en el año 476 d.C., su territorio quedó dividido en distintos reinos germánicos.
 
@@ -114,12 +116,12 @@ b) Chocolate
 c) Escuela
 d) Ventana
 
-**Pregunta 15 (varias correctas).** ¿Cuáles de estas expresiones culturales latinoamericanas actuales muestran el legado de alguna civilización estudiada en este eje (maya, azteca, griega, romana o europea medieval)? Marca **todas** las correctas.
+**Pregunta 15 (varias correctas).** Valentina recorre Ciudad de México y Santiago. ¿Cuáles de estas cosas que observa muestran el legado de alguna civilización estudiada (maya, azteca, griega, romana o europea medieval)? Marca todas las correctas.
 
-a) El consumo de maíz y cacao, de origen mesoamericano
-b) Las catedrales de estilo europeo en las plazas de muchas ciudades
-c) Las ideas de república y ciudadanía en nuestras constituciones
-d) El uso de teléfonos celulares
+a) Tortillas de maíz y chocolate en los mercados
+b) Una catedral en la plaza de armas
+c) El Congreso, donde representantes elegidos discuten las leyes
+d) Un centro comercial con tiendas de ropa
 
 ---
 
@@ -127,16 +129,16 @@ d) El uso de teléfonos celulares
 
 1. d) El paso de la vida nómade a la vida sedentaria, gracias a la domesticación de plantas y animales.
 2. Verdadero. La agricultura surgió de forma independiente en distintos lugares del planeta.
-3. c) Sociedades completamente igualitarias, sin diferencias sociales. Las primeras civilizaciones se caracterizaron, precisamente, por la estratificación social.
+3. **c) Viviendas todas iguales y ninguna señal de diferencias entre grupos sociales.** c) Las primeras civilizaciones tenían gobierno centralizado, ciudades con templos y mercados, escritura y una sociedad jerarquizada; no eran sociedades igualitarias.
 4. a) 1-B, 2-C, 3-A. Centralizar es concentrar el poder en un gobernante (B); la estratificación es la división en grupos con distinto poder y riqueza (C), y la escritura y la contabilidad sirvieron para administrar y registrar (A).
 5. b) Los ciudadanos votaban directamente en la Asamblea: era una democracia directa.
 6. Falso. Los esclavos, las mujeres y los extranjeros estaban excluidos de la ciudadanía ateniense.
 7. c) La romanización: los pueblos conquistados adoptaron la lengua, el derecho y la cultura de Roma.
 8. d) 1-C, 2-A, 3-B. Del derecho romano viene la idea de leyes escritas que todos deben cumplir (C); de su arquitectura, el arco y la cúpula (A), y del latín, palabras como "agua" o "luna" (B).
-9. a) Grecorromana, judeocristiana y germana. Europa medieval combinó la herencia grecorromana (derecho, latín, filosofía), el cristianismo, de raíz judeocristiana, y las costumbres de los pueblos germanos.
+9. **a) Grecorromana, judeocristiana y germana.** a) La Europa medieval combinó el legado grecorromano (latín, autores clásicos), el judeocristiano (la Iglesia) y el germano (los reinos fundados por esos pueblos).
 10. Verdadero. La caída del imperio provocó la fragmentación del territorio en reinos independientes.
 11. d) Impulsaron el comercio entre regiones y el crecimiento de las ciudades. En las ferias se reunían comerciantes de distintas regiones; el comercio que generaban hizo crecer las ciudades y a la burguesía.
 12. b) 1-C, 2-A, 3-B. El arado mejorado y los molinos son innovaciones técnicas (C); los comerciantes que acumulan capital muestran el desarrollo del comercio (A), y los centros de estudios superiores son las universidades (B).
 13. b) Para obtener terreno plano para cultivar en las montañas y evitar que la lluvia arrastrara el suelo.
 14. b) Chocolate. Viene del náhuatl, la lengua de los aztecas; como *tomate* o *cancha*, es un legado de las civilizaciones americanas.
-15. a, b y c — La alimentación, la arquitectura y las ideas políticas muestran legados concretos; los celulares son una tecnología reciente.
+15. **a, b y c.** a, b y c) El maíz y el cacao vienen de Mesoamérica, las catedrales del mundo europeo medieval y la idea de representantes y ciudadanía de Grecia y Roma; un centro comercial moderno no es un legado de esas civilizaciones.

@@ -165,12 +165,12 @@ b) Para que el auto sea más liviano y gaste menos combustible
 c) Para aumentar el roce con el camino y evitar que el auto patine, sobre todo con lluvia
 d) Para que el auto haga menos ruido al frenar
 
-**15.** *(Alternativas, 3 puntos)* Un ciclista va cuesta abajo y, sin pedalear, su bicicleta sigue acelerando. ¿Qué fuerza causa principalmente la aceleración y cuál se opone a ella?
+**15.** *(Alternativas, 3 puntos)* Un carro de supermercado vacío queda suelto en una rampa del estacionamiento y baja cada vez más rápido. ¿Qué fuerza causa principalmente la aceleración y cuál se opone a ella?
 
-a) La fuerza gravitacional (peso del ciclista y la bicicleta) acelera; el roce con el aire y entre neumáticos y pavimento se opone
-b) El roce con el aire y el pavimento acelera la bicicleta; la fuerza gravitacional (el peso del ciclista) se opone al movimiento
-c) La fuerza elástica de los neumáticos, que rebotan contra el pavimento, acelera la bicicleta; ninguna fuerza se opone al movimiento
-d) La fuerza gravitacional se opone al movimiento en la bajada; la fuerza muscular que el ciclista aplicó antes sigue acelerando la bicicleta
+a) El peso del carro (fuerza gravitacional) lo acelera; el roce de las ruedas con el suelo y con el aire se opone
+b) El roce de las ruedas acelera el carro; el peso se opone al movimiento
+c) La fuerza elástica de las ruedas acelera el carro; ninguna fuerza se opone
+d) El peso se opone en la bajada; el último empujón de la persona sigue acelerando el carro
 
 ---
 
@@ -293,7 +293,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 12 | Alternativas | a) Fuerza gravitacional. La manzana cae porque la Tierra la atrae: es la fuerza gravitacional (su peso). | OA 7 |
 | 13 | Alternativas | b) De la rugosidad de las superficies en contacto. El roce depende sobre todo de cuán rugosas son las superficies en contacto (y del peso que las aprieta): mientras más rugosas, mayor es el roce. | OA 7 |
 | 14 | Alternativas | **c) Para aumentar el roce con el camino y evitar que el auto patine, sobre todo con lluvia.** Los surcos aumentan el roce y evacúan el agua; sin ellos el auto pierde adherencia. | OA 7 |
-| 15 | Alternativas | **a) La fuerza gravitacional (peso del ciclista y la bicicleta) acelera; el roce con el aire y entre neumáticos y pavimento se opone.** En la bajada, el peso tira la bicicleta pendiente abajo y la acelera; el roce con el aire y con el pavimento actúa en contra del movimiento. | OA 7 |
+| 15 | Alternativas | **a) El peso del carro (fuerza gravitacional) lo acelera; el roce de las ruedas con el suelo y con el aire se opone.** a) En la rampa, el peso empuja el carro hacia abajo y lo acelera; el roce, en las ruedas y con el aire, se opone al movimiento. | OA 7 |
 | 16 | Alternativas | b) Las placas se separan y asciende material del manto, formando nueva corteza. En un límite divergente las placas se separan; por la abertura sube material del manto que se enfría y forma nueva corteza, como en las dorsales oceánicas. | OA 9 |
 | 17 | Alternativas | b) La tectónica de placas explica el mecanismo (las corrientes convectivas) que causa el movimiento de los continentes. Wegener propuso que los continentes se movían, pero no explicó cómo. La tectónica de placas aportó el mecanismo: las corrientes de convección del manto mueven las placas. | OA 9 |
 | 18 | Alternativas | **b) Que las costas de Sudamérica y África encajan como piezas de un rompecabezas y que hay fósiles iguales en ambos continentes.** Esa evidencia sugería que los continentes estuvieron unidos; la tectónica de placas explicó después cómo se mueven. | OA 9 |

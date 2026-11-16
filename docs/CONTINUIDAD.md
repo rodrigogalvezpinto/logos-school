@@ -120,11 +120,10 @@ un `[Imagen: …]` agregado, o los mismos datos del «Ejemplo 1» de la guía). 
 Al empezar había ~221 candidatas en total. **Revisados: 1.° básico** (12 rehechas, entre ellas un cuento copiado dentro del enunciado) **y 2.° básico** (9 rehechas
 y un artículo de lectura nuevo en el simulacro B), **3.° básico** (9 rehechas, 1 plantilla) **y 4.° básico** (16 rehechas,
 incluido un gráfico de helados copiado entero de la guía que se reemplazó por uno propio de jugos; 9 plantillas)
-**, 5.° básico** (19 rehechas, 11 plantillas) **y 6.° básico** (29 rehechas, 3 plantillas). Chromium: 1.° a 4.° básico
+**, 5.° básico** (19 rehechas, 11 plantillas) **, 6.° básico** (29 rehechas, 3 plantillas) **y 7.° básico** (11 rehechas, 13 plantillas). Chromium: 1.° a 4.° básico
 18/18 cada uno tras los cambios; 5.° y 6.° en validación.
-El detector de lecturas ahora también marca un párrafo único de 150 o más caracteres. Siguiente: 7.° básico
-(`candidatos('07-basico')`). Ejemplos ya vistos ahí: física 6 y simulacro 15 (el ciclista), química 5, historia
-formación ciudadana 8 (texto medieval), simulacro de Matemática 1 (submarino).
+El detector de lecturas ahora también marca un párrafo único de 150 o más caracteres. Siguiente: 8.° básico
+(`candidatos('08-basico')`). Ejemplo ya visto ahí: geometría 1 (catetos de 6 y 8 cm).
 Hecho cada curso: detector del curso en 0, `validar_evaluaciones_markdown.py`, `pytest -k "parser or corpus"`,
 validación en Chromium (`scripts/qa/reimportar_e2e.sh` + `scripts/qa/validar_material.sh "N° básico"`), commit.
 **Cómo decidir cada una** (con `match.match(archivo, n)` de `herramientas_auditoria`):

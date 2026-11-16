@@ -50,12 +50,12 @@ b) La búsqueda de zonas sin agua para protegerse
 c) La cercanía a altas montañas nevadas
 d) Las crecidas del río, que dejaban tierras fértiles para cultivar en medio del desierto
 
-**Pregunta 6 (alternativas — desafiante).** ¿Por qué es importante identificar la "fragilidad del medio ante la acción humana" al estudiar el asentamiento de las sociedades, en el pasado y en el presente?
+**Pregunta 6 (alternativas — desafiante).** En la isla de Rapa Nui, la tala de casi todos sus árboles, hace siglos, dejó el suelo pobre y sin madera para construir canoas. ¿Qué lección deja este caso al estudiar cómo las sociedades se asientan en un lugar?
 
-a) Porque el medio natural nunca se ve afectado por la acción humana, y estudiarlo permite demostrar que las sociedades pueden habitar cualquier entorno
-b) Porque así se justifica explotar los recursos sin límites mientras duren, ya que los entornos frágiles se recuperan solos en pocos años
-c) Porque algunos entornos pueden dañarse de forma severa o irreversible, y comprenderlo permite tomar decisiones más responsables sobre cómo habitar el territorio
-d) Porque solo importa para entender el pasado: las sociedades actuales cuentan con tecnología suficiente para evitar cualquier daño grave al medio
+a) Que el medio natural nunca se daña por la acción humana
+b) Que los recursos pueden explotarse sin límites, porque siempre se recuperan
+c) Que algunos entornos son frágiles y pueden dañarse de forma grave, por lo que hay que usarlos con cuidado
+d) Que solo importa en el pasado, porque hoy la tecnología evita cualquier daño
 
 **Pregunta 7 (alternativas).** ¿Cuál de las siguientes medidas busca **proteger** a la población frente a un riesgo del medio natural?
 a) Construir casas en el cauce seco de un río
@@ -102,7 +102,7 @@ d) Porque evaluar impide construir cualquier obra
 3. **a) 1-C, 2-B, 3-A.** Los cenotes daban agua, un recurso que favoreció el asentamiento (C); la tala en Rapa Nui muestra cómo un medio frágil se degrada (B), y los tsunamis son una amenaza del entorno para los pueblos costeros (A).
 4. a, b y c — Las terrazas, los diques y los canales transforman el entorno; un grupo que solo se desplaza tras los animales no ilustra la transformación.
 5. d) Las crecidas del Nilo depositaban limo fértil en sus orillas, lo que permitió una agricultura productiva en medio del desierto.
-6. c) Porque algunos entornos pueden dañarse de forma severa o irreversible, y comprenderlo permite tomar decisiones más responsables sobre cómo habitar el territorio. Algunos ecosistemas, como suelos o bosques, tardan siglos en recuperarse o no se recuperan. Saberlo ayuda a decidir dónde y cómo habitar sin destruir el entorno.
+6. **c) Que algunos entornos son frágiles y pueden dañarse de forma grave, por lo que hay que usarlos con cuidado.** c) El caso muestra la fragilidad del medio: cuando un entorno limitado se sobreexplota, el daño puede ser severo y difícil de revertir; por eso se deben tomar decisiones responsables.
 7. b) Construir edificios con normas antisísmicas, que reducen los daños en un terremoto.
 8. Verdadero. La agricultura generó los primeros impactos importantes en el medio, como la tala de bosques y la modificación de cursos de agua.
 9. **c) 1: escala local; 2: escala global.** El punto de reciclaje lo organiza una comunidad en su barrio (escala local); el Acuerdo de París compromete a países de todo el mundo (escala global).

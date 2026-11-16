@@ -66,13 +66,12 @@ b) Porque el hielo es más liso y genera menor fuerza de roce
 c) Porque el cemento no ejerce ninguna fuerza de roce
 d) Porque en el hielo no actúa la fuerza de gravedad
 
-**Pregunta 6.** (Alternativas)
-Un ciclista va cuesta abajo y, sin pedalear, su bicicleta sigue acelerando. ¿Qué fuerza causa principalmente la aceleración y cuál se opone a ella?
+**Pregunta 6.** (Alternativas) Una niña suelta su trineo en la parte alta de un cerro nevado y este baja cada vez más rápido. ¿Qué fuerza causa principalmente la aceleración y cuál se opone a ella?
 
-a) El roce con el aire y el pavimento acelera; la gravedad (el peso) se opone al movimiento
-b) La fuerza elástica de los neumáticos acelera la bicicleta; ninguna fuerza se opone al movimiento
-c) La fuerza gravitacional (peso) acelera; el roce con el aire y con el pavimento se opone
-d) La gravedad se opone en la bajada; la fuerza muscular aplicada antes sigue acelerando la bicicleta
+a) El roce con la nieve acelera el trineo; el peso se opone al movimiento
+b) La fuerza elástica de la nieve acelera el trineo; ninguna fuerza se opone
+c) El peso (fuerza de gravedad) acelera el trineo; el roce con la nieve y con el aire se opone
+d) La gravedad se opone en la bajada; el empujón inicial sigue acelerando el trineo
 
 ---
 
@@ -130,7 +129,7 @@ d) Porque en el centro de las placas hay más volcanes, y la lava fluye hasta lo
 3. a) 1: gravitacional; 2: elástica; 3: de roce. La manzana cae por la atracción de la Tierra (gravedad); el resorte estirado ejerce fuerza elástica, y el auto frena por el roce entre neumáticos y pavimento.
 4. d) El estático actúa sobre un objeto en reposo, impidiendo que comience a moverse; el cinético actúa sobre un objeto en movimiento, frenándolo. El roce estático impide que un objeto en reposo empiece a moverse; el cinético frena a un objeto que ya se mueve. Por eso cuesta más empezar a empujar algo que mantenerlo en movimiento.
 5. b) Porque el hielo es más liso y genera menor fuerza de roce. El roce depende de las superficies en contacto: el hielo es muy liso y produce poco roce. El peso de la caja y la gravedad son los mismos en ambos casos.
-6. c) La fuerza gravitacional (peso) acelera; el roce con el aire y con el pavimento se opone. En la bajada, el peso de la bicicleta y del ciclista tira hacia abajo de la pendiente y la acelera; el roce con el aire y con el pavimento actúa en contra del movimiento.
+6. **c) El peso (fuerza de gravedad) acelera el trineo; el roce con la nieve y con el aire se opone.** c) En la pendiente, el peso tira el trineo hacia abajo y lo acelera; el roce con la nieve y con el aire actúa en sentido contrario al movimiento.
 7. c) Las placas se separan y sale magma que forma nuevo fondo oceánico. En un límite divergente las placas se alejan; por la grieta sube magma que se enfría y forma nuevo fondo oceánico, como en la dorsal del Atlántico.
 8. Verdadero — la placa de Nazca se hunde bajo la Sudamericana, lo que genera sismos y volcanismo.
 9. a) 1: divergente; 2: convergente; 3: transformante. En la dorsal las placas se separan (divergente); cuando chocan forman cordilleras (convergente), y cuando se deslizan de lado se produce fricción (transformante).

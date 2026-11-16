@@ -70,12 +70,12 @@ b) 1-C, 2-A, 3-B
 c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
-**Pregunta 8 (alternativas — análisis de fuente).** Imagina un texto medieval traducido del árabe al latín en la península ibérica, con avances matemáticos y astronómicos desconocidos en buena parte de Europa occidental. ¿Qué nos muestra este ejemplo sobre el valor de la diversidad cultural?
+**Pregunta 8 (alternativas — análisis de fuente).** En la Edad Media, en la ciudad de Toledo, sabios cristianos, judíos y musulmanes trabajaban juntos traduciendo libros de medicina y astronomía. ¿Qué nos muestra este ejemplo?
 
-a) Que la cultura árabe no hizo ningún aporte a Europa, porque los textos traducidos solo repetían conocimientos que los europeos ya tenían
-b) Que en la Edad Media no existían traducciones, por lo que este texto debe haber sido escrito en latín y atribuido después a autores árabes
-c) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a ambas sociedades, más allá de sus diferencias religiosas o políticas
-d) Que el conocimiento solo se producía en Europa occidental, y que los textos árabes servían únicamente para difundir la religión musulmana
+a) Que solo una de esas culturas tenía conocimientos valiosos
+b) Que en la Edad Media no se traducían libros
+c) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a todas
+d) Que los conocimientos de otras culturas no llegaron nunca a Europa
 
 **Pregunta 9 (alternativas).** En la ciudad de Toledo, durante la Edad Media, traductores musulmanes, judíos y cristianos trabajaron juntos traduciendo libros de ciencia. ¿Qué muestra este ejemplo?
 a) Que solo hubo conflicto entre esas culturas
@@ -123,7 +123,7 @@ d) Solo se relacionaron mediante guerras, sin ningún intercambio
 5. c) Aceite. Viene del árabe *az-zayt*; como *almohada*, *azúcar* o *alcalde*, es una huella de la presencia árabe en la península ibérica.
 6. Verdadero. Los árabes difundieron en Europa el sistema de numeración que habían conocido en la India; es un ejemplo de cómo el contacto entre culturas enriqueció a Europa.
 7. c) 1-B, 2-A, 3-C. Los griegos aportaron la filosofía y la democracia; los romanos, el derecho y el latín, y los árabes difundieron el álgebra y los números que usamos hoy.
-8. c) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a ambas sociedades, más allá de sus diferencias religiosas o políticas. Muchos textos árabes (y textos griegos conservados por sabios árabes) se tradujeron al latín, por ejemplo en Toledo, y así llegaron a Europa conocimientos de matemática y astronomía.
+8. **c) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a todas.** c) La Escuela de Traductores de Toledo es un ejemplo de diálogo cultural: al traducir obras árabes, griegas y hebreas, el conocimiento circuló y enriqueció a todas las sociedades.
 9. b) Hubo intercambio cultural y científico entre distintas culturas, aunque también existieron conflictos en la península.
 10. Falso. En general, Roma permitió que los pueblos conquistados mantuvieran sus creencias, siempre que aceptaran su autoridad; la tolerancia facilitó la estabilidad del imperio.
 11. a) 1-B, 2-C, 3-A. La Ruta de la Seda fue un intercambio comercial; un tratado de paz es un acuerdo diplomático, y la mezcla de costumbres, palabras y comidas es mestizaje cultural.
