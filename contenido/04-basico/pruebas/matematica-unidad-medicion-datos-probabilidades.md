@@ -75,28 +75,28 @@ b) 9
 c) 6
 d) 12
 
-*(Usa el gráfico de ventas de helados para responder las preguntas 8 y 9. Cada cuadrito ■ representa 5 helados).*
+*(Usa el gráfico de jugos vendidos en la feria del curso para responder las preguntas 8 y 9. Cada cuadrito ■ representa 5 jugos).*
 
 | Día | Barra |
 |---|---|
-| Lunes | ■■■■ |
-| Martes | ■■■■■■ |
-| Miércoles | ■■ |
-| Jueves | ■■■■■ |
+| Lunes | ■■■ |
+| Martes | ■■■■■■■ |
+| Miércoles | ■ |
+| Jueves | ■■■■ |
 
-**Pregunta 8 (alternativas).** Según el gráfico, ¿qué día se vendieron más helados?
+**Pregunta 8 (alternativas).** Según el gráfico, ¿qué día se vendieron más jugos?
 
 a) El martes
 b) El lunes
 c) El miércoles
 d) El jueves
 
-**Pregunta 9 (problema de aplicación).** ¿Cuántos helados más se vendieron el lunes que el miércoles?
+**Pregunta 9 (problema de aplicación).** ¿Cuántos jugos más se vendieron el lunes que el miércoles?
 
 a) 2
 b) 10
-c) 20
-d) 30
+c) 15
+d) 20
 
 ---
 
@@ -109,5 +109,5 @@ d) 30
 5. a) 7 cm. 28 ÷ 4 = 7 (operación inversa a multiplicar): 7 × 4 = 28.
 6. d) 36 m². 9 × 4 = 36; como las medidas están en metros, el área queda en metros cuadrados. 26 m es el perímetro.
 7. **b) 9.** Hay 3 símbolos junto a la uva, y cada símbolo representa 3 estudiantes: 3 × 3 = 9. Si respondiste 3, contaste los símbolos sin multiplicar.
-8. a) El martes. 6 cuadritos × 5 = 30 helados, la cantidad más alta de la semana.
-9. b) 10. Lunes = 4×5 = 20 helados; miércoles = 2×5 = 10 helados; 20 − 10 = 10.
+8. **a) El martes.** a) El martes tiene la barra más larga: 7 cuadritos, es decir, 7 × 5 = 35 jugos.
+9. **b) 10.** b) El lunes tiene 3 cuadritos (15 jugos) y el miércoles 1 (5 jugos): 15 − 5 = 10 jugos más. Contar solo la diferencia de cuadritos (2) olvida que cada uno vale 5.

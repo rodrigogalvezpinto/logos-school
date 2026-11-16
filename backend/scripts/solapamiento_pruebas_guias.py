@@ -45,7 +45,7 @@ def _numeros(texto: str) -> set[str]:
 # Casi copias revisadas a mano (2026-11-15): misma plantilla de pregunta sobre un texto propio distinto
 # del de la guía (otros personajes, otro relato) o sobre otro gráfico; solo comparten distractores genéricos.
 REVISADAS_A_MANO = {
-    "05-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {1, 3, 4},
+    "05-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {1, 3, 4, 5, 6},  # 5 y 6: otro poema y otras palabras
     "06-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {1, 4},
     "06-basico/pruebas/lenguaje-y-comunicacion-unidad-2.md": {1, 4},
     "08-basico/pruebas/lengua-y-literatura-unidad-1.md": {15},
@@ -57,6 +57,19 @@ REVISADAS_A_MANO = {
     "02-basico/pruebas/historia-unidad-geografia.md": {3},  # mapa con las letras en otros países
     "02-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {4},  # misma regla (c antes de e/i) con otra palabra
     "02-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md": {5},  # otros datos (6 caras y 4 sellos)
+    "03-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md": {8},  # gráfico propio con otros datos (12, 5 y 9)
+    "04-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md": {2, 7},  # V/F de plantilla sobre otro texto (don Ruperto; la sábana de hielo)
+    "04-basico/pruebas/ciencias-naturales-unidad-ciencias-de-la-vida.md": {5},  # otra cadena (trigo, ratón, lechuza)
+    "04-basico/pruebas/historia-unidad-formacion-ciudadana.md": {3},  # otras autoridades (diputado, ministro, alcalde)
+    "04-basico/pruebas/matematica-unidad-numeros-y-operaciones.md": {1, 4},  # otros datos (4.069; 8 cajas de 150 lápices)
+    "04-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md": {8, 9},  # gráfico propio de jugos (3, 7, 1 y 4)
+    "05-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md": {9, 12},  # otros datos (9 y 1 lápices; otras temperaturas)
+    "05-basico/pruebas/historia-unidad-formacion-ciudadana.md": {10},  # otras situaciones para unir
+    "05-basico/pruebas/ingles-unidad-1.md": {11},  # otra oración (apples, bananas)
+    "05-basico/pruebas/matematica-unidad-geometria.md": {1, 9},  # cuadrado en vez de rectángulo; flecha en vez de rombo
+    "05-basico/pruebas/matematica-unidad-numeros-y-operaciones.md": {1},  # otro número (3.508.716)
+    "05-basico/examenes/matematica-examen-forma-b.md": {17, 24},  # caras frontal y trasera; otros datos (7 y 2 bolitas)
+    "04-basico/examenes/examen-integrado-forma-a.md": {1, 7},  # otro número (6.813) y otra cadena (la oruga)
 }
 
 

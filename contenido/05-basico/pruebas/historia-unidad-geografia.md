@@ -40,13 +40,12 @@ d) Norte Grande
 
 ---
 
-**3. (Alternativas — ordenar secuencia)** ¿Cuál es el orden de norte a sur de estas zonas naturales de Chile: Zona Sur,
-Norte Grande, Zona Austral, Zona Central, Norte Chico?
+**3. (Alternativas — ordenar secuencia)** Si viajas por Chile de norte a sur, ¿qué zona natural cruzas justo después del Norte Chico?
 
-a) Norte Grande → Norte Chico → Zona Central → Zona Sur → Zona Austral
-b) Norte Chico → Norte Grande → Zona Central → Zona Austral → Zona Sur
-c) Zona Central → Norte Grande → Norte Chico → Zona Sur → Zona Austral
-d) Norte Grande → Zona Central → Norte Chico → Zona Sur → Zona Austral
+a) La Zona Central
+b) La Zona Austral
+c) El Norte Grande
+d) La Zona Sur
 
 ---
 
@@ -95,17 +94,12 @@ d) Zona Central
 
 ---
 
-**9. (Alternativas — análisis de mapa)** Observa el mapa de Chile con tres símbolos: un árbol sobre la Zona
-Sur, un pez sobre gran parte de la costa del país, y un casco de minero sobre el Norte Grande
-y Norte Chico. ¿Qué relación existe entre la geografía de cada zona y el recurso natural que
-se representa?
+**9. (Alternativas — análisis de mapa)** En la Zona Austral de Chile hay mucha ganadería de ovejas y muy pocos cultivos de frutas. ¿Qué explica esta situación?
 
-::mapa::chile::🌲@-40.3,-72.6;🐟@-29,-73.4;⛏️@-23.5,-69.2::
-
-a) Los símbolos se ubicaron al azar en el mapa, porque todos los recursos se encuentran por igual en cualquier zona del país, sin depender del clima ni del relieve
-b) Todos los recursos están en la Zona Central, porque allí vive la mayor parte de la población, y los símbolos solo muestran dónde se venden los productos
-c) Cada recurso depende de las condiciones naturales de su zona: bosques por el clima lluvioso del sur, pesca por el mar y la Corriente de Humboldt, minerales por la geología del norte
-d) La pesca se concentra en el desierto del Norte Grande, los bosques en la costa y la minería en el sur, porque así se reparten los recursos en Chile
+a) Las personas de la zona prefieren no comer frutas
+b) Las ovejas fueron prohibidas en el resto de Chile
+c) Las condiciones naturales: el clima frío y ventoso dificulta los frutales, pero las praderas permiten criar ovejas
+d) La zona tiene un clima cálido y seco, ideal para la ganadería
 
 ---
 
@@ -145,7 +139,7 @@ parte de la producción de cobre del país.
 **2.** Verdadero. Los valles transversales del Norte Chico, como el Elqui y el Limarí, permiten la agricultura.
 densidad y cantidad de población de Chile.
 
-**3.** a) Norte Grande → Norte Chico → Zona Central → Zona Sur → Zona Austral. De norte a sur, Chile se divide en Norte Grande, Norte Chico, Zona Central, Zona Sur y Zona Austral.
+**3.** **a) La Zona Central.** a) El orden de norte a sur es Norte Grande, Norte Chico, Zona Central, Zona Sur y Zona Austral; después del Norte Chico viene la Zona Central.
 
 **4.** a) Norte Grande. Clima desértico, casi sin lluvias, con grandes yacimientos mineros.
 
@@ -161,7 +155,7 @@ producción de cobre de Chile.
 **8.** Falso. Se formaron durante millones de años: una vez extraídos, no se renuevan.
 no se regeneran en una escala de tiempo humana.
 
-**9.** c) Cada recurso depende de las condiciones naturales de su zona: bosques por el clima lluvioso del sur, pesca por el mar y la Corriente de Humboldt, minerales por la geología del norte. Las lluvias del sur permiten los bosques; la Corriente de Humboldt hace al mar chileno rico en peces, y el norte tiene grandes yacimientos de cobre y otros minerales.
+**9.** **c) Las condiciones naturales: el clima frío y ventoso dificulta los frutales, pero las praderas permiten criar ovejas.** c) Las actividades dependen de las condiciones naturales: en la Zona Austral el frío y el viento impiden muchos cultivos, pero sus amplias praderas sirven para criar ovejas.
 
 **10.** c) Usar riego por goteo y reparar las filtraciones de los canales. Así se aprovecha el agua sin desperdiciarla.
 cómo cuidar recursos renovables en el marco del desarrollo sostenible.

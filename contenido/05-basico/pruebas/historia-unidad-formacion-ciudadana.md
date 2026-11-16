@@ -49,14 +49,12 @@ d) Nadie, porque es un problema entre niños
 
 ---
 
-**4. (Alternativas — análisis de caso)** Una empresa se niega a contratar a una persona solo porque nació en
-otro país, aunque cumple con todos los requisitos del trabajo. ¿Qué principio de los derechos
-humanos se está vulnerando en este caso?
+**4. (Alternativas — análisis de caso)** En una escuela no dejan inscribirse en el taller de fútbol a una niña solo porque es mujer, aunque cumple todos los requisitos. ¿Qué principio de los derechos humanos se está vulnerando?
 
-a) El principio de universalidad: los derechos son iguales para todas las personas
-b) El principio de libertad de expresión de las personas extranjeras
-c) El derecho a la propiedad de la empresa, que puede contratar a quien quiera
-d) Ningún principio, porque contratar es una decisión privada de cada empresa
+a) El principio de universalidad e igualdad: los derechos son de todas las personas, sin discriminación
+b) La libertad de expresión de la niña
+c) El derecho de la escuela a organizar sus talleres como quiera
+d) Ningún principio, porque los talleres son voluntarios
 
 ---
 
@@ -139,7 +137,7 @@ sexo o el lugar de nacimiento: son los mismos para todas las personas.
 **3.** **c) Sus pares, la comunidad escolar y el Estado.** El respeto de los derechos es una responsabilidad compartida: los compañeros deben tratarla con respeto, la comunidad escolar debe intervenir y el Estado debe garantizar una educación segura.
 personas, el entorno cercano y las instituciones del Estado.
 
-**4.** a) El principio de universalidad: los derechos son iguales para todas las personas. Se discrimina por el lugar de nacimiento, que no debería influir en el acceso a los derechos.
+**4.** **a) El principio de universalidad e igualdad: los derechos son de todas las personas, sin discriminación.** a) Los derechos humanos son universales: valen para todas las personas por igual, sin importar su sexo; negarle el taller por ser mujer es discriminación.
 
 **5.** d) Sí, porque es persona desde que nace y es sujeto de derecho. Todas las personas tienen derechos desde que nacen, sin importar su edad ni lo que hagan. La Convención sobre los Derechos del Niño protege especialmente a niños y niñas.
 

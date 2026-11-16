@@ -118,8 +118,13 @@ un `[Imagen: …]` agregado, o los mismos datos del «Ejemplo 1» de la guía). 
 «misma pregunta y clave» (≥ 0,6 de similitud, 3 o más alternativas iguales y la misma respuesta correcta) y
 «escenario de la guía repetido» (una oración de situación o con datos, de 50 o más caracteres, idéntica a la guía).
 Al empezar había ~221 candidatas en total. **Revisados: 1.° básico** (12 rehechas, entre ellas un cuento copiado dentro del enunciado) **y 2.° básico** (9 rehechas
-y un artículo de lectura nuevo en el simulacro B). El detector de lecturas ahora también marca un párrafo único de 150 o
-más caracteres. Siguiente: 3.° básico.
+y un artículo de lectura nuevo en el simulacro B), **3.° básico** (9 rehechas, 1 plantilla) **y 4.° básico** (16 rehechas,
+incluido un gráfico de helados copiado entero de la guía que se reemplazó por uno propio de jugos; 9 plantillas)
+**y 5.° básico** (19 rehechas, 11 plantillas; falta su validación en Chromium).
+El detector de lecturas ahora también marca un párrafo único de 150 o más caracteres. Siguiente: 6.° básico
+(`candidatos('06-basico')`). Ejemplo ya visto ahí: geometría 5.
+Hecho cada curso: detector del curso en 0, `validar_evaluaciones_markdown.py`, `pytest -k "parser or corpus"`,
+validación en Chromium (`scripts/qa/reimportar_e2e.sh` + `scripts/qa/validar_material.sh "N° básico"`), commit.
 **Cómo decidir cada una** (con `match.match(archivo, n)` de `herramientas_auditoria`):
 - **Copia → rehacer** (`rehacer(...)`) si pregunta lo mismo con los mismos datos o la misma situación: misma flor, misma palabra,
   mismos números de la tabla o del pictograma, misma opción correcta por la misma razón.

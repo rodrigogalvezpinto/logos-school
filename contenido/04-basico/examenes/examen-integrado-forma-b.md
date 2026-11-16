@@ -108,12 +108,12 @@ d) "A la hora de la siesta se recuesta en los cerros"
 
 ---
 
-**6. (Ciencias Naturales)** La médula espinal, una estructura fundamental del sistema nervioso, se encuentra protegida dentro de:
+**6. (Ciencias Naturales)** La columna vertebral, formada por muchas vértebras, protege un órgano del sistema nervioso. ¿Cuál es?
 
-a) El cráneo
-b) Las costillas
-c) La columna vertebral
-d) El fémur
+a) El corazón
+b) Los pulmones
+c) La médula espinal
+d) El estómago
 
 ---
 
@@ -126,12 +126,12 @@ d) 15/24
 
 ---
 
-**8. (Historia, Geografía y Ciencias Sociales)** ¿Qué corriente marina favorece la abundancia de peces frente a las costas de Chile y Perú?
+**8. (Historia, Geografía y Ciencias Sociales)** ¿Qué característica de la corriente de Humboldt explica que haya tantos peces frente a Chile y Perú?
 
-a) Corriente del Golfo
-b) Corriente del Niño
-c) Corriente de Humboldt
-d) Corriente Antártica Circumpolar
+a) Es una corriente cálida que viene del ecuador
+b) Es una corriente que no tiene vida
+c) Es una corriente fría y rica en nutrientes, de los que se alimentan muchos peces
+d) Solo existe en invierno
 
 ---
 
@@ -154,12 +154,12 @@ d) Al alimentarse de animales muertos, el cóndor cumple un rol importante para 
 
 ---
 
-**10. (Ciencias Naturales)** El proceso por el cual la placa de Nazca se introduce lentamente bajo la placa Sudamericana, y que explica en gran parte la intensa actividad sísmica de Chile, se llama:
+**10. (Ciencias Naturales)** ¿Por qué en Chile ocurren tantos sismos?
 
-a) Erosión
-b) Subducción
-c) Evaporación
-d) Sedimentación
+a) Porque el viento erosiona las montañas
+b) Porque la placa de Nazca se introduce lentamente bajo la placa Sudamericana (subducción)
+c) Porque el agua del mar se evapora
+d) Porque los ríos depositan sedimentos
 
 ---
 
@@ -294,11 +294,11 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 3 | Matemática | **a) 744.** 124 × 6: (100×6) + (20×6) + (4×6) = 600 + 120 + 24 = 744. | OA 5 — Multiplicación de un número de tres dígitos por uno de un dígito |
 | 4 | Historia | **c) Ambas tenían gobierno monárquico y economía basada en la agricultura.** Característica común a mayas e incas. | OA 4 — Civilizaciones americanas |
 | 5 | Lenguaje | **d)** "A la hora de la siesta se recuesta en los cerros" atribuye una acción humana (recostarse a descansar) al viento. | OA N°5 — lenguaje figurado (personificación) |
-| 6 | Ciencias Naturales | **c) La columna vertebral.** Protege la médula espinal. | OA 7 — Sistema nervioso |
+| 6 | Ciencias Naturales | **c) La médula espinal.** c) Dentro de las vértebras pasa la médula espinal, que lleva mensajes entre el encéfalo y el resto del cuerpo. | OA 7 — Sistema nervioso |
 | 7 | Matemática | **a) 9/24.** De los 24 estudiantes del curso (denominador), 9 llevan colación de fruta (numerador). | OA 8 — Comprender las fracciones |
-| 8 | Historia | **c) Corriente de Humboldt.** Trae aguas frías ricas en nutrientes, favoreciendo la vida marina frente a Chile y Perú. | OA 9 — Recursos naturales |
+| 8 | Historia | **c) Es una corriente fría y rica en nutrientes, de los que se alimentan muchos peces.** c) La corriente de Humboldt trae agua fría con muchos nutrientes; allí crece el plancton, que alimenta a muchos peces. | OA 9 — Recursos naturales |
 | 9 | Lenguaje | **d)** Es la única idea que se deduce a partir de lo que el texto cuenta sobre la dieta carroñera del cóndor; a, b y c están explícitas. | OA N°6 — información implícita en textos no literarios |
-| 10 | Ciencias Naturales | **b) Subducción.** La placa de Nazca se introduce bajo la placa Sudamericana, explicando la intensa actividad sísmica de Chile. | OA 16 — Placas tectónicas: sismos, tsunamis y volcanes |
+| 10 | Ciencias Naturales | **b) Porque la placa de Nazca se introduce lentamente bajo la placa Sudamericana (subducción).** b) Chile está donde la placa de Nazca se mete bajo la Sudamericana; ese roce acumula energía que se libera en sismos. | OA 16 — Placas tectónicas: sismos, tsunamis y volcanes |
 | 11 | Matemática | **b) Multiplicar por 4.** Cada mesa tiene 4 sillas asociadas (1×4=4, 2×4=8, 3×4=12, 4×4=16). | OA 13 — Patrones numéricos en tablas |
 | 12 | Historia | **c) Recibir educación, alimentación y servicios médicos adecuados.** Derecho reconocido para todos los niños y niñas. | OA 12 — Derechos del niño |
 | 13 | Lenguaje | **a) Caminamos varias horas por el sendero de la reserva, por eso llegamos muy cansados a la cascada.** "Por eso" introduce la consecuencia: primero va la causa (caminar varias horas) y después el efecto (llegar cansados). Invertir el orden cambia el sentido. | OA N°17 — uso de conectores |

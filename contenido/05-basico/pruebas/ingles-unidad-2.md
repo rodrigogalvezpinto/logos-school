@@ -35,13 +35,12 @@ b) Tuesday
 c) sandwich
 d) red
 
-**2.** *(Completar)* Complete the postcard model: *"Dear Ana, the weather is ___. I like the beach."* Elige la palabra que combine mejor con "me
-gusta la playa".
+**2.** *(Completar)* Complete the postcard: "Dear Pedro, it is ___ here. I am wearing a big coat and a scarf." Elige la palabra que combine mejor con el abrigo y la bufanda.
 
-a) rainy
-b) cold
-c) snowy
-d) sunny
+a) hot
+b) sunny
+c) warm
+d) cold
 
 **3.** *(Alternativas)* ¿Qué palabra falta para empezar correctamente una postal: *"___ Grandma, I am in Arica."*?
 a) From
@@ -83,13 +82,12 @@ b) in
 c) next to
 d) under
 
-**9.** *(Completar con número)* Complete: *"There are ___ pencils in my pencil
-case."* (number 7)
+**9.** *(Completar con número)* Complete: "My brother is ___ years old." (number 11)
 
-a) six
-b) eight
-c) seventy
-d) seven
+a) ten
+b) twelve
+c) one
+d) eleven
 
 **10.** *(Verdadero o falso)* La oración *"The cat is under the bed"* significa que el gato está debajo de la cama.
 
@@ -111,7 +109,7 @@ d) Where are the shoes?
 ## Pauta de respuestas
 
 1. a) ruler. La lista de útiles escolares se completa con un útil: *ruler* (regla).
-2. d) sunny. Si el clima combina con ir a la playa, lo más coherente es un día soleado.
+2. **d) cold.** d) «Cold» significa «frío»: si Pedro usa un abrigo grande y una bufanda, hace frío. «Hot», «sunny» y «warm» describen calor o sol.
 3. **d) Dear.** Se usa al comienzo de cartas y postales, antes del nombre de quien la recibe.
 4. **False (Falso).** Aunque esté bien escrito gramaticalmente, no corresponde a
    una lista de compras de alimentos.
@@ -119,7 +117,7 @@ d) Where are the shoes?
 6. c) hat. *Hat* (sombrero) rima con *cat* y completa la oración con sentido.
 7. a) There. *There are* indica que hay varias cosas en un lugar (plural).
 8. **c) next to.** *On* es "sobre", *in* es "dentro de" y *under* es "debajo de".
-9. d) seven. Seven = siete; *seventy* es setenta.
+9. **d) eleven.** d) El número 11 en inglés es «eleven». «Ten» es 10, «twelve» es 12 y «one» es 1.
 10. **True (Verdadero).** *Under* significa "debajo de".
 11. b) I am. La respuesta corta a *Are you...?* es *Yes, I am.* o *No, I'm not.*
 12. **b) These are her shoes.** *Her* indica que los zapatos le pertenecen a ella.

@@ -302,7 +302,7 @@ def test_graficos_compartidos_no_se_pegan_a_alternativas_previas():
     assert preguntas[7].opciones == ["3", "9", "6", "12"]
     assert "Fruta favorita" not in preguntas[6].enunciado
     assert "| Fruta favorita |" in preguntas[7].enunciado
-    assert all("ventas de helados" in preguntas[n].enunciado for n in (8, 9))
+    assert all("jugos vendidos" in preguntas[n].enunciado for n in (8, 9))
 
 
 def test_lecturas_cuarto_basico_llegan_a_las_preguntas_correctas():

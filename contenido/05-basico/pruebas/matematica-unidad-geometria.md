@@ -47,7 +47,7 @@ b) 1 par de lados paralelos y 3 lados
 c) Ningún lado paralelo y 4 lados
 d) 1 par de lados paralelos y 4 lados
 
-**Pregunta 6.** Observa las paredes de una sala de clases: la pared del pizarrón y el piso, ¿qué posición geométrica tienen generalmente entre sí?
+**Pregunta 6.** Observa una puerta abierta de la sala: el borde vertical de la puerta y el umbral del piso. ¿Qué posición geométrica tienen generalmente entre sí?
 
 a) Son perpendiculares (forman 90°)
 b) Son paralelas, como las líneas de un cuaderno
@@ -100,7 +100,7 @@ d) Una traslación; no son congruentes
 3. a) Perpendiculares, porque se cruzan formando exactamente 90°. Toda perpendicularidad es una intersección con ángulo recto.
 4. **c) Son perpendiculares** — en el cubo, las aristas que se juntan en un vértice forman ángulos rectos.
 5. d) 1 par de lados paralelos y 4 lados. Un trapecio es un cuadrilátero (4 lados) con solo un par de lados paralelos. Si tuviera 2 pares, sería un paralelogramo.
-6. a) Son perpendiculares (forman 90°). Las paredes se construyen perpendiculares al piso para que la estructura sea estable.
+6. **a) Son perpendiculares (forman 90°).** a) El borde vertical de la puerta se encuentra con el piso formando un ángulo recto (90°): son perpendiculares.
 7. **b) Dos triángulos con lados de 4, 5 y 6 cm, uno de ellos girado** — tienen la misma forma y el mismo tamaño.
 8. **Falso** — la rotación solo cambia la posición: la figura conserva su forma y su tamaño.
 9. **b) Una rotación de 180°.** Girar la flecha media vuelta (180°) la deja apuntando al lado contrario, con la misma forma y tamaño. Una traslación solo la movería sin girarla.

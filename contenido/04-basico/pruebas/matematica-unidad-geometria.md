@@ -57,12 +57,12 @@ a) Reflexión
 b) Traslación
 c) Rotación
 
-**Pregunta 9 (alternativas).** ¿Cómo se vería la letra "b" minúscula si se refleja verticalmente (como en un espejo colocado a su derecha)?
+**Pregunta 9 (alternativas).** Ana escribe una «p» minúscula en una tarjeta y la pone de pie frente a un espejo. ¿Qué letra parece ver en el reflejo?
 
-a) Como la letra "p"
-b) Como la letra "q"
-c) Igual, como la letra "b"
-d) Como la letra "d"
+a) Una «b»
+b) Una «d»
+c) La misma «p»
+d) Una «q»
 
 ---
 
@@ -76,4 +76,4 @@ d) Como la letra "d"
 6. **Falso.** En una rotación la figura solo cambia de posición: su forma y su tamaño se mantienen.
 7. **b) Rotación.** El minutero gira alrededor de un punto fijo, el centro del reloj. De las 12 a las 3 da un cuarto de vuelta.
 8. a) Reflexión. El espejo actúa como un eje de reflexión: la imagen queda volteada, por eso la derecha se ve como izquierda.
-9. d) Como la letra "d". La parte curva que estaba a la derecha del palo queda a la izquierda.
+9. **d) Una «q».** d) El espejo invierte izquierda y derecha, pero no arriba y abajo: la barra de la «p» sigue hacia abajo, pero la curva queda al otro lado, y se ve como una «q».

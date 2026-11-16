@@ -79,12 +79,12 @@ b) x + 35 = 120
 c) x × 35 = 120
 d) 120 + 35 = x
 
-**Pregunta 11.** Para poder subir a un juego mecánico, un niño debe pesar más de 25 kg. Si x representa el peso del niño, ¿cuál inecuación representa esta condición, y cuáles de estos pesos cumplen la condición: 24 kg, 25 kg, 26 kg?
+**Pregunta 11.** Para participar en un concurso, una persona debe tener menos de 12 años. Si x representa la edad, ¿qué inecuación representa la condición y cuáles de estas edades la cumplen: 11, 12 y 13 años?
 
-a) x < 25; solo 24 kg
-b) x > 25; 25 kg y 26 kg
-c) x = 25; solo 25 kg
-d) x > 25; solo 26 kg
+a) x > 12; solo 13 años
+b) x < 12; 11 y 12 años
+c) x = 12; solo 12 años
+d) x < 12; solo 11 años
 
 **Pregunta 12.** Si x + 30 = 75, ¿cuál es el valor de x?
 
@@ -107,5 +107,5 @@ d) x = 75
 8. **Verdadero** — x = 300 + 125 = 425. Comprobación: 425 − 125 = 300.
 9. **a) x = 2.600.** Para despejar x se resta 2.400 a ambos lados: x = 5.000 − 2.400 = 2.600. Comprobación: 2.600 + 2.400 = 5.000.
 10. **b) x + 35 = 120** — cantidad inicial (x) más las regaladas (35) da la cantidad final (120); x = 85 láminas.
-11. d) x > 25; solo 26 kg. "Más de" es una desigualdad estricta: 25 kg justo no cumple.
+11. **d) x < 12; solo 11 años.** d) «Menos de 12» se escribe x < 12; 12 no cumple porque no es menor que 12, y 13 tampoco. Solo 11 años cumple.
 12. b) x = 45 — x = 75 − 30 = 45.

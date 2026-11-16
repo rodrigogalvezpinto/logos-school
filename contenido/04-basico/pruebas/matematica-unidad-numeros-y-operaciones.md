@@ -20,7 +20,8 @@ Instrucciones: lee cada pregunta con calma. En las preguntas de alternativas, ma
 
 ---
 
-**Pregunta 1 (alternativas).** ¿Cuál es el valor posicional del dígito 7 en el número 7.352?
+**Pregunta 1 (alternativas).** ¿Cuál es el valor posicional del dígito 4 en el número 4.069?
+
 a) Unidad
 b) Decena
 c) Centena
@@ -52,19 +53,19 @@ b) 14
 c) 78
 d) 90
 
-**Pregunta 6 (problema no rutinario).** Valentina quiere comprar una pelota de $4.500. Ya ahorró $1.800 vendiendo dulces, y su papá le va a dar $1.200 más. ¿Cuánto dinero le falta todavía para completar los $4.500?
+**Pregunta 6 (problema no rutinario).** Tomás quiere comprar un libro de $6.200. Ya tiene $2.500 de su mesada y su abuela le regalará $2.000. ¿Cuánto dinero le falta todavía para completar los $6.200?
 
-a) $3.000
-b) $1.500
-c) $2.700
-d) $7.500
+a) $4.500
+b) $1.700
+c) $3.700
+d) $10.700
 
-**Pregunta 7 (alternativas).** ¿Cuál es el orden de menor a mayor de las siguientes fracciones, considerando que todas se refieren al mismo entero: 1/2, 1/8, 1/4?
+**Pregunta 7 (alternativas).** Tres amigos comen trozos de pizzas iguales: uno come 1/3, otro 1/6 y otro 1/2. ¿Cuál es el orden de menor a mayor de esos trozos?
 
-a) 1/2 < 1/4 < 1/8
-b) 1/4 < 1/8 < 1/2
-c) 1/8 < 1/4 < 1/2
-d) 1/8 < 1/2 < 1/4
+a) 1/2 < 1/3 < 1/6
+b) 1/3 < 1/6 < 1/2
+c) 1/6 < 1/3 < 1/2
+d) 1/6 < 1/2 < 1/3
 
 **Pregunta 8 (alternativas).** Calcula: 2/6 + 3/6 = ?
 a) 5/12
@@ -83,12 +84,12 @@ d) 4/0
 
 ## Pauta de respuestas
 
-1. **d) Unidad de mil.** El 7 es el primer dígito de un número de 4 cifras, por lo tanto representa 7.000.
+1. **d) Unidad de mil.** d) En 4.069 el 4 está en el cuarto lugar desde la derecha: es la unidad de mil y vale 4.000.
 2. **c) 823.** 6+7=13 (escribo 3, reservo 1); 3+8+1=12 (escribo 2, reservo 1); 5+2+1=8 → 823. Si olvidas las reservas obtienes 713.
 3. a) 445. Como no hay decenas, se canjea una centena por 10 decenas y una de ellas por 10 unidades: 13−8=5; 9−5=4; 6−2=4. Comprobación: 445+258=703. Restar «el menor del mayor» en cada columna da 555, que es un error.
 4. **c) Multiplicación.** Hay grupos iguales que se repiten (8 cajas con la misma cantidad de lápices), por lo tanto se multiplica: 150 × 8 = 1.200.
 5. b) 14. 84 = 60 + 24; 60÷6=10 y 24÷6=4; 10+4=14. Comprobación: 14×6=84.
-6. b) $1.500. 1.800+1.200=3.000 (lo que tendrá); 4.500−3.000=1.500.
-7. c) 1/8 < 1/4 < 1/2. Con el mismo numerador (1), mientras más grande el denominador, más pequeña es la parte.
+6. **b) $1.700.** b) Primero se suma lo que tendrá: $2.500 + $2.000 = $4.500. Luego se resta del precio: $6.200 − $4.500 = $1.700.
+7. **c) 1/6 < 1/3 < 1/2.** c) Con el mismo numerador 1, mientras más partes tiene el entero, más pequeña es cada parte: 1/6 < 1/3 < 1/2.
 8. **c) 5/6.** Como ambas fracciones tienen el mismo denominador, se suman los numeradores (2+3=5) y se mantiene el denominador. Sumar también los denominadores (5/12) es un error frecuente.
 9. a) 4/8. 7/8 − 3/8 = 4/8 (se restan los numeradores y se mantiene el denominador).

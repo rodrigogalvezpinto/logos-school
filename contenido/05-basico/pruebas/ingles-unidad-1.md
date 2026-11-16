@@ -75,12 +75,11 @@ b) a shopping list
 c) a postcard
 d) a weather report
 
-**8.** *(Alternativas — desafiante)* Read a short email: *"Hi Diego, Thank you for
-the present. I'm sorry I didn't call you. See you soon, Camila."* ¿Qué expresa
-Camila en este email? (elige la opción más completa)
-a) Solo agradece
+**8.** *(Alternativas — desafiante)* Read a short message: "Hi Sofía, Happy birthday! I'm sorry I can't go to your party. Love, Tomás." ¿Qué expresa Tomás en este mensaje? (elige la opción más completa)
+
+a) Solo saluda por el cumpleaños
 b) Solo se disculpa
-c) Agradece y se disculpa
+c) Saluda por el cumpleaños y se disculpa por no ir
 d) Invita a una fiesta
 
 ---
@@ -120,8 +119,7 @@ d) Ana doesn't like music.
 5. **a) Agradecer un regalo.** *Thank you* y *present* (regalo) muestran que la persona agradece.
 6. **d) Sorry.** Se usa para pedir disculpas, por ejemplo por llegar tarde.
 7. b) a shopping list. Es una lista de alimentos para comprar.
-8. **c) Agradece y se disculpa.** El texto incluye *thank you* e *I'm sorry*: hay
-   que identificar ambas ideas.
+8. **c) Saluda por el cumpleaños y se disculpa por no ir.** c) «Happy birthday!» es un saludo de cumpleaños e «I'm sorry I can't go» es una disculpa: Tomás hace las dos cosas.
 9. **b) I think math is fun.** *I think* expresa una opinión; las otras oraciones describen hechos.
 10. **False (Falso).** El texto dice que a Martina le encanta la playa (*loves the beach*).
 11. c) like. Con el sujeto *I*, el verbo va en su forma simple (*likes* es para *he/she/it*).

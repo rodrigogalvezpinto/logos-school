@@ -89,13 +89,12 @@ d) Las dos fotos corresponden a los aztecas
 
 ---
 
-**9. (Alternativas — desafiante)** El Camino del Inca (Qhapaq Ñan) cruzaba el desierto de Atacama y llegaba hasta la zona central de Chile. ¿Qué nos dice este dato sobre el tamaño y la organización del
-imperio inca?
+**9. (Alternativas — desafiante)** Los incas tenían mensajeros llamados chasquis, que corrían por turnos llevando mensajes de una posta a otra, a lo largo de miles de kilómetros de caminos. ¿Qué nos dice este dato sobre el imperio inca?
 
-a) Que era un imperio pequeño que solo ocupaba el desierto de Atacama y sus alrededores
-b) Que era muy extenso y bien organizado, capaz de conectar territorios muy alejados con una red de caminos
-c) Que los incas no sabían construir caminos y usaban los que encontraban en el desierto
-d) Que los incas vivían solo en Chile y desde ahí viajaban a otros territorios de América
+a) Que era un imperio pequeño, donde todos vivían cerca unos de otros
+b) Que era muy extenso y bien organizado, con un sistema para comunicar territorios muy alejados
+c) Que los incas no tenían caminos y por eso debían correr
+d) Que los mensajes solo se enviaban dentro de una misma ciudad
 
 ---
 
@@ -114,4 +113,4 @@ d) Que los incas vivían solo en Chile y desde ahí viajaban a otros territorios
 6. **c) Sapa Inca** — Era el título del líder supremo del imperio inca.
 7. a) Semejanza: ambas eran sociedades agrícolas que cultivaban maíz y construyeron grandes templos de piedra. Diferencia: los mayas se organizaban en ciudades-Estado independientes y los incas en un gran imperio gobernado desde Cusco. También es una diferencia válida el lugar: los mayas, en la selva de Mesoamérica; los incas, en la zona andina.
 8. b) Foto A: mayas; Foto B: incas. Los mayas construyeron pirámides en la selva de Mesoamérica; los incas, ciudades de piedra en la cordillera de los Andes, como Machu Picchu.
-9. b) Que era muy extenso y bien organizado, capaz de conectar territorios muy alejados con una red de caminos. Esto explica los restos incas en el norte de Chile.
+9. **b) Que era muy extenso y bien organizado, con un sistema para comunicar territorios muy alejados.** b) Si hacía falta un sistema de mensajeros por turnos y miles de kilómetros de caminos, el imperio era muy grande y estaba bien organizado para comunicar sus territorios.

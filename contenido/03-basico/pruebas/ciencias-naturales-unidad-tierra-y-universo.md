@@ -24,22 +24,21 @@ Tierra. Cuando termines, revisa tus respuestas.
 
 ---
 
-**Pregunta 1 (alternativas).** ¿Cuál de los siguientes NO es un planeta, sino un
-cuerpo rocoso más pequeño que suele agruparse entre Marte y Júpiter?
-a) Un cometa
-b) Una estrella
-c) Una luna
-d) Un asteroide
+**Pregunta 1 (alternativas).** En el espacio hay cuerpos rocosos más pequeños que los planetas; muchos de ellos forman un cinturón entre Marte y Júpiter. ¿Cómo se llaman?
+
+a) Cometas
+b) Estrellas
+c) Lunas
+d) Asteroides
 
 **Pregunta 2 (verdadero o falso).** El Sol es una estrella que produce su propia luz.
 
-**Pregunta 3 (alternativas — ordenar).** ¿Cuál es el orden de estos planetas según su cercanía al Sol,
-del más cercano al más lejano: Tierra, Mercurio, Marte, Venus?
+**Pregunta 3 (alternativas — ordenar).** ¿Cuál de estos grupos de planetas está ordenado desde el más cercano al Sol hasta el más lejano?
 
-a) Mercurio → Venus → Tierra → Marte
-b) Tierra → Venus → Mercurio → Marte
-c) Venus → Mercurio → Marte → Tierra
-d) Mercurio → Tierra → Venus → Marte
+a) Venus → Marte → Júpiter → Saturno
+b) Saturno → Júpiter → Marte → Venus
+c) Marte → Venus → Saturno → Júpiter
+d) Júpiter → Venus → Marte → Saturno
 
 **Pregunta 4 (alternativas — observación).** Mira esta imagen: la Luna se ve oscura y casi no se distingue en el cielo nocturno.
 ::dibujo::🌑::
@@ -59,14 +58,12 @@ d) Las fases de la Luna
 
 **Pregunta 6 (verdadero o falso).** La Tierra demora aproximadamente un día en dar una vuelta completa alrededor del Sol.
 
-**Pregunta 7 (varias correctas — clasificar).** ¿Qué características corresponden a la **rotación** de la Tierra?
+**Pregunta 7 (varias correctas — clasificar).** Sofía dice: «La Tierra gira como un trompo sobre sí misma». ¿Qué es cierto sobre ese movimiento, llamado rotación? (Varias correctas: marca todas las alternativas correctas.)
 
-*(Varias correctas: marca todas las alternativas correctas.)*
-
-a) Dura aproximadamente 24 horas
-b) Dura aproximadamente 365 días
-c) Produce el día y la noche
-d) Es el recorrido de la Tierra alrededor del Sol
+a) Una vuelta completa toma cerca de un día
+b) Una vuelta completa toma cerca de un año
+c) Por este movimiento en un lugar es de día y luego de noche
+d) Es el viaje de la Tierra alrededor de la Luna
 
 **Pregunta 8 (alternativas — modelo).** Una profesora pone una lámpara en el centro de la sala y camina lentamente alrededor de ella llevando un globo terráqueo, hasta dar una vuelta completa. ¿Qué movimiento de la Tierra representa la vuelta completa?
 
@@ -75,24 +72,23 @@ b) La traslación, que dura cerca de un año
 c) Un eclipse de Sol, que oscurece la Tierra
 d) Las fases de la Luna, que cambian cada noche
 
-**Pregunta 9 (alternativas).** ¿Qué afirmación sobre la rotación y la traslación de la Tierra es correcta?
+**Pregunta 9 (alternativas).** Juan cumple años una vez al año y todos los días ve salir el Sol. ¿Qué movimientos de la Tierra explican esas dos cosas?
 
-a) La rotación dura cerca de 365 días y produce las estaciones; la traslación dura cerca de 24 horas y produce el día y la noche
-b) Las dos producen el día y la noche: la rotación ilumina el hemisferio norte y la traslación ilumina el hemisferio sur
-c) La rotación dura cerca de 24 horas y produce el día y la noche; la traslación dura cerca de 365 días y da origen al año
-d) La traslación es el giro de la Tierra sobre su propio eje y dura un día; la rotación es su vuelta alrededor de la Luna
+a) Los cumpleaños, por la rotación; el amanecer de cada día, por la traslación
+b) Las dos cosas se deben a que la Luna gira alrededor de la Tierra
+c) Los cumpleaños, por la traslación (una vuelta al Sol dura un año); el amanecer de cada día, por la rotación (un giro sobre su eje dura un día)
+d) Ninguna de las dos se debe a movimientos de la Tierra
 
 ---
 
 ## Pauta de respuestas
 
-1. **d) Un asteroide** — cuerpo rocoso más pequeño que los planetas; muchos se
-   agrupan en el cinturón de asteroides, entre Marte y Júpiter.
+1. **d) Asteroides.** d) Los asteroides son rocas más pequeñas que los planetas; muchos giran juntos en el cinturón de asteroides, entre Marte y Júpiter.
 2. **Verdadero** — el Sol es una estrella: produce luz y calor. La Luna, en cambio, solo refleja la luz del Sol.
-3. a) Mercurio → Venus → Tierra → Marte. Los planetas más cercanos al Sol son, en orden, Mercurio, Venus, Tierra y Marte.
+3. **a) Venus → Marte → Júpiter → Saturno.** a) El orden desde el Sol es Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno; por eso Venus va antes que Marte, Marte antes que Júpiter y Júpiter antes que Saturno.
 4. d) Luna nueva. La cara de la Luna que mira hacia la Tierra no está iluminada por el Sol.
 5. **b) La rotación.** Al girar sobre su eje (rotación), la Tierra tiene siempre una mitad iluminada por el Sol, donde es de día, y otra a oscuras, donde es de noche. Chile y China quedan en lados opuestos.
 6. **Falso** — la vuelta alrededor del Sol (traslación) dura aproximadamente 365 días; en un día la Tierra gira sobre sí misma (rotación).
-7. a y c — La rotación dura cerca de 24 horas y produce el día y la noche; la traslación dura cerca de 365 días y es el recorrido alrededor del Sol.
+7. **a y c.** a y c) La rotación es el giro de la Tierra sobre su eje: toma cerca de 24 horas (un día) y produce el día y la noche. La vuelta alrededor del Sol, que dura un año, es la traslación.
 8. **b) La traslación, que dura cerca de un año.** Dar una vuelta alrededor de la lámpara (el Sol) representa la traslación, que dura unos 365 días. Girar el globo sobre sí mismo sería la rotación.
-9. c) La rotación dura cerca de 24 horas y produce el día y la noche; la traslación dura cerca de 365 días y da origen al año. La rotación es el giro de la Tierra sobre sí misma (unas 24 horas: el día y la noche); la traslación es su vuelta alrededor del Sol (unos 365 días: un año).
+9. **c) Los cumpleaños, por la traslación (una vuelta al Sol dura un año); el amanecer de cada día, por la rotación (un giro sobre su eje dura un día).** c) La traslación, la vuelta de la Tierra alrededor del Sol, dura cerca de 365 días: un año. La rotación, el giro sobre su eje, dura cerca de 24 horas y por eso cada día amanece.

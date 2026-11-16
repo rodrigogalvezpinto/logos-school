@@ -30,14 +30,12 @@ d) Un alambre de aluminio
 
 **2.** *(Verdadero o falso)* Los cables eléctricos están cubiertos de plástico porque el plástico es un material aislante que protege de la corriente.
 
-**3.** ¿Qué materiales son **conductores** de la electricidad?
+**3.** Pedro quiere unir una pila con una ampolleta. ¿Qué objetos de su estuche le sirven como conductores de la electricidad? (Varias correctas: marca todas las alternativas correctas.)
 
-*(Varias correctas: marca todas las alternativas correctas.)*
-
-a) Aluminio
-b) Goma
-c) Cobre
-d) Plástico
+a) Un clip de metal
+b) Una regla de plástico
+c) Un trozo de alambre de cobre
+d) Una goma de borrar
 
 **4.** Las herramientas de un electricista, como los alicates, tienen mangos cubiertos de goma gruesa. ¿Por qué?
 
@@ -46,23 +44,19 @@ b) Porque la goma conduce la electricidad mejor que el metal
 c) Por razones de color, para que las herramientas sean fáciles de encontrar
 d) Para que las herramientas pesen más y no se caigan, aunque la goma conduce igual que el metal
 
-**5.** Si construyes un circuito eléctrico simple con una pila y una ampolleta, y
-pruebas cerrar el circuito usando una moneda de metal y luego una goma de borrar,
-¿en qué caso encenderá la ampolleta?
+**5.** Catalina arma un circuito con una pila y una ampolleta, y deja un espacio abierto. Prueba cerrar ese espacio con un palo de helado de madera y luego con una llave de metal. ¿En qué caso encenderá la ampolleta?
 
-a) Con la goma de borrar, porque es conductora
+a) Con el palo de madera, porque es conductor
 b) En los dos casos
 c) En ninguno de los dos casos
-d) Con la moneda de metal, porque es conductora
+d) Con la llave de metal, porque es conductora
 
-**6.** ¿Por qué es peligroso tocar un cable eléctrico pelado (sin su
-recubrimiento de plástico) y qué norma de seguridad se debe seguir frente a
-artefactos tecnológicos dañados?
+**6.** El cargador del celular de Javier tiene el cable roto y se ven los alambres de cobre. ¿Qué debe hacer Javier?
 
-a) Porque el plástico que queda alrededor quema al tocarlo; hay que tocarlo con la mano mojada para enfriarlo y así evitar quemarse
-b) Porque el conductor queda expuesto y la corriente puede pasar a la persona; no se debe manipular y hay que avisar a un adulto o desconectarlo de forma segura
-c) No es peligroso si el cable es delgado, porque por un cable delgado pasa muy poca corriente; basta con tocarlo rápido y con cuidado
-d) Porque se puede ensuciar con polvo y fallar; hay que limpiarlo con agua y un paño húmedo antes de volver a enchufar el artefacto
+a) Seguir usándolo con cuidado de no tocar la parte rota
+b) Desenchufarlo sin tocar la parte rota, no volver a usarlo y avisar a un adulto, porque los alambres expuestos pueden dar la corriente
+c) Cubrir los alambres con un paño húmedo
+d) Tocar los alambres con la mano seca para ver si todavía funciona
 
 **7.** ¿Cuál de los siguientes materiales es un buen aislador de electricidad?
 a) Aluminio
@@ -106,10 +100,10 @@ d) Ninguno de los dos
 
 1. **d) Un alambre de aluminio.** Los metales, como el aluminio y el cobre, son buenos conductores de la electricidad.
 2. **Verdadero.** El plástico es aislante: impide que la corriente pase a quien toca el cable.
-3. a y c — Conductores: aluminio y cobre. Aisladores: goma y plástico.
+3. **a y c.** a y c) El clip de metal y el alambre de cobre son metales, por lo que dejan pasar la corriente; el plástico y la goma son aislantes.
 4. **a) Porque la goma es aisladora: no deja pasar la corriente y protege la mano de quien trabaja con cables.** El metal de la herramienta es conductor; la goma es aisladora y evita que la corriente pase al cuerpo. Por eso conductores y aisladores se combinan en cables y herramientas.
-5. d) Con la moneda de metal, porque es conductora. La goma de borrar es aisladora y no permite el paso de la corriente.
-6. b) Porque el conductor queda expuesto y la corriente puede pasar a la persona; no se debe manipular y hay que avisar a un adulto o desconectarlo de forma segura. Sin el plástico aislador, el cobre queda a la vista y la corriente puede pasar al cuerpo, aunque el cable sea delgado. Nunca se toca ni se moja: se avisa a un adulto.
+5. **d) Con la llave de metal, porque es conductora.** d) Los metales conducen la electricidad y cierran el circuito; la madera seca es aislante y no deja pasar la corriente.
+6. **b) Desenchufarlo sin tocar la parte rota, no volver a usarlo y avisar a un adulto, porque los alambres expuestos pueden dar la corriente.** b) Si se ven los alambres, la corriente puede pasar a la persona; no se debe manipular el cable dañado, hay que dejar de usarlo y avisar a un adulto.
 7. **c) Goma.** Es un material aislador: impide el paso de la corriente eléctrica,
    por eso protege a las personas de descargas.
 8. **Falso.** El aluminio es un buen conductor de electricidad, no un aislador.
