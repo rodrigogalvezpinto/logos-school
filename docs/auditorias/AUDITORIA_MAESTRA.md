@@ -1821,4 +1821,9 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
   dado 300 veces, pecera 60 × 30 × 40, etc.) y una pregunta de Historia que repetía la guía (golpe de 1973 → asunción de
   Aylwin en 1990). Corpus 6.431 preguntas, 0 sin OA; pytest 145; E2E 6.° básico 29/29 en Chromium. `forma_a.py` ahora
   admite marcar la correcta con «*» y quita el punto duplicado en la pauta (corregido también en Inglés 5.° básico).
+- 7.° básico (2026-11-16): las 5 Formas A listas (Matemática, Ciencias Naturales, Historia —con un mapa del
+  Mediterráneo—, Lengua y Literatura con textos nuevos, Inglés). En la revisión se cambiaron 10 datos de Matemática que
+  coincidían con la guía o con pruebas, la pregunta de menstruación y la de separación de mezclas de Ciencias (iguales a
+  una prueba), un texto de Inglés sobre Gabriela Mistral que ya usaba una prueba y una pregunta de Lengua parecida a la
+  guía. Corpus 6.556 preguntas, 0 sin OA; pytest 145; E2E 7.° básico 29/29 en Chromium.
 

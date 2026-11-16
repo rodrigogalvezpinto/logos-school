@@ -222,8 +222,8 @@ tutor IA detrás de variable de entorno, pasarela de pago detrás de variable de
 (cuentas y claves que debe crear el dueño).
 
 ### 6.7 Tarea 8 — simulacros Forma A del régimen B/C (en curso)
-Estado: 5.° y 6.° básico listos (Matemática, Ciencias Naturales, Historia, Lenguaje, Inglés). Faltan 7.° básico a 4.° medio:
-32 archivos (`<asignatura>-examen-forma-a.md`, mismas asignaturas que la Forma B de cada curso).
+Estado: 5.°, 6.° y 7.° básico listos (5 asignaturas cada uno). Faltan 8.° básico a 4.° medio:
+27 archivos (`<asignatura>-examen-forma-a.md`, mismas asignaturas que la Forma B de cada curso).
 
 Procedimiento por archivo (el importador ya reconoce `forma-a` y crea «Examen <asignatura> Forma A»):
 1. Leer la Forma B: secciones, OA por pregunta, puntajes, tipos (alternativas, varias correctas, V/F) y formato de la pauta.
