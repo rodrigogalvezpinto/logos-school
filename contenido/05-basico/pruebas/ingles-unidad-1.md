@@ -119,7 +119,7 @@ d) Ana doesn't like music.
 5. **a) Agradecer un regalo.** *Thank you* y *present* (regalo) muestran que la persona agradece.
 6. **d) Sorry.** Se usa para pedir disculpas, por ejemplo por llegar tarde.
 7. b) a shopping list. Es una lista de alimentos para comprar.
-8. **c) Saluda por el cumpleaños y se disculpa por no ir.** c) «Happy birthday!» es un saludo de cumpleaños e «I'm sorry I can't go» es una disculpa: Tomás hace las dos cosas.
+8. **c) Saluda por el cumpleaños y se disculpa por no ir.** «Happy birthday!» es un saludo de cumpleaños e «I'm sorry I can't go» es una disculpa: Tomás hace las dos cosas.
 9. **b) I think math is fun.** *I think* expresa una opinión; las otras oraciones describen hechos.
 10. **False (Falso).** El texto dice que a Martina le encanta la playa (*loves the beach*).
 11. c) like. Con el sujeto *I*, el verbo va en su forma simple (*likes* es para *he/she/it*).

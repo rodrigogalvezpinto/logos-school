@@ -280,7 +280,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 
 | N° | Clave / Respuesta esperada | OA | Eje |
 |---|---|---|---|
-| 1 | **b) −75 m.** b) Descender es restar: −45 − 30 = −75. Queda a 75 metros bajo el nivel del mar. | OA 1 | Números y Operaciones |
+| 1 | **b) −75 m.** Descender es restar: −45 − 30 = −75. Queda a 75 metros bajo el nivel del mar. | OA 1 | Números y Operaciones |
 | 2 | **b) 5 °C.** −7 + 12 = 5: si partes en −7 y subes 12 grados, pasas el 0 y llegas a 5 °C. −19 resultaría de restar en vez de sumar. | OA 1 | Números y Operaciones |
 | 3 | **a) 15 °C.** 6 − (−9) = 6 + 9 = 15 °C. Restar un negativo equivale a sumar su valor; 3 °C resulta de restar 9 en vez de sumarlo. | OA 1 | Números y Operaciones |
 | 4 | c) 1/6 ((3×2)/(4×9)=6/36, simplificado dividiendo por 6 = 1/6) | OA 3 | Números y Operaciones |
@@ -292,11 +292,11 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 10 | **a) 3x − 4.** «El triple de un número» es 3x y «disminuido en 4» resta 4 al resultado: 3x − 4. 3(x − 4) restaría 4 antes de triplicar. | OA 6 | Patrones y Álgebra |
 | 11 | **d) 3n + 4.** Cada figura agrega 3 fósforos, así que la expresión es 3n + algo. Para n = 1 debe dar 7: 3·1 + 4 = 7. Comprobación: 3·2 + 4 = 10 y 3·3 + 4 = 13. | OA 6 | Patrones y Álgebra |
 | 12 | **c) x + (x + 1) + (x + 2) = 48; 15, 16 y 17.** x + (x + 1) + (x + 2) = 48 → 3x + 3 = 48 → x = 15; los números son 15, 16 y 17 (suman 48). | OA 6 | Patrones y Álgebra |
-| 13 | **b) $10.500.** b) Cada cuaderno cuesta $6.000 ÷ 4 = $1.500, y 7 × $1.500 = $10.500. | OA 8 | Patrones y Álgebra |
+| 13 | **b) $10.500.** Cada cuaderno cuesta $6.000 ÷ 4 = $1.500, y 7 × $1.500 = $10.500. | OA 8 | Patrones y Álgebra |
 | 14 | **a) Proporcionalidad directa.** Si compras el doble de cuadernos pagas el doble: ambas cantidades varían en la misma razón (proporcionalidad directa). | OA 8 | Patrones y Álgebra |
 | 15 | **d) 9 horas.** Es proporcionalidad inversa: llaves × horas es constante, 3 × 12 = 36; con 4 llaves, 36 ÷ 4 = 9 horas. 16 horas sería tratarla como directa. | OA 8 | Patrones y Álgebra |
 | 16 | **c) 60 cm.** El diámetro mide el doble del radio: 2 × 30 = 60 cm. 188,4 cm es el perímetro y 900 es el radio al cuadrado. | OA 11 | Geometría |
-| 17 | **d) 78,5 dm².** d) El área del círculo es π × r² = 3,14 × 5 × 5 = 78,5 dm². 31,4 dm² es el perímetro (2 × π × r). | OA 11 | Geometría |
+| 17 | **d) 78,5 dm².** El área del círculo es π × r² = 3,14 × 5 × 5 = 78,5 dm². 31,4 dm² es el perímetro (2 × π × r). | OA 11 | Geometría |
 | 18 | **d) 1.256 cm².** A = π · r² = 3,14 × 20² = 3,14 × 400 = 1.256 cm². 125,6 es el perímetro (2πr) y 400 es solo r². | OA 11 | Geometría |
 | 19 | **d) Cuadrante IV.** x positivo y y negativo: el punto está a la derecha y abajo del origen, en el cuadrante IV. | OA 14 | Geometría |
 | 20 | **a) (2, −2).** A la derecha suma a x: −1 + 3 = 2; hacia abajo resta a y: 5 − 7 = −2. Cada movimiento afecta solo a su coordenada. | OA 14 | Geometría |

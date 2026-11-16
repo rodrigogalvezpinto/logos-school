@@ -122,11 +122,11 @@ d) Zona fría → Zona cálida → Zona templada
 |----|---------------------|
 | 1  | c) La Tierra en el hemisferio norte y el hemisferio sur. El Ecuador es una línea imaginaria que rodea la Tierra por la mitad: al norte queda el hemisferio norte y al sur, el hemisferio sur. |
 | 2  | Verdadero — ambos países están al norte de la línea del Ecuador |
-| 3  | **c) América.** c) Chile está en América, específicamente en América del Sur, que en el modelo de seis continentes forma parte del continente americano. |
+| 3  | **c) América.** Chile está en América, específicamente en América del Sur, que en el modelo de seis continentes forma parte del continente americano. |
 | 4  | a) 1-C, 2-B, 3-A — Chile en el hemisferio sur, el Polo Norte en el extremo superior y Canadá en el hemisferio norte |
 | 5  | d) Trópico de Cáncer → Círculo Polar Ártico → Polo Norte. Desde el Ecuador hacia el norte se encuentra primero el Trópico de Cáncer, luego el Círculo Polar Ártico y al final el Polo Norte. |
 | 6  | b) Templada — tiene estaciones marcadas, con veranos cálidos e inviernos fríos |
 | 7  | Falso — en la zona fría, cerca de los polos, las temperaturas son bajas casi todo el año |
 | 8  | d) 1-B, 2-A, 3-C — zona fría con abrigos, zona cálida con ropa liviana y zona templada con ropa según la estación |
-| 9  | **b) Zona fría.** b) El hielo, los pingüinos y la ropa muy abrigada muestran temperaturas muy bajas casi todo el año: es una zona fría. |
+| 9  | **b) Zona fría.** El hielo, los pingüinos y la ropa muy abrigada muestran temperaturas muy bajas casi todo el año: es una zona fría. |
 | 10 | a) Zona fría → Zona templada → Zona cálida. Cerca del polo está la zona fría; al acercarse al Ecuador se pasa por la zona templada y se llega a la zona cálida. |

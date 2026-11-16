@@ -102,7 +102,7 @@ d) Porque evaluar impide construir cualquier obra
 3. **a) 1-C, 2-B, 3-A.** Los cenotes daban agua, un recurso que favoreció el asentamiento (C); la tala en Rapa Nui muestra cómo un medio frágil se degrada (B), y los tsunamis son una amenaza del entorno para los pueblos costeros (A).
 4. a, b y c — Las terrazas, los diques y los canales transforman el entorno; un grupo que solo se desplaza tras los animales no ilustra la transformación.
 5. d) Las crecidas del Nilo depositaban limo fértil en sus orillas, lo que permitió una agricultura productiva en medio del desierto.
-6. **c) Que algunos entornos son frágiles y pueden dañarse de forma grave, por lo que hay que usarlos con cuidado.** c) El caso muestra la fragilidad del medio: cuando un entorno limitado se sobreexplota, el daño puede ser severo y difícil de revertir; por eso se deben tomar decisiones responsables.
+6. **c) Que algunos entornos son frágiles y pueden dañarse de forma grave, por lo que hay que usarlos con cuidado.** El caso muestra la fragilidad del medio: cuando un entorno limitado se sobreexplota, el daño puede ser severo y difícil de revertir; por eso se deben tomar decisiones responsables.
 7. b) Construir edificios con normas antisísmicas, que reducen los daños en un terremoto.
 8. Verdadero. La agricultura generó los primeros impactos importantes en el medio, como la tala de bosques y la modificación de cursos de agua.
 9. **c) 1: escala local; 2: escala global.** El punto de reciclaje lo organiza una comunidad en su barrio (escala local); el Acuerdo de París compromete a países de todo el mundo (escala global).

@@ -126,7 +126,7 @@ d) Las tres son materialismo
 4. a — la filosofía no acepta afirmaciones solo por la autoridad o la fama de quien las dice: exige examinar razones.
 5. a — la pregunta filosófica no se responde con un dato, sino examinando conceptos como identidad, cambio y permanencia.
 6. d. La pregunta no se resuelve con un dato ni con una ley: exige precisar qué significa "deber" y argumentar razones a favor y en contra.
-7. **b) Después de ver que en un partido se castigó solo a un equipo por la misma falta, preguntarse qué es la justicia y si las reglas deben aplicarse igual a todos.** b) La filosofía suele comenzar con una experiencia concreta que provoca asombro o incomodidad y lleva a una pregunta de fondo; aquí, una situación del partido abre la pregunta por la justicia.
+7. **b) Después de ver que en un partido se castigó solo a un equipo por la misma falta, preguntarse qué es la justicia y si las reglas deben aplicarse igual a todos.** La filosofía suele comenzar con una experiencia concreta que provoca asombro o incomodidad y lleva a una pregunta de fondo; aquí, una situación del partido abre la pregunta por la justicia.
 8. c — la ontología estudia el ser, la existencia y los modos de ser; las otras preguntas son de epistemología, ética y lógica.
 9. Verdadero — para el materialismo, los estados mentales se explican a partir de procesos físicos.
 10. d) 1-B, 2-C, 3-A. El idealismo afirma que el mundo depende de una mente que lo percibe (B); el materialismo, que todo es materia (C), y el dualismo, que alma y cuerpo son sustancias distintas (A).

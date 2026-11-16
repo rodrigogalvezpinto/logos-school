@@ -436,14 +436,14 @@ d) El eucalipto
 
 *Fuente:* `contenido/03-basico/pruebas/historia-unidad-geografia.md` (pregunta 3) · *Tipo:* alternativas
 
-Según el modelo estudiado en la guía, que considera a América como un solo continente, ¿cuántos continentes tiene el planeta Tierra?
+Según el modelo de seis continentes estudiado, ¿en qué continente se encuentra Chile?
 
-a) Cuatro
-b) Cinco
-c) Seis  ✅
-d) Siete
+a) Europa
+b) Asia
+c) América  ✅
+d) Oceanía
 
-**Explicación que verá el alumno:** c) Seis. Si América se cuenta como un solo continente, son seis: América, Europa, Asia, África, Oceanía y la Antártica.
+**Explicación que verá el alumno:** c) América. c) Chile está en América, específicamente en América del Sur, que en el modelo de seis continentes forma parte del continente americano.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

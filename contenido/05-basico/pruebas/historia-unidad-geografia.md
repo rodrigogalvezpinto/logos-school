@@ -139,7 +139,7 @@ parte de la producción de cobre del país.
 **2.** Verdadero. Los valles transversales del Norte Chico, como el Elqui y el Limarí, permiten la agricultura.
 densidad y cantidad de población de Chile.
 
-**3.** **a) La Zona Central.** a) El orden de norte a sur es Norte Grande, Norte Chico, Zona Central, Zona Sur y Zona Austral; después del Norte Chico viene la Zona Central.
+**3.** **a) La Zona Central.** El orden de norte a sur es Norte Grande, Norte Chico, Zona Central, Zona Sur y Zona Austral; después del Norte Chico viene la Zona Central.
 
 **4.** a) Norte Grande. Clima desértico, casi sin lluvias, con grandes yacimientos mineros.
 
@@ -155,7 +155,7 @@ producción de cobre de Chile.
 **8.** Falso. Se formaron durante millones de años: una vez extraídos, no se renuevan.
 no se regeneran en una escala de tiempo humana.
 
-**9.** **c) Las condiciones naturales: el clima frío y ventoso dificulta los frutales, pero las praderas permiten criar ovejas.** c) Las actividades dependen de las condiciones naturales: en la Zona Austral el frío y el viento impiden muchos cultivos, pero sus amplias praderas sirven para criar ovejas.
+**9.** **c) Las condiciones naturales: el clima frío y ventoso dificulta los frutales, pero las praderas permiten criar ovejas.** Las actividades dependen de las condiciones naturales: en la Zona Austral el frío y el viento impiden muchos cultivos, pero sus amplias praderas sirven para criar ovejas.
 
 **10.** c) Usar riego por goteo y reparar las filtraciones de los canales. Así se aprovecha el agua sin desperdiciarla.
 cómo cuidar recursos renovables en el marco del desarrollo sostenible.

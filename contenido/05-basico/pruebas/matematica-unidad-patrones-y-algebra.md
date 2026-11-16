@@ -107,5 +107,5 @@ d) x = 75
 8. **Verdadero** — x = 300 + 125 = 425. Comprobación: 425 − 125 = 300.
 9. **a) x = 2.600.** Para despejar x se resta 2.400 a ambos lados: x = 5.000 − 2.400 = 2.600. Comprobación: 2.600 + 2.400 = 5.000.
 10. **b) x + 35 = 120** — cantidad inicial (x) más las regaladas (35) da la cantidad final (120); x = 85 láminas.
-11. **d) x < 12; solo 11 años.** d) «Menos de 12» se escribe x < 12; 12 no cumple porque no es menor que 12, y 13 tampoco. Solo 11 años cumple.
+11. **d) x < 12; solo 11 años.** «Menos de 12» se escribe x < 12; 12 no cumple porque no es menor que 12, y 13 tampoco. Solo 11 años cumple.
 12. b) x = 45 — x = 75 − 30 = 45.

@@ -299,7 +299,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 4 | Alternativas | d) Biológica. Producir gametos y las respuestas fisiológicas del cuerpo son procesos de la dimensión biológica de la sexualidad. | OA 3 |
 | 5 | Alternativas | a) Porque permite tomar decisiones informadas sobre la propia sexualidad. Contar con información confiable permite decidir de forma responsable y usar métodos eficaces; no garantiza ni obliga a ninguna decisión. | OA 3 |
 | 6 | Alternativas | **d) Aseguran una participación libre e informada y permiten acordar métodos de protección y expresar límites, reduciendo riesgos físicos (embarazo no planificado, ITS) y emocionales.** El consentimiento asegura que ambas personas participan libremente, y la comunicación permite acordar cómo protegerse física y emocionalmente. | OA 3 |
-| 7 | Alternativas | **a) La mitosis.** a) La mitosis produce dos células hijas idénticas a la célula madre; así crecen y se reparan los tejidos. La meiosis forma gametos y la no disyunción es un error de separación de cromosomas. | OA 6 |
+| 7 | Alternativas | **a) La mitosis.** produce dos células hijas idénticas a la célula madre; así crecen y se reparan los tejidos. La meiosis forma gametos y la no disyunción es un error de separación de cromosomas. | OA 6 |
 | 8 | Alternativas | c) La meiosis reduce a la mitad el número de cromosomas de las células hijas; la mitosis lo mantiene. La meiosis produce cuatro células con la mitad de los cromosomas (los gametos); la mitosis produce dos células idénticas con el número completo. | OA 6 |
 | 9 | Alternativas | **d) La meiosis, en la que la permutación y la segregación de cromosomas generan gametos distintos.** Cada fecundación combina gametos diferentes, por eso cada hijo es único. | OA 6 |
 | 10 | Alternativas | **a) Como un organismo transgénico, porque recibió un gen de otra especie.** Así se produce hoy la insulina para personas con diabetes. | OA 8 |
@@ -308,9 +308,9 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 13 | Alternativas | b) MRUA, porque su velocidad cambia de manera constante en el tiempo. En caída libre, la aceleración de gravedad es constante (cerca de 9,8 m/s²): la velocidad aumenta de manera uniforme, y eso es un MRUA. | OA 9 |
 | 14 | Alternativas | **c) 3 m/s²: su velocidad aumenta 3 m/s cada segundo.** a = (15 − 0)/5 = 3 m/s². | OA 9 |
 | 15 | Alternativas | c) Tercera ley (acción y reacción) — el pie empuja el suelo hacia atrás y el suelo empuja el pie hacia adelante con la misma fuerza y en sentido opuesto | OA 10 |
-| 16 | Alternativas | **a) Es cero: la fuerza del cable y el peso se equilibran.** a) Si la velocidad es constante, no hay aceleración, por lo que la fuerza neta es cero: la tensión del cable equilibra el peso del ascensor. | OA 10 |
+| 16 | Alternativas | **a) Es cero: la fuerza del cable y el peso se equilibran.** Si la velocidad es constante, no hay aceleración, por lo que la fuerza neta es cero: la tensión del cable equilibra el peso del ascensor. | OA 10 |
 | 17 | Alternativas | **a) 20 N y 2 m/s².** Fuerza neta: 25 − 5 = 20 N; a = 20/10 = 2 m/s². | OA 10 |
-| 18 | Alternativas | **c) Claudio Ptolomeo.** c) Ptolomeo, en el siglo II, sistematizó el modelo geocéntrico en el Almagesto. Copérnico propuso el heliocéntrico, Galileo lo apoyó con el telescopio y Newton explicó la gravitación. | OA 13 |
+| 18 | Alternativas | **c) Claudio Ptolomeo.** Ptolomeo, en el siglo II, sistematizó el modelo geocéntrico en el Almagesto. Copérnico propuso el heliocéntrico, Galileo lo apoyó con el telescopio y Newton explicó la gravitación. | OA 13 |
 | 19 | Alternativas | **d) Que las explicaciones científicas cambian cuando surge nueva evidencia que las contradice.** El conocimiento científico es provisional y se revisa con evidencia. | OA 13 |
 | 20 | Alternativas | **b) La sal, porque está en menor cantidad y se disuelve en el agua.** El agua es el solvente. | OA 15 |
 | 21 | Alternativas | c) Solución sólida (aleación) — el bronce es una mezcla homogénea de cobre y estaño, con propiedades distintas a las de sus componentes | OA 15 |

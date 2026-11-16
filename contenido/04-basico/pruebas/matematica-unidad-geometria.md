@@ -76,4 +76,4 @@ d) Una «q»
 6. **Falso.** En una rotación la figura solo cambia de posición: su forma y su tamaño se mantienen.
 7. **b) Rotación.** El minutero gira alrededor de un punto fijo, el centro del reloj. De las 12 a las 3 da un cuarto de vuelta.
 8. a) Reflexión. El espejo actúa como un eje de reflexión: la imagen queda volteada, por eso la derecha se ve como izquierda.
-9. **d) Una «q».** d) El espejo invierte izquierda y derecha, pero no arriba y abajo: la barra de la «p» sigue hacia abajo, pero la curva queda al otro lado, y se ve como una «q».
+9. **d) Una «q».** El espejo invierte izquierda y derecha, pero no arriba y abajo: la barra de la «p» sigue hacia abajo, pero la curva queda al otro lado, y se ve como una «q».

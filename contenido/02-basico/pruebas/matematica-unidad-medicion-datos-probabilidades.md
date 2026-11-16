@@ -46,12 +46,12 @@ d) 15 cm
 
 ---
 
-**Pregunta 4.** Un grupo de niños lanzó una moneda 10 veces y registró: cara (7), sello (3). ¿Cuántas veces salió sello?
+**Pregunta 4.** Un grupo de niños lanzó una moneda 10 veces y registró: cara (7), sello (3). ¿Cuántas veces más salió cara que sello?
 
 a) 10
 b) 7
-c) 3
-d) 0
+c) 4
+d) 3
 
 ---
 
@@ -98,7 +98,7 @@ c) Fútbol
 1. **d) Centímetros.** La goma es un objeto pequeño: se mide en centímetros.
 2. c) La cinta. 18 cm es menor que 25 cm.
 3. a) 25 cm. 40 − 15 = 25: se resta el pedazo cortado al largo total.
-4. **c) 3.** Sello salió 3 veces según la tabla.
+4. **c) 4.** Cara salió 7 veces y sello 3: 7 − 3 = 4 veces más. 10 es el total de lanzamientos.
 5. **b) Cara.** 6 es más que 4: salió más veces cara.
 6. **b) 9.** Cada estrella vale 3 puntos: 3 + 3 + 3 = 9 puntos.
 7. d) 4. La barra de "En bicicleta" llega hasta el número 4.

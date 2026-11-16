@@ -261,14 +261,14 @@ d) x = 0
 
 *Fuente:* `contenido/02-medio/examenes/ciencias-naturales-examen-forma-b.md` (pregunta 16) · *Tipo:* alternativas
 
-Un objeto se mueve con velocidad constante en línea recta. ¿Qué se puede concluir, según la primera ley de Newton, sobre la fuerza neta que actúa sobre él?
+Un ascensor sube a velocidad constante entre el piso 2 y el piso 8. Según la primera ley de Newton, ¿qué se puede concluir sobre la fuerza neta que actúa sobre el ascensor en ese tramo?
 
-a) Es igual a cero, aunque pueden existir varias fuerzas actuando que se cancelan entre sí  ✅
-b) Es distinta de cero y apunta en el mismo sentido en que se mueve el objeto
-c) Es distinta de cero y apunta en sentido contrario al movimiento del objeto
-d) No se puede determinar si no se conoce la masa del objeto que se mueve
+a) Es cero: la fuerza del cable y el peso se equilibran  ✅
+b) Es distinta de cero y apunta hacia arriba
+c) Es distinta de cero y apunta hacia abajo
+d) No se puede saber sin conocer la masa del ascensor
 
-**Explicación que verá el alumno:** a) Es igual a cero, aunque pueden existir varias fuerzas actuando que se cancelan entre sí. Según la primera ley de Newton, si la velocidad es constante, la fuerza neta es cero: pueden actuar varias fuerzas, pero se equilibran.
+**Explicación que verá el alumno:** a) Es cero: la fuerza del cable y el peso se equilibran. a) Si la velocidad es constante, no hay aceleración, por lo que la fuerza neta es cero: la tensión del cable equilibra el peso del ascensor.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -284,14 +284,14 @@ d) No se puede determinar si no se conoce la masa del objeto que se mueve
 
 *Fuente:* `contenido/02-medio/examenes/historia-geografia-y-cs-sociales-examen-forma-b.md` (pregunta 8) · *Tipo:* alternativas
 
-¿Qué nombre recibieron las reformas de transparencia y reestructuración impulsadas por Mijaíl Gorbachov en la URSS durante la década de 1980, que terminaron acelerando la crisis del sistema soviético?
+A fines de la década de 1980, los ciudadanos soviéticos pudieron criticar por primera vez al gobierno en la prensa, y la economía empezó a abrirse a ciertas empresas privadas. ¿Qué reformas de Gorbachov describen estos cambios?
 
 a) Alianza para el Progreso y Doctrina de la Seguridad Nacional
 b) Plan Laboral y Plan Marshall
 c) New Deal y Estado de Bienestar
-d) Perestroika y Glasnost  ✅
+d) Glasnost y Perestroika  ✅
 
-**Explicación que verá el alumno:** d) Perestroika y Glasnost. Perestroika ("reestructuración") y Glasnost ("transparencia") fueron las reformas de Gorbachov; terminaron acelerando la crisis y la disolución de la URSS (1991).
+**Explicación que verá el alumno:** d) Glasnost y Perestroika. d) La Glasnost («transparencia») abrió la libertad de prensa y la Perestroika («reestructuración») reformó la economía; juntas aceleraron la crisis del sistema soviético.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

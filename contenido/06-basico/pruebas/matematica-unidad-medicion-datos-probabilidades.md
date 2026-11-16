@@ -124,4 +124,4 @@ d) 50% y 200 estudiantes
 9. d) Hay más bolitas rojas que azules, en una razón cercana a 7:3. Se observó 70% rojas y 30% azules.
 10. **b) 60** — 30% de 200 = 0,3 × 200 = 60.
 11. c) En abril, por 9 libros — es el único mes en que la barra de 6ºB supera a la de 6ºA: 31 − 22 = 9.
-12. **c) 20% y 80 estudiantes.** c) Un quinto del círculo es 100 % ÷ 5 = 20 %, y el 20 % de 400 es 400 ÷ 5 = 80 estudiantes.
+12. **c) 20% y 80 estudiantes.** Un quinto del círculo es 100 % ÷ 5 = 20 %, y el 20 % de 400 es 400 ÷ 5 = 80 estudiantes.

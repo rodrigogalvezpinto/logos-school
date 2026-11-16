@@ -68,6 +68,6 @@ d) El pajarito tiene un tono más agudo y el camión, más intensidad
 1. **c) Reflexión (eco)** — el sonido rebota en las paredes y vuelve a tus oídos.
 2. **Verdadero** — el sonido se transmite por los sólidos, como la madera, y también por el aire y el agua.
 3. **a) Rebota en las paredes y vuelve a sus oídos (reflexión del sonido o eco).** El sonido viaja, choca con las paredes duras y vuelve: eso es el eco. Las cortinas o los cojines, en cambio, absorben el sonido.
-4. **a) Se parecen en el tono (ambos son agudos) y se diferencian en la intensidad (suave y fuerte).** a) Los dos sonidos son agudos, así que se parecen en el tono; uno es suave y el otro fuerte, así que se diferencian en la intensidad (el volumen).
-5. **b) En el gimnasio grande y vacío.** b) En el gimnasio vacío el sonido rebota en las paredes duras y vuelve como eco; en el dormitorio la alfombra, las cortinas y las frazadas absorben el sonido.
+4. **a) Se parecen en el tono (ambos son agudos) y se diferencian en la intensidad (suave y fuerte).** Los dos sonidos son agudos, así que se parecen en el tono; uno es suave y el otro fuerte, así que se diferencian en la intensidad (el volumen).
+5. **b) En el gimnasio grande y vacío.** En el gimnasio vacío el sonido rebota en las paredes duras y vuelve como eco; en el dormitorio la alfombra, las cortinas y las frazadas absorben el sonido.
 6. d) El pajarito tiene un tono más agudo y el camión, más intensidad. El tono indica si un sonido es agudo o grave; la intensidad, si es fuerte o débil.

@@ -186,4 +186,4 @@ d) El texto queda más largo, que es lo importante
 
 **14.** b. La coherencia temática exige que todas las partes del ensayo se mantengan enfocadas en el mismo tema central.
 
-**15.** **a, b y c.** a, b y c) Citar la fuente permite verificar el dato, reconoce su origen y da credibilidad al argumento; alargar el texto no es un objetivo de la cita.
+**15.** **a, b y c.** Citar la fuente permite verificar el dato, reconoce su origen y da credibilidad al argumento; alargar el texto no es un objetivo de la cita.

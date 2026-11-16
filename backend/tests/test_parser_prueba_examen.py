@@ -933,3 +933,16 @@ def test_pruebas_y_simulacros_no_repiten_la_guia():
             assert lecturas_copiadas(curso, carpeta) == {}, curso.name
             assert misma_clave(curso, carpeta) == {}, curso.name
             assert escenarios_copiados(curso, carpeta) == {}, curso.name
+
+
+def test_la_explicacion_no_contradice_ni_repite_la_letra_de_la_clave():
+    # 2026-11-16: dos preguntas rehechas quedaron con la clave en la letra equivocada; la explicación decía «c)» y la
+    # clave marcada era «b)». Una explicación no debe empezar con otra letra, ni repetir la letra de la clave.
+    import re as _re
+    patron = _re.compile(r"\*\*\(?([a-h](?:, [a-h])*(?: y [a-h])?)[).][^*]*\*\*:? +\(?([a-h](?:, [a-h])*(?: y [a-h])?)\) ")
+    hallazgos = []
+    for ruta in sorted(CONTENIDO.glob("*/pruebas/*.md")) + sorted(CONTENIDO.glob("*/examenes/*.md")):
+        for numero, linea in enumerate(ruta.read_text(encoding="utf-8").splitlines(), 1):
+            if patron.search(linea):
+                hallazgos.append(f"{ruta.relative_to(CONTENIDO)}:{numero}")
+    assert hallazgos == []

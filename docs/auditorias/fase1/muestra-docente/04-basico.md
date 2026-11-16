@@ -475,14 +475,14 @@ d) Que cerrara las ventanas por la nevazón
 
 *Fuente:* `contenido/04-basico/pruebas/matematica-unidad-numeros-y-operaciones.md` (pregunta 1) · *Tipo:* alternativas
 
-¿Cuál es el valor posicional del dígito 7 en el número 7.352?
+¿Cuál es el valor posicional del dígito 4 en el número 4.069?
 
 a) Unidad
 b) Decena
 c) Centena
 d) Unidad de mil  ✅
 
-**Explicación que verá el alumno:** d) Unidad de mil. El 7 es el primer dígito de un número de 4 cifras, por lo tanto representa 7.000.
+**Explicación que verá el alumno:** d) Unidad de mil. d) En 4.069 el 4 está en el cuarto lugar desde la derecha: es la unidad de mil y vale 4.000.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -498,14 +498,14 @@ d) Unidad de mil  ✅
 
 *Fuente:* `contenido/04-basico/examenes/examen-integrado-forma-b.md` (pregunta 6) · *Tipo:* alternativas
 
-La médula espinal, una estructura fundamental del sistema nervioso, se encuentra protegida dentro de:
+La columna vertebral, formada por muchas vértebras, protege un órgano del sistema nervioso. ¿Cuál es?
 
-a) El cráneo
-b) Las costillas
-c) La columna vertebral  ✅
-d) El fémur
+a) El corazón
+b) Los pulmones
+c) La médula espinal  ✅
+d) El estómago
 
-**Explicación que verá el alumno:** c) La columna vertebral. Protege la médula espinal.
+**Explicación que verá el alumno:** c) La médula espinal. c) Dentro de las vértebras pasa la médula espinal, que lleva mensajes entre el encéfalo y el resto del cuerpo.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

@@ -89,8 +89,8 @@ d) Verter basura es positiva porque alimenta a los peces, y el área protegida e
 
 1. **c) Cerca del 3%.** Casi toda el agua del planeta es salada; solo una pequeña parte es dulce.
 2. **Verdadero.** La mayor parte del agua dulce del planeta está congelada en glaciares y casquetes polares.
-3. **b, c y d.** b, c y d) Casi toda el agua de la Tierra es salada (océanos); del poco de agua dulce que hay, la mayor parte está congelada y otra parte es subterránea, por eso hay que cuidarla.
-4. **a, b y d.** a, b y d) Los lagos, los ríos y los glaciares guardan agua dulce; el mar frente a Antofagasta es parte del océano Pacífico y tiene agua salada.
+3. **b, c y d.** Casi toda el agua de la Tierra es salada (océanos); del poco de agua dulce que hay, la mayor parte está congelada y otra parte es subterránea, por eso hay que cuidarla.
+4. **a, b y d.** Los lagos, los ríos y los glaciares guardan agua dulce; el mar frente a Antofagasta es parte del océano Pacífico y tiene agua salada.
 5. a) Porque la mayor parte del agua es salada y, del agua dulce, la mayoría está congelada o subterránea. Cerca del 97 % del agua del planeta es salada (océanos). Del agua dulce, la mayor parte está congelada en glaciares o bajo tierra, así que la que podemos usar es muy poca.
 6. **b) Lavar autos en la orilla y dejar que el detergente caiga al agua.** El detergente contamina el agua y afecta a peces y plantas.
 7. **Verdadero.** Es un efecto positivo de la actividad humana sobre los cuerpos de agua.

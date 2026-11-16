@@ -83,12 +83,12 @@ d) Ninguna de las dos se debe a movimientos de la Tierra: el Sol es el que se mu
 
 ## Pauta de respuestas
 
-1. **d) Asteroides.** d) Los asteroides son rocas más pequeñas que los planetas; muchos giran juntos en el cinturón de asteroides, entre Marte y Júpiter.
+1. **d) Asteroides.** Los asteroides son rocas más pequeñas que los planetas; muchos giran juntos en el cinturón de asteroides, entre Marte y Júpiter.
 2. **Verdadero** — el Sol es una estrella: produce luz y calor. La Luna, en cambio, solo refleja la luz del Sol.
-3. **a) Venus → Marte → Júpiter → Saturno.** a) El orden desde el Sol es Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno; por eso Venus va antes que Marte, Marte antes que Júpiter y Júpiter antes que Saturno.
+3. **a) Venus → Marte → Júpiter → Saturno.** El orden desde el Sol es Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno; por eso Venus va antes que Marte, Marte antes que Júpiter y Júpiter antes que Saturno.
 4. d) Luna nueva. La cara de la Luna que mira hacia la Tierra no está iluminada por el Sol.
 5. **b) La rotación.** Al girar sobre su eje (rotación), la Tierra tiene siempre una mitad iluminada por el Sol, donde es de día, y otra a oscuras, donde es de noche. Chile y China quedan en lados opuestos.
 6. **Falso** — la vuelta alrededor del Sol (traslación) dura aproximadamente 365 días; en un día la Tierra gira sobre sí misma (rotación).
-7. **a y c.** a y c) La rotación es el giro de la Tierra sobre su eje: toma cerca de 24 horas (un día) y produce el día y la noche. La vuelta alrededor del Sol, que dura un año, es la traslación.
+7. **a y c.** La rotación es el giro de la Tierra sobre su eje: toma cerca de 24 horas (un día) y produce el día y la noche. La vuelta alrededor del Sol, que dura un año, es la traslación.
 8. **b) La traslación, que dura cerca de un año.** Dar una vuelta alrededor de la lámpara (el Sol) representa la traslación, que dura unos 365 días. Girar el globo sobre sí mismo sería la rotación.
-9. **c) Los cumpleaños, por la traslación (una vuelta al Sol dura un año); el amanecer de cada día, por la rotación (un giro sobre su eje dura un día).** c) La traslación, la vuelta de la Tierra alrededor del Sol, dura cerca de 365 días: un año. La rotación, el giro sobre su eje, dura cerca de 24 horas y por eso cada día amanece.
+9. **c) Los cumpleaños, por la traslación (una vuelta al Sol dura un año); el amanecer de cada día, por la rotación (un giro sobre su eje dura un día).** La traslación, la vuelta de la Tierra alrededor del Sol, dura cerca de 365 días: un año. La rotación, el giro sobre su eje, dura cerca de 24 horas y por eso cada día amanece.

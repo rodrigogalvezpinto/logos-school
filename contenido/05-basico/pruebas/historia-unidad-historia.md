@@ -152,11 +152,11 @@ las decisiones tomadas en España y de la administración del Virreinato del Per
 **8.** b) Sincretismo. Combina elementos católicos con danzas y trajes de tradición andina.
 una misma expresión.
 
-**9.** **a, b y d.** a, b y d) La Iglesia evangelizaba, educaba y marcaba las celebraciones y costumbres de la Colonia; la independencia ocurrió después y no la dirigió la Iglesia.
+**9.** **a, b y d.** La Iglesia evangelizaba, educaba y marcaba las celebraciones y costumbres de la Colonia; la independencia ocurrió después y no la dirigió la Iglesia.
 
 **10.** b) Los mapuche. Su resistencia hizo del Biobío una frontera entre ambos territorios.
 territorio mapuche independiente al sur.
 
 **11.** d) 1-B, 2-A, 3-C — Valdivia fundó Santiago, Lautaro lideró la resistencia mapuche y Almagro fue el primero en llegar.
 
-**12.** **a, b y c.** a, b y c) Hubo guerra, parlamentos de paz e intercambio comercial en la frontera; nunca existió un presidente común elegido por votación.
+**12.** **a, b y c.** Hubo guerra, parlamentos de paz e intercambio comercial en la frontera; nunca existió un presidente común elegido por votación.

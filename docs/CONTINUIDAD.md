@@ -135,7 +135,8 @@ en `REVISADAS_A_MANO` con un comentario que diga qué cambia; y revisar el sesgo
 
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.
-Corregir con `rehacer`/`explicar` lo que falle y registrar en AUDITORIA_MAESTRA. Ya se revisaron 1.° y 6.° básico.
+Corregir con `rehacer`/`explicar` lo que falle y registrar en AUDITORIA_MAESTRA. La muestra se regeneró el 2026-11-16
+(`backend/scripts/muestra_revision_docente.py`). Ya se revisaron 1.°, 2.°, 3.° y 6.° básico; siguiente: 4.° básico.
 
 ### 6.3 D — imágenes (requiere decisión del dueño)
 `grep -rn "\[Imagen" contenido/0[1-3]-basico` lista los 32 casos. Opciones a proponer al dueño: dibujos SVG propios,
@@ -176,3 +177,9 @@ tutor IA detrás de variable de entorno, pasarela de pago detrás de variable de
   municipal femenino es de 1934 y se ejerció en 1935). Las cifras inventadas deben declararse ficticias.
 - **Coherencia entre instrumentos:** un texto nuevo no debe repetir el de otra prueba o simulacro del mismo curso.
 - **Mantener la letra de la clave** al reescribir, para no desbalancear la posición de las respuestas correctas.
+- **`rehacer` toma como clave la opción que quede en la letra original.** Si pones la correcta en otra letra, la clave
+  queda FALSA y `rehacer` dice «ok». Pasó dos veces (2026-11-16). Ahora, si la explicación empieza con «x)», `rehacer`
+  verifica esa letra y aborta si no coincide; y la guarda `test_la_explicacion_no_contradice_ni_repite_la_letra_de_la_clave`
+  lo revisa en todo el material. Escribe la explicación sin repetir «x) clave»: `rehacer` ya la antepone.
+- **Revisar el sesgo de longitud de lo rehecho:** la correcta tiende a quedar más larga y detallada. Medir con
+  `ajustar_distractores.sesgada` y alargar distractores con `aplicar_en` (sin tocar la clave).

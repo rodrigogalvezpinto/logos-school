@@ -215,13 +215,13 @@ c) No se puede saber
 
 *Fuente:* `contenido/01-basico/examenes/examen-integrado-forma-b.md` (pregunta 7) · *Tipo:* alternativas
 
-[Imagen: un paisaje con una cordillera al fondo, un camino de tierra, un pueblo pequeño con casas y árboles] ¿Cuál de estas palabras describe un elemento natural del paisaje (no hecho por las personas)?
+::emoji::🏖️::una playa con rocas, un muelle de madera y botes:: ¿Cuál de estas palabras describe un elemento natural del paisaje (no hecho por las personas)?
 
-a) Cordillera  ✅
-b) Camino pavimentado
-c) Edificio
+a) Rocas  ✅
+b) Muelle
+c) Botes
 
-**Explicación que verá el alumno:** a) Cordillera. Es un elemento natural; el camino pavimentado y el edificio son construcciones hechas por las personas.
+**Explicación que verá el alumno:** a) Rocas. Las rocas son parte de la naturaleza; el muelle y los botes los construyeron las personas.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -426,13 +426,13 @@ d) Lo que vamos a comer
 
 *Fuente:* `contenido/01-basico/pruebas/lenguaje-y-comunicacion-unidad-1.md` (pregunta 5) · *Tipo:* alternativas
 
-[Imagen: un chancho] ¿Cuál de estas palabras tiene el sonido "ch"?
+::emoji::🧥::un chaleco de lana:: ¿Cuál de estas palabras tiene el sonido "ch"?
 
-a) "chancho"  ✅
+a) "chaleco"  ✅
 b) "casa"
 c) "mesa"
 
-**Explicación que verá el alumno:** a) "chancho" — Empieza con el sonido "ch", como en "choclo".
+**Explicación que verá el alumno:** a) "chaleco". "Chaleco" empieza con el sonido "ch", como "chocolate".
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -448,14 +448,14 @@ c) "mesa"
 
 *Fuente:* `contenido/01-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md` (pregunta 7) · *Tipo:* alternativas
 
-Pictograma de mascotas: Perro 🐶🐶🐶🐶🐶 — Gato 🐱🐱🐱 — Pez 🐟🐟. ¿Cuántos niños tienen perro?
+Pictograma de frutas favoritas: Frutilla 🍓🍓🍓🍓 — Plátano 🍌🍌 — Uva 🍇🍇🍇. ¿Cuántos niños prefieren la frutilla?
 
 a) 2
 b) 3
-c) 5  ✅
-d) 10
+c) 4  ✅
+d) 9
 
-**Explicación que verá el alumno:** c) 5. Junto a "Perro" hay 5 dibujos, y cada dibujo es un niño: 5 niños tienen perro.
+**Explicación que verá el alumno:** c) 4. Junto a "Frutilla" hay 4 dibujos, y cada dibujo es un niño: 4 niños prefieren la frutilla.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

@@ -100,10 +100,10 @@ d) Ninguno de los dos
 
 1. **d) Un alambre de aluminio.** Los metales, como el aluminio y el cobre, son buenos conductores de la electricidad.
 2. **Verdadero.** El plástico es aislante: impide que la corriente pase a quien toca el cable.
-3. **a y c.** a y c) El clip de metal y el alambre de cobre son metales, por lo que dejan pasar la corriente; el plástico y la goma son aislantes.
+3. **a y c.** El clip de metal y el alambre de cobre son metales, por lo que dejan pasar la corriente; el plástico y la goma son aislantes.
 4. **a) Porque la goma es aisladora: no deja pasar la corriente y protege la mano de quien trabaja con cables.** El metal de la herramienta es conductor; la goma es aisladora y evita que la corriente pase al cuerpo. Por eso conductores y aisladores se combinan en cables y herramientas.
-5. **d) Con la llave de metal, porque es conductora.** d) Los metales conducen la electricidad y cierran el circuito; la madera seca es aislante y no deja pasar la corriente.
-6. **b) Desenchufarlo sin tocar la parte rota, no volver a usarlo y avisar a un adulto, porque los alambres expuestos pueden dar la corriente.** b) Si se ven los alambres, la corriente puede pasar a la persona; no se debe manipular el cable dañado, hay que dejar de usarlo y avisar a un adulto.
+5. **d) Con la llave de metal, porque es conductora.** Los metales conducen la electricidad y cierran el circuito; la madera seca es aislante y no deja pasar la corriente.
+6. **b) Desenchufarlo sin tocar la parte rota, no volver a usarlo y avisar a un adulto, porque los alambres expuestos pueden dar la corriente.** Si se ven los alambres, la corriente puede pasar a la persona; no se debe manipular el cable dañado, hay que dejar de usarlo y avisar a un adulto.
 7. **c) Goma.** Es un material aislador: impide el paso de la corriente eléctrica,
    por eso protege a las personas de descargas.
 8. **Falso.** El aluminio es un buen conductor de electricidad, no un aislador.

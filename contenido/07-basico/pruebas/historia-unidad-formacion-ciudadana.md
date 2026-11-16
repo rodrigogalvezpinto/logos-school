@@ -123,7 +123,7 @@ d) Solo se relacionaron mediante guerras, sin ningún intercambio
 5. c) Aceite. Viene del árabe *az-zayt*; como *almohada*, *azúcar* o *alcalde*, es una huella de la presencia árabe en la península ibérica.
 6. Verdadero. Los árabes difundieron en Europa el sistema de numeración que habían conocido en la India; es un ejemplo de cómo el contacto entre culturas enriqueció a Europa.
 7. c) 1-B, 2-A, 3-C. Los griegos aportaron la filosofía y la democracia; los romanos, el derecho y el latín, y los árabes difundieron el álgebra y los números que usamos hoy.
-8. **c) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a todas.** c) La Escuela de Traductores de Toledo es un ejemplo de diálogo cultural: al traducir obras árabes, griegas y hebreas, el conocimiento circuló y enriqueció a todas las sociedades.
+8. **c) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a todas.** La Escuela de Traductores de Toledo es un ejemplo de diálogo cultural: al traducir obras árabes, griegas y hebreas, el conocimiento circuló y enriqueció a todas las sociedades.
 9. b) Hubo intercambio cultural y científico entre distintas culturas, aunque también existieron conflictos en la península.
 10. Falso. En general, Roma permitió que los pueblos conquistados mantuvieran sus creencias, siempre que aceptaran su autoridad; la tolerancia facilitó la estabilidad del imperio.
 11. a) 1-B, 2-C, 3-A. La Ruta de la Seda fue un intercambio comercial; un tratado de paz es un acuerdo diplomático, y la mezcla de costumbres, palabras y comidas es mestizaje cultural.

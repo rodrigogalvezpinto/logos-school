@@ -109,12 +109,12 @@ d) Desaparecen con el calor y son reemplazadas por partículas de agua del sart�
 4. d) Porque provienen de plantas (o de animales que comieron plantas), y las plantas producen su alimento con la luz del Sol. La energía de los alimentos viene del Sol: las plantas la captan con la fotosíntesis, y los animales la obtienen al comer plantas o a otros animales que las comieron.
 5. **d) La radiación del Sol, con paneles solares.** La energía solar se renueva cada día y no se agota; el petróleo, el gas natural y el carbón son combustibles fósiles que tardaron millones de años en formarse.
 6. **Verdadero.** Chile tiene parques eólicos en zonas con viento constante, como en la Región de Coquimbo.
-7. **b y d.** b y d) La energía solar y la del agua de un río se renuevan naturalmente; el carbón y el diésel son combustibles fósiles que se agotan.
-8. **a, b y d.** a, b y d) Desenchufar aparatos, aprovechar cada lavado y usar el sol en vez de la secadora ahorran energía; dejar el televisor encendido sin uso la desperdicia.
+7. **b y d.** La energía solar y la del agua de un río se renuevan naturalmente; el carbón y el diésel son combustibles fósiles que se agotan.
+8. **a, b y d.** Desenchufar aparatos, aprovechar cada lavado y usar el sol en vez de la secadora ahorran energía; dejar el televisor encendido sin uso la desperdicia.
 9. **c.** La fusión es el paso de sólido a líquido, por acción del calor.
 10. **Falso.** Ambas son pasos de líquido a gas, pero la evaporación ocurre
     lentamente en la superficie del líquido a cualquier temperatura, mientras que
     la ebullición ocurre rápidamente en todo el volumen del líquido a una
     temperatura específica.
 11. b) Evaporación (líquido → gas). El calor del sol transforma el agua líquida de la ropa en vapor.
-12. **c) Ganan energía, se mueven más y se separan un poco, de modo que pueden deslizarse unas sobre otras.** c) Al recibir calor, las partículas se mueven más rápido y se separan algo; ya no mantienen posiciones fijas y el material fluye como líquido.
+12. **c) Ganan energía, se mueven más y se separan un poco, de modo que pueden deslizarse unas sobre otras.** Al recibir calor, las partículas se mueven más rápido y se separan algo; ya no mantienen posiciones fijas y el material fluye como líquido.

@@ -123,14 +123,14 @@ d) $12.000
 
 *Fuente:* `contenido/05-basico/pruebas/ciencias-naturales-unidad-fisicas-y-quimicas.md` (pregunta 5) · *Tipo:* alternativas
 
-Si construyes un circuito eléctrico simple con una pila y una ampolleta, y pruebas cerrar el circuito usando una moneda de metal y luego una goma de borrar, ¿en qué caso encenderá la ampolleta?
+Catalina arma un circuito con una pila y una ampolleta, y deja un espacio abierto. Prueba cerrar ese espacio con un palo de helado de madera y luego con una llave de metal. ¿En qué caso encenderá la ampolleta?
 
-a) Con la goma de borrar, porque es conductora
+a) Con el palo de madera, porque es conductor
 b) En los dos casos
 c) En ninguno de los dos casos
-d) Con la moneda de metal, porque es conductora  ✅
+d) Con la llave de metal, porque es conductora  ✅
 
-**Explicación que verá el alumno:** d) Con la moneda de metal, porque es conductora. La goma de borrar es aisladora y no permite el paso de la corriente.
+**Explicación que verá el alumno:** d) Con la llave de metal, porque es conductora. d) Los metales conducen la electricidad y cierran el circuito; la madera seca es aislante y no deja pasar la corriente.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

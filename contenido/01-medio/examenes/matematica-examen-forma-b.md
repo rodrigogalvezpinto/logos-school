@@ -303,7 +303,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 19 | a) 10 cm (h²=5×20=100; h=√100=10) | OA 10 | Geometría |
 | 20 | **d) 220 m.** 55 cm × 400 = 22.000 cm = 220 m. | OA 10 | Geometría |
 | 21 | **b) 16 cm.** cateto² = 8 × 32 = 256, cateto = 16 cm. | OA 10 | Geometría |
-| 22 | **a) 2/5.** a) Los casos favorables son 1, 2, 3 y 10: 4 de 10. Como no se repiten, P = 4/10 = 2/5. | OA 14 | Probabilidad y Estadística |
+| 22 | **a) 2/5.** Los casos favorables son 1, 2, 3 y 10: 4 de 10. Como no se repiten, P = 4/10 = 2/5. | OA 14 | Probabilidad y Estadística |
 | 23 | a) 1/36 (eventos independientes: 1/6×1/6=1/36) | OA 14 | Probabilidad y Estadística |
 | 24 | **c) 4/5.** 16/30 + 12/30 − 4/30 = 24/30 = 4/5; sin restar la intersección se obtiene 28/30. | OA 14 | Probabilidad y Estadística |
 | 25 | **a) 7/22.** 7/12 × 6/11 = 42/132 = 7/22; 49/144 sería con reposición. | OA 14 | Probabilidad y Estadística |

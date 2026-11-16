@@ -1733,3 +1733,9 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
 - **Guarda:** `test_pruebas_y_simulacros_no_repiten_la_guia` exige ahora los seis criterios.
 - **Verificación:** 12 cursos en 0; backend 734 pasan; validador Markdown sin discrepancias; C.4 en 0; Chromium en los 12 cursos
   (18/18 en 1.° a 4.° básico; 24/24 de 5.° básico a 2.° medio; 25/25 en 3.° medio; 23/23 en 4.° medio).
+- **Revisión de la muestra docente (2.° y 3.° básico, regenerada) y dos claves falsas corregidas.** Al revisar 3.° básico se vio
+  la letra repetida en la explicación («c) América. c) Chile…»), y al buscar la causa aparecieron dos rehechas con la clave en
+  la letra equivocada (1.° medio, Inglés U2 5; 6.° básico, Inglés U2 6): `rehacer` conserva la letra original y la correcta
+  se había escrito en otra posición. Se corrigieron ambas; se limpió el prefijo duplicado en 114 pautas; `rehacer` ahora
+  verifica la letra de la explicación, y hay una guarda nueva en pytest. En 2.° básico, Medición 4 daba la respuesta en el
+  enunciado; ahora pide la diferencia (7 − 3).

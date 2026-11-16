@@ -84,12 +84,12 @@ d) 4/0
 
 ## Pauta de respuestas
 
-1. **d) Unidad de mil.** d) En 4.069 el 4 está en el cuarto lugar desde la derecha: es la unidad de mil y vale 4.000.
+1. **d) Unidad de mil.** En 4.069 el 4 está en el cuarto lugar desde la derecha: es la unidad de mil y vale 4.000.
 2. **c) 823.** 6+7=13 (escribo 3, reservo 1); 3+8+1=12 (escribo 2, reservo 1); 5+2+1=8 → 823. Si olvidas las reservas obtienes 713.
 3. a) 445. Como no hay decenas, se canjea una centena por 10 decenas y una de ellas por 10 unidades: 13−8=5; 9−5=4; 6−2=4. Comprobación: 445+258=703. Restar «el menor del mayor» en cada columna da 555, que es un error.
 4. **c) Multiplicación.** Hay grupos iguales que se repiten (8 cajas con la misma cantidad de lápices), por lo tanto se multiplica: 150 × 8 = 1.200.
 5. b) 14. 84 = 60 + 24; 60÷6=10 y 24÷6=4; 10+4=14. Comprobación: 14×6=84.
-6. **b) $1.700.** b) Primero se suma lo que tendrá: $2.500 + $2.000 = $4.500. Luego se resta del precio: $6.200 − $4.500 = $1.700.
-7. **c) 1/6 < 1/3 < 1/2.** c) Con el mismo numerador 1, mientras más partes tiene el entero, más pequeña es cada parte: 1/6 < 1/3 < 1/2.
+6. **b) $1.700.** Primero se suma lo que tendrá: $2.500 + $2.000 = $4.500. Luego se resta del precio: $6.200 − $4.500 = $1.700.
+7. **c) 1/6 < 1/3 < 1/2.** Con el mismo numerador 1, mientras más partes tiene el entero, más pequeña es cada parte: 1/6 < 1/3 < 1/2.
 8. **c) 5/6.** Como ambas fracciones tienen el mismo denominador, se suman los numeradores (2+3=5) y se mantiene el denominador. Sumar también los denominadores (5/12) es un error frecuente.
 9. a) 4/8. 7/8 − 3/8 = 4/8 (se restan los numeradores y se mantiene el denominador).

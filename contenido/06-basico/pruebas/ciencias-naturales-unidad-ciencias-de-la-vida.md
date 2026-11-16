@@ -115,20 +115,20 @@ d) Porque ya no es necesario ducharse a diario, ya que el cuerpo produce menos g
 
 ## Pauta de respuestas
 
-1. **d) Agua, dióxido de carbono del aire y luz del sol.** d) Para la fotosíntesis la planta necesita agua (de las raíces), dióxido de carbono (del aire) y energía lumínica; con eso fabrica azúcar y libera oxígeno.
+1. **d) Agua, dióxido de carbono del aire y luz del sol.** Para la fotosíntesis la planta necesita agua (de las raíces), dióxido de carbono (del aire) y energía lumínica; con eso fabrica azúcar y libera oxígeno.
 2. **Falso.** Las algas y algunos microorganismos, como las cianobacterias, también
    son organismos fotosintéticos.
-3. **a) La parte cubierta no recibió luz, así que no pudo hacer fotosíntesis ni fabricar su alimento.** a) Sin luz la hoja no puede hacer fotosíntesis: deja de fabricar azúcar y pierde su color verde intenso. El agua sigue llegando por las raíces.
+3. **a) La parte cubierta no recibió luz, así que no pudo hacer fotosíntesis ni fabricar su alimento.** Sin luz la hoja no puede hacer fotosíntesis: deja de fabricar azúcar y pierde su color verde intenso. El agua sigue llegando por las raíces.
 4. **b.** Los productores son los únicos capaces de producir su propio alimento a
    partir de la energía solar; sin ellos no habría alimento disponible para el
    resto de la cadena.
-5. **d) El zorro.** d) El pasto es el productor, el conejo es el consumidor de primer orden porque come pasto, y el zorro, que come conejos, es el de segundo orden.
+5. **d) El zorro.** El pasto es el productor, el conejo es el consumidor de primer orden porque come pasto, y el zorro, que come conejos, es el de segundo orden.
 6. b) Pasto (productor) → conejo (1.er orden) → zorro culpeo (2.º orden) → águila (3.er orden). La cadena parte siempre en un productor (el pasto, que hace fotosíntesis). El conejo come pasto, el zorro culpeo come conejos y el águila puede cazar zorros.
 7. **Verdadero.** En la naturaleza, un mismo organismo suele tener varias fuentes de
    alimento y varios depredadores, lo que solo una red alimentaria puede representar.
 8. **c.** La aparición de vello en las axilas y en el pubis ocurre en ambos sexos durante la pubertad.
 9. a y d — Acné y estirón son comunes; la menarquia ocurre solo en la pubertad femenina y la producción de espermatozoides, solo en la masculina. Otros cambios, como el aumento del vello facial, son más marcados en un sexo pero no exclusivos. La intensidad y el momento varían entre personas.
-10. **c) Cada persona vive la pubertad a su propio ritmo; burlarse daña el bienestar del otro y no tiene sentido.** c) La pubertad empieza y avanza en momentos distintos para cada persona; entenderlo evita burlas y comparaciones que dañan la autoestima.
+10. **c) Cada persona vive la pubertad a su propio ritmo; burlarse daña el bienestar del otro y no tiene sentido.** La pubertad empieza y avanza en momentos distintos para cada persona; entenderlo evita burlas y comparaciones que dañan la autoestima.
 11. **b.** El deporte sistemático fortalece el sistema cardiovascular y ayuda a
     mantener un peso corporal saludable.
 12. a) Porque aumenta la actividad de las glándulas sudoríparas y sebáceas: más sudor, cambios de olor y tendencia al acné. En la pubertad, las glándulas de la piel producen más sudor y más grasa: por eso aparecen el olor corporal y el acné, y conviene ducharse a diario.

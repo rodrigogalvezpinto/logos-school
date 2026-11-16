@@ -137,7 +137,7 @@ sexo o el lugar de nacimiento: son los mismos para todas las personas.
 **3.** **c) Sus pares, la comunidad escolar y el Estado.** El respeto de los derechos es una responsabilidad compartida: los compañeros deben tratarla con respeto, la comunidad escolar debe intervenir y el Estado debe garantizar una educación segura.
 personas, el entorno cercano y las instituciones del Estado.
 
-**4.** **a) El principio de universalidad e igualdad: los derechos son de todas las personas, sin discriminación.** a) Los derechos humanos son universales: valen para todas las personas por igual, sin importar su sexo; negarle el taller por ser mujer es discriminación.
+**4.** **a) El principio de universalidad e igualdad: los derechos son de todas las personas, sin discriminación.** Los derechos humanos son universales: valen para todas las personas por igual, sin importar su sexo; negarle el taller por ser mujer es discriminación.
 
 **5.** d) Sí, porque es persona desde que nace y es sujeto de derecho. Todas las personas tienen derechos desde que nacen, sin importar su edad ni lo que hagan. La Convención sobre los Derechos del Niño protege especialmente a niños y niñas.
 

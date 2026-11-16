@@ -118,10 +118,10 @@ d) "Los árboles árboles ayudan ayudan, y los árboles son árboles."
 3. a) La Fuente 1 la presenta de forma completamente positiva; la Fuente 2 incluye opiniones favorables y los reclamos de los feriantes, con una visión más equilibrada. La Fuente 1 destaca solo lo positivo del parque; la Fuente 2 también recoge los reclamos de los feriantes. Comparar fuentes ayuda a tener una visión más completa.
 4. **d.** Al ser un reportaje de un diario local, su destinatario natural son los lectores interesados en la actualidad de la comuna.
 5. **c.** El pronombre "él" es ambiguo: para mantener los referentes conviene escribir "porque Diego tenía frío".
-6. **d) Martín hizo un gol mientras Diego atajaba en el arco..** d) Con dos personajes, «él» no indica a quién se refiere; nombrar a Martín y a Diego aclara quién hizo el gol y quién atajaba.
+6. **d) Martín hizo un gol mientras Diego atajaba en el arco..** Con dos personajes, «él» no indica a quién se refiere; nombrar a Martín y a Diego aclara quién hizo el gol y quién atajaba.
 7. **Verdadero.** El conflicto es el motor de la narración, y el relato muestra cómo el personaje lo enfrenta y lo resuelve.
 8. **a.** "Primero", "después" y "finalmente" ordenan los sucesos, y "como resultado" marca la consecuencia.
 9. **b.** Es un párrafo de síntesis: resume las ideas principales desarrolladas en el artículo.
 10. **Falso.** La síntesis debe retomar y resumir las ideas ya desarrolladas, no introducir temas nuevos.
-11. **b) Para recordar y ordenar las ideas principales sin releer todo el texto.** b) Es un párrafo de síntesis: reúne las ideas principales del artículo para que el lector las recuerde con facilidad.
+11. **b) Para recordar y ordenar las ideas principales sin releer todo el texto.** Es un párrafo de síntesis: reúne las ideas principales del artículo para que el lector las recuerde con facilidad.
 12. **b.** Usa verbos y expresiones distintas (producen, protegen, ofrecen refugio) en lugar de repetir las mismas palabras.

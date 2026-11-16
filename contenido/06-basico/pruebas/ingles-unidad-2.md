@@ -62,8 +62,8 @@ d) My favorite food is pizza because it is delicious.
 
 a) sunny / beach
 b) hot / snow
-c) warm / sea
-d) cold / snow
+c) cold / snow
+d) warm / sea
 
 **7.** *(Completar)* Complete: "Be quiet! My sister ___ for her exam right now." (usa el presente continuo)
 
@@ -105,14 +105,14 @@ d) There is a turtle near the pond.
 ## Pauta de respuestas
 
 1. **a) on.** Con los días de la semana y las fechas se usa "on": on Friday, on June 12th. "In" se usa con meses y "at", con horas.
-2. **d) play.** d) Con «I» el presente simple usa el verbo sin «-s»: «I play». «Plays» es para he/she/it.
+2. **d) play.** Con «I» el presente simple usa el verbo sin «-s»: «I play». «Plays» es para he/she/it.
 3. c) Hi, how are you? "Hi, how are you?" significa "Hola, ¿cómo estás?", un saludo informal. "Once upon a time" es el inicio de un cuento y "The end", su final.
 4. F (Falso) — *Once upon a time* sirve para comenzar un cuento; para cerrar un email se usa *See you soon* o *Bye*.
 5. d) My favorite food is pizza because it is delicious. Cada espacio lleva el tipo de información correcta: categoría, elemento y razón.
-6. **c) warm / sea.** d) En unas vacaciones de invierno en la montaña hace frío («cold») y se esquía en la nieve («snow»).
-7. **a) is studying.** a) El presente continuo es am/is/are + verbo con -ing; con «my sister» (she) se usa «is studying».
+6. **c) cold / snow.** En unas vacaciones de invierno en la montaña hace frío («cold») y se esquía en la nieve («snow»).
+7. **a) is studying.** El presente continuo es am/is/are + verbo con -ing; con «my sister» (she) se usa «is studying».
 8. b) children. "Child" tiene un plural irregular: "children". No se le agrega -s.
 9. d) but. *But* contrasta ideas opuestas; *and* solo suma.
 10. V (Verdadero)
-11. **b) thirteen.** b) 13 en inglés es «thirteen»; «thirty» es 30, «three» es 3 y «twelve» es 12.
+11. **b) thirteen.** 13 en inglés es «thirteen»; «thirty» es 30, «three» es 3 y «twelve» es 12.
 12. b) The turtle walks very slowly. "Slowly" (lentamente) es un adverbio que dice cómo camina la tortuga. Las otras oraciones dicen dónde está o cómo es.

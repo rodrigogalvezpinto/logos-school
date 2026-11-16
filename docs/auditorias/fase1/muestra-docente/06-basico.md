@@ -125,14 +125,14 @@ d) 18
 
 *Fuente:* `contenido/06-basico/pruebas/ciencias-naturales-unidad-ciencias-de-la-vida.md` (pregunta 3) · *Tipo:* alternativas
 
-Una maceta con una planta se guarda dentro de un mueble cerrado, sin luz, durante dos semanas, aunque se sigue regando con agua. ¿Qué le ocurrirá a la planta, según lo que sabes sobre la fotosíntesis?
+Un niño cubre con papel aluminio, durante una semana, la mitad de una hoja de una planta que está al sol. Al destaparla, la parte cubierta está más pálida. ¿Cómo se explica?
 
-a) Se debilitará o morirá, porque sin luz no puede hacer fotosíntesis ni producir el azúcar que necesita  ✅
-b) Crecerá más rápido, porque tiene agua suficiente y la luz no es necesaria para fabricar su alimento
-c) No le pasará nada, porque el agua basta para que la planta produzca el azúcar que necesita
-d) Producirá más oxígeno en la oscuridad, porque descansa de la fotosíntesis y respira con más fuerza
+a) La parte cubierta no recibió luz, así que no pudo hacer fotosíntesis ni fabricar su alimento  ✅
+b) El aluminio le dio demasiado calor a esa parte y la quemó, por eso cambió de color
+c) La parte cubierta recibió menos agua por las raíces y se secó durante la semana
+d) La parte cubierta produjo más oxígeno y gastó todo su color verde en hacerlo
 
-**Explicación que verá el alumno:** a) Se debilitará o morirá, porque sin luz no puede hacer fotosíntesis ni producir el azúcar que necesita. El agua sola no basta: la planta necesita luz para hacer fotosíntesis y fabricar el azúcar con que se alimenta. Sin luz, gasta sus reservas y se debilita.
+**Explicación que verá el alumno:** a) La parte cubierta no recibió luz, así que no pudo hacer fotosíntesis ni fabricar su alimento. a) Sin luz la hoja no puede hacer fotosíntesis: deja de fabricar azúcar y pierde su color verde intenso. El agua sigue llegando por las raíces.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -502,14 +502,14 @@ d) x − 8.500 = 17.300; x = $25.800  ✅
 
 *Fuente:* `contenido/06-basico/pruebas/ciencias-naturales-unidad-ciencias-de-la-vida.md` (pregunta 5) · *Tipo:* alternativas
 
-En la cadena fitoplancton → krill → sardina (que se alimenta de krill) → tiburón, ¿qué organismo es el consumidor de segundo orden?
+En la cadena pasto → conejo → zorro → águila, ¿qué organismo es el consumidor de segundo orden?
 
-a) El krill
-b) El tiburón
-c) El fitoplancton
-d) La sardina  ✅
+a) El conejo
+b) El águila
+c) El pasto
+d) El zorro  ✅
 
-**Explicación que verá el alumno:** d) La sardina. Productor: fitoplancton; 1.er orden: krill; 2.º orden: sardina; 3.er orden: tiburón.
+**Explicación que verá el alumno:** d) El zorro. d) El pasto es el productor, el conejo es el consumidor de primer orden porque come pasto, y el zorro, que come conejos, es el de segundo orden.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -606,14 +606,14 @@ d) Porque después del terremoto ya no había ningún peligro
 
 *Fuente:* `contenido/06-basico/pruebas/matematica-unidad-medicion-datos-probabilidades.md` (pregunta 12) · *Tipo:* alternativas
 
-En un gráfico circular sobre los medios de transporte usados por los estudiantes de un colegio para llegar a clases, la porción de "Caminando" ocupa exactamente un cuarto del círculo. ::circular::Caminando=25;Bus=45;Auto=30::valores=no:: ¿Qué porcentaje de estudiantes camina para llegar al colegio, y si el colegio tiene 320 estudiantes, cuántos de ellos caminan?
+En un gráfico circular sobre cómo llegan a clases los estudiantes de una escuela, la porción «Bicicleta» representa un quinto del círculo. ::circular::Bicicleta=20;Bus=50;Auto=30::valores=no:: ¿Qué porcentaje de estudiantes llega en bicicleta y, si la escuela tiene 400 estudiantes, cuántos son?
 
-a) 4% y 13 estudiantes
-b) 25% y 25 estudiantes
-c) 25% y 80 estudiantes  ✅
-d) 40% y 128 estudiantes
+a) 5% y 20 estudiantes
+b) 20% y 20 estudiantes
+c) 20% y 80 estudiantes  ✅
+d) 50% y 200 estudiantes
 
-**Explicación que verá el alumno:** c) 25% y 80 estudiantes — un cuarto = 25%; 25% de 320 = 80.
+**Explicación que verá el alumno:** c) 20% y 80 estudiantes. c) Un quinto del círculo es 100 % ÷ 5 = 20 %, y el 20 % de 400 es 400 ÷ 5 = 80 estudiantes.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

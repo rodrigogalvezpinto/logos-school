@@ -110,10 +110,10 @@ d) Cambio y continuidad son lo mismo, porque toda la historia de la sociedad chi
 
 ## Pauta de respuestas
 
-1. **d) Sin rey, en varias ciudades americanas se formaron juntas de gobierno, como la de Santiago en 1810.** d) Con el rey cautivo, los criollos formaron juntas para gobernar en su nombre; en Chile, la Primera Junta Nacional de Gobierno se formó el 18 de septiembre de 1810.
+1. **d) Sin rey, en varias ciudades americanas se formaron juntas de gobierno, como la de Santiago en 1810.** Con el rey cautivo, los criollos formaron juntas para gobernar en su nombre; en Chile, la Primera Junta Nacional de Gobierno se formó el 18 de septiembre de 1810.
 2. **Verdadero.** Los cargos políticos de mayor jerarquía estaban reservados casi
    exclusivamente para españoles nacidos en la península.
-3. **a) 2 → 1 → 4 → 3.** a) Primera Junta (1810), Desastre de Rancagua (1814), Cruce de los Andes (enero de 1817) y Abrazo de Maipú tras la batalla de 1818.
+3. **a) 2 → 1 → 4 → 3.** Primera Junta (1810), Desastre de Rancagua (1814), Cruce de los Andes (enero de 1817) y Abrazo de Maipú tras la batalla de 1818.
 4. **c.** El triunfo patriota en Maipú (5 de abril de 1818) consolidó la independencia de Chile.
 5. d) Los conservadores defendían un Presidente fuerte y un rol importante de la Iglesia; los liberales, un Congreso más fuerte y reformas como las leyes laicas. Los conservadores querían un Presidente fuerte y que la Iglesia mantuviera su influencia; los liberales, más poder para el Congreso y reformas como las leyes laicas (por ejemplo, el matrimonio civil de 1884).
 6. **a.** El salitre de Tarapacá y Antofagasta fue la principal exportación de Chile durante décadas.

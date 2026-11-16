@@ -109,13 +109,13 @@ d) Hacer terrazas en las laderas para frenar el agua de lluvia
 
 1. **c.** La atmósfera es la capa de gases que rodea la Tierra; en ella ocurren los fenómenos del tiempo atmosférico.
 2. **Verdadero.** Las emisiones de fábricas y vehículos alteran la composición del aire.
-3. **a y d.** a y d) La litósfera es la capa sólida de la Tierra: allí están los minerales como el hierro y el suelo de cultivo. El viento pertenece a la atmósfera y el río a la hidrósfera.
+3. **a y d.** La litósfera es la capa sólida de la Tierra: allí están los minerales como el hierro y el suelo de cultivo. El viento pertenece a la atmósfera y el río a la hidrósfera.
 4. a, b y c — Las rocas y el suelo forman la litósfera.
-5. **a, b y d.** a, b y d) Reforestar, reciclar y hacer compost cuidan el suelo; echar aceite lo contamina.
+5. **a, b y d.** Reforestar, reciclar y hacer compost cuidan el suelo; echar aceite lo contamina.
 6. **c.** El vertido de desechos sin tratar afecta directamente a la hidrósfera.
 7. **b.** Las raíces de las plantas sujetan el suelo y lo protegen del agua y el viento.
 8. **Verdadero.** Sin vegetación que lo proteja, el suelo queda expuesto al viento y al agua.
 9. a) El agua. El agua en movimiento desgasta la roca y transporta los sedimentos.
-10. **d) Porque sin raíces que sujetaran el suelo, el agua lo arrastró con más facilidad.** d) Las raíces de las plantas sujetan el suelo; sin vegetación queda expuesto y el agua de lluvia se lo lleva: la erosión se acelera.
-11. **b) El río desgastó la roca y arrastró sedimentos durante miles o millones de años.** b) La erosión del agua es lenta: el río desgasta su cauce y transporta sedimentos durante muchísimo tiempo, y así va excavando el valle.
-12. **a, b y d.** a, b y d) Menos sobrepastoreo, más cubierta vegetal y terrazas protegen el suelo; quitar la vegetación lo deja expuesto y aumenta la erosión.
+10. **d) Porque sin raíces que sujetaran el suelo, el agua lo arrastró con más facilidad.** Las raíces de las plantas sujetan el suelo; sin vegetación queda expuesto y el agua de lluvia se lo lleva: la erosión se acelera.
+11. **b) El río desgastó la roca y arrastró sedimentos durante miles o millones de años.** La erosión del agua es lenta: el río desgasta su cauce y transporta sedimentos durante muchísimo tiempo, y así va excavando el valle.
+12. **a, b y d.** Menos sobrepastoreo, más cubierta vegetal y terrazas protegen el suelo; quitar la vegetación lo deja expuesto y aumenta la erosión.

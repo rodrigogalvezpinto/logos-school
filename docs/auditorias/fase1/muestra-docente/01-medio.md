@@ -169,14 +169,14 @@ d) La caída del Imperio romano
 
 *Fuente:* `contenido/01-medio/pruebas/ingles-unidad-2.md` (pregunta 5) · *Tipo:* alternativas
 
-Which option completes "One global issue that worries me is ___. I think we should ___ to solve it." logically?
+Which option completes "A problem in my city is ___. One solution is to ___." logically?
 
-a) water shortage / waste more water
-b) water shortage / take shorter showers and fix leaks  ✅
-c) recycling / throw bottles into the sea
-d) water shortage / ignore it
+a) air pollution / use cars more often
+b) air pollution / burn more garbage  ✅
+c) air pollution / use public transport or ride a bike
+d) noise / play louder music
 
-**Explicación que verá el alumno:** b) water shortage / take shorter showers and fix leaks. El problema y la solución deben estar conectados de forma lógica.
+**Explicación que verá el alumno:** b) air pollution / burn more garbage. c) Usar transporte público o bicicleta reduce los gases de los autos, así que es una solución lógica para la contaminación del aire; las demás opciones empeoran el problema.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|
@@ -246,14 +246,14 @@ d) 500 + 2⁵ = 532
 
 *Fuente:* `contenido/01-medio/examenes/ciencias-naturales-examen-forma-b.md` (pregunta 8) · *Tipo:* alternativas
 
-En una red trófica, los productores de un ecosistema almacenan 50.000 kcal de energía. Si la eficiencia de transferencia entre niveles tróficos es de aproximadamente 10%, ¿cuánta energía estará disponible para los consumidores secundarios (dos niveles tróficos más arriba que los productores)?
+En un humedal, las plantas acuáticas almacenan 200.000 kcal. Si la eficiencia de transferencia entre niveles tróficos es de cerca del 10 %, ¿cuánta energía llega a los consumidores secundarios (por ejemplo, las garzas que comen peces)?
 
-a) 50.000 kcal
-b) 5.000 kcal
-c) 500 kcal  ✅
-d) 50 kcal
+a) 200.000 kcal
+b) 20.000 kcal
+c) 2.000 kcal  ✅
+d) 200 kcal
 
-**Explicación que verá el alumno:** c) 500 kcal (50.000 × 0,10 = 5.000 kcal para consumidores primarios; 5.000 × 0,10 = 500 kcal para consumidores secundarios)
+**Explicación que verá el alumno:** c) 2.000 kcal. c) Productores → consumidores primarios: 10 % de 200.000 = 20.000 kcal; → consumidores secundarios: 10 % de 20.000 = 2.000 kcal.
 
 | Criterio | Sí | No | Comentario |
 |---|:-:|:-:|---|

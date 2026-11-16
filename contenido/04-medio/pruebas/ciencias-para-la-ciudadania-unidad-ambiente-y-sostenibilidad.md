@@ -119,7 +119,7 @@ d) Porque la biodiversidad solo depende de la caza y la tala, sin relación con 
 
 5. **c)** Reducción de emisiones: el objetivo central es disminuir los contaminantes que se liberan a la atmósfera.
 
-6. **c) Recolectar hongos, frutos y leña muerta con un plan de manejo que respeta los ciclos de regeneración del bosque y deja parte sin intervenir.** c) La utilización sostenible aprovecha el recurso sin agotarlo: extrae lo que el bosque puede reponer, según un plan de manejo. Cerrarlo es solo protección; talar o extraer sin plan lo agota.
+6. **c) Recolectar hongos, frutos y leña muerta con un plan de manejo que respeta los ciclos de regeneración del bosque y deja parte sin intervenir.** La utilización sostenible aprovecha el recurso sin agotarlo: extrae lo que el bosque puede reponer, según un plan de manejo. Cerrarlo es solo protección; talar o extraer sin plan lo agota.
 
 7. a) La sostenibilidad tiene dimensiones técnica, económica y social.
 

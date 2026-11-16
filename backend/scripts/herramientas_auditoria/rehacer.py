@@ -1,6 +1,7 @@
 from pathlib import Path
 """Rehace una pregunta (enunciado + alternativas + pauta) en cualquier formato de numeración.
 rehacer(archivo, n, enunciado, opciones, explicacion)  # opciones: lista; la clave queda en la MISMA letra
+¡Ojo! La correcta debe ir en la letra de la clave original. Si la explicación empieza con «x)», se verifica esa letra.
 Para V/F: opciones=None. Verifica con el parser: misma letra de clave, mismo tipo, mismo OA.
 """
 import re
@@ -53,6 +54,15 @@ def rehacer(archivo, n, enunciado, opciones, explicacion, clave_vf=None):
         etiqueta_letras = ', '.join(letras[:-1]) + ' y ' + letras[-1] if len(letras) > 1 else letras[0]
     elif opciones:
         letra = 'abcdefgh'[p0.opciones.index(r0.respuesta_correcta)] if r0.respuesta_correcta in p0.opciones else None
+    # Protección (2026-11-16): si la explicación empieza con letras («c) …», «a y c) …»), deben ser las de la clave,
+    # que se conserva en la MISMA letra; si no coinciden, la correcta quedó en otra posición y la clave sería falsa.
+    m_letras = re.match(r'\(?([a-h](?:, [a-h])*(?: y [a-h])?)\) +', explicacion.strip())
+    if m_letras:
+        esperadas = etiqueta_letras if varias else (letra if opciones else None)
+        if esperadas and m_letras.group(1) != esperadas:
+            raise SystemExit(f'{archivo}#{n}: la explicación dice «{m_letras.group(1)})» pero la clave está en «{esperadas}»; '
+                             'reordena las opciones para que la correcta quede en esa letra')
+        explicacion = explicacion.strip()[m_letras.end():]
     fila = re.compile(rf'(?m)^(\| *{n} *\|)(.*)$')
     mfila = [x for x in fila.finditer(cola)]
     if varias:

@@ -117,7 +117,7 @@ d) La rótula
 4. c) Estructural: alas muy grandes para planear. Conductual: aprovechar corrientes de aire caliente para elevarse sin aletear. "Estructural" se refiere al cuerpo y "conductual" a la forma de comportarse.
 5. **b) Consumidor primario.** El ratón se alimenta directamente del trigo (un
    productor), por lo que es un consumidor primario. La lechuza es consumidor secundario.
-6. **d) Hojas de arbusto → oruga → zorzal → peuco.** d) Las hojas son el productor (fotosíntesis); la oruga come hojas, el zorzal come orugas y el peuco, un ave rapaz, caza zorzales.
+6. **d) Hojas de arbusto → oruga → zorzal → peuco.** Las hojas son el productor (fotosíntesis); la oruga come hojas, el zorzal come orugas y el peuco, un ave rapaz, caza zorzales.
 7. **c) Articulación.** La articulación es la unión entre dos huesos que permite el
    movimiento. El tendón, en cambio, une el músculo con el hueso.
 8. a) El músculo del muslo se contrae, los tendones transmiten la fuerza a los huesos de la pierna y la articulación de la rodilla permite estirarla. El músculo genera la fuerza, el tendón la transmite y el hueso con la articulación permiten el movimiento.

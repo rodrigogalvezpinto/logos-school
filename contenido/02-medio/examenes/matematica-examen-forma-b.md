@@ -294,7 +294,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 19 | c) 6,93 cm (cateto opuesto = 12×tan(30°) ≈ 12×0,577 ≈ 6,93) | OA 8 | Geometría |
 | 20 | **d) ≈ 16,07 cm.** 25 · sen(40°) ≈ 25 · 0,643; 19,15 cm usaría el coseno. | OA 8 | Geometría |
 | 21 | **b) ≈ 24,24 m.** altura = 60 · tan(22°) ≈ 60 · 0,404. | OA 8 | Geometría |
-| 22 | **a) 24.** a) Por el principio multiplicativo: 4 × 6 = 24 combinaciones. Sumar (10) cuenta las prendas, no las combinaciones. | OA 11 | Probabilidad y Estadística |
+| 22 | **a) 24.** Por el principio multiplicativo: 4 × 6 = 24 combinaciones. Sumar (10) cuenta las prendas, no las combinaciones. | OA 11 | Probabilidad y Estadística |
 | 23 | a) 56 (8!/6! = 8×7 = 56, tras simplificar los factores comunes) | OA 11 | Probabilidad y Estadística |
 | 24 | **c) 720.** 6! = 720; 6⁶ = 46.656 permitiría repetir letras. | OA 11 | Probabilidad y Estadística |
 | 25 | **a) 210.** C(10, 4) = (10 · 9 · 8 · 7)/(4 · 3 · 2 · 1) = 210; 5.040 contaría el orden. | OA 11 | Probabilidad y Estadística |

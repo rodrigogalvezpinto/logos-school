@@ -120,7 +120,7 @@ d) El gráfico circular está mal dibujado
 7. c) El bigote inferior (9 unidades): datos más dispersos o un valor bajo atípico. Un bigote mucho más largo que el otro sugiere asimetría.
 8. **b) Dibujar las barras con anchos distintos:** la diferencia visual no corresponde a la diferencia real de los datos.
 9. **Verdadero.** El gráfico de líneas muestra la evolución de una variable en el tiempo.
-10. **c) Distorsión visual porque el eje no comienza en cero.** c) Cortar el eje vertical exagera las diferencias: barras de 950 y 1.000 parecen muy distintas aunque varían solo un 5 %. Es una forma de distorsión visual.
+10. **c) Distorsión visual porque el eje no comienza en cero.** Cortar el eje vertical exagera las diferencias: barras de 950 y 1.000 parecen muy distintas aunque varían solo un 5 %. Es una forma de distorsión visual.
 11. a) Circular, porque muestra cómo se reparte un total entre pocas categorías.
 12. d) Exagera la diferencia (la barra de 2025 se ve el triple de alta, aunque el aumento real es 5%); se corrige iniciando el eje en 0. Si un gráfico de barras no comienza en 0, hay que sospechar que las diferencias están exageradas.
 13. b) De líneas, porque muestra la evolución en el tiempo; el circular sirve para partes de un todo.

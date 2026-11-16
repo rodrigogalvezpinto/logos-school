@@ -109,7 +109,7 @@ d) Where are the shoes?
 ## Pauta de respuestas
 
 1. a) ruler. La lista de útiles escolares se completa con un útil: *ruler* (regla).
-2. **d) cold.** d) «Cold» significa «frío»: si Pedro usa un abrigo grande y una bufanda, hace frío. «Hot», «sunny» y «warm» describen calor o sol.
+2. **d) cold.** «Cold» significa «frío»: si Pedro usa un abrigo grande y una bufanda, hace frío. «Hot», «sunny» y «warm» describen calor o sol.
 3. **d) Dear.** Se usa al comienzo de cartas y postales, antes del nombre de quien la recibe.
 4. **False (Falso).** Aunque esté bien escrito gramaticalmente, no corresponde a
    una lista de compras de alimentos.
@@ -117,7 +117,7 @@ d) Where are the shoes?
 6. c) hat. *Hat* (sombrero) rima con *cat* y completa la oración con sentido.
 7. a) There. *There are* indica que hay varias cosas en un lugar (plural).
 8. **c) next to.** *On* es "sobre", *in* es "dentro de" y *under* es "debajo de".
-9. **d) eleven.** d) El número 11 en inglés es «eleven». «Ten» es 10, «twelve» es 12 y «one» es 1.
+9. **d) eleven.** El número 11 en inglés es «eleven». «Ten» es 10, «twelve» es 12 y «one» es 1.
 10. **True (Verdadero).** *Under* significa "debajo de".
 11. b) I am. La respuesta corta a *Are you...?* es *Yes, I am.* o *No, I'm not.*
 12. **b) These are her shoes.** *Her* indica que los zapatos le pertenecen a ella.

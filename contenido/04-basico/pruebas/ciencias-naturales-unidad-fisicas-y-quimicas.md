@@ -82,7 +82,7 @@ d) Sólido, porque se puede tomar con una cuchara
    es un sólido. El aceite y el jugo son líquidos; el vapor es un gas.
 2. **Verdadero.** Un litro de agua sigue siendo un litro en una botella o en una olla
    (volumen propio), pero su forma cambia según el recipiente.
-3. **b y d.** b y d) El vapor y el gas de la cocina no tienen forma propia y se esparcen por el espacio (gaseoso); la leche toma la forma del vaso (líquido) y la cuchara mantiene su forma (sólido).
+3. **b y d.** El vapor y el gas de la cocina no tienen forma propia y se esparcen por el espacio (gaseoso); la leche toma la forma del vaso (líquido) y la cuchara mantiene su forma (sólido).
 4. b) El agua tiene volumen propio y queda en el fondo del vaso; el aire se expande y ocupa toda la pieza. Los líquidos tienen volumen propio; los gases ocupan todo el espacio disponible.
 5. **c) Se mantiene igual en los dos recipientes.** Los sólidos tienen forma propia:
    no se adaptan al recipiente.

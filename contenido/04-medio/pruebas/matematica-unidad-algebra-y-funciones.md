@@ -135,7 +135,7 @@ d) Ninguna, porque el coseno no puede modelar fenómenos periódicos
 1. **b.** El interés compuesto genera intereses sobre los intereses ya acumulados; el simple siempre se calcula sobre el capital inicial.
 2. **Verdadero.** TEA = (1 + 0,24/12)¹² − 1 = (1,02)¹² − 1 ≈ 26,8%: capitalizar más seguido aumenta la tasa efectiva.
 3. **a) $1.440.000.** M = 1.200.000 × (1 + 0,04 × 5) = 1.440.000. $1.459.958 sería a interés compuesto.
-4. **a) Porque la UF se reajusta según el IPC (inflación); se usa en contratos de largo plazo para que el valor no pierda poder adquisitivo.** a) La UF se reajusta diariamente según la inflación medida por el IPC; por eso en pesos sube, y se usa en contratos largos, como arriendos y créditos hipotecarios, para conservar su valor real.
+4. **a) Porque la UF se reajusta según el IPC (inflación); se usa en contratos de largo plazo para que el valor no pierda poder adquisitivo.** La UF se reajusta diariamente según la inflación medida por el IPC; por eso en pesos sube, y se usa en contratos largos, como arriendos y créditos hipotecarios, para conservar su valor real.
 5. d) 8,16%. TEA = (1 + 0,08/2)² − 1 = (1,04)² − 1 = 0,0816.
 6. b) El CAE refleja mejor el costo real total del crédito.
 7. d) El CAE de R es el más alto de los tres.

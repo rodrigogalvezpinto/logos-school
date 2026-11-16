@@ -117,7 +117,7 @@ d) Solo la votación es un criterio de justicia; la necesidad es caridad
 
 ## Pauta de respuestas
 
-1. **a) Medir con instrumentos la velocidad de una reacción química en el laboratorio.** a) Medir con instrumentos y experimentos controlados es tarea de las ciencias empíricas; la filosofía busca superar la ignorancia, enfrentar problemas complejos y examinar prejuicios.
+1. **a) Medir con instrumentos la velocidad de una reacción química en el laboratorio.** Medir con instrumentos y experimentos controlados es tarea de las ciencias empíricas; la filosofía busca superar la ignorancia, enfrentar problemas complejos y examinar prejuicios.
 
 2. **Verdadero.** Ambas disciplinas valoran la argumentación rigurosa; la reflexión ética sobre la edición genética necesita los datos de la biología, y la filosofía, a su vez, examina los supuestos y límites de la ciencia.
 
@@ -137,7 +137,7 @@ d) Solo la votación es un criterio de justicia; la necesidad es caridad
 
 10. c) 1-B, 2-A. Ambas teorías responden distinto a "qué hace correcta una acción": el resultado que produce, o el principio que respeta con independencia del resultado.
 
-11. **c) Igualdad formal o de trato ante la ley.** c) La ley trata a todos por igual (igualdad formal), pero no corrige las desventajas de hecho que impiden competir en igualdad de condiciones (igualdad sustantiva).
+11. **c) Igualdad formal o de trato ante la ley.** La ley trata a todos por igual (igualdad formal), pero no corrige las desventajas de hecho que impiden competir en igualdad de condiciones (igualdad sustantiva).
 
 12. a) Consecuencia y balance de bienestar, por un lado; deber y principio universalizable, por otro.
 
