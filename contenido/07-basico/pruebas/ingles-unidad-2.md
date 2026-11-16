@@ -50,10 +50,10 @@ d) learned
 
 **5. (Alternativas — escribir siguiendo modelo)** Which option completes the model *"In my city, people like ___. On weekends, they usually ___."* correctly?
 
-a) parks / is a big city
-b) go to the park / parks
+a) parks / is a big city with parks
+b) go to the park / parks and squares
 c) parks / go for a walk or ride a bike there
-d) ride a bike / parks
+d) ride a bike / parks near the river
 
 **6. (Alternativas — completar, desafiante)** Choose the best caption for a picture of children planting trees: *"This picture shows ___. It makes me feel ___."*
 

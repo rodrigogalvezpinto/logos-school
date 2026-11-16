@@ -74,10 +74,10 @@ d) Sí es adecuada, porque sirve para que el compañero se apure en desarrollars
 **Pregunta 6.**
 ¿Qué ocurre durante la menstruación?
 
-a) El ovario libera un ovocito
+a) El ovario libera un ovocito maduro hacia la trompa de Falopio
 b) Se desprende la capa interna del útero, porque no hubo fecundación
-c) El espermatozoide llega al ovocito
-d) Se forma el embrión
+c) El espermatozoide llega al ovocito y lo fecunda en el útero
+d) Se forma el embrión y se implanta en la pared del útero
 
 **Pregunta 7.** (Verdadero o falso)
 Después de la fecundación, el embrión se implanta en la pared del ovario.

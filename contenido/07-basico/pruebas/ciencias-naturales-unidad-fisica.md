@@ -80,10 +80,10 @@ d) La gravedad se opone en la bajada; el empujón inicial sigue acelerando el tr
 **Pregunta 7.**
 ¿Qué ocurre en un límite **divergente** entre placas tectónicas, como en el centro del océano Atlántico?
 
-a) Las placas chocan y una se hunde bajo la otra
-b) Las placas se deslizan una al lado de la otra
+a) Las placas chocan y una se hunde bajo la otra, formando una fosa
+b) Las placas se deslizan una al lado de la otra sin crear ni destruir corteza
 c) Las placas se separan y sale magma que forma nuevo fondo oceánico
-d) Las placas no se mueven
+d) Las placas no se mueven y el fondo del océano queda igual
 
 **Pregunta 8.** (Verdadero o falso)
 Chile tiene muchos sismos y volcanes porque se ubica en el borde entre dos placas tectónicas.

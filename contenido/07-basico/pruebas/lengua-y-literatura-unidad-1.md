@@ -38,17 +38,17 @@ oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA
 
 **1. (Alternativas)** ¿Cuál es el conflicto central del texto "La bicicleta azul"?
 
-a) La decisión de Matías de ordenar el garaje de la casa de su madre en Los Ángeles
-b) La discusión entre la madre y el vecino por el préstamo de la bicicleta
+a) La decisión de Matías de ordenar el garaje de la casa de su madre en Los Ángeles antes de venderla
+b) La discusión entre la madre y el vecino por el préstamo de la bicicleta azul que nunca devolvió
 c) La falta de dinero de la familia para comprar una bicicleta nueva
 d) La culpa cruzada entre Matías y Camila por la bicicleta desaparecida, que distanció a los hermanos durante años
 
 **2. (Alternativas)** ¿Qué rol cumple la madre en el conflicto de la historia?
 
 a) No participa en la pelea, pero al ocultar que ella regaló la bicicleta permite que la culpa entre los hermanos se mantenga durante años
-b) Es quien provoca la pelea al acusar a Camila de prestar la bicicleta
-c) Resuelve el conflicto al comienzo del relato, cuando cuenta la verdad
-d) No tiene ninguna relación con el conflicto, porque no vivía con sus hijos
+b) Es quien provoca la pelea al acusar a Camila de prestar la bicicleta sin permiso a una amiga del barrio
+c) Resuelve el conflicto al comienzo del relato, cuando reúne a sus hijos y les cuenta toda la verdad
+d) No tiene ninguna relación con el conflicto, porque no vivía con sus hijos cuando la bicicleta desapareció del garaje de la casa familiar
 
 **3. (Verdadero o Falso)** El relato "La bicicleta azul" está narrado en estricto orden cronológico, sin ningún salto temporal.
 
@@ -91,10 +91,10 @@ d) Al olfato
 
 **7. (Alternativas)** ¿Qué idea transmite la metáfora "las estrellas son las brasas que la noche olvidó apagar"?
 
-a) Que las estrellas son literalmente fuego que puede quemar el desierto
+a) Que las estrellas son literalmente fuego que puede quemar el desierto si baja a la tierra
 b) Que las estrellas brillan en la oscuridad como pequeñas brasas encendidas, dando calidez a la noche
-c) Que en el desierto nunca se ven estrellas
-d) Que la noche apaga todas las luces del cielo
+c) Que en el desierto nunca se ven estrellas porque la noche es demasiado oscura
+d) Que la noche apaga todas las luces del cielo antes de que amanezca
 
 **8. (Verdadero o Falso)** El poema "Desierto de noche" sugiere un estado de ánimo de agitación y urgencia.
 
@@ -117,25 +117,25 @@ d) Aliteración
 
 **10. (Alternativas)** ¿Cuál es el dilema principal que enfrenta Rosa en el relato?
 
-a) Elegir entre estudiar en Valdivia o trabajar en Santiago
+a) Elegir entre estudiar en Valdivia o trabajar en Santiago para ayudar a su familia después del terremoto
 b) Decidir si se queda en la central para transmitir el aviso, arriesgando su seguridad, o sale para ponerse a salvo con su familia
-c) Decidir si renuncia a su trabajo de telefonista por un conflicto con su jefe
-d) Elegir entre dos vecinas que le pedían ayuda al mismo tiempo
+c) Decidir si renuncia a su trabajo de telefonista por un conflicto con su jefe, aunque necesite el sueldo
+d) Elegir entre dos vecinas que le pedían ayuda al mismo tiempo para sacar sus cosas de la casa
 
 **11. (Alternativas — postura fundamentada)** Frente al dilema de Rosa, ¿cuál de estas respuestas es una **postura fundamentada** en el texto?
 
-a) "Creo que acertó porque sí, porque las personas valientes siempre hacen lo correcto"
-b) "No me gustó el cuento, porque habla de un terremoto"
+a) "Creo que acertó porque sí, porque las personas valientes siempre hacen lo correcto en cualquier situación"
+b) "No me gustó el cuento, porque habla de un terremoto y esas historias me dan miedo"
 c) "Creo que acertó, porque el aviso podía salvar a familias que no sabían del peligro, aunque ella arriesgaba mucho"
-d) "Rosa es un nombre bonito, así que cualquier decisión me parece bien"
+d) "Rosa es un nombre bonito, así que cualquier decisión que tome en el relato me parece bien"
 
 **12. (Verdadero o Falso)** Para interpretar correctamente el relato "La telefonista de Valdivia", no es necesario conocer nada sobre el terremoto de 1960 en el sur de Chile.
 
 **13. (Alternativas — aplicación)** ¿Qué **visión de mundo** transmite el relato sobre la comunidad de la época?
 
 a) Una en que la solidaridad, el coraje frente al miedo y el compromiso con los demás se valoran, aun con alto riesgo personal
-b) Una en que cada persona solo se preocupa de sí misma, sin ayudar a nadie
-c) Una en que la catástrofe no tuvo ninguna consecuencia para las personas
+b) Una en que cada persona solo se preocupa de sí misma y de su familia, sin ayudar a nadie más en la emergencia
+c) Una en que la catástrofe no tuvo ninguna consecuencia para las personas, porque nadie resultó afectado
 d) Una en que la comunidad no tenía valores compartidos y cada familia enfrentaba sola los problemas
 
 ---

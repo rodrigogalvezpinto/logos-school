@@ -22,9 +22,9 @@ ultima_actualizacion: 2026-10-28
 ---
 
 **Pregunta 1 (alternativas).** ¿Qué cambio en la forma de vida trajo la Revolución neolítica?
-a) El paso de la vida en ciudades a la vida nómade
-b) La invención de la imprenta
-c) El fin de la agricultura
+a) El paso de la vida en ciudades a la vida nómade, basada en la caza de animales grandes y la pesca en los ríos y lagos
+b) La invención de la imprenta, que permitió difundir los conocimientos sobre la agricultura
+c) El fin de la agricultura y el regreso a la recolección de frutos silvestres
 d) El paso de la vida nómade, basada en la caza y la recolección, a la vida sedentaria, basada en la agricultura y la ganadería
 
 **Pregunta 2 (verdadero o falso).** El maíz fue domesticado en América, mientras que el trigo fue domesticado en el Medio Oriente.
@@ -58,10 +58,10 @@ d) Las decidían solo los sacerdotes
 **Pregunta 6 (verdadero o falso).** En Atenas, un esclavo podía votar en la Asamblea si llevaba muchos años viviendo en la ciudad.
 
 **Pregunta 7 (alternativas).** Que en España, Francia e Italia se hablen hoy lenguas derivadas del latín es una consecuencia de:
-a) La invasión de los pueblos árabes
-b) La Revolución neolítica
+a) La invasión de los pueblos árabes a Europa
+b) La Revolución neolítica en el Cercano Oriente y Egipto
 c) La romanización de los territorios conquistados por Roma
-d) La democracia ateniense
+d) La democracia ateniense y sus asambleas
 
 **Pregunta 8 (alternativas — unir).** Une cada legado de Roma con un ejemplo actual:
 
@@ -86,9 +86,9 @@ d) China, india y árabe, de las rutas de Asia
 **Pregunta 10 (verdadero o falso).** Después de la caída del Imperio romano de Occidente, en el año 476 d.C., su territorio quedó dividido en distintos reinos germánicos.
 
 **Pregunta 11 (alternativas).** ¿Qué papel cumplieron las ferias medievales, como las de Champaña, a partir del siglo XII?
-a) Prohibieron el comercio entre regiones
-b) Hicieron desaparecer las ciudades
-c) Obligaron a la población a volver al campo
+a) Prohibieron el comercio entre regiones para proteger a los señores
+b) Hicieron desaparecer las ciudades y los mercados de Europa
+c) Obligaron a la población a volver al campo a trabajar la tierra
 d) Impulsaron el comercio entre regiones y el crecimiento de las ciudades
 
 **Pregunta 12 (alternativas — unir).** Une cada transformación de Europa desde el siglo XII con un ejemplo:
@@ -105,10 +105,10 @@ c) 1-B, 2-C, 3-A
 d) 1-C, 2-B, 3-A
 
 **Pregunta 13 (alternativas).** ¿Para qué construyeron los incas las terrazas de cultivo en las laderas de los Andes?
-a) Para defenderse de los ataques enemigos
+a) Para defenderse de los ataques enemigos desde lo alto de las montañas
 b) Para obtener terreno plano para cultivar en las montañas y evitar la erosión
-c) Para registrar los tributos
-d) Para celebrar ceremonias religiosas
+c) Para registrar los tributos que pagaba cada comunidad
+d) Para celebrar ceremonias religiosas en honor al dios Sol
 
 **Pregunta 14 (alternativas).** ¿Cuál de las siguientes palabras del español proviene de una lengua indígena americana?
 a) Almohada

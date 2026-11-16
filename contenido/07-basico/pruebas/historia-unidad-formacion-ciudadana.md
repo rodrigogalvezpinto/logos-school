@@ -22,10 +22,10 @@ ultima_actualizacion: 2026-10-28
 ---
 
 **Pregunta 1 (alternativas).** En la Atenas clásica, una mujer nacida en la ciudad, ¿podía votar en la Asamblea?
-a) Sí, porque todas las personas nacidas en Atenas eran ciudadanas
+a) Sí, porque todas las personas nacidas en Atenas eran ciudadanas con los mismos derechos políticos, igual que hoy
 b) No, porque la ciudadanía excluía a las mujeres, a los esclavos y a los extranjeros; hoy, en cambio, las mujeres votan
-c) Sí, pero solo en tiempos de guerra
-d) No, porque en Atenas nadie votaba
+c) Sí, pero solo en tiempos de guerra, cuando faltaban hombres en la Asamblea de la ciudad
+d) No, porque en Atenas nadie votaba: todas las decisiones las tomaba un rey sin consultar
 
 **Pregunta 2 (verdadero o falso).** En Chile, las personas eligen a diputados y senadores para que tomen decisiones en su nombre: es un ejemplo de democracia representativa.
 
@@ -78,10 +78,10 @@ c) Que el intercambio entre culturas distintas permitió difundir conocimientos 
 d) Que los conocimientos de otras culturas no llegaron nunca a Europa, porque estaban prohibidos
 
 **Pregunta 9 (alternativas).** En la ciudad de Toledo, durante la Edad Media, traductores musulmanes, judíos y cristianos trabajaron juntos traduciendo libros de ciencia. ¿Qué muestra este ejemplo?
-a) Que solo hubo conflicto entre esas culturas
+a) Que solo hubo conflicto entre esas culturas, porque nunca lograron ponerse de acuerdo en nada
 b) Que hubo intercambio cultural y científico entre distintas culturas, aunque también existieron conflictos
-c) Que esas culturas nunca tuvieron contacto
-d) Que la ciencia no existía en la Edad Media
+c) Que esas culturas nunca tuvieron contacto entre sí y cada una tradujo sus libros por separado
+d) Que la ciencia no existía en la Edad Media y por eso tuvieron que traducir libros antiguos
 
 **Pregunta 10 (verdadero o falso).** El imperio romano prohibió todas las religiones de los pueblos conquistados desde el comienzo de su expansión.
 
@@ -100,17 +100,17 @@ d) 1-B, 2-A, 3-C
 
 **Pregunta 12 (alternativas).** ¿Qué pareja muestra correctamente un ejemplo de convivencia y uno de conflicto en el Imperio romano?
 
-a) Convivencia: las guerras de conquista. Conflicto: el comercio por el Mediterráneo
-b) Convivencia: los tratados de paz. Conflicto: el uso común del latín
-c) Convivencia: la persecución de los cristianos. Conflicto: la tolerancia religiosa
+a) Convivencia: las guerras de conquista contra otros pueblos. Conflicto: el comercio entre provincias por el Mediterráneo
+b) Convivencia: los tratados de paz con los pueblos vecinos. Conflicto: el uso común del latín en todas las provincias
+c) Convivencia: la persecución de los cristianos en Roma. Conflicto: la tolerancia religiosa hacia los pueblos conquistados
 d) Convivencia: el comercio entre provincias por el Mediterráneo. Conflicto: las guerras de conquista contra otros pueblos
 
 **Pregunta 13 (alternativas — análisis de fuente, debate).** En un debate se pregunta: "¿Puede una misma relación entre dos pueblos incluir, al mismo tiempo, convivencia y conflicto?". ¿Qué ejemplo del Imperio romano y los pueblos germanos apoya la respuesta "sí"?
 
-a) Nunca tuvieron contacto entre sí
+a) Nunca tuvieron contacto entre sí, porque los separaban grandes montañas y ríos que nadie podía cruzar
 b) Durante siglos comerciaron y muchos germanos sirvieron en el ejército romano, mientras también se enfrentaban en guerras de frontera
-c) Siempre vivieron en paz absoluta
-d) Solo se relacionaron mediante guerras, sin ningún intercambio
+c) Siempre vivieron en paz absoluta, sin guerras ni conflictos, y compartieron el mismo gobierno durante siglos
+d) Solo se relacionaron mediante guerras de frontera, sin ningún tipo de intercambio comercial ni cultural
 
 ---
 

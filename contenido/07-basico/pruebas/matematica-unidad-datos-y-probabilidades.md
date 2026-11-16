@@ -101,9 +101,9 @@ d) 2/3
 **Pregunta 14 (alternativas — comparar teórica y experimental).** La probabilidad teórica de sacar un 6 en un dado es 1/6 (≈ 16,7%). Al lanzarlo 120 veces, el 6 salió 23 veces. ¿Qué conclusión es correcta?
 
 a) La probabilidad experimental es 23%, así que el dado está trucado
-b) La probabilidad experimental es ≈ 19,2%, lo que prueba que el dado está trucado
+b) La probabilidad experimental es ≈ 19,2%, lo que prueba que el dado está trucado y favorece al 6
 c) La probabilidad experimental es ≈ 19,2%; la diferencia con 16,7% es razonable y puede explicarse por el azar
-d) La probabilidad experimental debe ser exactamente 16,7%, así que hubo un error al contar
+d) La probabilidad experimental debe ser exactamente 16,7%, así que hubo un error al contar los lanzamientos
 
 ---
 

@@ -59,15 +59,15 @@ d) Presentar a los personajes
 
 a) Bees are scary for most people.
 b) Bees pollinate many fruits and vegetables.
-c) Bees are the best pets.
-d) Everybody loves bees.
+c) Bees are the best pets for families.
+d) Everybody loves bees and their honey.
 
 **7. (Alternativas — opinión, desafiante)** Read: *"Some schools in Chile have started vegetable gardens for students."* Which answer expresses an opinion with a coherent reason?
 
-a) I agree because gardens are green and I like the number seven.
-b) Schools are buildings where students learn.
+a) I agree because gardens are green and I like the number seven very much.
+b) Schools are buildings where students learn and play.
 c) I agree because students can learn where food comes from and eat healthier.
-d) Some schools have gardens on Tuesday.
+d) Some schools have gardens on Tuesday and Friday.
 
 ---
 

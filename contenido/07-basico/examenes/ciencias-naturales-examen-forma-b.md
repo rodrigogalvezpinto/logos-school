@@ -160,10 +160,10 @@ d) Del tipo de material elástico que se usa para unir las superficies
 
 **14.** *(Alternativas, 2 puntos)* ¿Por qué los neumáticos de un auto tienen surcos (dibujos) en su superficie?
 
-a) Para disminuir la fuerza de gravedad sobre el auto
-b) Para que el auto sea más liviano y gaste menos combustible
+a) Para disminuir la fuerza de gravedad sobre el auto cuando va rápido
+b) Para que el auto sea más liviano y gaste menos combustible en la carretera
 c) Para aumentar el roce con el camino y evitar que el auto patine, sobre todo con lluvia
-d) Para que el auto haga menos ruido al frenar
+d) Para que el auto haga menos ruido al frenar en las calles de la ciudad
 
 **15.** *(Alternativas, 3 puntos)* Un carro de supermercado vacío queda suelto en una rampa del estacionamiento y baja cada vez más rápido. ¿Qué fuerza causa principalmente la aceleración y cuál se opone a ella?
 
@@ -194,10 +194,10 @@ d) La deriva continental fue refutada por la tectónica de placas y hoy se consi
 
 **18.** *(Alternativas, 2 puntos)* ¿Qué evidencia usó Alfred Wegener para proponer la deriva continental?
 
-a) Que los volcanes de todo el mundo tienen la misma altura
+a) Que los volcanes de todo el mundo tienen la misma altura y la misma forma, aunque estén en continentes distintos
 b) Que las costas de Sudamérica y África encajan como piezas de un rompecabezas y que hay fósiles iguales en ambos continentes
-c) Que todos los continentes tienen el mismo clima
-d) Que la Luna se aleja de la Tierra cada año
+c) Que todos los continentes tienen el mismo clima y las mismas estaciones durante todo el año
+d) Que la Luna se aleja de la Tierra cada año y eso mueve los continentes
 
 ---
 

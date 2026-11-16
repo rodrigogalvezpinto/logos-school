@@ -36,8 +36,8 @@ oa_por_pregunta: {"1":"OA 8","2":"OA 8","3":"OA 8","4":"OA 8","5":"OA 8","6":"OA
 
 **1. (Alternativas)** ¿Cuál es la postura principal del autor de la columna "Más ciclovías, menos tacos"?
 
-a) Los autos deben prohibirse completamente en la ciudad, porque son la única causa del problema
-b) Las calles no necesitan ninguna mejora, porque las personas prefieren el auto
+a) Los autos deben prohibirse completamente en la ciudad, porque son la única causa del problema del tráfico y la contaminación
+b) Las calles no necesitan ninguna mejora, porque las personas prefieren el auto y no usarían las ciclovías
 c) El problema del tráfico se resuelve ofreciendo alternativas seguras, como ciclovías continuas, y no solo cobrando más a los autos
 d) Las personas deberían usar más el auto, no menos, porque así llegan más rápido
 
@@ -46,15 +46,15 @@ d) Las personas deberían usar más el auto, no menos, porque así llegan más r
 **3. (Alternativas)** ¿Cuál de estos enunciados de la columna es una **opinión** y no un hecho verificable?
 
 a) "En mi opinión, el problema no son solo los autos, sino la falta de alternativas seguras para moverse"
-b) El dato sobre los minutos que demora un viaje en hora punta, citado de un informe
-c) La fecha en que se publicó la columna
-d) El nombre del ministerio que publicó el informe
+b) El dato sobre los minutos que demora un viaje en hora punta, citado de un informe del ministerio
+c) La fecha en que se publicó la columna en el diario de la ciudad
+d) El nombre del ministerio que publicó el informe sobre el tráfico
 
 **4. (Alternativas — aplicación)** ¿Cuál de estos es un **argumento** que usa el autor para sostener su postura?
 
-a) Que la bicicleta se inventó en el siglo XIX y por eso es un medio de transporte antiguo
+a) Que la bicicleta se inventó en el siglo XIX y por eso es un medio de transporte antiguo que ya no sirve para las ciudades de hoy
 b) Que el autor tiene un vecino que maneja muy rápido
-c) Que en todas las ciudades del mundo llueve demasiado para andar en bicicleta
+c) Que en todas las ciudades del mundo llueve demasiado para andar en bicicleta, así que las ciclovías no se usarían
 d) Que muchas ciclovías se cortan de repente o comparten la calzada con los buses, por lo que muchas personas prefieren no usar la bicicleta
 
 **5. (Alternativas)** ¿Cuál de las siguientes oraciones del texto corresponde a un hecho, y no a una opinión?
@@ -78,17 +78,17 @@ d) "Muchas calles no tienen ciclovías"
 
 **6. (Alternativas)** ¿Cuál es el propósito implícito del Texto B (el comentario en redes sociales)?
 
-a) Informar objetivamente sobre los resultados de la encuesta
-b) Felicitar a la nueva gerenta y desearle éxito
+a) Informar objetivamente sobre los resultados de la encuesta a los trabajadores del puerto
+b) Felicitar a la nueva gerenta y desearle éxito en su cargo
 c) Cuestionar la capacidad de Marcela Rojas para el cargo, basándose en un prejuicio sobre su edad
-d) Explicar cómo funciona un puerto
+d) Explicar cómo funciona un puerto y quiénes trabajan en él
 
 **7. (Alternativas)** ¿Qué prejuicio presenta el Texto B y por qué lo es?
 
-a) Una crítica fundada en malos resultados de su trabajo anterior
+a) Una crítica fundada en malos resultados de su trabajo anterior, que el comentario detalla con cifras, fechas y nombres
 b) El prejuicio de que una persona mayor "no tiene energía" para el cargo, sin considerar su experiencia real de treinta años
-c) Un dato verificable sobre la encuesta a los trabajadores
-d) Una felicitación expresada con ironía
+c) Un dato verificable sobre la encuesta a los trabajadores del puerto
+d) Una felicitación expresada con ironía hacia la nueva gerenta
 
 **8. (Alternativas — aplicación, texto discontinuo)** Según el gráfico del Texto A, ¿qué diferencia hay entre quienes aprueban y quienes rechazan el nombramiento?
 
@@ -99,10 +99,10 @@ d) 23 puntos porcentuales
 
 **9. (Alternativas)** ¿Qué efecto podría tener la publicación del comentario del Texto B sobre Marcela Rojas?
 
-a) Ningún efecto, porque los comentarios en redes se olvidan al día siguiente
+a) Ningún efecto, porque los comentarios en redes se olvidan al día siguiente y nadie los toma en cuenta
 b) Podría generar desconfianza injustificada hacia su gestión, antes de que comience, basada en un prejuicio y no en su desempeño
 c) Aumentaría automáticamente su aprobación entre los trabajadores
-d) Anularía su nombramiento, porque el puerto revisa los comentarios en redes
+d) Anularía su nombramiento, porque el puerto revisa los comentarios en redes sociales antes de confirmar a sus gerentes
 
 ---
 
@@ -110,9 +110,9 @@ d) Anularía su nombramiento, porque el puerto revisa los comentarios en redes
 
 **10. (Alternativas)** Debes escribir un correo a la directora del colegio para pedir permiso para una feria. ¿Qué significa adecuar el registro en este caso?
 
-a) Escribir igual que en un chat con amigos, con abreviaturas y emojis
+a) Escribir igual que en un chat con amigos, con abreviaturas, emojis y saludos informales como «hola, profe»
 b) Usar un vocabulario formal, saludo y despedida respetuosos, y explicar con claridad el propósito, porque la destinataria es una autoridad
-c) Usar solo palabras técnicas, aunque la directora no las entienda
+c) Usar solo palabras técnicas y difíciles, aunque la directora no las entienda, para que el correo parezca serio y profesional
 d) Evitar los conectores para que el correo sea más corto
 
 **11. (Alternativas — aplicación)** ¿Cuál es la versión corregida de "Los jugador ha ganado su partido difícil"?

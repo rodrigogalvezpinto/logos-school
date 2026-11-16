@@ -22,10 +22,10 @@ ultima_actualizacion: 2026-10-28
 ---
 
 **Pregunta 1 (alternativas).** Los incas construyeron ciudades como Cusco en la cordillera de los Andes, a más de 3.000 metros de altura. ¿Qué les permitió asentarse ahí?
-a) Que en la cordillera no había agua
-b) Que en la altura no se podía cultivar
+a) Que en la cordillera no había agua y por eso nadie más quería vivir ahí
+b) Que en la altura no se podía cultivar, así que vivían solo del comercio con la costa
 c) El cultivo en terrazas y la domesticación de llamas y alpacas, adaptados a la montaña
-d) Que vivían solo de la pesca
+d) Que vivían solo de la pesca en los lagos y ríos de la montaña
 
 **Pregunta 2 (verdadero o falso).** Los romanos construyeron acueductos para llevar agua a sus ciudades: es un ejemplo de cómo el ser humano transforma el medio.
 
@@ -45,9 +45,9 @@ d) Los diques de los Países Bajos para ganarle tierra al mar
 
 **Pregunta 5 (alternativas — análisis de mapa).** Las primeras ciudades de Egipto se construyeron a lo largo del río Nilo, rodeadas de desierto. ¿Qué factor de asentamiento explica esa ubicación?
 
-a) La presencia de volcanes activos
-b) La búsqueda de zonas sin agua para protegerse
-c) La cercanía a altas montañas nevadas
+a) La presencia de volcanes activos que fertilizaban el suelo con ceniza
+b) La búsqueda de zonas sin agua para protegerse de los ataques de otros pueblos
+c) La cercanía a altas montañas nevadas que les daban agua en verano
 d) Las crecidas del río, que dejaban tierras fértiles para cultivar en medio del desierto
 
 **Pregunta 6 (alternativas — desafiante).** En la isla de Rapa Nui, la tala de casi todos sus árboles, hace siglos, dejó el suelo pobre y sin madera para construir canoas. ¿Qué lección deja este caso al estudiar cómo las sociedades se asientan en un lugar?
@@ -75,23 +75,23 @@ d) Ambas son de escala global
 **Pregunta 10 (alternativas).** Un parque eólico se instala en una zona costera para producir electricidad. ¿Qué afirmación describe mejor sus efectos?
 
 a) Puede producir energía limpia, pero también afectar el paisaje o a las aves de la zona
-b) Solo tiene ventajas, sin ninguna desventaja
-c) Solo tiene desventajas, sin ninguna ventaja
-d) No tiene ningún efecto sobre el entorno
+b) Solo tiene ventajas, sin ninguna desventaja para el paisaje ni para los animales
+c) Solo tiene desventajas, sin ninguna ventaja para producir electricidad limpia
+d) No tiene ningún efecto sobre el entorno, porque el viento no se agota
 
 **Pregunta 11 (alternativas — análisis de fuente).** Un informe compara los canales de riego que construyeron los pueblos de Mesopotamia con los grandes embalses actuales. ¿Qué continuidad y qué cambio se observan?
 
-a) Continuidad: la tecnología es la misma. Cambio: hoy ya no se riega
-b) Continuidad: ninguna. Cambio: en Mesopotamia no se cultivaba
-c) Continuidad: la escala del impacto es idéntica. Cambio: ninguno
+a) Continuidad: la tecnología de riego es exactamente la misma que en Mesopotamia. Cambio: hoy ya no se riega ningún cultivo
+b) Continuidad: ninguna, porque son épocas muy distintas. Cambio: en Mesopotamia no se cultivaba, solo se pescaba en los ríos
+c) Continuidad: la escala del impacto en el ambiente es idéntica en ambos casos. Cambio: ninguno, porque se usan las mismas técnicas
 d) Continuidad: en ambos casos se transforma el curso del agua para cultivar. Cambio: la escala del impacto y la tecnología son mucho mayores hoy
 
 **Pregunta 12 (alternativas — desafiante).** Antes de construir una carretera que atraviesa un bosque nativo, ¿por qué conviene evaluar sus ventajas y desventajas?
 
-a) Porque solo importa que la carretera se construya rápido
+a) Porque solo importa que la carretera se construya rápido y barato, aunque el bosque nativo y todas sus especies se vean afectados por la obra
 b) Porque la obra puede traer beneficios, pero también efectos no deseados en el bosque y sus especies, y evaluarlos permite decidir de forma responsable
-c) Porque las carreteras nunca tienen efectos sobre el medio
-d) Porque evaluar impide construir cualquier obra
+c) Porque las carreteras nunca tienen efectos sobre el medio, así que la evaluación solo sirve para cumplir un trámite
+d) Porque evaluar impide construir cualquier obra, y así el bosque nativo queda protegido para siempre
 
 ---
 
