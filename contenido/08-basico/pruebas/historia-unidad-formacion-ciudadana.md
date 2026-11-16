@@ -52,26 +52,26 @@ d) 1-B, 2-C, 3-A
 
 **4. (Alternativas)** ¿En qué consiste el principio de **separación de los poderes** del Estado?
 
-a) En que el rey concentra todos los poderes por derecho divino
+a) En que el rey concentra todos los poderes por derecho divino, sin que nadie pueda controlar sus decisiones ni sus leyes
 b) En que solo la nobleza puede gobernar
-c) En que la nación debe obedecer siempre al rey
+c) En que la nación debe obedecer siempre al rey, que hace las leyes, gobierna y juzga a quienes no las cumplen
 d) En que las funciones de hacer las leyes, ejecutarlas y juzgar están en manos de órganos distintos, para evitar abusos de poder
 
 ---
 
 **5. (Alternativas — análisis de fuente)** Compara: "la libre comunicación de los pensamientos y de las opiniones es uno de los derechos más preciosos del hombre" (1789) y "todo individuo tiene derecho a la libertad de opinión y de expresión" (1948). ¿Qué vínculo existe entre ambos textos?
 
-a) Una contradicción: la de 1948 prohíbe expresar opiniones
+a) Una contradicción: la de 1948 prohíbe expresar opiniones que vayan contra el gobierno de cada país
 b) Una continuidad: la de 1948 retoma la libertad de expresión de 1789 y la extiende a todo individuo
 c) Ninguno: tratan temas distintos
-d) Son textos idénticos, palabra por palabra
+d) Son textos idénticos, palabra por palabra, porque la ONU copió la declaración francesa
 
 ---
 
 **6. (Alternativas — desafiante)** En 1791, Olympe de Gouges escribió la Declaración de los Derechos de la Mujer y de la Ciudadana. ¿Qué muestra este hecho sobre la declaración de 1789?
 
-a) Que la declaración de 1789 ya incluía plenamente a las mujeres
-b) Que las mujeres no querían tener derechos
+a) Que la declaración de 1789 ya incluía plenamente a las mujeres en todos sus derechos, y Olympe de Gouges solo quiso repetirla con otras palabras
+b) Que las mujeres no querían tener derechos políticos y por eso nadie reclamó cuando la declaración de 1789 las dejó fuera
 c) Que, aunque proclamaba la igualdad, la declaración de 1789 excluía a las mujeres de derechos políticos plenos, y hubo que reclamarlos
 d) Que solo los reyes tenían derechos
 

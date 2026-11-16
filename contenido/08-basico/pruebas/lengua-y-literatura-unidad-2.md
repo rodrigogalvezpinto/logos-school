@@ -36,32 +36,32 @@ oa_por_pregunta: {"1":"OA 9","2":"OA 9","3":"OA 9","4":"OA 9","5":"OA 9","6":"OA
 
 **1. (Alternativas)** ¿Cuál es la postura principal del autor de la columna "Cada gota cuenta"?
 
-a) Las campañas de ahorro de agua son innecesarias y deberían eliminarse
+a) Las campañas de ahorro de agua son innecesarias y deberían eliminarse, porque el agua de Chile alcanza para todos
 b) La escasez de agua no es un problema real en Chile
 c) Las medidas de las autoridades son positivas pero insuficientes si no cambian también los hábitos de las personas y de las empresas
-d) Solo el gobierno debe encargarse del problema, sin participación de los ciudadanos
+d) Solo el gobierno debe encargarse del problema del agua, sin participación de los ciudadanos ni de las empresas del país
 
 **2. (Verdadero o Falso)** La frase "según la Dirección General de Aguas, más de la mitad de las comunas de Chile han sido declaradas en escasez hídrica" corresponde a un hecho verificable, no a una opinión.
 
 **3. (Alternativas)** ¿Qué intención tiene el autor al usar el imperativo en "Cerremos la llave... reparemos las filtraciones y enseñemos a los más pequeños"?
 
 a) Involucrar al lector en una acción colectiva y urgente, transmitiendo que el cambio depende también de la ciudadanía
-b) Expresar una duda sobre si existe escasez de agua
-c) Narrar lo que hicieron los vecinos el año anterior
+b) Expresar una duda sobre si realmente existe escasez de agua en el país o si es una exageración de las autoridades
+c) Narrar lo que hicieron los vecinos del barrio el año anterior para reparar las filtraciones de sus casas
 d) Describir objetivamente una casa con filtraciones
 
 **4. (Alternativas — Aplicación)** ¿Qué intención tiene el subjuntivo en "Ojalá cada empresa agrícola cuidara el agua con la misma exigencia con que se les pide a las familias"?
 
-a) Afirmar con certeza que todas las empresas cuidan el agua
+a) Afirmar con certeza que todas las empresas agrícolas e industriales ya cuidan el agua más que las familias
 b) Dar una orden directa a las empresas
-c) Narrar lo que ocurrió ayer en una empresa agrícola
+c) Narrar lo que ocurrió ayer en una empresa agrícola de la región que fue multada por gastar agua
 d) Expresar un deseo sobre algo que no ocurre, criticando indirectamente una exigencia desigual
 
 **5. (Alternativas)** ¿Cuál de las siguientes oraciones del texto corresponde a un hecho, y no a una opinión?
 
-a) "En mi opinión, las campañas de ahorro llegaron tarde, pero llegaron"
+a) "En mi opinión, las campañas de ahorro llegaron tarde, pero llegaron, y eso ya es un avance para todo el país"
 b) "Nuestra oportunidad de cambiar el hábito es ahora"
-c) "No basta con que las autoridades decreten restricciones"
+c) "No basta con que las autoridades decreten restricciones; también hay que cambiar los hábitos de cada familia"
 d) "Más de la mitad de las comunas de Chile han sido declaradas en escasez hídrica", según la Dirección General de Aguas
 
 ---
@@ -81,8 +81,8 @@ d) "Más de la mitad de las comunas de Chile han sido declaradas en escasez híd
 
 **6. (Alternativas)** ¿Cuál es el propósito implícito del Texto B (la publicación del Centro de Padres)?
 
-a) Informar de manera neutra el estado del edificio
-b) Felicitar a la Municipalidad por su rápida respuesta
+a) Informar de manera neutra el estado del edificio de la escuela después del incendio, sin opinar sobre la Municipalidad
+b) Felicitar a la Municipalidad por su rápida respuesta y por el plan de reparación que ya entregó a las familias
 c) Presionar públicamente a la Municipalidad para que entregue un plan más claro, usando la exposición en redes sociales
 d) Explicar el proceso técnico de reparación de la escuela
 
@@ -90,24 +90,24 @@ d) Explicar el proceso técnico de reparación de la escuela
 
 **8. (Alternativas)** ¿En qué se diferencian el tono y el propósito del Texto A y del Texto B?
 
-a) Ambos tienen el mismo tono informativo y el mismo propósito
+a) Ambos tienen el mismo tono informativo y neutro, y el mismo propósito de explicar el incendio, aunque uno sea más largo que el otro
 b) El A es informativo y neutro, apoyado en una fuente oficial; el B es crítico y urgente, y busca exigir información y expresar la molestia de las familias
-c) El A es crítico y urgente; el B es neutro e informativo
+c) El A es crítico y urgente, porque exige respuestas a la Municipalidad; el B es neutro e informativo, porque se apoya en una fuente oficial
 d) Ninguno tiene un propósito definido
 
 **9. (Alternativas — Aplicación — texto discontinuo)** Según la tabla del Texto A, ¿cuántos estudiantes se ven afectados por la suspensión, y qué información relevante **no** entrega?
 
-a) 310 estudiantes; no indica la dirección de la escuela
-b) 290 estudiantes; no indica el nombre de la directora
+a) 310 estudiantes; no indica la dirección de la escuela ni el horario en que se harán las clases remotas
+b) 290 estudiantes; no indica el nombre de la directora ni el de los profesores afectados
 c) 600 estudiantes (310 + 290); no indica cómo harán clases remotas las familias que perdieron sus computadores
 d) 20 estudiantes; no indica la fecha del incendio
 
 **10. (Alternativas)** ¿Qué evidencia la comparación entre el Texto A y el Texto B sobre un mismo hecho?
 
-a) Que uno de los dos textos necesariamente miente
+a) Que uno de los dos textos necesariamente miente, porque cuentan el mismo hecho de manera distinta y no pueden ser ciertos los dos a la vez
 b) Que la fuente desde la que se presenta un hecho puede influir en el énfasis, el tono y la sensación de suficiencia de la información entregada
 c) Que las redes sociales nunca son una fuente válida
-d) Que los medios oficiales siempre entregan información completa
+d) Que los medios oficiales siempre entregan información completa y objetiva, mientras que las redes sociales solo transmiten emociones
 
 ---
 
@@ -115,9 +115,9 @@ d) Que los medios oficiales siempre entregan información completa
 
 **11. (Alternativas)** ¿Por qué sería inadecuado enviar una carta a la alcaldesa usando expresiones como "oye", "porfa" o "jajaja"?
 
-a) Porque esas expresiones son incorrectas en cualquier contexto, incluso entre amigos
+a) Porque esas expresiones son incorrectas en cualquier contexto, incluso cuando se escribe a los amigos o a la familia
 b) Porque el registro coloquial no se adecua a un destinatario formal (una autoridad) ni a un canal formal (una carta)
-c) Porque las cartas no permiten técnicamente usar esas palabras
+c) Porque las cartas no permiten técnicamente usar esas palabras, ya que el procesador de texto las marca como error
 d) Porque la alcaldesa no entiende el lenguaje juvenil
 
 **12. (Alternativas — Aplicación)** ¿Cuál es la versión corregida de "Los entrenadora le explicó la jugada a mi equipo y a mí, pero los arqueros no se acordó de practicarla"?

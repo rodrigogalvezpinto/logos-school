@@ -184,8 +184,8 @@ d) No ocurre ningún cambio en el circuito
 
 **16.** *(Alternativas, 2 puntos)* En una casa se quema la ampolleta del baño, pero las de la cocina y el living siguen encendidas. ¿Cómo está conectada la instalación?
 
-a) En serie, porque todas las ampolletas comparten un mismo camino para la corriente
-b) En serie, porque la corriente pasa primero por el baño
+a) En serie, porque todas las ampolletas comparten un mismo camino para la corriente eléctrica de la casa
+b) En serie, porque la corriente pasa primero por el baño y después por la cocina
 c) No forma un circuito, porque cada ampolleta funciona sola
 d) En paralelo: cada ampolleta tiene su propio camino de corriente, aunque eso requiere más cableado
 
@@ -218,10 +218,10 @@ d) La temperatura mide la cantidad total de energía transferida entre dos cuerp
 
 **20.** *(Alternativas, 2 puntos)* ¿Por qué las casas con doble vidrio en las ventanas pierden menos calor en invierno?
 
-a) Porque el vidrio genera calor propio
-b) Porque el doble vidrio deja entrar el aire frío
+a) Porque el vidrio genera calor propio cuando le llega la luz del sol durante el día
+b) Porque el doble vidrio deja entrar el aire frío más lento, aunque el calor se escapa igual por conducción
 c) Porque la capa de aire o vacío entre los vidrios es un mal conductor y reduce la pérdida de calor por conducción
-d) Porque el vidrio absorbe el frío del exterior
+d) Porque el vidrio absorbe el frío del exterior y lo guarda dentro de la ventana
 
 ---
 
@@ -231,10 +231,10 @@ d) Porque el vidrio absorbe el frío del exterior
 
 **21.** *(Alternativas)* En el experimento de la lámina de oro, Ernest Rutherford observó que algunas partículas rebotaban. ¿Qué concluyó?
 
-a) Que el átomo es una esfera maciza sin espacios
-b) Que los electrones están en el centro del átomo
+a) Que el átomo es una esfera maciza sin espacios vacíos en su interior
+b) Que los electrones están en el centro del átomo, pegados al núcleo
 c) Que el átomo tiene un núcleo pequeño y denso con carga positiva
-d) Que el átomo no tiene carga eléctrica
+d) Que el átomo no tiene carga eléctrica en ninguna de sus partes
 
 **22.** *(Alternativas)* Según el modelo atómico de Rutherford, ¿dónde se concentra
 principalmente la masa y la carga positiva del átomo?

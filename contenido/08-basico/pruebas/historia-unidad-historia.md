@@ -26,10 +26,10 @@ Ilustración y la independencia de Hispanoamérica y de Chile.
 
 **1. (Alternativas)** ¿Qué movimiento cultural de los siglos XV y XVI puso al ser humano en el centro de la reflexión y revalorizó la cultura grecorromana?
 
-a) El feudalismo
-b) La Contrarreforma
+a) El feudalismo medieval
+b) La Contrarreforma católica
 c) El Humanismo y el Renacimiento
-d) El mercantilismo
+d) El mercantilismo europeo
 
 ---
 
@@ -39,9 +39,9 @@ d) El mercantilismo
 
 **3. (Alternativas)** ¿Cuál de los siguientes rasgos caracteriza al Estado moderno?
 
-a) Que cada señor feudal tenga sus propias leyes
-b) Que no existan funcionarios
-c) Que no se cobren impuestos
+a) Que cada señor feudal tenga sus propias leyes, tribunales y ejército en su territorio
+b) Que no existan funcionarios y el rey gobierne solo
+c) Que no se cobren impuestos para financiar al rey
 d) Un poder centralizado en el rey, con funcionarios que administran todo el territorio
 
 ---
@@ -63,10 +63,10 @@ d) 1-B, 2-A, 3-C
 
 **5. (Alternativas)** Según el mercantilismo, ¿qué debía hacer un reino para enriquecerse?
 
-a) Importar más de lo que exporta
-b) Eliminar todos los impuestos
+a) Importar más de lo que exporta para tener más productos
+b) Eliminar todos los impuestos al comercio exterior
 c) Exportar más de lo que importa para acumular oro y plata
-d) Prohibir el comercio con sus colonias
+d) Prohibir el comercio con sus colonias americanas
 
 ---
 
@@ -77,26 +77,26 @@ d) Prohibir el comercio con sus colonias
 **7. (Alternativas)** ¿Qué postura defendió Juan Ginés de Sepúlveda en el debate de Valladolid?
 
 a) Que el sometimiento de los indígenas estaba justificado por una supuesta "inferioridad natural"
-b) Que los indígenas tenían plenos derechos
-c) Que la Conquista debía detenerse
-d) Que los indígenas debían gobernar España
+b) Que los indígenas tenían plenos derechos, iguales a los de los españoles, y no podían ser sometidos por nadie
+c) Que la Conquista debía detenerse de inmediato y los españoles debían volver a España
+d) Que los indígenas debían gobernar España y sus colonias americanas
 
 ---
 
 **8. (Alternativas)** ¿Qué opción describe correctamente las Leyes Nuevas de 1542?
 
 a) Eliminaron la evangelización
-b) Permitieron esclavizar a todos los indígenas
-c) Obligaron a los criollos a volver a España
+b) Permitieron esclavizar a todos los indígenas que se resistieran a la Conquista, como pedía Sepúlveda en sus escritos
+c) Obligaron a los criollos a volver a España y entregar sus tierras y encomiendas a la Corona española
 d) Buscaron limitar los abusos de la encomienda y prohibieron esclavizar a los indígenas, en parte por las denuncias de Las Casas
 
 ---
 
 **9. (Alternativas)** ¿Qué era la encomienda en la sociedad colonial americana?
 
-a) Un impuesto que solo pagaban los criollos
-b) Un tribunal de justicia
-c) Una fiesta religiosa
+a) Un impuesto que solo pagaban los criollos al rey por tener tierras y minas en América
+b) Un tribunal de justicia que juzgaba a los indígenas y a los criollos que no pagaban tributo a la Corona española
+c) Una fiesta religiosa en honor a los santos patronos de cada ciudad colonial
 d) Un sistema en que un español recibía el trabajo o tributo de un grupo de indígenas, a cambio de evangelizarlos
 
 ---
@@ -107,10 +107,10 @@ d) Un sistema en que un español recibía el trabajo o tributo de un grupo de in
 
 **11. (Alternativas)** ¿Qué fueron los parlamentos entre españoles y mapuches durante la Colonia?
 
-a) Batallas para conquistar todo el territorio mapuche
-b) Juicios contra los mapuches
+a) Batallas para conquistar todo el territorio mapuche al sur del río Biobío y fundar nuevas ciudades
+b) Juicios contra los mapuches acusados de atacar las ciudades del sur
 c) Encuentros diplomáticos para negociar la paz, el comercio y el reconocimiento de la frontera
-d) Reuniones del cabildo de Santiago
+d) Reuniones del cabildo de Santiago para elegir al gobernador del reino
 
 ---
 
@@ -125,10 +125,10 @@ d) Nicolás Copérnico
 
 **13. (Alternativas)** ¿Qué ideas influyeron en los criollos que lideraron la independencia de Chile?
 
-a) Las ideas del absolutismo
+a) Las ideas del absolutismo y el derecho divino de los reyes de España y Francia
 b) Las ideas de la Ilustración y el ejemplo de la independencia de Estados Unidos
-c) Las ideas del feudalismo
-d) Las ideas de la Contrarreforma
+c) Las ideas del feudalismo y la sociedad de señores
+d) Las ideas de la Contrarreforma y del Concilio de Trento
 
 ---
 

@@ -62,16 +62,16 @@ d) Que la mayor parte del átomo es espacio vacío
 **Pregunta 5.** (Alternativas — Análisis)
 ¿Qué semejanza y qué diferencia hay entre los modelos de Dalton y de Thomson?
 
-a) Semejanza: ambos incluyen un núcleo. Diferencia: solo Dalton incluye electrones
+a) Semejanza: ambos incluyen un núcleo pequeño y denso en el centro del átomo. Diferencia: solo Dalton incluye electrones girando en niveles de energía alrededor del núcleo
 b) Semejanza: ambos consideran que la materia está formada por átomos. Diferencia: Thomson propone que el átomo tiene partes (electrones), mientras que para Dalton era indivisible
-c) Semejanza: ambos proponen niveles de energía. Diferencia: ninguna
+c) Semejanza: ambos proponen niveles de energía para los electrones. Diferencia: ninguna, porque Thomson solo repitió el modelo de Dalton con otras palabras
 d) No tienen ninguna semejanza
 
 **Pregunta 6.** (Alternativas — Análisis)
 ¿Qué permitió reemplazar el modelo de Thomson por el de Rutherford?
 
-a) Una votación entre científicos
-b) La preferencia personal de Rutherford
+a) Una votación entre científicos en un congreso internacional
+b) La preferencia personal de Rutherford por los modelos con núcleo
 c) Un experimento cuyos resultados el modelo de Thomson no podía explicar
 d) Un cambio en la forma de los átomos con el paso del tiempo
 
@@ -79,8 +79,8 @@ d) Un cambio en la forma de los átomos con el paso del tiempo
 Una estudiante afirma: "El modelo de Bohr es el definitivo; nunca se ha cambiado". ¿Qué evaluación es correcta?
 
 a) Es poco precisa: el modelo de Bohr fue un gran avance, pero luego se perfeccionó con el modelo actual, porque la ciencia revisa sus modelos con nueva evidencia
-b) Es correcta: después de Bohr no hubo más investigación sobre el átomo
-c) Es correcta: Bohr descubrió todas las partículas del átomo
+b) Es correcta: después de Bohr no hubo más investigación sobre el átomo, porque su modelo explicaba todos los resultados de los experimentos de su época
+c) Es correcta: Bohr descubrió todas las partículas del átomo, incluidos los protones, los neutrones y los electrones de cada elemento
 d) Es incorrecta, porque Bohr negaba la existencia del núcleo
 
 ---
@@ -90,10 +90,10 @@ d) Es incorrecta, porque Bohr negaba la existencia del núcleo
 **Pregunta 8.**
 El carbono tiene número atómico 6. ¿Qué significa?
 
-a) Que tiene 6 neutrones
+a) Que tiene 6 neutrones en su núcleo
 b) Que tiene 6 protones en su núcleo
-c) Que pesa 6 gramos
-d) Que está en el grupo 6
+c) Que pesa 6 gramos por cada átomo
+d) Que está en el grupo 6 de la tabla
 
 **Pregunta 9.** (Verdadero o falso)
 El sodio y el potasio están en el mismo grupo de la tabla periódica, por eso reaccionan de forma parecida con el agua.
@@ -125,17 +125,17 @@ d) Será un gas a temperatura ambiente
 **Pregunta 13.** (Alternativas — Comparación)
 ¿Qué comparación entre el hierro (metal) y el azufre (no metal) es correcta?
 
-a) El azufre conduce mejor la electricidad que el hierro
+a) El azufre conduce mejor la electricidad que el hierro, porque es un no metal amarillo y brillante
 b) Ambos son gases a temperatura ambiente
 c) El hierro conduce bien la electricidad y el calor; el azufre conduce mal y es quebradizo
-d) Ninguno de los dos conduce la electricidad
+d) Ninguno de los dos conduce la electricidad ni el calor, porque ambos son sólidos
 
 **Pregunta 14.** (Alternativas — Aplicación)
 El enlace en la molécula de oxígeno (O₂), formada por dos átomos iguales, ¿cómo es?
 
 a) Covalente apolar, porque los dos átomos atraen por igual los electrones compartidos
-b) Covalente polar, porque un átomo atrae más los electrones
-c) Iónico, porque un átomo cede electrones al otro
+b) Covalente polar, porque uno de los dos átomos atrae más los electrones compartidos
+c) Iónico, porque un átomo de oxígeno cede sus electrones al otro y quedan con carga
 d) Metálico, porque el oxígeno es un metal
 
 ---

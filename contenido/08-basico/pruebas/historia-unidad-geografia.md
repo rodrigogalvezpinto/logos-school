@@ -39,9 +39,9 @@ d) Una región definida por una ley que fija sus límites
 **3. (Alternativas)** ¿Qué ejemplo corresponde a una región económica?
 
 a) Una zona agrícola especializada en la producción de fruta de exportación
-b) Una región delimitada solo por su clima
-c) Una región definida solo por su relieve
-d) Una región delimitada solo por su lengua
+b) Una región delimitada solo por su clima, como la zona mediterránea del centro
+c) Una región definida solo por su relieve, como el altiplano del norte
+d) Una región delimitada solo por su lengua, como la zona aymara
 
 ---
 
@@ -56,10 +56,10 @@ d) Una región cultural
 
 **5. (Alternativas)** ¿Qué medida ayudaría a disminuir el aislamiento de una localidad cordillerana?
 
-a) Cerrar su escuela
+a) Cerrar su escuela y trasladar a los niños a la ciudad
 b) Mejorar los caminos y la conexión a internet
-c) Reducir la frecuencia de los buses
-d) Eliminar la posta de salud
+c) Reducir la frecuencia de los buses a la ciudad
+d) Eliminar la posta de salud del pueblo
 
 ---
 
@@ -80,19 +80,19 @@ d) 1-B, 2-A, 3-C
 
 **7. (Alternativas — análisis de datos)** Una tabla muestra que una comuna del norte recibió en diez años muchos trabajadores jóvenes por la apertura de una mina. ¿Qué impacto probable tendrá?
 
-a) Menor demanda de viviendas
-b) Ningún cambio en los servicios
+a) Menor demanda de viviendas y de servicios en la ciudad
+b) Ningún cambio en los servicios, porque los trabajadores viajan
 c) Mayor demanda de viviendas, colegios y servicios de salud
-d) Cierre de los colegios por falta de niños
+d) Cierre de los colegios por falta de niños en la ciudad
 
 ---
 
 **8. (Alternativas)** Una estudiante de Aysén debe viajar a Santiago para estudiar una carrera que no existe en su región. ¿Qué problemática territorial muestra este caso?
 
 a) La relación centro-periferia: muchos servicios, como ciertas carreras, se concentran en el centro del país
-b) El exceso de universidades en Aysén
-c) La igualdad total entre regiones
-d) La falta de población en Santiago
+b) El exceso de universidades en Aysén, que obliga a cerrar carreras por falta de estudiantes en la región
+c) La igualdad total entre regiones en el acceso a la educación superior y a todas las carreras
+d) La falta de población en Santiago, que obliga a llevar las carreras universitarias al sur del país
 
 ---
 
@@ -126,19 +126,19 @@ d) 1-B, 2-A, 3-C
 
 **12. (Alternativas — análisis de datos)** La Región X tiene alto ingreso por habitante y buena salud, pero bajo nivel educacional; la Región Y tiene ingreso, salud y educación de nivel medio-alto. ¿Cuál probablemente tiene un IDH más equilibrado?
 
-a) La Región X, porque el IDH mide solo el ingreso
+a) La Región X, porque el IDH mide solo el ingreso de las personas
 b) La Región Y, porque el IDH combina salud, educación e ingreso
 c) Ambas tienen el mismo IDH
-d) Ninguna, porque el IDH no se calcula por regiones
+d) Ninguna, porque el IDH no se calcula por regiones, solo por países
 
 ---
 
 **13. (Alternativas)** ¿Por qué se dice que la Región de Los Lagos tiene una ventaja comparativa en la salmonicultura?
 
-a) Porque produce todos los bienes mejor que cualquier región
+a) Porque produce todos los bienes mejor que cualquier otra región del país, no solo salmones, sino también cobre, fruta y vino de exportación
 b) Porque no exporta ningún producto
 c) Porque sus aguas frías, fiordos y canales permiten criar salmones de forma relativamente más eficiente que en otras regiones
-d) Porque importa todo el salmón que consume
+d) Porque importa todo el salmón que consume desde otros países y luego lo vende al extranjero como si fuera propio
 
 ---
 

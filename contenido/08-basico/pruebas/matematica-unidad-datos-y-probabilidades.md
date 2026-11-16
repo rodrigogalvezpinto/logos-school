@@ -18,8 +18,8 @@ ultima_actualizacion: 2026-10-28
 
 **Pregunta 1 (alternativas).** El peso de un recién nacido está en el percentil 80 de su grupo. ¿Qué significa?
 a) Que pesa 80 kilos
-b) Que está entre los 80 bebés más pesados del país
-c) Que le falta un 80% para el peso ideal
+b) Que está entre los 80 bebés más pesados del país que nacieron ese mismo año
+c) Que le falta un 80% del peso para llegar al peso ideal de un recién nacido
 d) Que su peso es igual o mayor que el de aproximadamente el 80% de los recién nacidos
 
 **Pregunta 2 (verdadero o falso).** El primer cuartil (Q1) deja aproximadamente el 25% de los datos por debajo de él.
@@ -57,16 +57,16 @@ d) 8°A tiene la nota máxima más alta, porque su mediana es mayor que la de 8�
 
 **Pregunta 7 (Alternativas — problema no rutinario).** Un conjunto de datos tiene mínimo 1, Q1 = 10, mediana = 12, Q3 = 14 y máximo 16. ¿Qué parte del diagrama de cajón será más larga y qué sugiere?
 
-a) El bigote superior (2 unidades): un valor muy alto
-b) La caja (4 unidades): todos los datos son iguales
+a) El bigote superior (2 unidades): un valor muy alto que se aleja mucho del resto de los datos del curso
+b) La caja (4 unidades): todos los datos son iguales y están concentrados al centro
 c) El bigote inferior (9 unidades): datos más dispersos o un valor bajo atípico en la parte inferior
 d) Todas las partes miden lo mismo
 
 **Pregunta 8 (alternativas).** ¿Cuál de las siguientes es una forma de **engañar** con un gráfico de barras?
-a) Rotular claramente los ejes
+a) Rotular claramente los ejes y las categorías del gráfico, con sus unidades
 b) Dibujar las barras con anchos distintos para que una parezca mucho más grande
-c) Indicar la fuente de los datos
-d) Empezar el eje vertical en 0
+c) Indicar la fuente de los datos debajo del gráfico
+d) Empezar el eje vertical en 0 para comparar las barras
 
 **Pregunta 9 (verdadero o falso).** Un gráfico de líneas es apropiado para mostrar cómo cambió la temperatura de una ciudad durante una semana.
 
@@ -80,8 +80,8 @@ d) Tiene demasiados datos para un solo gráfico
 **Pregunta 11 (Alternativas — elegir gráfico).** Una municipalidad quiere mostrar qué parte de su presupuesto anual se destina a salud, educación, áreas verdes y seguridad. ¿Qué gráfico conviene?
 
 a) Circular, porque muestra cómo se reparte un total entre categorías
-b) De líneas, porque muestra la evolución en el tiempo
-c) De tallo y hojas, porque ordena datos numéricos
+b) De líneas, porque muestra la evolución del presupuesto en el tiempo
+c) De tallo y hojas, porque ordena los datos numéricos del presupuesto
 d) Diagrama de cajón, porque muestra cuartiles
 
 **Pregunta 12 (Alternativas — detectar manipulación).** El gráfico de barras compara las ventas de una tienda en 2024 y 2025. Observa dónde parte el eje vertical. ¿Qué efecto produce y cómo se corrige?
@@ -97,15 +97,15 @@ d) Exagera la diferencia (la barra de 2025 se ve el triple de alta, aunque el au
 
 a) Circular, porque muestra partes de un todo
 b) De líneas, porque muestra la evolución en el tiempo
-c) Circular, porque compara meses
-d) Ninguno
+c) Circular, porque compara los doce meses del año
+d) Ninguno, porque son demasiados datos
 
 **Pregunta 14 (Alternativas — manipulación en publicidad).** Un aviso afirma que "9 de cada 10 dentistas recomiendan" una pasta, pero en letra pequeña dice que se encuestó a solo 10 dentistas elegidos por la empresa. ¿Qué problema tiene la información?
 
-a) Ninguno: el resultado es representativo de todos los dentistas
+a) Ninguno: el resultado es representativo de todos los dentistas del país, porque los eligió una empresa seria y conocida
 b) Un error de redondeo sin importancia
 c) La muestra es muy pequeña y no fue elegida al azar, por lo que el resultado puede no representar a los dentistas en general
-d) El gráfico circular está mal dibujado
+d) El gráfico circular está mal dibujado, porque las porciones no suman exactamente el cien por ciento
 
 ---
 

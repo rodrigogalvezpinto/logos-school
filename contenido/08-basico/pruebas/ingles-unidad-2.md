@@ -30,9 +30,9 @@ c) rather / to
 d) like / then
 
 2. *(Alternativas)* ¿Qué oración expresa mejor una preferencia justificada sobre otra cultura?
-   a) Italy has many old cities and churches.
+   a) Italy has many old cities, churches and museums.
    b) Rome is the capital of Italy.
-   c) There are many countries in Europe, like Italy and Spain.
+   c) There are many countries in Europe, like Italy, Spain and France.
    d) I prefer Italian music because the songs are cheerful and romantic.
 
 3. *(Alternativas — Completar)* Complete about a trip: *"Last summer, my family ___ San Pedro de Atacama. It ___ a wonderful experience."* (visit / be, simple past)
@@ -53,9 +53,9 @@ d) Describir un lugar
 
 6. *(Alternativas — desafiante)* Estás escribiendo sobre un problema global (exceso de autos en las ciudades) y debes expresar tu preferencia entre dos soluciones. ¿Qué oración es la más adecuada?
    a) I prefer riding a bike to driving a car because it reduces pollution and traffic.
-   b) Cars are machines with four wheels and an engine.
+   b) Cars are machines with four wheels, an engine and seats for five people.
    c) The city is very big and has many streets.
-   d) I don't like cars or bikes because they are noisy.
+   d) I don't like cars or bikes because they are noisy and dangerous in the city.
 
 7. *(Alternativas — Completar)* Complete: *"There are ___ books in the school library."*
 
@@ -65,10 +65,10 @@ c) a lot of
 d) a few of
 
 8. *(Alternativas)* ¿Qué oración expresa correctamente un plan futuro ya decidido?
-   a) I go to Puerto Natales last year.
+   a) I go to Puerto Natales last year with my family.
    b) I'm going to travel to Puerto Natales next winter.
-   c) I travel to Puerto Natales sometimes.
-   d) I traveled to Puerto Natales yesterday.
+   c) I travel to Puerto Natales sometimes in summer.
+   d) I traveled to Puerto Natales yesterday by bus.
 
 9. *(Alternativas — Completar)* Complete with the superlative: *"Ojos del Salado is ___ volcano in the world."* (high)
 
@@ -94,10 +94,10 @@ c) falls
 d) is falling yesterday
 
 13. *(Alternativas — desafiante)* ¿Qué oración describe correctamente un lugar usando adjetivos?
-    a) The beach is. It is in the north.
+    a) The beach is. It is in the north of Chile.
     b) The beach is a quiet, sunny place in the north.
-    c) Beach quiet sunny place north.
-    d) I go to the beach every January.
+    c) Beach quiet sunny place north of the country.
+    d) I go to the beach every January with my cousins.
 
 14. *(Varias correctas — Preferencia — desafiante)* *"Which do you prefer, reading books or watching movies? Why?"* Which answers justify the preference correctly? Marca **todas** las correctas.
 

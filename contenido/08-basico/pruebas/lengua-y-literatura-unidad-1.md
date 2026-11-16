@@ -34,24 +34,24 @@ oa_por_pregunta: {"1":"OA 3","2":"OA 3","3":"OA 3","4":"OA 3","5":"OA 3","6":"OA
 
 **1. (Alternativas)** ¿Cuál es el conflicto central del texto "El cuaderno de la señora Herminia"?
 
-a) La falta de dinero de Herminia para comprar un abrigo nuevo
-b) La pelea entre Herminia y los vecinos por el precio del pan
+a) La falta de dinero de Herminia para comprar un abrigo nuevo y una estufa para el invierno en Lota
+b) La pelea entre Herminia y los vecinos del pueblo por el precio del pan y del carbón que vendía en su almacén del pueblo
 c) La tensión entre la imagen de "tacaña" que el pueblo construye de Herminia y la verdadera razón, oculta, de su forma de vivir
 d) La decisión del narrador de mudarse a Lota para heredar la casa
 
 **2. (Alternativas)** ¿Cómo evoluciona el narrador en su relación con su tía abuela?
 
 a) Pasa del prejuicio compartido con el pueblo a una mirada adulta, autocrítica y comprensiva, al descubrir tras su muerte el motivo de su forma de vivir
-b) La admira desde el comienzo y nunca cambia de opinión
-c) Comienza defendiéndola, pero termina despreciándola al leer el cuaderno
+b) La admira desde el comienzo, cuando la visita de niño, y nunca cambia de opinión sobre ella ni sobre su forma de vivir
+c) Comienza defendiéndola de los comentarios del pueblo, pero termina despreciándola al leer el cuaderno que encontró después de su muerte en Lota
 d) No tiene ninguna relación con ella y su mirada no cambia
 
 **3. (Verdadero o Falso)** El narrador del texto y su autor son necesariamente la misma persona, con las mismas ideas y experiencias.
 
 **4. (Alternativas — Aplicación)** ¿Por qué la lámpara de minero apagada puede considerarse un **símbolo** en el relato?
 
-a) Porque es el objeto más caro de la casa y Herminia pensaba venderlo
-b) Porque el narrador la usa para leer el cuaderno de noche
+a) Porque es el objeto más caro de la casa, y Herminia pensaba venderlo para comprar un abrigo nuevo y carbón antes del invierno
+b) Porque el narrador la usa para leer el cuaderno de noche, ya que la casa de Herminia no tiene luz eléctrica
 c) Porque el narrador la pierde al final del relato
 d) Porque, aunque ya no alumbra, representa la memoria de Arturo y la promesa que Herminia cumplió en silencio con los hijos de los mineros
 
@@ -80,33 +80,33 @@ d) La avara
 
 **6. (Alternativas)** ¿Qué efecto produce principalmente la repetición de la palabra "subo" a lo largo del poema?
 
-a) Confunde al lector, porque no se sabe si el hablante sube o baja
-b) No produce ningún efecto: solo completa la medida de los versos
+a) Confunde al lector, porque no se sabe si el hablante sube o baja de la montaña en cada estrofa
+b) No produce ningún efecto: solo completa la medida de los versos para que todos tengan el mismo largo
 c) Produce un efecto de insistencia y obsesión, como si el hablante no pudiera dejar de volver a la montaña
 d) Indica errores de redacción que el autor no corrigió
 
 **7. (Alternativas)** ¿Qué idea transmite la comparación "Subo, subo, subo, como sube la niebla"?
 
 a) Que el regreso del hablante a la montaña es constante y casi natural, como un fenómeno que se repite inevitablemente
-b) Que el hablante nunca sube realmente: solo recuerda la montaña desde lejos
+b) Que el hablante nunca sube realmente a la montaña: solo la recuerda desde lejos, desde la ciudad donde vive ahora
 c) Que la niebla está detenida y no se mueve
-d) Que el hablante prefiere el mar y vuelve a él una y otra vez
+d) Que el hablante prefiere el mar y vuelve a él una y otra vez, aunque haya nacido en la montaña
 
 **8. (Verdadero o Falso)** El poema "Letanía del arriero" no presenta ningún recurso de repetición de estructuras sintácticas.
 
 **9. (Alternativas — Aplicación)** ¿Qué figura hay en "aunque la cordillera no me espere" y qué efecto produce?
 
-a) Una hipérbole: exagera el tamaño de la cordillera
-b) Una aliteración: repite un sonido para imitar el viento
+a) Una hipérbole: exagera el tamaño de la cordillera para mostrar lo pequeño que se siente el hablante frente a ella
+b) Una aliteración: repite el sonido de la «r» en varias palabras para imitar el ruido del viento en la cordillera
 c) Una personificación: atribuye a la cordillera la capacidad humana de esperar, sugiriendo un vínculo casi afectivo con ella
 d) Una enumeración: lista los elementos de la montaña
 
 **10. (Alternativas)** El título del poema, "Letanía del arriero", se relaciona principalmente con:
 
-a) La ausencia total de repeticiones, que lo hace parecer una conversación espontánea
+a) La ausencia total de repeticiones, que hace que el poema parezca una conversación espontánea con la montaña
 b) El efecto de rezo o plegaria repetitiva que producen las estructuras que se repiten en cada estrofa
 c) Un error en el título original del poema
-d) La descripción exclusivamente visual del paisaje
+d) La descripción exclusivamente visual del paisaje de la cordillera, sin sonidos ni sensaciones del arriero
 
 ---
 
@@ -120,24 +120,24 @@ d) La descripción exclusivamente visual del paisaje
 
 **11. (Alternativas)** ¿Cuál es el dilema principal que enfrenta Josefa en el relato?
 
-a) Elegir entre estudiar o trabajar después del terremoto
+a) Elegir entre estudiar en Concepción o trabajar con su madre en Tomé después del terremoto y el tsunami
 b) Decidir si sigue corriendo hacia el cerro o se detiene a ayudar a don Ernesto, arriesgando tiempo valioso en una emergencia
-c) Decidir si le cuenta a su madre que perdió su celular
-d) Elegir entre dos caminos igual de seguros hacia el cerro
+c) Decidir si le cuenta a su madre que perdió su celular mientras corría hacia el cerro con los vecinos
+d) Elegir entre dos caminos igual de seguros hacia el cerro, uno por la plaza y otro por la costanera
 
 **12. (Alternativas — postura fundamentada)** Frente al dilema de Josefa, ¿qué respuesta es un posicionamiento fundamentado que considera el riesgo real?
 
 a) "Creo que acertó al detenerse, porque don Ernesto no podía salvarse solo, aunque la llegada del agua ponía en peligro su vida"
-b) "Creo que acertó porque sí, porque ayudar siempre es lo correcto, sin importar lo que pase"
-c) "No hubo ningún riesgo real, porque el mar estaba lejos"
+b) "Creo que acertó porque sí, porque ayudar siempre es lo correcto, sin importar lo que pase ni el riesgo que corra"
+c) "No hubo ningún riesgo real, porque el mar estaba lejos y el agua nunca llegó a las casas del sector"
 d) "Josefa es mi personaje favorito porque me recuerda a mi prima"
 
 **13. (Verdadero o Falso)** El terremoto y tsunami del 27 de febrero de 2010 mencionado en el relato es un hecho ficticio, inventado para ambientar la historia.
 
 **14. (Alternativas — Aplicación)** ¿Qué visión de mundo transmite el relato y en qué acciones se sustenta?
 
-a) Una en que cada persona debe salvarse sola, sustentada en que nadie ayuda a don Ernesto
-b) Una en que las catástrofes no afectan a las personas, sustentada en que todos vuelven a casa esa noche
+a) Una en que cada persona debe salvarse sola en una emergencia, sustentada en que nadie del barrio ayuda a don Ernesto cuando pide auxilio
+b) Una en que las catástrofes no afectan realmente a las personas, sustentada en que todos los vecinos vuelven tranquilos a sus casas esa misma noche, sin ningún daño
 c) Una visión pesimista que no se vincula con ninguna acción de los personajes
 d) Una en que la solidaridad frente a una catástrofe se valora incluso por sobre la seguridad individual, sustentada en la decisión de Josefa y su madre de rescatar a don Ernesto
 
@@ -145,7 +145,7 @@ d) Una en que la solidaridad frente a una catástrofe se valora incluso por sobr
 
 a) El terremoto de Valparaíso de 1906
 b) El terremoto y tsunami del 27 de febrero de 2010
-c) El terremoto de Valdivia de 1960
+c) El terremoto de Valdivia de 1960, el más fuerte
 d) La erupción del volcán Chaitén de 2008
 
 ---

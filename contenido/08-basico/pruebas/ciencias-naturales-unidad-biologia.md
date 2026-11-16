@@ -57,16 +57,16 @@ e) Cloroplasto
 ¿Por qué las células de las hojas de una planta tienen muchos cloroplastos?
 
 a) Porque en las hojas se realiza principalmente la fotosíntesis, y los cloroplastos captan la luz para fabricar el alimento de la planta
-b) Porque los cloroplastos absorben el agua del suelo
-c) Porque los cloroplastos le dan rigidez a la hoja
+b) Porque los cloroplastos absorben el agua del suelo y la llevan desde las raíces hasta las hojas para mantenerlas firmes y verdes
+c) Porque los cloroplastos le dan rigidez a la hoja, y por eso las hojas no se doblan con el viento ni con la lluvia
 d) Porque los cloroplastos guardan el ADN de la planta
 
 **Pregunta 5.** (Alternativas — Análisis)
 ¿Qué comparación entre un glóbulo rojo y una célula de la raíz vincula correctamente forma y función?
 
 a) Ambas tienen la misma forma porque cumplen la misma función
-b) El glóbulo rojo tiene pelos absorbentes para tomar agua; la célula de la raíz transporta oxígeno
-c) La forma de una célula no tiene relación con su función
+b) El glóbulo rojo tiene pelos absorbentes para tomar agua de la sangre; la célula de la raíz tiene forma de disco flexible para transportar oxígeno hacia las hojas de la planta
+c) La forma de una célula no tiene relación con su función: todas las células cumplen las mismas tareas, aunque se vean distintas al microscopio
 d) El glóbulo rojo tiene forma de disco flexible para transportar oxígeno y pasar por vasos estrechos; la célula de la raíz tiene pelos absorbentes que aumentan la superficie para absorber agua
 
 ---
@@ -88,17 +88,17 @@ La savia elaborada, con los azúcares producidos en la fotosíntesis, se transpo
 ¿Qué ocurre en la fotosíntesis?
 
 a) La planta usa luz, agua y dióxido de carbono para fabricar glucosa, y libera oxígeno
-b) La planta absorbe oxígeno y libera solo vapor de agua
+b) La planta absorbe oxígeno del aire y libera solo vapor de agua por las hojas
 c) La planta transforma la glucosa en minerales del suelo
-d) La planta produce dióxido de carbono a partir de la clorofila
+d) La planta produce dióxido de carbono a partir de la clorofila y lo guarda en las raíces
 
 **Pregunta 9.** (Alternativas — Análisis de caso)
 Un estudiante pone una planta en un armario oscuro durante una semana, regándola normalmente. ¿Qué consecuencia es esperable?
 
-a) La planta crece más rápido, porque no pierde agua
+a) La planta crece más rápido, porque no pierde agua por las hojas cuando no hay sol
 b) La planta produce más oxígeno que antes
 c) Sin luz, la planta no puede hacer fotosíntesis y comienza a debilitarse, porque no fabrica su alimento
-d) No ocurre nada, porque la planta solo necesita agua
+d) No ocurre nada, porque la planta solo necesita agua y nutrientes del suelo para vivir y seguir creciendo
 
 ---
 
@@ -124,8 +124,8 @@ d) Todos pertenecen al sistema digestivo
 Después de almorzar, ¿cómo interactúan los sistemas digestivo y circulatorio para que la glucosa llegue a una neurona del cerebro?
 
 a) La glucosa viaja por el aire hasta el cerebro
-b) El cerebro produce su propia glucosa sin necesidad de la sangre
-c) La glucosa pasa del estómago directamente al cerebro por los nervios
+b) El cerebro produce su propia glucosa a partir del oxígeno, sin necesidad de recibirla desde la sangre
+c) La glucosa pasa del estómago directamente al cerebro por los nervios, sin pasar por la sangre ni por el sistema circulatorio
 d) En el intestino delgado los nutrientes pasan a la sangre, y el sistema circulatorio los transporta hasta las células del cerebro
 
 ---

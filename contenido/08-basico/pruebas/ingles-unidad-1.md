@@ -24,9 +24,9 @@ texto con calma antes de responder.
 
 1. *(Alternativas)* Read: *"Online classes became common in 2020. Today, many students still use video calls to study in groups."* ¿Cuál resumen es más adecuado?
    a) Students never use computers to study.
-   b) Video calls are too difficult, so students prefer to study alone.
+   b) Video calls are too difficult, so most students prefer to study alone at home after school.
    c) Online classes became common in 2020, and many students still study in groups by video call.
-   d) Online classes are more popular than schools today.
+   d) Online classes are more popular than schools today, and most students no longer go to school.
 2. *(Alternativas — Completar)* Complete the summary: *"This text is ___ healthy food. It explains why it is important ___ eat fruit and vegetables."*
 
 a) about / to
@@ -38,9 +38,9 @@ d) in / at
 
 4. *(Alternativas — Conectar con el propio contexto)* Read: *"In Mexico, people celebrate the Day of the Dead to remember their family members."* *Does your country have a celebration to remember loved ones?* Which answer connects the text with your own context?
 
-a) Yes, in Mexico we celebrate the Day of the Dead.
+a) Yes, in Mexico people celebrate the Day of the Dead with flowers and food every November.
 b) No, because Mexico is far from Chile.
-c) Yes, I like tacos and I eat them on Fridays.
+c) Yes, I like tacos and I eat them on Fridays with my family and my friends from school.
 d) Yes, in Chile many families visit the cemetery on November 1st to remember their loved ones.
 
 5. *(Alternativas — Habilidades)* ¿Qué habilidad representa *"Asking yourself 'why?' and 'what if?' about a text you read"*?
@@ -52,15 +52,15 @@ d) Generar preguntas
 
 6. *(Alternativas — desafiante)* Read: *"Electric buses are becoming more common in Santiago because they make less noise and don't pollute the air."* ¿Qué pregunta amplía mejor la información del texto (en vez de repetirla)?
    a) What are electric buses?
-   b) Are electric buses quieter?
+   b) Are electric buses quieter than the old diesel buses in Santiago?
    c) How could electric buses change the health of people in big cities?
-   d) Are there electric buses in Santiago?
+   d) Are there electric buses in Santiago and in other cities of Chile?
 7. *(Alternativas — Resumen — desafiante)* Read: *"Reading every day is good for you. It improves your vocabulary and your concentration. It can also reduce stress."* Which is the best summary?
 
-a) Reading every day improves your vocabulary.
+a) Reading every day improves your vocabulary, so you should read at least one book every week.
 b) This text is about how to buy books online.
 c) This text is about the benefits of reading every day: it improves vocabulary and concentration, and it can reduce stress.
-d) This text is about people who read and become famous writers.
+d) This text is about people who read every day and become famous writers in their countries when they grow up and travel.
 
 8. *(Alternativas)* Read: *"Caution! Wet floor. Walk slowly."* ¿Cuál es el propósito de este texto?
    a) To entertain

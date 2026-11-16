@@ -55,8 +55,8 @@ d) Introducir objetos metálicos en los enchufes para probarlos
 En una casa, el refrigerador sigue funcionando aunque se apague la luz del living. ¿Por qué?
 
 a) Porque la instalación está conectada en paralelo: cada artefacto recibe el mismo voltaje y funciona de forma independiente
-b) Porque el refrigerador no usa electricidad
-c) Porque la instalación está conectada en serie
+b) Porque el refrigerador no usa electricidad de la red, sino una batería propia que se carga sola
+c) Porque la instalación está conectada en serie, y al apagar la luz toda la corriente de la casa pasa al refrigerador
 d) Porque el refrigerador tiene más voltaje que la ampolleta
 
 **Pregunta 5.** (Alternativas — Cálculo)
@@ -70,10 +70,10 @@ d) 10 A
 **Pregunta 6.** (Alternativas — Seguridad)
 ¿Qué función cumple la conexión a tierra (malla de tierra) en una instalación eléctrica?
 
-a) Aumenta el voltaje de la red
+a) Aumenta el voltaje de la red para que los artefactos funcionen mejor
 b) Desvía hacia el suelo la corriente de una falla, protegiendo a las personas de descargas eléctricas
 c) Convierte la electricidad en calor
-d) Hace que los artefactos gasten menos energía
+d) Hace que los artefactos gasten menos energía y que la cuenta de la luz baje cada mes en la casa
 
 **Pregunta 7.** (Alternativas — Comparación)
 Un estudiante arma dos circuitos con tres ampolletas cada uno. En el circuito A, al sacar una ampolleta se apagan todas; en el circuito B, las demás siguen encendidas. ¿Cómo están conectados?
@@ -109,9 +109,9 @@ d) 1: conducción; 2: radiación; 3: convección
 **Pregunta 11.** (Alternativas)
 Mientras un cubo de hielo se derrite en un vaso, ¿qué ocurre con su temperatura?
 
-a) Sube rápidamente hasta 100 °C
-b) Baja, porque el hielo pierde energía
-c) Sube y baja al azar
+a) Sube rápidamente hasta 100 °C, porque el agua del vaso le entrega todo su calor al hielo que flota
+b) Baja, porque el hielo pierde energía mientras se derrite en el vaso
+c) Sube y baja al azar, según la temperatura de la pieza
 d) Se mantiene en 0 °C hasta que todo el hielo se derrite, porque la energía se usa para cambiar de estado
 
 **Pregunta 12.** (Alternativas — Cálculo)
@@ -125,8 +125,8 @@ d) 20 K y 20 °F
 **Pregunta 13.** (Alternativas — Investigación experimental)
 Se ponen dos vasos iguales con agua caliente: uno envuelto en una bufanda de lana y otro sin envolver. Después de 20 minutos se mide la temperatura. ¿Qué se espera observar?
 
-a) El vaso sin envolver está más caliente
-b) Ambos tienen la misma temperatura
+a) El vaso sin envolver está más caliente, porque la lana absorbe el calor del agua y lo guarda para sí misma
+b) Ambos tienen la misma temperatura, porque el material que envuelve el vaso no influye
 c) El vaso envuelto en lana está más caliente, porque la lana es un aislante que reduce la pérdida de calor
 d) El vaso envuelto se congela
 
@@ -134,9 +134,9 @@ d) El vaso envuelto se congela
 ¿Por qué en el sur de Chile se recomienda aislar los techos y las paredes de las casas?
 
 a) Para reducir la pérdida de calor por conducción y mantener la casa abrigada con menos calefacción
-b) Para que entre más frío
-c) Para que la casa se caliente con el viento
-d) Para aumentar el consumo de leña
+b) Para que entre más frío en verano y la casa esté fresca
+c) Para que la casa se caliente con el viento que pasa por las paredes y los techos aislados en invierno
+d) Para aumentar el consumo de leña y que la estufa funcione más tiempo
 
 ---
 
