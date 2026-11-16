@@ -49,9 +49,9 @@ d) oscila entre valores positivos y negativos
 **Pregunta 3 (alternativas).** Dos modelos parten del mismo valor inicial: uno crece un 20% anual, el otro decrece un 20% anual. Después de varios años, ¿cuál de los dos se aleja más de su valor inicial, en términos absolutos?
 
 a) el que decrece, porque después de varios años llega a valores negativos y se aleja sin límite del inicial
-b) el que crece, porque el crecimiento compuesto no tiene techo, mientras el decrecimiento está limitado por el cero
+b) no se puede determinar sin conocer el valor inicial, porque la distancia depende de dónde parte cada modelo
 c) ambos se alejan lo mismo, porque el porcentaje de cambio es igual en ambos casos, solo que en sentido contrario
-d) no se puede determinar sin conocer el valor inicial, porque la distancia depende de dónde parte cada modelo
+d) el que crece, porque el crecimiento compuesto no tiene techo, mientras el decrecimiento está limitado por el cero
 
 ---
 
@@ -64,9 +64,9 @@ d) no se puede determinar sin conocer el valor inicial, porque la distancia depe
 ¿Este comportamiento corresponde a un crecimiento exponencial o lineal?
 
 a) exponencial, porque los valores van en aumento de un período a otro
-b) lineal, porque la diferencia entre términos consecutivos es constante (siempre +50)
+b) no se puede determinar con estos datos, porque se necesitan más períodos
 c) exponencial, porque la razón entre términos consecutivos es constante
-d) no se puede determinar con estos datos, porque se necesitan más períodos
+d) lineal, porque la diferencia entre términos consecutivos es constante (siempre +50)
 
 ---
 
@@ -96,8 +96,8 @@ d) Sí: la razón entre términos es casi constante (≈ 1,2), es decir, un 20% 
 
 **Pregunta 7 (Alternativas).** Un medicamento se elimina según C(t) = 180 · (0,75)ᵗ (mg). ¿Cuánto queda a las 4 horas y qué porcentaje se eliminó?
 
-a) ≈ 135 mg; 25%
-b) ≈ 57 mg; ≈ 68,3%
+a) ≈ 57 mg; ≈ 68,3%
+b) ≈ 135 mg; 25%
 c) ≈ 57 mg; ≈ 31,6%
 d) 0 mg; 100%
 
@@ -106,9 +106,9 @@ d) 0 mg; 100%
 **Pregunta 8 (Alternativas).** Una población de peces disminuye según N(t) = 4.000 · (0,88)ᵗ. ¿En cuántos años bajará aproximadamente a la mitad?
 
 a) ≈ 4,2 años
-b) ≈ 5,4 años
+b) ≈ 12 años
 c) ≈ 8,8 años
-d) ≈ 12 años
+d) ≈ 5,4 años
 
 ---
 
@@ -117,8 +117,8 @@ d) ≈ 12 años
 **Pregunta 9 (alternativas).** Un ángulo central mide 75°. ¿Cuánto mide el arco que subtiende?
 
 a) 37,5°
-b) 75°
-c) 150°
+b) 150°
+c) 75°
 d) 105°
 
 ---
@@ -293,13 +293,13 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 |---|---|---|---|
 | 1 | d) 20 dB (log₁₀(100)=2 → L=10×2=20) | OA 3 | Álgebra y Funciones |
 | 2 | c) se mantiene constante (b=1 multiplica por 1 en cada período) | OA 3 | Álgebra y Funciones |
-| 3 | b) el que crece, porque el crecimiento compuesto no tiene techo, mientras el decrecimiento está limitado por el cero. Por ejemplo, desde 100: tras 5 años, 100 · 1,2⁵ ≈ 249 (sube 149) y 100 · 0,8⁵ ≈ 33 (baja 67). El crecimiento compuesto se acelera; el decrecimiento se frena porque nunca baja de 0. | OA 3 | Álgebra y Funciones |
-| 4 | b) lineal, porque la diferencia entre términos consecutivos es constante (+50); las razones (1,5; 1,33; 1,25) no son iguales | OA 3 | Álgebra y Funciones |
+| 3 | d) el que crece, porque el crecimiento compuesto no tiene techo, mientras el decrecimiento está limitado por el cero. Por ejemplo, desde 100: tras 5 años, 100 · 1,2⁵ ≈ 249 (sube 149) y 100 · 0,8⁵ ≈ 33 (baja 67). El crecimiento compuesto se acelera; el decrecimiento se frena porque nunca baja de 0. | OA 3 | Álgebra y Funciones |
+| 4 | d) lineal, porque la diferencia entre términos consecutivos es constante (+50); las razones (1,5; 1,33; 1,25) no son iguales | OA 3 | Álgebra y Funciones |
 | 5 | **c) f, porque con el mismo valor inicial su factor (12% por período) es mayor.** Con igual valor inicial, manda el factor de crecimiento. | OA 3 | Álgebra y Funciones |
 | 6 | **d) Sí: la razón entre términos es casi constante (≈ 1,2), es decir, un 20% de crecimiento por período.** 96/80 = 1,20; 115/96 ≈ 1,198; 138/115 ≈ 1,20. | OA 3 | Álgebra y Funciones |
-| 7 | **b) ≈ 57 mg; ≈ 68,3%.** (0,75)⁴ ≈ 0,3164 → ≈ 57 mg; se eliminaron ≈ 123 mg (68,3%); 31,6% es lo que queda. | OA 3 | Álgebra y Funciones |
-| 8 | **b) ≈ 5,4 años.** t = log 0,5 / log 0,88 ≈ (−0,3010)/(−0,0555). | OA 3 | Álgebra y Funciones |
-| 9 | **b) 75°.** El arco mide lo mismo que su ángulo central: 75°. 37,5° sería un ángulo inscrito y 150° el doble. | OA 4 | Geometría |
+| 7 | **a) ≈ 57 mg; ≈ 68,3%.** (0,75)⁴ ≈ 0,3164 → ≈ 57 mg; se eliminaron ≈ 123 mg (68,3%); 31,6% es lo que queda. | OA 3 | Álgebra y Funciones |
+| 8 | **d) ≈ 5,4 años.** t = log 0,5 / log 0,88 ≈ (−0,3010)/(−0,0555). | OA 3 | Álgebra y Funciones |
+| 9 | **c) 75°.** El arco mide lo mismo que su ángulo central: 75°. 37,5° sería un ángulo inscrito y 150° el doble. | OA 4 | Geometría |
 | 10 | **c) 70°.** El ángulo inscrito mide la mitad del arco que subtiende: 140° ÷ 2 = 70°. | OA 4 | Geometría |
 | 11 | **a) 60°.** El ángulo semiinscrito mide la mitad del arco que abarca: 120° ÷ 2 = 60°. | OA 4 | Geometría |
 | 12 | **b) 45°.** Una vuelta completa mide 360°; dividida en 8 partes iguales: 360° ÷ 8 = 45°. | OA 4 | Geometría |

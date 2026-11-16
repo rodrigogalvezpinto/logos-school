@@ -1780,3 +1780,7 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
 - **C.7 (nuevo): simulacros que repetían una prueba del mismo curso.** Medición: 13 pares con enunciado casi igual
   (≥ 0,85) y la misma clave. 8 eran repeticiones reales (2 causadas por rehechas de esta sesión) y se rehicieron con datos
   nuevos; 5 son plantillas con otros datos o textos (`SIMULACRO_PRUEBA_REVISADAS`). Criterio y guarda nuevos en pytest.
+- **Validadores generales (2026-11-16):** factual 0, anglicismos 0, formato de pauta 0 problemas. Dos simulacros con la
+  clave concentrada en una letra (1.° básico forma A: «a» 11/20; 3.° medio Matemática B: «b» 12/25) se rebalancearon con
+  `rebalancear_claves.py --escribir` (9 intercambios verificados). Quedan 2 avisos informativos: en los simulacros de
+  Filosofía de 3.° y 4.° medio, parte del puntaje está en preguntas cerradas ponderadas (3 y 5 puntos), y la suma es correcta.

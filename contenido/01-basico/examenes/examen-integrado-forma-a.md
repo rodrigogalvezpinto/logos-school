@@ -45,33 +45,33 @@ c) 11
 
 **2.** [Imagen: una pelota roja] ¿Cuántas sílabas tiene la palabra "**pelota**"?
 
-a) 3
+a) 4
 b) 2
-c) 4
+c) 3
 
 ---
 
 **3.** Ana se despierta, después desayuna y luego se viste. ¿Qué hace primero?
 
-a) Se despierta
+a) Se viste
 b) Desayuna
-c) Se viste
+c) Se despierta
 
 ---
 
 **4.** ¿Qué tienen en común todos los seres vivos?
 
-a) Nacen, crecen y necesitan alimento
+a) Nunca necesitan agua para vivir
 b) Están hechos de plástico duro
-c) Nunca necesitan agua para vivir
+c) Nacen, crecen y necesitan alimento
 
 ---
 
 **5.** [Imagen: un mono en un árbol] ¿Con qué sonido empieza la palabra "**mono**"?
 
-a) /m/
+a) /s/
 b) /n/
-c) /s/
+c) /m/
 
 ---
 
@@ -220,10 +220,10 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | N° | Asignatura | Clave / criterio de respuesta correcta | Objetivo de Aprendizaje (OA) evaluado |
 |---|---|---|---|
 | 1 | Matemática | **c) 11.** Al contar las pelotas una por una (1, 2, 3... hasta 11) se llega al número 11. | OA 3 — Leer, escribir y representar números del 0 al 20 |
-| 2 | Lenguaje y Comunicación | **a) 3.** "Pe-lo-ta" se separa en tres partes: da una palmada por cada una. | OA N°3 — Conciencia fonológica (sílabas) |
-| 3 | Historia, Geografía y Cs. Sociales | **a) Se despierta.** En la secuencia de Ana, despertarse ocurre antes de desayunar y vestirse. | OA 2 — Secuencia temporal |
-| 4 | Ciencias Naturales | **a) Nacen, crecen y necesitan alimento.** Todos los seres vivos nacen, crecen, se reproducen, mueren y necesitan agua, aire y alimento. | OA 1 — Seres vivos y cosas no vivas |
-| 5 | Lenguaje y Comunicación | **a) /m/.** "Mono" empieza con el sonido /m/. | OA N°3 — Sonido inicial |
+| 2 | Lenguaje y Comunicación | **c) 3.** "Pe-lo-ta" se separa en tres partes: da una palmada por cada una. | OA N°3 — Conciencia fonológica (sílabas) |
+| 3 | Historia, Geografía y Cs. Sociales | **c) Se despierta.** En la secuencia de Ana, despertarse ocurre antes de desayunar y vestirse. | OA 2 — Secuencia temporal |
+| 4 | Ciencias Naturales | **c) Nacen, crecen y necesitan alimento.** Todos los seres vivos nacen, crecen, se reproducen, mueren y necesitan agua, aire y alimento. | OA 1 — Seres vivos y cosas no vivas |
+| 5 | Lenguaje y Comunicación | **c) /m/.** "Mono" empieza con el sonido /m/. | OA N°3 — Sonido inicial |
 | 6 | Matemática | **c) 12 = 7 + 5.** Si sumas 7 + 5 obtienes 12 (en las otras opciones la suma no da 12: 6+5=11, 8+5=13). | OA 6 — Componer y descomponer números del 0 al 20 |
 | 7 | Ciencias Naturales | **a) Olfato.** El aroma se percibe con la nariz, el órgano del olfato. | OA 6 — Los cinco sentidos |
 | 8 | Historia, Geografía y Cs. Sociales | **a) el norte de Chile.** La Tirana se celebra cada julio en la Región de Tarapacá, con bailes religiosos y trajes coloridos. | OA 6 — Fiestas, comidas y costumbres típicas |
