@@ -91,10 +91,10 @@ d) Las dos fotos corresponden a los aztecas
 
 **9. (Alternativas — desafiante)** Los incas tenían mensajeros llamados chasquis, que corrían por turnos llevando mensajes de una posta a otra, a lo largo de miles de kilómetros de caminos. ¿Qué nos dice este dato sobre el imperio inca?
 
-a) Que era un imperio pequeño, donde todos vivían cerca unos de otros
+a) Que era un imperio pequeño, donde todos vivían cerca y los chasquis solo corrían para hacer deporte
 b) Que era muy extenso y bien organizado, con un sistema para comunicar territorios muy alejados
-c) Que los incas no tenían caminos y por eso debían correr
-d) Que los mensajes solo se enviaban dentro de una misma ciudad
+c) Que los incas no tenían caminos ni animales de carga, y por eso todos sus viajes se hacían corriendo
+d) Que los mensajes solo se enviaban dentro de una misma ciudad, porque no había otros pueblos cercanos
 
 ---
 

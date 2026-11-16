@@ -168,8 +168,8 @@ d) Para que el auto haga menos ruido al frenar
 **15.** *(Alternativas, 3 puntos)* Un carro de supermercado vacío queda suelto en una rampa del estacionamiento y baja cada vez más rápido. ¿Qué fuerza causa principalmente la aceleración y cuál se opone a ella?
 
 a) El peso del carro (fuerza gravitacional) lo acelera; el roce de las ruedas con el suelo y con el aire se opone
-b) El roce de las ruedas acelera el carro; el peso se opone al movimiento
-c) La fuerza elástica de las ruedas acelera el carro; ninguna fuerza se opone
+b) El roce de las ruedas con el suelo acelera el carro; el peso del carro (fuerza gravitacional) se opone al movimiento
+c) La fuerza elástica de las ruedas, que rebotan contra el suelo, acelera el carro; ninguna fuerza se opone a su bajada
 d) El peso se opone en la bajada; el último empujón de la persona sigue acelerando el carro
 
 ---

@@ -97,10 +97,10 @@ d) La lista de fuentes
 
 **11. (Alternativas — OA15)** Un artículo sobre el cuidado del agua termina así: «En resumen, cerrar la llave, reparar las filtraciones y regar de noche ayuda a ahorrar agua». ¿Para qué sirve ese último párrafo?
 
-a) Para que el artículo sea más largo
+a) Para que el artículo sea más largo y cumpla con la extensión pedida
 b) Para recordar y ordenar las ideas principales sin releer todo el texto
-c) Para agregar información nueva
-d) Para contar una anécdota personal
+c) Para agregar información nueva que no se mencionó en los párrafos anteriores
+d) Para contar una anécdota personal del autor sobre cómo ahorra agua en su casa
 
 **12. (Alternativas — OA15)** ¿Cuál de las siguientes oraciones usa **vocabulario variado** de forma adecuada para un artículo informativo sobre los árboles nativos?
 

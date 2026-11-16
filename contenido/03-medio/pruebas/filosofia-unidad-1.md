@@ -63,10 +63,10 @@ d) Es una gran pregunta filosófica sobre la acción humana, que exige clarifica
 
 **7. (Alternativas)** Una característica del quehacer filosófico es que suele nacer de una vivencia del día a día. ¿Qué situación lo muestra?
 
-a) Copiar la definición de «justicia» del diccionario para la tarea
+a) Copiar en el cuaderno la definición de «justicia» que aparece en el diccionario y memorizarla para la prueba de la próxima semana
 b) Después de ver que en un partido se castigó solo a un equipo por la misma falta, preguntarse qué es la justicia y si las reglas deben aplicarse igual a todos
-c) Leer la biografía de un filósofo famoso
-d) Contar cuántas veces aparece la palabra «justicia» en un libro
+c) Leer la biografía de un filósofo famoso y anotar en qué años vivió, en qué ciudades enseñó y cuáles fueron sus libros más conocidos
+d) Contar cuántas veces aparece la palabra «justicia» en un libro de Platón y hacer un gráfico con los resultados de cada capítulo
 
 ---
 

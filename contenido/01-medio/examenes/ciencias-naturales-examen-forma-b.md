@@ -211,10 +211,10 @@ d) Ocurre siempre en fase de luna llena, cuando la Luna refleja toda la luz del 
 
 **18.** *(Alternativas, 2 puntos)* Venus está más cerca del Sol que la Tierra. ¿Qué relación hay entre esa distancia y su período orbital?
 
-a) Su período es mayor, porque al estar más cerca se mueve más lento
+a) Su período es mayor (unos 687 días), porque al estar más cerca del Sol se mueve más lento en su órbita
 b) Su período es menor (unos 225 días), porque recorre una órbita más pequeña y se mueve más rápido
-c) Su período es igual al de la Tierra: todos los planetas tardan un año
-d) La distancia no influye; el período depende solo del tamaño del planeta
+c) Su período es igual al de la Tierra (365 días), porque todos los planetas tardan un año en dar la vuelta
+d) La distancia no influye en el período orbital, que depende solo del tamaño y de la masa del planeta
 
 ---
 

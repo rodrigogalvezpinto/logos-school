@@ -173,10 +173,10 @@ d) Produce efectos distintos según la edad, pero resulta más riesgoso en mayor
 
 **15.** *(Alternativas)* Un joven toma un antihistamínico que le produce sueño y, esa noche, piensa beber alcohol antes de manejar. ¿Cuál es el riesgo?
 
-a) Ninguno, porque cada sustancia actúa por separado
+a) Ninguno adicional, porque cada sustancia actúa por separado en el cuerpo y sus efectos no se combinan ni se suman entre sí
 b) Ambas deprimen el sistema nervioso y sus efectos se suman: aumenta la somnolencia y se reducen los reflejos, con alto riesgo de accidente
-c) El alcohol anula por completo el efecto del medicamento
-d) Solo es riesgoso si toma el medicamento con el estómago vacío
+c) El alcohol anula por completo el efecto del medicamento, así que el único riesgo es que la alergia vuelva a aparecer esa noche
+d) Solo es riesgoso si toma el medicamento con el estómago vacío; si come antes, el alcohol y el antihistamínico no se afectan
 
 **16.** *(Alternativas, 2 puntos)* Una publicación asegura que "mezclar bicarbonato de sodio con vinagre en un espacio cerrado genera un gas mortal". ¿Qué evaluación es correcta?
 

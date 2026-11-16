@@ -72,10 +72,10 @@ d) Empezar el eje vertical en 0
 
 **Pregunta 10 (identificar manipulación).** Un gráfico de las ventas de una tienda tiene el eje vertical que empieza en 900 y no en 0. Así, una diferencia pequeña entre dos meses parece enorme. ¿Qué problema presenta el gráfico?
 
-a) Falta de título
-b) Colores poco adecuados
+a) Falta de título y de nombres en los ejes
+b) Uso de colores poco adecuados en las barras
 c) Distorsión visual porque el eje no comienza en cero
-d) Tiene demasiados datos
+d) Tiene demasiados datos para un solo gráfico
 
 **Pregunta 11 (Alternativas — elegir gráfico).** Una municipalidad quiere mostrar qué parte de su presupuesto anual se destina a salud, educación, áreas verdes y seguridad. ¿Qué gráfico conviene?
 

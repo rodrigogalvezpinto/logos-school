@@ -50,24 +50,24 @@ d) No es peligroso si la botella está bien cerrada y se guarda en un lugar alto
 
 **Pregunta 5.** *(Alternativas — Análisis de caso)* En la bodega de un colegio guardan el cloro junto a un limpiador con amoníaco, en la misma repisa. ¿Qué riesgo hay y qué medida corresponde?
 
-a) Ninguno, porque ambos son productos de limpieza
-b) Que se ensucie la repisa; basta con limpiarla
-c) Falta de espacio; hay que comprar más repisas
+a) Ninguno, porque ambos son productos de limpieza diseñados para usarse juntos; basta con mantener la repisa ordenada y limpia
+b) Que se ensucie la repisa si algún envase gotea; basta con limpiarla con frecuencia y revisar que las tapas estén bien cerradas
+c) Que falte espacio en la bodega; hay que comprar más repisas y dejar los dos productos juntos para encontrarlos con rapidez
 d) Si se mezclan por un derrame, pueden formar gases tóxicos (cloraminas); hay que almacenarlos separados, rotulados y en lugar ventilado
 
 **Pregunta 6.** *(Alternativas — Evaluación de evidencia)* Una persona afirma: «Los parches de nicotina son inofensivos para cualquiera, porque se venden en farmacias». ¿Qué evidencia hay que considerar?
 
-a) Que todo lo que se vende en farmacias es inofensivo para cualquier persona
-b) Que la nicotina no tiene efectos en el cuerpo
+a) Que todo lo que se vende en farmacias pasó controles sanitarios y, por eso, es inofensivo para cualquier persona, sin importar su edad, su peso ni la dosis que use
+b) Que la nicotina del parche no tiene efectos en el cuerpo, porque atraviesa la piel muy lentamente y nunca llega a la sangre en una cantidad que pueda causar daño
 c) Que la nicotina es tóxica en dosis altas: un parche puede intoxicar a un niño o a quien lo use sin indicación, por eso hay que seguir la dosis indicada y guardarlo fuera del alcance de los niños
-d) Que los parches no se pueden usar mal porque vienen cerrados
+d) Que los parches no se pueden usar mal porque vienen sellados en sobres individuales, y un niño no podría abrirlos ni pegárselos sin la ayuda de un adulto
 
 **Pregunta 7.** *(Alternativas)* Una familia guarda productos de limpieza en botellas de bebida reutilizadas, debajo del lavaplatos y sin seguro. ¿Qué medida reduce mejor el riesgo de intoxicación?
 
-a) Rotular las botellas de bebida con plumón
+a) Rotular las botellas de bebida con plumón y dejarlas bajo el lavaplatos, porque así cualquier persona sabe qué contiene cada una
 b) Mantener los productos en su envase original y etiquetado, en un lugar alto o con seguro, fuera del alcance de los niños
-c) Guardar los productos junto a los alimentos para encontrarlos fácilmente
-d) Dejar las botellas destapadas para que se ventilen
+c) Guardar los productos junto a los alimentos en la despensa, para encontrarlos fácilmente y no tener que agacharse a buscarlos
+d) Dejar las botellas destapadas debajo del lavaplatos para que se ventilen y no acumulen gases dentro del envase cerrado
 
 ---
 

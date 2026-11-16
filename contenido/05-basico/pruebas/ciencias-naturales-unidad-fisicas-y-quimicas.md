@@ -53,10 +53,10 @@ d) Con la llave de metal, porque es conductora
 
 **6.** El cargador del celular de Javier tiene el cable roto y se ven los alambres de cobre. ¿Qué debe hacer Javier?
 
-a) Seguir usándolo con cuidado de no tocar la parte rota
+a) Seguir usándolo con cuidado de no tocar la parte rota, porque si el cargador funciona no hay ningún peligro
 b) Desenchufarlo sin tocar la parte rota, no volver a usarlo y avisar a un adulto, porque los alambres expuestos pueden dar la corriente
-c) Cubrir los alambres con un paño húmedo
-d) Tocar los alambres con la mano seca para ver si todavía funciona
+c) Cubrir los alambres con un paño húmedo para enfriarlos y seguir cargando el celular mientras el paño esté puesto
+d) Tocar los alambres con la mano seca para ver si todavía funciona, porque con la piel seca la corriente no puede pasar
 
 **7.** ¿Cuál de los siguientes materiales es un buen aislador de electricidad?
 a) Aluminio

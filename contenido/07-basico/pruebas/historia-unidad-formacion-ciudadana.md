@@ -72,10 +72,10 @@ d) 1-B, 2-C, 3-A
 
 **Pregunta 8 (alternativas — análisis de fuente).** En la Edad Media, en la ciudad de Toledo, sabios cristianos, judíos y musulmanes trabajaban juntos traduciendo libros de medicina y astronomía. ¿Qué nos muestra este ejemplo?
 
-a) Que solo una de esas culturas tenía conocimientos valiosos
-b) Que en la Edad Media no se traducían libros
+a) Que solo una de esas culturas tenía conocimientos valiosos y las otras se limitaban a copiarlos
+b) Que en la Edad Media no se traducían libros, por lo que todos los textos se escribían en latín
 c) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a todas
-d) Que los conocimientos de otras culturas no llegaron nunca a Europa
+d) Que los conocimientos de otras culturas no llegaron nunca a Europa, porque estaban prohibidos
 
 **Pregunta 9 (alternativas).** En la ciudad de Toledo, durante la Edad Media, traductores musulmanes, judíos y cristianos trabajaron juntos traduciendo libros de ciencia. ¿Qué muestra este ejemplo?
 a) Que solo hubo conflicto entre esas culturas

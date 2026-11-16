@@ -77,6 +77,10 @@ REVISADAS_A_MANO = {
     "03-medio/pruebas/ingles-unidad-1.md": {8},  # otra oración (México y Chile)
     "03-medio/pruebas/lengua-y-literatura-unidad-1.md": {1, 6, 8},  # otras expresiones y otro reportaje de la prueba
     "03-medio/examenes/matematica-examen-forma-b.md": {1},  # otros datos (I/I₀ = 100)
+    "04-medio/pruebas/filosofia-unidad-1.md": {3, 13},  # 3: otras tres situaciones; 13: argumento propio (tortura), sin par en la guía
+    "04-medio/pruebas/filosofia-unidad-2.md": {11, 12},  # otros fenómenos (delivery, videojuego, rumor); otro caso (algoritmos de música)
+    "04-medio/pruebas/ingles-unidad-1.md": {2, 8, 14},  # otros textos y oraciones
+    "04-medio/pruebas/ingles-unidad-2.md": {9},  # otra oración (de Arica a Punta Arenas)
     "06-basico/pruebas/lenguaje-y-comunicacion-unidad-2.md": {1, 4},
     "08-basico/pruebas/lengua-y-literatura-unidad-1.md": {8, 15},  # 8: V/F sobre otro poema
     "02-medio/pruebas/ciencias-naturales-unidad-fisica.md": {1},

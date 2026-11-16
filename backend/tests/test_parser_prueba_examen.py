@@ -917,10 +917,13 @@ def test_toda_pregunta_de_prueba_y_simulacro_explica_su_clave():
 
 
 def test_pruebas_y_simulacros_no_repiten_la_guia():
-    # Control C.2 (2026-11-15): sin copias exactas, casi copias ni lecturas reutilizadas de la guía.
+    # Control C.2 (2026-11-15/16): sin copias exactas, casi copias, lecturas reutilizadas, «misma pregunta y clave»
+    # ni «escenario de la guía repetido». Las plantillas revisadas a mano están en REVISADAS_A_MANO.
     import sys as _sys
     _sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-    from solapamiento_pruebas_guias import casi_copias, lecturas_copiadas, solapamiento
+    from solapamiento_pruebas_guias import (
+        casi_copias, escenarios_copiados, lecturas_copiadas, misma_clave, solapamiento,
+    )
     cursos = sorted(p for p in CONTENIDO.iterdir() if p.is_dir() and (p / "pruebas").exists())
     for curso in cursos:
         for carpeta in ("pruebas", "examenes"):
@@ -928,3 +931,5 @@ def test_pruebas_y_simulacros_no_repiten_la_guia():
             assert repetidas == 0, archivos
             assert casi_copias(curso, carpeta) == {}, curso.name
             assert lecturas_copiadas(curso, carpeta) == {}, curso.name
+            assert misma_clave(curso, carpeta) == {}, curso.name
+            assert escenarios_copiados(curso, carpeta) == {}, curso.name

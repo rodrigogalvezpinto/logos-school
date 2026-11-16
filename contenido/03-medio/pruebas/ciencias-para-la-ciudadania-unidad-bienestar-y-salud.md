@@ -37,9 +37,9 @@ d) Ambiental
 **Pregunta 3.** *(Alternativas — Análisis de caso)* Matías tiene asma desde niño, vive junto a una carretera con mucho tránsito de camiones y su familia no puede costear los controles médicos con regularidad. ¿Qué opción identifica correctamente los factores que influyen en su salud?
 
 a) Biológico: el asma; ambiental: el aire contaminado por los camiones; social: la dificultad económica para acceder a controles. Los tres interactúan
-b) Biológico: los camiones; ambiental: la falta de dinero; social: el asma
-c) Solo hay un factor biológico: el asma, que no depende del entorno
-d) Los factores actúan por separado y no se influyen entre sí
+b) Biológico: el humo de los camiones; ambiental: la falta de dinero de la familia; social: el asma de Matías. Cada uno actúa por su lado
+c) Solo hay un factor biológico: el asma, que depende únicamente de sus pulmones y no cambia según el aire o los recursos de la familia
+d) Ambiental: el asma; social: los camiones de la carretera; biológico: los controles médicos. Los factores actúan por separado
 
 **Pregunta 4.** *(Alternativas)* ¿Por qué la salud se considera un estado con dimensiones física, psíquica, social y ambiental, y no solo la ausencia de enfermedad?
 
@@ -57,10 +57,10 @@ d) Cuántos seguidores tiene la cuenta que lo promociona
 
 **Pregunta 6.** *(Alternativas — Análisis de caso)* En una localidad cercana a una fundición, varios niños presentan niveles altos de metales en la sangre. Antes de tratarlos, el equipo de salud mide el aire y el suelo de la zona. ¿Por qué es importante considerar el factor ambiental?
 
-a) Porque el ambiente nunca influye en la salud
+a) Porque el ambiente nunca influye en la salud, y medir el aire y el suelo solo sirve para descartar errores en los exámenes de sangre
 b) Porque el problema podría tener origen ambiental y, para tratarlo y prevenirlo bien, hay que identificar y controlar esa fuente
-c) Porque basta con tratar los síntomas, sin conocer el origen
-d) Porque estas causas siempre son hereditarias
+c) Porque basta con tratar los síntomas de cada niño con medicamentos, y conocer el origen del problema no cambia el tratamiento
+d) Porque estas causas siempre son hereditarias, y medir el ambiente permite confirmar que los niños heredaron el problema de sus padres
 
 **Pregunta 7.** *(Alternativas)* En muchas ciudades del centro y sur de Chile, la calefacción con leña húmeda eleva en invierno el material particulado fino (PM2.5). La exposición repetida a este contaminante durante años se asocia principalmente a:
 

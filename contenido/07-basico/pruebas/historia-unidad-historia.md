@@ -31,10 +31,10 @@ d) El paso de la vida nómade, basada en la caza y la recolección, a la vida se
 
 **Pregunta 3 (alternativas).** Un arqueólogo encuentra restos de una antigua ciudad. ¿Cuál de estos hallazgos NO sería una señal de que pertenece a una de las primeras civilizaciones?
 
-a) Un palacio desde donde gobernaba un rey
-b) Templos y un mercado en el centro de la ciudad
+a) Un palacio con un trono, desde donde gobernaba un rey a todo el territorio
+b) Templos para los dioses y un mercado de intercambio en el centro de la ciudad
 c) Viviendas todas iguales y ninguna señal de diferencias entre grupos sociales
-d) Tablillas con escritura que registran impuestos y cosechas
+d) Tablillas de arcilla con escritura que registran impuestos y cosechas del año
 
 **Pregunta 4 (alternativas — unir).** Une cada rasgo de las primeras civilizaciones con su explicación:
 
@@ -79,9 +79,9 @@ d) 1-C, 2-A, 3-B
 **Pregunta 9 (alternativas).** Un monasterio medieval guarda libros de autores romanos copiados en latín, celebra la misa cristiana y está en un reino fundado por un pueblo germano. ¿Qué tradiciones se combinan en este ejemplo?
 
 a) Grecorromana, judeocristiana y germana
-b) Egipcia, mesopotámica y persa
-c) Maya, azteca e inca
-d) China, india y árabe
+b) Egipcia, mesopotámica y persa, del Oriente
+c) Maya, azteca e inca, de la América antigua
+d) China, india y árabe, de las rutas de Asia
 
 **Pregunta 10 (verdadero o falso).** Después de la caída del Imperio romano de Occidente, en el año 476 d.C., su territorio quedó dividido en distintos reinos germánicos.
 

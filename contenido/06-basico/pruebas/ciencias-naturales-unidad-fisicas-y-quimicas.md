@@ -93,10 +93,10 @@ d) Condensación (gas → líquido)
 
 **12. (Alternativas — OA13)** Un trozo de mantequilla se pone en un sartén caliente y se derrite. ¿Qué pasa con sus partículas?
 
-a) Se detienen por completo y dejan de vibrar
-b) Se juntan más y se ordenan en filas
+a) Se detienen por completo y dejan de vibrar, por eso la mantequilla pierde su forma
+b) Se juntan más y se ordenan en filas, ocupando menos espacio que cuando era sólida
 c) Ganan energía, se mueven más y se separan un poco, de modo que pueden deslizarse unas sobre otras
-d) Desaparecen con el calor
+d) Desaparecen con el calor y son reemplazadas por partículas de agua del sartén
 
 ---
 

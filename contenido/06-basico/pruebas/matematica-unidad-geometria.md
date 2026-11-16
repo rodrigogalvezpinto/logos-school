@@ -55,10 +55,10 @@ d) 62°
 
 **Pregunta 6 (problema en contexto).** Dos tablas de una reja se cruzan formando cuatro ángulos. Lucas midió uno y obtuvo 71°; su hermana midió el ángulo de al lado y obtuvo 109°. ¿Es coherente esa medición?
 
-a) No, porque los ángulos de al lado deben ser iguales: ambos debían medir 71°
+a) No, porque los ángulos de al lado deben ser iguales cuando dos rectas se cruzan: ambos debían medir 71°
 b) Sí, porque 71° + 109° = 180°, lo que suman dos ángulos adyacentes formados por rectas que se cruzan
-c) No, porque dos ángulos adyacentes deben sumar 90°
-d) Sí, porque dos ángulos adyacentes deben sumar 360°
+c) No, porque dos ángulos adyacentes formados por rectas que se cruzan deben sumar 90°, y aquí suman más
+d) Sí, porque dos ángulos adyacentes formados por rectas que se cruzan deben sumar 360° en total
 
 **Pregunta 7 (alternativas).** Dos rectas se cortan y uno de los ángulos formado mide 75°. ¿Cuánto mide el ángulo adyacente a él?
 a) 15°

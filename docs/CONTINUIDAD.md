@@ -112,27 +112,26 @@ frontend usa `Intl.DateTimeFormat(…, { timeZone: 'America/Santiago' })` en `pl
 siguen guardando en UTC. Dependencia `tzdata` agregada. Prueba: `tests/test_fechas_chile.py`. **Regla para código nuevo:
 nunca usar `.date()` sobre un instante ni `toISOString().slice(0, 10)` para «hoy»; usar `fecha_local`.**
 
-### 6.1b ⏳ EN CURSO — C.2, tercera pasada: «misma pregunta y misma clave»
+### 6.1b ✅ RESUELTO (2026-11-16) — C.2, tercera pasada: «misma pregunta y misma clave»
 La revisión de la muestra docente mostró casi copias que los criterios anteriores no veían (enunciado reformulado,
 un `[Imagen: …]` agregado, o los mismos datos del «Ejemplo 1» de la guía). `solapamiento_pruebas_guias.py` ahora informa
 «misma pregunta y clave» (≥ 0,6 de similitud, 3 o más alternativas iguales y la misma respuesta correcta) y
 «escenario de la guía repetido» (una oración de situación o con datos, de 50 o más caracteres, idéntica a la guía).
-Al empezar había ~221 candidatas en total. **Revisados: 1.° básico** (12 rehechas, entre ellas un cuento copiado dentro del enunciado) **y 2.° básico** (9 rehechas
-y un artículo de lectura nuevo en el simulacro B), **3.° básico** (9 rehechas, 1 plantilla) **y 4.° básico** (16 rehechas,
-incluido un gráfico de helados copiado entero de la guía que se reemplazó por uno propio de jugos; 9 plantillas)
-**, 5.° básico** (19 rehechas, 11 plantillas) **, 6.° básico** (29 rehechas, 3 plantillas) **, 7.° básico** (11 rehechas, 13 plantillas) **, 8.° básico** (5 rehechas, 13 plantillas) **, 1.° medio** (7 rehechas, 10 plantillas) **, 2.° medio** (8 rehechas, 13 plantillas) **y 3.° medio** (9 rehechas, 5 plantillas). Chromium: 1.° a 4.° básico
-18/18 cada uno y 5.° y 6.° básico 24/24 tras los cambios; 7.° básico en adelante, pendiente.
-El detector de lecturas ahora también marca un párrafo único de 150 o más caracteres. Siguiente: 4.° medio (`candidatos('04-medio')`). Ejemplos ya vistos ahí: Filosofía U1 11, Educación
-Ciudadana 4 y 9.
-Hecho cada curso: detector del curso en 0, `validar_evaluaciones_markdown.py`, `pytest -k "parser or corpus"`,
-validación en Chromium (`scripts/qa/reimportar_e2e.sh` + `scripts/qa/validar_material.sh "N° básico"`), commit.
+Se revisaron las ~221 candidatas de los 12 cursos: **140 preguntas rehechas** (incluidos un cuento copiado en 1.° básico,
+un artículo nuevo en el simulacro B de 2.° básico y un gráfico propio en Medición de 4.° básico) y **unas 90 plantillas**
+registradas, con comentario, en `REVISADAS_A_MANO`. Los 12 cursos dan 0 en los seis reportes, y la guarda
+`test_pruebas_y_simulacros_no_repiten_la_guia` ahora exige también `misma_clave` y `escenarios_copiados`.
+**Sesgo de longitud:** las rehechas que dejaban la correcta notoriamente más larga (41) se corrigieron alargando
+distractores con `ajustar_distractores.aplicar_en` (sin tocar la clave); 0 rehechas sesgadas.
+Verificación: backend 734 pasan, `validar_evaluaciones_markdown.py` sin discrepancias, C.4 en 0, Chromium en los 12
+cursos (18/18 en 1.° a 4.° básico, 24/24 en 5.° básico a 2.° medio, 25/25 en 3.° medio y 23/23 en 4.° medio).
 **Cómo decidir cada una** (con `match.match(archivo, n)` de `herramientas_auditoria`):
 - **Copia → rehacer** (`rehacer(...)`) si pregunta lo mismo con los mismos datos o la misma situación: misma flor, misma palabra,
   mismos números de la tabla o del pictograma, misma opción correcta por la misma razón.
 - **Plantilla válida → `REVISADAS_A_MANO`** (en el detector) si cambian los datos y la respuesta coincide por casualidad, o si
   pregunta por otro personaje u otro texto con alternativas genéricas (por ejemplo, «¿a qué personaje tipo corresponde…?»).
-Avance: el curso que aparece en 0 en la salida del detector está terminado. Cuando todos estén en 0, agregar `misma_clave`
-a la guarda `test_pruebas_y_simulacros_no_repiten_la_guia`.
+Regla para material nuevo: si el detector marca una pregunta, decidir con este mismo criterio; si es plantilla, registrarla
+en `REVISADAS_A_MANO` con un comentario que diga qué cambia; y revisar el sesgo de longitud de toda pregunta rehecha.
 
 ### 6.2 Revisión de fondo propia (mientras no haya profesor)
 Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar los 5 criterios de `00-INSTRUCCIONES.md`.

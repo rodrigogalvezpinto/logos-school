@@ -48,13 +48,12 @@ b) 1-A, 2-B, 3-C
 c) 1-B, 2-C, 3-A
 d) 1-C, 2-B, 3-A
 
-4. **(Alternativas)** Una economía que depende casi exclusivamente de exportar materias
-primas sin procesar se caracteriza principalmente por ser un modelo:
-a) Centrado en la producción con alto valor agregado y en la transformación local de lo que se extrae
-b) Basado exclusivamente en el trabajo artesanal local, sin participación en el comercio internacional
-c) De economía del conocimiento y servicios tecnológicos, con baja dependencia de los recursos naturales
-d) Extractivo, con riesgos de dependencia de precios internacionales y presión sobre recursos
-naturales
+4. **(Alternativas)** Cerca del 50 % de las exportaciones de Chile corresponde a cobre, que en gran parte sale como concentrado o cátodos, con poca elaboración. ¿Qué riesgo caracteriza a este tipo de modelo económico?
+
+a) Que el país produce sobre todo bienes con alto valor agregado, porque el cobre se transforma en productos tecnológicos dentro de Chile
+b) Que el país no participa del comercio internacional, porque vende el cobre solo a empresas chilenas que lo usan en el mercado interno
+c) Que la economía depende poco de los recursos naturales, porque el cobre es un servicio y no un bien extraído de la tierra
+d) Que, al ser un modelo extractivo, la economía queda expuesta a las caídas del precio internacional del cobre y presiona los recursos naturales
 
 5. **(Varias correctas — análisis de caso)** Una ciudad debe decidir entre dos políticas para reducir las emisiones del transporte: (A) subsidiar la renovación de la flota de buses públicos con vehículos eléctricos, o (B) establecer un impuesto a los combustibles fósiles. ¿Qué afirmaciones comparan correctamente ambas políticas? Marca **todas** las correctas.
 
@@ -90,13 +89,12 @@ b) 1-C, 2-A, 3-B
 c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
-9. **(Alternativas)** La protección de la maternidad en la legislación laboral chilena
-incluye mecanismos como:
-a) El permiso postnatal, la protección del empleo durante el embarazo y mecanismos de sala
-cuna
-b) La prohibición de contratar mujeres en edad fértil para evitar costos a las empresas
-c) La obligación de las madres de renunciar al empleo tras el embarazo para cuidar a sus hijos
-d) Un sistema que traslada todos los costos del cuidado infantil a las familias, sin apoyo del empleador
+9. **(Alternativas)** Carolina trabaja en una empresa con 25 trabajadoras y tuvo un hijo hace dos meses. ¿Qué derechos le reconoce la legislación laboral chilena en relación con la maternidad?
+
+a) Permiso postnatal, fuero maternal que protege su empleo y derecho a sala cuna financiada por el empleador
+b) Ninguno especial, porque la maternidad es un asunto privado y cada empresa decide si concede o no algún permiso
+c) La obligación de renunciar al trabajo para cuidar a su hijo, con derecho a volver cuando el niño entre al colegio
+d) Solo un bono único al nacer el hijo, sin permiso postnatal ni protección de su empleo durante el primer año
 
 10. **(Varias correctas)** ¿Qué afirmaciones sobre la evolución de la protección laboral en Chile son correctas? Marca **todas** las correctas.
 
@@ -157,7 +155,7 @@ social y ambiental; no es "cero actividad económica" ni "solo ambiente".
 
 3. a) 1-C, 2-A, 3-B. Un modelo sustentable debe considerar las tres dimensiones a la vez.
 
-4. **d)** Extractivo, con riesgos de dependencia de precios internacionales y presión sobre
+4. **d) Que, al ser un modelo extractivo, la economía queda expuesta a las caídas del precio internacional del cobre y presiona los recursos naturales.** d) Una economía basada en exportar materias primas con poca elaboración es extractiva: si cae el precio internacional, caen los ingresos del país, y la extracción presiona el agua y los territorios.
 recursos naturales. El modelo genera empleo e ingresos, pero el OA pide reconocer sus riesgos
 característicos.
 
@@ -174,7 +172,7 @@ tema.
 
 8. d) 1-B, 2-A, 3-C. Estas tendencias marcan las demandas actuales sobre derechos laborales.
 
-9. **a)** El permiso postnatal, la protección del empleo durante el embarazo y mecanismos de
+9. **a) Permiso postnatal, fuero maternal que protege su empleo y derecho a sala cuna financiada por el empleador.** a) La ley chilena contempla el permiso postnatal, el fuero maternal (no puede ser despedida sin autorización judicial) y la sala cuna en empresas con 20 o más trabajadoras.
 sala cuna buscan que tener hijos e hijas no signifique perder el empleo ni los ingresos.
 
 10. a, b y c — Los derechos laborales son resultado de procesos históricos en que la organización social tuvo un papel decisivo.

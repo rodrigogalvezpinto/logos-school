@@ -52,9 +52,9 @@ d) Nadie, porque es un problema entre niños
 **4. (Alternativas — análisis de caso)** En una escuela no dejan inscribirse en el taller de fútbol a una niña solo porque es mujer, aunque cumple todos los requisitos. ¿Qué principio de los derechos humanos se está vulnerando?
 
 a) El principio de universalidad e igualdad: los derechos son de todas las personas, sin discriminación
-b) La libertad de expresión de la niña
-c) El derecho de la escuela a organizar sus talleres como quiera
-d) Ningún principio, porque los talleres son voluntarios
+b) La libertad de expresión de la niña, porque no la dejaron opinar sobre cómo debe organizarse el taller
+c) El derecho de la escuela a organizar sus talleres como quiera, porque cada institución pone sus propias reglas
+d) Ningún principio, porque los talleres son voluntarios y la niña puede inscribirse en otra actividad del colegio
 
 ---
 

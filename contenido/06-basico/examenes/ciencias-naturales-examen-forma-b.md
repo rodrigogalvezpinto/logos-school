@@ -119,9 +119,9 @@ d) La edad de inicio de la pubertad varía de una persona a otra, y esa variaci�
 
 **9.** *(Alternativas, 2 puntos)* En el curso de Antonia, algunas compañeras ya han tenido su primera menstruación y otras no. ¿Qué actitud refleja una comprensión correcta de la pubertad?
 
-a) Pensar que todas deben vivir los cambios a la misma edad
-b) Pensar que estos temas no influyen en cómo se sienten las personas
-c) Pensar que el deporte permite saltarse la pubertad
+a) Pensar que todas deben vivir los cambios a la misma edad y preocuparse si alguna se atrasa
+b) Pensar que estos temas no influyen en cómo se sienten las personas, así que no hay que hablarlos
+c) Pensar que hacer mucho deporte permite adelantar o saltarse los cambios de la pubertad
 d) Respetar que cada persona vive la pubertad a su ritmo, sin burlas ni comparaciones
 
 ---

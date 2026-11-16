@@ -30,9 +30,9 @@ alternativas tienen una sola respuesta correcta. Si una pregunta dice «marca to
 
 **1. (Alternativas — OA1)** En 1808 Napoleón invadió España y tomó prisionero al rey Fernando VII. ¿Qué consecuencia tuvo este hecho en América?
 
-a) Estados Unidos se independizó de Inglaterra
-b) Se restableció de inmediato la monarquía de los Borbones
-c) Se abolió la esclavitud en todas las colonias
+a) Las colonias imitaron a Estados Unidos y se declararon independientes de España ese mismo año, en 1808
+b) Se restableció de inmediato la monarquía de los Borbones y las colonias quedaron gobernadas desde Francia
+c) España abolió la esclavitud en todas sus colonias para conseguir soldados que lucharan contra Napoleón
 d) Sin rey, en varias ciudades americanas se formaron juntas de gobierno, como la de Santiago en 1810
 
 **2. (Verdadero o Falso — OA1)** El malestar de los criollos se debía, entre otras cosas, a que

@@ -96,10 +96,10 @@ d) Zona Central
 
 **9. (Alternativas — análisis de mapa)** En la Zona Austral de Chile hay mucha ganadería de ovejas y muy pocos cultivos de frutas. ¿Qué explica esta situación?
 
-a) Las personas de la zona prefieren no comer frutas
-b) Las ovejas fueron prohibidas en el resto de Chile
+a) Las costumbres: las personas de la zona prefieren comer carne de cordero y por eso no les interesa cultivar frutas
+b) Una ley: las ovejas fueron prohibidas en el resto de Chile, así que todas tuvieron que trasladarse a la Zona Austral
 c) Las condiciones naturales: el clima frío y ventoso dificulta los frutales, pero las praderas permiten criar ovejas
-d) La zona tiene un clima cálido y seco, ideal para la ganadería
+d) El clima: la zona es cálida y seca todo el año, ideal para la ganadería pero demasiado caluroso para los frutales
 
 ---
 

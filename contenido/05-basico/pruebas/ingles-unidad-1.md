@@ -77,10 +77,10 @@ d) a weather report
 
 **8.** *(Alternativas — desafiante)* Read a short message: "Hi Sofía, Happy birthday! I'm sorry I can't go to your party. Love, Tomás." ¿Qué expresa Tomás en este mensaje? (elige la opción más completa)
 
-a) Solo saluda por el cumpleaños
-b) Solo se disculpa
+a) Solo saluda a Sofía por el día de su cumpleaños
+b) Solo se disculpa por no haber llamado
 c) Saluda por el cumpleaños y se disculpa por no ir
-d) Invita a una fiesta
+d) Invita a Sofía a la fiesta de Tomás
 
 ---
 

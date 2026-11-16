@@ -128,10 +128,10 @@ d) 15/24
 
 **8. (Historia, Geografía y Ciencias Sociales)** ¿Qué característica de la corriente de Humboldt explica que haya tantos peces frente a Chile y Perú?
 
-a) Es una corriente cálida que viene del ecuador
-b) Es una corriente que no tiene vida
+a) Es una corriente cálida que viene del ecuador y calienta el mar, por eso llegan peces tropicales
+b) Es una corriente muy rápida que arrastra a los peces desde otros océanos hasta la costa chilena
 c) Es una corriente fría y rica en nutrientes, de los que se alimentan muchos peces
-d) Solo existe en invierno
+d) Solo existe en invierno, cuando las lluvias llenan el mar de agua dulce donde viven muchos peces
 
 ---
 
@@ -156,10 +156,10 @@ d) Al alimentarse de animales muertos, el cóndor cumple un rol importante para 
 
 **10. (Ciencias Naturales)** ¿Por qué en Chile ocurren tantos sismos?
 
-a) Porque el viento erosiona las montañas
+a) Porque el viento fuerte de la cordillera erosiona las montañas y las hace temblar con frecuencia
 b) Porque la placa de Nazca se introduce lentamente bajo la placa Sudamericana (subducción)
-c) Porque el agua del mar se evapora
-d) Porque los ríos depositan sedimentos
+c) Porque el agua del mar se evapora con el calor y hace que el suelo de la costa se mueva y se agriete
+d) Porque los ríos depositan tantos sedimentos en los valles que el peso de la tierra provoca los temblores
 
 ---
 

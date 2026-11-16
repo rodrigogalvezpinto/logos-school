@@ -29,9 +29,9 @@ tienen una sola respuesta correcta. Si una pregunta dice «marca todas las corre
 
 **1. (Alternativas — OA1)** Una planta de porotos crece junto a una ventana. ¿Qué toma del ambiente para fabricar su alimento por fotosíntesis?
 
-a) Azúcar y oxígeno del suelo
-b) Semillas y tierra de la maceta
-c) Nitrógeno y oxígeno por las raíces
+a) Azúcar y oxígeno que absorbe del suelo
+b) Semillas, tierra y abono de la maceta
+c) Nitrógeno y oxígeno que toma por las raíces
 d) Agua, dióxido de carbono del aire y luz del sol
 
 **2. (Verdadero o Falso — OA1)** Únicamente las plantas son capaces de realizar
@@ -40,9 +40,9 @@ fotosíntesis; ningún otro tipo de organismo puede hacerlo.
 **3. (Alternativas — OA1)** Un niño cubre con papel aluminio, durante una semana, la mitad de una hoja de una planta que está al sol. Al destaparla, la parte cubierta está más pálida. ¿Cómo se explica?
 
 a) La parte cubierta no recibió luz, así que no pudo hacer fotosíntesis ni fabricar su alimento
-b) El aluminio le dio demasiado calor y la quemó
-c) La parte cubierta recibió menos agua por las raíces
-d) La hoja produjo más oxígeno en la parte cubierta
+b) El aluminio le dio demasiado calor a esa parte y la quemó, por eso cambió de color
+c) La parte cubierta recibió menos agua por las raíces y se secó durante la semana
+d) La parte cubierta produjo más oxígeno y gastó todo su color verde en hacerlo
 
 **4. (Alternativas — OA2)** ¿Por qué se dice que los productores son la base de los
 flujos de materia y energía en un ecosistema?
@@ -90,10 +90,10 @@ d) Estirón de crecimiento
 
 **10. (Alternativas — OA5)** Tomás tiene 12 años y todavía no ha crecido tanto como algunos compañeros. Un compañero se burla de él. ¿Qué respuesta muestra una comprensión correcta de la pubertad?
 
-a) Tomás tiene un problema, porque todos deben cambiar a la misma edad
-b) Tomás debe hacer más deporte para adelantar la pubertad
+a) Que Tomás tiene un problema de salud, porque todos deben cambiar a la misma edad
+b) Que Tomás debe hacer más deporte y comer más para adelantar su pubertad
 c) Cada persona vive la pubertad a su propio ritmo; burlarse daña el bienestar del otro y no tiene sentido
-d) La pubertad no influye en cómo se sienten las personas
+d) Que la pubertad no influye en cómo se sienten las personas, así que la burla no importa
 
 **11. (Alternativas — OA6)** ¿Cuál de las siguientes es un beneficio de practicar
 actividad física de forma regular durante la pubertad?

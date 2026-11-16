@@ -143,3 +143,5 @@ control pendiente.
 
 - 2026-11-07: cola creada. El usuario agregó: reparaciones en `main`, funcionalidades nuevas en
   ramas aparte, y avanzar al máximo lo que dependa de cuentas externas, con pendientes para él.
+
+- 2026-11-16: C.2 tercera pasada cerrada en los 12 cursos (§15.40): 140 rehechas, unas 90 plantillas, guarda ampliada, sesgo de longitud corregido en las rehechas, Chromium en verde en los 12.

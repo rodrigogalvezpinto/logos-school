@@ -74,10 +74,10 @@ d) Las fases de la Luna, que cambian cada noche
 
 **Pregunta 9 (alternativas).** Juan cumple años una vez al año y todos los días ve salir el Sol. ¿Qué movimientos de la Tierra explican esas dos cosas?
 
-a) Los cumpleaños, por la rotación; el amanecer de cada día, por la traslación
-b) Las dos cosas se deben a que la Luna gira alrededor de la Tierra
+a) Los cumpleaños, por la rotación (un giro sobre su eje dura un año); el amanecer de cada día, por la traslación (una vuelta al Sol dura un día)
+b) Las dos cosas se deben a que la Luna gira alrededor de la Tierra: una vuelta de la Luna marca el año y también el amanecer de cada día
 c) Los cumpleaños, por la traslación (una vuelta al Sol dura un año); el amanecer de cada día, por la rotación (un giro sobre su eje dura un día)
-d) Ninguna de las dos se debe a movimientos de la Tierra
+d) Ninguna de las dos se debe a movimientos de la Tierra: el Sol es el que se mueve alrededor de la Tierra una vez al día y una vez al año
 
 ---
 

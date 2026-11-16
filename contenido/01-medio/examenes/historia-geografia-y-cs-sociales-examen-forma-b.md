@@ -121,9 +121,9 @@ d) Los obreros salitreros
 **Pregunta 6.** (2 puntos) Entre 1823 y 1830 Chile tuvo varias constituciones, como la moralista de 1823 y las leyes federales de 1826, y muchos gobiernos breves. ¿Cómo se explica ese período?
 
 a) Había que construir un orden político nuevo y los grupos no se ponían de acuerdo sobre cómo organizar el país
-b) Chile tuvo una sola constitución estable desde 1810
-c) No había conflictos y todos compartían el mismo proyecto
-d) Chile seguía bajo dominio español
+b) Chile tuvo una sola constitución estable desde 1810, y los cambios fueron solo de los gobernantes de turno
+c) No había conflictos políticos: todos compartían el mismo proyecto de país y solo faltaba dinero para aplicarlo
+d) Chile seguía bajo dominio español, y las constituciones eran reglamentos dictados desde Madrid para la colonia
 
 ---
 

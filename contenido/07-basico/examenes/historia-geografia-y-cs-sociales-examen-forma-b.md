@@ -245,9 +245,9 @@ d) Disponibilidad de recursos minerales
 **Pregunta 17.** (2 puntos) Un pueblo del Norte Grande se abastece de un acuífero (agua subterránea) que se recarga muy lentamente. Si se extrae más agua de la que entra, ¿qué concepto explica el riesgo?
 
 a) La fragilidad del medio ante la acción humana: algunos entornos pueden dañarse de forma severa o irreversible
-b) La abundancia permanente de los recursos naturales
-c) La idea de que el desierto no se ve afectado por las personas
-d) La tecnología, que evita cualquier daño ambiental
+b) La abundancia permanente de los recursos naturales: el agua subterránea siempre vuelve a llenarse sola
+c) La idea de que el desierto no se ve afectado por las personas, porque casi no hay vegetación que dañar
+d) La confianza en la tecnología: las nuevas bombas permiten extraer toda el agua sin causar ningún daño
 
 ---
 

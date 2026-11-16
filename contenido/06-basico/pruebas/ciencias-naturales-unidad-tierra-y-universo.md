@@ -84,17 +84,17 @@ d) Los terremotos
 
 **10. (Alternativas — OA18)** Después de un incendio forestal, un cerro quedó sin árboles. En el invierno siguiente, las lluvias arrastraron mucha tierra hacia el camino. ¿Por qué?
 
-a) Porque las cenizas atraen la lluvia
-b) Porque sin árboles llueve menos
-c) Porque el fuego endureció el suelo
+a) Porque las cenizas del incendio atraen más lluvia hacia el cerro quemado
+b) Porque sin árboles llueve menos y el suelo seco se rompe en pedazos
+c) Porque el fuego endureció el suelo y el agua resbaló llevándose las piedras
 d) Porque sin raíces que sujetaran el suelo, el agua lo arrastró con más facilidad
 
 **11. (Alternativas — OA18)** El valle por donde corre un río cordillerano es profundo y tiene forma de V. ¿Cómo se formó, según lo que sabes de la erosión?
 
-a) Lo formó una sola lluvia muy intensa
+a) Lo formó una sola lluvia muy intensa que abrió la montaña en pocas horas
 b) El río desgastó la roca y arrastró sedimentos durante miles o millones de años
-c) Las rocas son más blandas que el agua y se disolvieron en un día
-d) Solo el viento formó el valle
+c) Las rocas son más blandas que el agua y se disolvieron en un solo día
+d) Solo el viento formó el valle, soplando por la cordillera durante un invierno
 
 **12. (Varias correctas — OA18)** En un campo de la zona central hay cerros donde pastan muchas cabras y el suelo se está perdiendo. ¿Qué medidas ayudarían a frenar esa erosión? (Varias correctas: marca todas las alternativas correctas.)
 

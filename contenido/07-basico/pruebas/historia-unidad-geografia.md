@@ -52,10 +52,10 @@ d) Las crecidas del río, que dejaban tierras fértiles para cultivar en medio d
 
 **Pregunta 6 (alternativas — desafiante).** En la isla de Rapa Nui, la tala de casi todos sus árboles, hace siglos, dejó el suelo pobre y sin madera para construir canoas. ¿Qué lección deja este caso al estudiar cómo las sociedades se asientan en un lugar?
 
-a) Que el medio natural nunca se daña por la acción humana
-b) Que los recursos pueden explotarse sin límites, porque siempre se recuperan
+a) Que el medio natural nunca se daña por la acción humana, porque los árboles siempre vuelven a crecer
+b) Que los recursos pueden explotarse sin límites, porque una isla siempre se recupera por sí sola
 c) Que algunos entornos son frágiles y pueden dañarse de forma grave, por lo que hay que usarlos con cuidado
-d) Que solo importa en el pasado, porque hoy la tecnología evita cualquier daño
+d) Que solo importa para entender el pasado, porque hoy la tecnología evita cualquier daño al ambiente
 
 **Pregunta 7 (alternativas).** ¿Cuál de las siguientes medidas busca **proteger** a la población frente a un riesgo del medio natural?
 a) Construir casas en el cauce seco de un río

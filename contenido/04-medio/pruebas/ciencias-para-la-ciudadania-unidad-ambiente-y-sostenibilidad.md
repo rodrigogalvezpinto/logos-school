@@ -52,12 +52,12 @@ b) Gestión de residuos
 c) Reducción de emisiones
 d) Eficiencia energética exclusivamente
 
-6. *(Alternativas)* ¿Cuál de las siguientes opciones representa mejor una "utilización sostenible" (y no solo protección) de un recurso natural?
+6. *(Alternativas)* Una comunidad del sur de Chile vive del bosque nativo. ¿Qué opción representa una utilización sostenible del bosque, y no solo su protección o su explotación?
 
-a) Prohibir por completo la pesca en toda la costa de Chile, incluida la pesca artesanal.
-b) Extraer locos sin límites de tamaño ni de cantidad mientras sigan apareciendo.
-c) Un sindicato de pescadores artesanales administra un área de manejo, donde extrae locos solo sobre una talla mínima y respeta cuotas que permiten que la población se recupere.
-d) Extraer todos los locos de una zona y luego sembrar una especie distinta traída de otro país.
+a) Cerrar el bosque a toda actividad humana, incluida la recolección de frutos y hongos que hacen las familias de la comunidad
+b) Talar todos los árboles nativos y reemplazarlos por pinos de crecimiento rápido, que permiten vender más madera cada año
+c) Recolectar hongos, frutos y leña muerta con un plan de manejo que respeta los ciclos de regeneración del bosque y deja parte sin intervenir
+d) Extraer la madera más valiosa mientras quede, sin plan de reforestación, y trasladarse a otro bosque cuando se agote
 
 7. *(Alternativas)* Un grupo de estudiantes diseña un sistema de riego por goteo para la huerta de su comuna, con buen respaldo técnico. ¿Por qué deben considerar también su costo y la participación de los vecinos?
 
@@ -119,7 +119,7 @@ d) Porque la biodiversidad solo depende de la caza y la tala, sin relación con 
 
 5. **c)** Reducción de emisiones: el objetivo central es disminuir los contaminantes que se liberan a la atmósfera.
 
-6. **c)** Las áreas de manejo permiten usar el recurso y, al mismo tiempo, asegurar su recuperación futura.
+6. **c) Recolectar hongos, frutos y leña muerta con un plan de manejo que respeta los ciclos de regeneración del bosque y deja parte sin intervenir.** c) La utilización sostenible aprovecha el recurso sin agotarlo: extrae lo que el bosque puede reponer, según un plan de manejo. Cerrarlo es solo protección; talar o extraer sin plan lo agota.
 
 7. a) La sostenibilidad tiene dimensiones técnica, económica y social.
 

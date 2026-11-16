@@ -177,10 +177,10 @@ d) Una interpretación que subraya las responsabilidades y errores de distintos 
 
 **Pregunta 10.** (2 puntos) Dos estudiantes discuten sobre el golpe de Estado de 1973. Uno dice «yo creo que…» sin dar pruebas; la otra cita documentos desclasificados y testimonios de la época. ¿Por qué la segunda postura tiene más valor historiográfico?
 
-a) Porque solo puede existir una interpretación correcta del pasado
+a) Porque solo puede existir una interpretación correcta del pasado, y la tarea del historiador es imponerla a las demás
 b) Porque toda interpretación histórica debe sustentarse en evidencia verificable, como archivos, documentos y testimonios contrastados
-c) Porque las opiniones personales siempre son más confiables que los documentos
-d) Porque los temas sensibles no deben estudiarse en el colegio
+c) Porque las opiniones personales de quienes vivieron el período siempre son más confiables que cualquier documento escrito
+d) Porque los temas sensibles no deben estudiarse en el colegio hasta que toda la sociedad esté de acuerdo sobre lo ocurrido
 
 ---
 

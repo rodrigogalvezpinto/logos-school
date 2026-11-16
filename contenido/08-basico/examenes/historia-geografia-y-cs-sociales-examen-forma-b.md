@@ -308,10 +308,10 @@ d) Mejora el acceso a servicios de salud especializados
 
 **Pregunta 22.** (1 punto) La Región de Antofagasta tiene grandes yacimientos de cobre y produce gran parte del cobre del país, aunque cultiva muy pocos alimentos. ¿Qué concepto explica esta especialización?
 
-a) Que produce absolutamente todo más barato que las demás regiones
+a) La ventaja absoluta: produce absolutamente todo más barato que las demás regiones, por eso no necesita cultivar alimentos
 b) La ventaja comparativa: puede producir cobre de forma relativamente más eficiente que otras regiones, gracias a sus condiciones naturales
-c) La autosuficiencia: no comercia con otras regiones
-d) Que depende exclusivamente del turismo
+c) La autosuficiencia: la región no comercia con otras regiones ni países, porque produce todo lo que su población necesita
+d) La dependencia del turismo: sus condiciones naturales solo permiten recibir visitantes, y el cobre es una actividad secundaria
 
 ---
 

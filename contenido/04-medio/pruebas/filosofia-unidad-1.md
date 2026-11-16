@@ -20,11 +20,12 @@ Responde todas las preguntas. En las preguntas de alternativas, marca solo una o
 
 ---
 
-1. *(Alternativas)* Según las distintas perspectivas sobre la finalidad del quehacer filosófico, ¿cuál de las siguientes NO corresponde a una de ellas?
-   a) Predecir con exactitud eventos futuros mediante experimentos controlados.
-   b) Superar la ignorancia examinando críticamente las propias creencias.
-   c) Enfrentar problemas complejos que no admiten una solución solo técnica.
-   d) Liberarnos de prejuicios y costumbres aceptados sin examen previo.
+1. *(Alternativas)* Una estudiante dice: «La filosofía sirve para muchas cosas». ¿Cuál de estas finalidades NO es propia del quehacer filosófico?
+
+a) Medir con instrumentos la velocidad de una reacción química en el laboratorio
+b) Examinar críticamente si nuestras creencias están bien fundadas
+c) Pensar problemas complejos que no se resuelven solo con técnica
+d) Revisar prejuicios y costumbres aceptados sin reflexión
 
 2. *(Verdadero o falso)* Un filósofo que se pregunta si es ético editar genes de embriones humanos necesita conocer lo que la biología ha descubierto sobre la edición genética, porque filosofía y ciencia, aunque tienen métodos distintos, se nutren mutuamente.
 
@@ -84,11 +85,12 @@ b) 1-A, 2-A
 c) 1-B, 2-A
 d) 1-B, 2-B
 
-11. *(Alternativas)* Un país permite que cualquier persona compita por un puesto de trabajo sin discriminación legal, pero no corrige las desventajas de origen (acceso desigual a educación, salud, redes de contacto). ¿Qué concepción de igualdad se está aplicando aquí de forma limitada?
-    a) Igualdad de resultados.
-    b) Igualdad de oportunidades reales (sustantiva).
-    c) Igualdad formal o de trato ante la ley.
-    d) Ninguna: no existe ninguna forma de igualdad en ese escenario.
+11. *(Alternativas)* En un país, la ley garantiza que hombres y mujeres pueden postular a cualquier cargo público, pero no hay medidas para compensar que las mujeres asumen la mayor parte del cuidado de hijos y adultos mayores. ¿Qué tipo de igualdad se garantiza?
+
+a) Igualdad de resultados
+b) Igualdad de oportunidades reales (sustantiva)
+c) Igualdad formal o de trato ante la ley
+d) Ninguna forma de igualdad
 
 12. *(Alternativas — Comparar teorías)* ¿Qué análisis de "no devolver el exceso de vuelto que entregó por error un cajero" usa correctamente un concepto fundamental del utilitarismo y uno de la deontología?
 
@@ -115,7 +117,7 @@ d) Solo la votación es un criterio de justicia; la necesidad es caridad
 
 ## Pauta de respuestas
 
-1. **a.** Predecir eventos mediante experimentos controlados es propio del método científico, no de la finalidad del quehacer filosófico.
+1. **a) Medir con instrumentos la velocidad de una reacción química en el laboratorio.** a) Medir con instrumentos y experimentos controlados es tarea de las ciencias empíricas; la filosofía busca superar la ignorancia, enfrentar problemas complejos y examinar prejuicios.
 
 2. **Verdadero.** Ambas disciplinas valoran la argumentación rigurosa; la reflexión ética sobre la edición genética necesita los datos de la biología, y la filosofía, a su vez, examina los supuestos y límites de la ciencia.
 
@@ -135,7 +137,7 @@ d) Solo la votación es un criterio de justicia; la necesidad es caridad
 
 10. c) 1-B, 2-A. Ambas teorías responden distinto a "qué hace correcta una acción": el resultado que produce, o el principio que respeta con independencia del resultado.
 
-11. **c.** Garantizar que las reglas se apliquen igual a todos (igualdad formal) es distinto de asegurar que todos partan de condiciones comparables para competir realmente (igualdad sustantiva).
+11. **c) Igualdad formal o de trato ante la ley.** c) La ley trata a todos por igual (igualdad formal), pero no corrige las desventajas de hecho que impiden competir en igualdad de condiciones (igualdad sustantiva).
 
 12. a) Consecuencia y balance de bienestar, por un lado; deber y principio universalizable, por otro.
 

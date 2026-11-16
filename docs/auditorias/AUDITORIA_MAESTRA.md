@@ -1721,3 +1721,15 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
 - **Frontend:** `sesionHoy()` del plan de estudio usaba `toISOString()` (UTC) y a las 22:00 mostraba la sesión de mañana; se corrigió.
 - **Dependencias y pruebas:** se agregó `tzdata`. Pruebas nuevas en `test_fechas_chile.py`; backend 734/734 ejecutado a las 23:10, justo en el horario que antes fallaba; frontend 141/141 en pruebas unitarias.
 
+### 15.40 Fase 1 — C.2, tercera pasada cerrada en los 12 cursos (2026-11-16)
+- **Criterios nuevos del detector:** «misma pregunta y clave» y «escenario de la guía repetido» (ver §15.39). Se revisaron
+  ~221 candidatas. Se rehicieron 140 (copias: mismos datos, misma situación o misma lista de alternativas) y unas 90 quedaron
+  como plantillas válidas en `REVISADAS_A_MANO` (otros datos, otro texto u otro personaje), cada una con comentario.
+- **Casos de fondo:** 4.° básico copiaba entero el gráfico de helados de la guía (reemplazado por un gráfico propio de jugos);
+  la cadena del bosque se corrigió (el degú es sobre todo herbívoro; quedó hojas → oruga → zorzal → peuco); 2.° medio, Formación
+  Ciudadana 3, cambió de instituciones (Defensoría de la Niñez, Comisión Interamericana y Comité de los Derechos del Niño).
+- **Sesgo de longitud:** 41 rehechas dejaban la correcta notoriamente más larga; se alargaron los distractores sin tocar la
+  clave (`ajustar_distractores.aplicar_en`). Quedan 0 rehechas sesgadas; el sesgo previo de otras preguntas sigue como estaba.
+- **Guarda:** `test_pruebas_y_simulacros_no_repiten_la_guia` exige ahora los seis criterios.
+- **Verificación:** 12 cursos en 0; backend 734 pasan; validador Markdown sin discrepancias; C.4 en 0; Chromium en los 12 cursos
+  (18/18 en 1.° a 4.° básico; 24/24 de 5.° básico a 2.° medio; 25/25 en 3.° medio; 23/23 en 4.° medio).
