@@ -5,6 +5,7 @@ import { AuthLayout } from '../../shared/auth-layout/auth-layout';
 import { AuthService, TokenRespuesta } from '../../core/auth.service';
 import { GoogleAuthService } from '../../core/google-auth.service';
 import { SesionService } from '../../core/sesion.service';
+import { environment } from '../../../environments/environment';
 
 @Component({
   selector: 'app-login',
@@ -38,6 +39,12 @@ import { SesionService } from '../../core/sesion.service';
           {{ cargando() ? 'Ingresando…' : 'Iniciar sesión' }}
         </button>
       </form>
+      @if (cuentaDemo) {
+        <p class="auth__demo">
+          <button type="button" class="enlace-demo" (click)="entrarDemo()" [disabled]="cargando()">Entrar con la cuenta demo</button>
+          <span>Apoderado con un hijo en cada curso, de 1.° básico a 4.° medio.</span>
+        </p>
+      }
       <p class="auth__pie">¿No tienes cuenta? <a routerLink="/registro">Crear cuenta</a></p>
     </app-auth-layout>
   `,
@@ -54,6 +61,25 @@ import { SesionService } from '../../core/sesion.service';
           font-weight: 600;
           text-decoration: none;
         }
+      }
+      .auth__demo {
+        margin-top: 1rem;
+        text-align: center;
+        font-size: 0.85rem;
+        color: var(--texto-secundario);
+        display: flex;
+        flex-direction: column;
+        gap: 0.2rem;
+      }
+      .enlace-demo {
+        background: none;
+        border: 1px dashed var(--color-primario);
+        border-radius: 999px;
+        padding: 0.4rem 1rem;
+        color: var(--color-primario);
+        font-weight: 600;
+        cursor: pointer;
+        align-self: center;
       }
       .error {
         color: var(--color-error-texto);
@@ -73,6 +99,7 @@ export class Login implements OnInit {
   private sesion = inject(SesionService);
   private router = inject(Router);
   googleAuth = inject(GoogleAuthService);
+  readonly cuentaDemo = environment.cuentaDemo;
 
   ngOnInit() {
     this.googleAuth.inicializar(
@@ -86,6 +113,13 @@ export class Login implements OnInit {
       (r) => this.alIniciarSesion(r),
       (msg) => this.error.set(msg),
     );
+  }
+
+  entrarDemo() {
+    if (!this.cuentaDemo) return;
+    this.email = this.cuentaDemo.email;
+    this.password = this.cuentaDemo.password;
+    this.continuar();
   }
 
   continuar() {

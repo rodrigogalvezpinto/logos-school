@@ -7,4 +7,6 @@ export const environment = {
   // Sin definir queda el valor de ejemplo, que no existe: obliga a configurarlo antes de publicar.
   apiUrl: typeof LOGOS_API_URL === 'undefined' ? 'https://api.logos.cl' : LOGOS_API_URL,
   googleClientId: typeof LOGOS_GOOGLE_CLIENT_ID === 'undefined' ? '' : LOGOS_GOOGLE_CLIENT_ID,
+  // En producción no hay cuenta demo: el botón del login no aparece.
+  cuentaDemo: null as { email: string; password: string } | null,
 };
