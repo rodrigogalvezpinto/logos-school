@@ -10,6 +10,29 @@ sección 6 (pendientes) de este archivo **en el mismo commit**.
 
 ---
 
+## 0. Traspaso a Devin (2026-11-17) — leer primero
+
+El dueño decidió continuar el proyecto con Devin. Resumen del estado en que se deja:
+
+- **Hecho en la última etapa:** Fase 1 del material cerrada en todo lo que no depende del dueño (§5); accesibilidad
+  con axe en las pantallas del alumno corregida (tarea 10); simulacros **Forma A** del régimen B/C listos para
+  **5.°, 6.°, 7.° y 8.° básico** (20 de 42 archivos; §6.7). Corpus: **6.681 preguntas, 0 sin OA**; pytest de
+  contenido 145/145; validación en la app de 5.° a 8.° básico en verde.
+- **Siguiente tarea concreta:** Formas A de **1.° a 4.° medio** (22 archivos). Procedimiento en §6.7; herramienta
+  `backend/scripts/herramientas_auditoria/forma_a.py` y ejemplos en `formas_a/` (un script por asignatura y curso).
+- **Después:** tareas 13–15 de `docs/auditorias/COLA-TRABAJO-AUTONOMO.md` (juegos de práctica, tutor IA y
+  pasarela de pago, cada una en su rama `feature/*`, sin unir a `main`).
+- **Decisiones del dueño pendientes:** tag `material-aprobado-…`, 21 imágenes `[Imagen: …]` de 1.° a 3.° básico,
+  revisión de un profesor real, cuentas y claves de `docs/PENDIENTES-USUARIO.md`. Nada desplegado.
+- **Hallazgos que conviene recordar** (detalle en §8 y en `AUDITORIA_MAESTRA.md` §15.40–15.42):
+  1. Al redactar preguntas nuevas, la fuente más común de error fue **reutilizar sin querer datos de la guía o de
+     una prueba** (≈30 casos en las Formas A); revisar siempre con `solapamiento_pruebas_guias.py` y pytest.
+  2. El segundo error frecuente fue **la respuesta correcta claramente más larga** que los distractores; `armar`
+     lo avisa y pytest lo bloquea.
+  3. En `forma_a.py`, **marcar la correcta con `*`**; si se escribe en otra posición sin marcar, la clave queda mal.
+  4. Las explicaciones de la pauta deben compartir palabras con la clave (control C.4c), o pytest las marca como genéricas.
+  5. Después de cambiar el frontend hay que recompilar la web de pruebas (`scripts/qa/levantar_spa.sh`).
+
 ## 1. Qué es el proyecto
 
 Plataforma web de estudio para niños, niñas y adolescentes que rinden los **Exámenes Libres de
@@ -36,8 +59,8 @@ School** (usarlo completo en todo texto visible al usuario).
 8. **Todo el material es de preguntas cerradas**: alternativas (una correcta), «varias correctas» (todas o nada)
    y verdadero/falso. **No reintroducir preguntas de desarrollo.** Las abiertas originales están en `docs/banco-preguntas-abiertas/`.
 9. Prioridad vigente: **Fase 1** (auditar el material en archivos contra los temarios) → **Fase 2** (aplicar a la
-   app y validar en 3 navegadores) → mejoras.
-10. Validación: **Chromium** basta para cambios de contenido; **los 3 navegadores** para cambios de interfaz o al cerrar una etapa.
+   app y validarlo en ella) → mejoras.
+10. Validación en la app: `scripts/qa/validar_material.sh "<curso>"` después de cada cambio de contenido.
 11. Público menor de edad: cuidado explícito con datos personales, privacidad y contenido sensible.
 
 ## 3. Entorno y comandos
@@ -48,9 +71,9 @@ Los scripts de `scripts/qa/` son **zsh** y asumen macOS; en Linux, instalar zsh 
 
 | Paso | Comando (desde la raíz) | Qué hace |
 |---|---|---|
-| Reimportar base aislada | `scripts/qa/reimportar_e2e.sh` | Recrea la base `logos_e2e_alternativas` desde `contenido/`, siembra datos, exporta el fixture E2E y levanta la API en el puerto 8001. Debe terminar con `preguntas sin OA: 0 de 6181`. |
+| Reimportar base aislada | `scripts/qa/reimportar_e2e.sh` | Recrea la base `logos_e2e_alternativas` desde `contenido/`, siembra datos, exporta el fixture E2E y levanta la API en el puerto 8001. Debe terminar con `preguntas sin OA: 0 de 6681`. |
 | Levantar la web | `scripts/qa/levantar_spa.sh` | Compila Angular contra la API 8001 y la sirve en 4300. |
-| Validar material en la app | `scripts/qa/validar_material.sh "3° medio"` (o sin argumentos, los 12) | Playwright recorre guías, pruebas y simulacros y marca cada clave. `NAVEGADORES=todos` usa Chromium, Firefox y WebKit. Tarda ~1,5 min por curso. |
+| Validar material en la app | `scripts/qa/validar_material.sh "3° medio"` (o sin argumentos, los 12) | Playwright recorre guías, pruebas y simulacros y marca cada clave. Tarda ~1,5 min por curso. |
 | Pruebas backend | `cd backend && .venv/bin/python -m pytest -q` | ~6 min; incluye las guardas del corpus. |
 | Validador del Markdown | `backend/.venv/bin/python backend/scripts/validar_evaluaciones_markdown.py` | Debe decir «Sin discrepancias». |
 | Copias de la guía (C.2) | `backend/.venv/bin/python backend/scripts/solapamiento_pruebas_guias.py [NN-curso]` | Exactas, casi copias y lecturas copiadas: todo debe ser 0. |
@@ -103,7 +126,7 @@ Verifican con el parser antes de escribir y conservan la letra de la clave, para
 | Letra de la clave y V/F | ✅ equilibradas (alternativas 23–29 % por letra en pruebas y guías) |
 | Defectos de texto en pautas (letras falsas, huérfanas, «Retroalimentación:», títulos en estímulos) | ✅ corregidos (guardas en pytest) |
 | Solo preguntas cerradas; instrucciones sin «desarrollo» | ✅ |
-| Tablas/citas se ven bien en la app | ✅ (3 navegadores, 12 cursos, 2026-11-16) |
+| Tablas/citas se ven bien en la app | ✅ (12 cursos, 2026-11-16) |
 | B — gráficos y mapas dibujados | ✅ (incluye Mesoamérica y Mediterráneo desde 2026-11-16) |
 | D — 21 marcadores `[Imagen: …]` en 1.° a 3.° básico (contados 2026-11-16) | ⏳ **espera decisión del dueño** sobre la fuente de las ilustraciones |
 | Revisión docente por muestreo | ⏳ muestra regenerada y revisada por mí en los 12 cursos (lo hallado, corregido); falta un profesor |
@@ -208,14 +231,14 @@ Para **ver** un mapa sin levantar la app: `cd frontend && npx esbuild src/app/sh
 guardar el SVG en un .html y capturarlo con `npx playwright screenshot`.
 
 ### 6.5 Cierre de Fase 1
-1. ✅ (2026-11-16) Validación en los 3 navegadores de los 12 cursos con el material final: 54 pruebas por curso en 1.° a 4.° básico, 72 en 5.° básico a 2.° medio, 75 en 3.° medio y 69 en 4.° medio, todas en verde. Ojo: después de cambiar el frontend hay que recompilar la SPA de pruebas (`scripts/qa/levantar_spa.sh`); si no, la validación usa la compilación anterior.
+1. ✅ (2026-11-16) Validación en la app de los 12 cursos con el material final: 54 pruebas por curso en 1.° a 4.° básico, 72 en 5.° básico a 2.° medio, 75 en 3.° medio y 69 en 4.° medio, todas en verde. Ojo: después de cambiar el frontend hay que recompilar la SPA de pruebas (`scripts/qa/levantar_spa.sh`); si no, la validación usa la compilación anterior.
 2. ✅ (2026-11-16) Audios regenerados desde la base con el contenido final (1.° a 4.° básico): 546 nuevos, huérfanos eliminados, 1.495 en total en `frontend/public/audio/es/` (no versionados). Comando: `DATABASE_URL=<base> LIMPIAR_HUERFANOS=1 scripts/voz/generar_audios.sh`.
 3. ✅ (2026-11-16) `logos_qa` recreada desde `contenido/` (6.181 preguntas, 0 sin OA) con las siembras de `reimportar_e2e.sh`; respaldo previo en `~/Documents/Logos-respaldos/logos_qa-20261116-1642.sql`. Las cuentas de prueba creadas a mano en esa base están en el respaldo.
 4. ⏳ **Decisión del dueño:** tag Git `material-aprobado-AAAA-MM-DD` con un informe breve por curso.
 
 ### 6.6 Fase 2 y mejoras (después)
 - ✅ (2026-11-16) Tarea 10, accesibilidad con axe en las pantallas del alumno (autoevaluación, prueba, aviso de entrega,
-  resultados, simulacro en modo examen): 63/63 en los 3 navegadores. Para texto o borde en color de marca usar
+  resultados, simulacro en modo examen): 63/63. Para texto o borde en color de marca usar
   `var(--color-primario-texto)`, no `var(--color-primario)`: el modo examen (fondo oscuro) la redefine a un tono claro.
 Ver la tabla de tareas de `docs/auditorias/COLA-TRABAJO-AUTONOMO.md` (accesibilidad con axe, juegos de práctica,
 tutor IA detrás de variable de entorno, pasarela de pago detrás de variable de entorno) y `docs/PENDIENTES-USUARIO.md`

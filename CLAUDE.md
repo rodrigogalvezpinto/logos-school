@@ -1,5 +1,7 @@
 # Proyecto Logos School — Plataforma de estudio para Exámenes Libres (Chile)
 
+> **Traspaso (2026-11-17): el proyecto continúa con Devin.** Estado, hallazgos y pendientes en `docs/CONTINUIDAD.md` §0.
+>
 > **Continuidad entre herramientas (2026-11-15):** el estado vigente, los comandos y los pendientes paso a paso están en
 > [`docs/CONTINUIDAD.md`](docs/CONTINUIDAD.md) (también enlazado desde `AGENTS.md` para Devin u otros agentes).
 > Mantenerlo al día en cada commit de avance.
@@ -22,7 +24,7 @@ copy de cara al usuario, textos legales, y cualquier lugar donde se nombre la ma
 > **Estado vigente (2026-11-16): Fase 1 (auditoría del material) cerrada en todo lo que no depende del dueño.**
 > 265 archivos en `contenido/`, 6.181 preguntas cerradas, 0 sin OA. Controles en verde y con guarda en pytest:
 > copias entre pruebas y guías (C.2), explicaciones (C.4, C.4b, C.4c), sesgo de posición (C.5) y de longitud (C.6),
-> simulacros que no repiten pruebas (C.7). Validación en los 3 navegadores de los 12 cursos, audios de 1.°–4.° básico
+> simulacros que no repiten pruebas (C.7). Validación en la app de los 12 cursos, audios de 1.°–4.° básico
 > regenerados y `logos_qa` recreada (con respaldo). **Falta, por decisión del dueño:** tag `material-aprobado-…`,
 > imágenes D (21 marcadores en 1.°–3.° básico) y revisión de un profesor real. Se trabaja en `main`; no desplegar.
 > **Punto de entrada para retomar:** `docs/CONTINUIDAD.md`. Las métricas de agosto/octubre que aparecen debajo
@@ -68,7 +70,7 @@ sesión, check-in emocional diario, descarga de guía en PDF, control de calidad
 alumno regular en PDF, historial de pagos del Apoderado, agregar alumno inline, y vista
 semanal/mensual del plan de estudio. Todo sin dependencias externas (Fase 1 se acotó a propósito
 a eso), con **501 tests de backend** (500 + regresión del parser) y **672 pruebas E2E** en
-verde más el spec del Profesor re-ejecutado 12/12 en los 3 navegadores (medido 2026-10-26).
+verde más el spec del Profesor re-ejecutado 12/12 (medido 2026-10-26).
 Ver
 `planificacion/03-roadmap-etapas.md` y `planificacion/22-analisis-de-brechas.md` para el
 detalle verificado de qué falta (sobre todo: desplegar a Neon/Render/Cloudflare Pages,

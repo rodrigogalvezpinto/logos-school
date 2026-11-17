@@ -1,6 +1,6 @@
 # Instrucciones para agentes (Devin, Claude u otros)
 
-**Empieza por [`docs/CONTINUIDAD.md`](docs/CONTINUIDAD.md).** Tiene las reglas del dueño, el entorno, cómo
+**Empieza por [`docs/CONTINUIDAD.md`](docs/CONTINUIDAD.md), sección 0 (traspaso del 2026-11-17).** Tiene las reglas del dueño, el entorno, cómo
 verificar, el estado de cada control y los pendientes en orden, paso a paso.
 
 Resumen de reglas: responder y documentar en español · no desplegar · trabajar en `main` · no pedir
