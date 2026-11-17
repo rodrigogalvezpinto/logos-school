@@ -1826,4 +1826,7 @@ Con el detector corregido (§15.38), las 156 pruebas y los 50 simulacros de los 
   coincidían con la guía o con pruebas, la pregunta de menstruación y la de separación de mezclas de Ciencias (iguales a
   una prueba), un texto de Inglés sobre Gabriela Mistral que ya usaba una prueba y una pregunta de Lengua parecida a la
   guía. Corpus 6.556 preguntas, 0 sin OA; pytest 145; E2E 7.° básico 29/29 en Chromium.
+- 8.° básico (2026-11-17): las 5 Formas A listas (Matemática, Ciencias Naturales, Historia, Lengua y Literatura con
+  textos nuevos, Inglés). Se cambiaron 8 datos de Matemática y 1 pregunta de Ciencias que coincidían con la guía o con
+  pruebas. Corpus 6.681 preguntas, 0 sin OA; pytest 145; E2E 8.° básico 29/29 en Chromium.
 
