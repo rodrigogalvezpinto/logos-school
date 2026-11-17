@@ -1163,6 +1163,17 @@ su derecho a formar **organizaciones de participación social**. *Paso a paso:* 
 que la participación en la vida pública no es solo votar: también incluye organizarse
 colectivamente para resolver problemas comunes.
 
+**Ejemplo 4 — Normas de la vida cotidiana**
+
+| Lugar | Norma | ¿Qué derecho o bien protege? |
+|---|---|---|
+| Sala de clases | Levantar la mano y esperar el turno para hablar | El derecho de todos a expresarse y a aprender |
+| Calle | Cruzar por el paso de cebra con luz verde | La seguridad y la vida de las personas |
+| Casa | Compartir las tareas del hogar | El bienestar de toda la familia |
+| Plaza | Botar la basura en el basurero | El derecho a vivir en un ambiente limpio |
+
+*Paso a paso:* cada norma pide un **deber** a las personas y, a la vez, protege un **derecho** de los demás.
+
 #### Autoevaluación — OA 14
 
 **1. (Alternativas)** ¿Cuál de las siguientes es una responsabilidad del Estado, según lo

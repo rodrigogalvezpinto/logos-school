@@ -55,6 +55,10 @@ La temperatura en Punta Arenas era de −2°C en la madrugada y subió hasta 6°
 
 Diferencia = temperatura final − temperatura inicial = 6 − (−2) = 6 + 2 = **8°C**. Restar un número negativo equivale a sumar su opuesto: quitar una deuda es lo mismo que agregar esa misma cantidad de forma positiva.
 
+**Ejemplo 4 — Problema resuelto de manera algebraica**
+
+En la mañana la temperatura era −4 °C y al mediodía era 7 °C. ¿Cuántos grados subió? Planteamos la ecuación −4 + x = 7, donde x es el aumento. Se despeja: x = 7 − (−4) = 7 + 4 = **11 °C**.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿Cuál número entero representa "un déficit (pérdida) de $15.000 en las cuentas de un club deportivo"?
@@ -765,6 +769,16 @@ Se lee, por ejemplo, que un tío tiene 41 años (tallo 4, hoja 1) y un abuelo ti
 **Ejemplo 3 — Elegir el gráfico apropiado**
 
 Si quieres mostrar cómo se reparten porcentualmente las preferencias musicales de un curso (total = 100%), el gráfico más apropiado es un **gráfico circular**. Si quieres comparar la cantidad de goles anotados por dos equipos durante 5 partidos, el más apropiado es un **gráfico de barras dobles**. Si quieres comparar dos conjuntos de datos numéricos similares (como edades o notas), un **gráfico de tallo y hojas** es muy útil.
+
+**Ejemplo 4 — Leer información de un gráfico**
+
+::barras::Lunes=12;Martes=18;Miércoles=9;Jueves=15;Viernes=21::y=Estudiantes que llegan en bicicleta;valores=si::
+
+- ¿Qué día llegaron más estudiantes en bicicleta? El **viernes** (21).
+- ¿Cuántos más llegaron el martes que el miércoles? 18 − 9 = **9 estudiantes**.
+- ¿Cuántos llegaron en total durante la semana? 12 + 18 + 9 + 15 + 21 = **75**.
+
+Para leer un gráfico: primero lee el **título y los ejes**, luego ubica cada barra y lee su valor en el eje vertical.
 
 #### Preguntas de autoevaluación
 

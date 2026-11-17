@@ -933,11 +933,12 @@ estación: usamos ropa más abrigada en invierno y ropa más liviana en verano.
    nieve en la cordillera. Primavera → clima templado y flores.
 
 2. **Los animales y el invierno.**
-   ::emoji::🐿️::una ardilla juntando semillas en otoño, y la misma ardilla en su
-   madriguera durante el invierno::
-   Algunos animales cambian su comportamiento antes del invierno: juntan y guardan
-   alimento durante el otoño, cuando todavía hay comida disponible, para poder
-   sobrevivir cuando escasea en los meses más fríos.
+   ::emoji::🐭::un monito del monte comiendo en otoño, y el mismo monito durmiendo
+   enrollado en su nido durante el invierno::
+   Algunos animales cambian su comportamiento antes del invierno. El **monito del
+   monte**, un pequeño animal de los bosques del sur de Chile, come mucho en otoño y
+   guarda grasa en su cola; en invierno, cuando escasea el alimento, duerme muchas
+   semanas en su nido (hiberna) para sobrevivir al frío.
 
 3. **Ubicar las estaciones en un calendario.**
    ::emoji::📅::un calendario anual dividido en cuatro colores distintos, cada uno

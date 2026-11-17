@@ -87,6 +87,20 @@ a los seres vivos como a las cosas no vivas de la naturaleza.
    disuelto en el agua para respirar. Si le faltara agua o alimento, el pez se
    enfermaría o moriría. Esto demuestra que es un ser vivo con necesidades básicas.
 
+**Ejemplo extra — Agrupar seres vivos por lo que tienen en común**
+
+::emoji::🐦::un pájaro, una gallina, un perro, un gato, un árbol y una flor::
+
+Podemos formar grupos según una característica:
+
+| Grupo | Seres vivos | ¿Qué tienen en común? |
+|---|---|---|
+| Tienen plumas | pájaro, gallina | Cuerpo cubierto de plumas y dos patas |
+| Tienen pelo | perro, gato | Cuerpo cubierto de pelo y cuatro patas |
+| Plantas | árbol, flor | No se desplazan y tienen hojas y raíz |
+
+Lo importante es elegir **una característica** y poner juntos a los que la comparten.
+
 **Banco de preguntas de autoevaluación**
 
 1. *(Alternativas)* ¿Cuál de estos es un ser vivo?

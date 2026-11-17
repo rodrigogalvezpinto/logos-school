@@ -573,6 +573,8 @@ prácticos para el hogar, ya que una sola falla apaga todo el sistema.
    desvía esa corriente hacia el suelo en vez de que pase a través de una persona que
    toque el artefacto, evitando una descarga eléctrica peligrosa.
 
+4. **Potencia y energía eléctrica (ley de Joule).** La **potencia** eléctrica es P = V · I (watts = volts × amperes) y la **energía** consumida es E = P · t. Un hervidor conectado a 220 V por el que circulan 9 A tiene una potencia P = 220 · 9 = **1.980 W ≈ 2 kW**. Si se usa 0,5 horas al día, consume E = 2 kW · 0,5 h = **1 kWh por día**, es decir, unos 30 kWh al mes. El calor que produce una resistencia por el paso de la corriente (**efecto Joule**) es lo que aprovechan hervidores, estufas y planchas; también explica por qué los cables se calientan si se sobrecargan.
+
 **Banco de preguntas de autoevaluación**
 
 1. *(Alternativas)* Según la Ley de Ohm (V = I × R), si un dispositivo tiene una

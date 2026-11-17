@@ -800,6 +800,18 @@ siglos XII y XIV, y luego cayendo abruptamente a mediados del siglo XIV. *Paso a
 interpretamos este patrón como parte de los cambios demográficos del período: crecimiento
 seguido de una crisis severa de población durante los siglos XIII a XV.
 
+**Ejemplo 4 — La peste negra y los cambios demográficos (siglos XIII a XV)**
+
+| Período | Población de Europa (aprox.) | Causa |
+|---|---|---|
+| Hacia 1300 | ≈ 75 millones | Crecimiento por expansión agrícola desde el siglo XI |
+| Hacia 1350 | ≈ 50 millones | **Peste negra (1347-1351)**, que mató a cerca de un tercio de la población, más hambrunas y guerras |
+| Hacia 1450 | Recuperación lenta | Menos mano de obra: suben los salarios y se debilita la servidumbre |
+
+::linea::1300=75;1350=50;1400=52;1450=60::y=Millones de habitantes;x=Año;valores=si::
+
+*Paso a paso:* leemos en el gráfico la caída brusca de mediados del siglo XIV y la recuperación posterior, y la relacionamos con la crisis del siglo XIV.
+
 #### Autoevaluación — OA 12
 
 **1. (Alternativas)** ¿Qué proceso describe el "renacimiento de la vida urbana" en Europa a

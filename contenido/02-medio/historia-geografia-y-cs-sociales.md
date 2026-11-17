@@ -850,6 +850,16 @@ accedían a la información y se comunicaban a escala global. *Paso a paso:* con
 tecnológico concreto con el concepto más amplio de "sociedad de la información", uno de los
 factores que aceleró la globalización de fines del siglo XX.
 
+**Ejemplo 4 — Consecuencias sociales del neoliberalismo**
+
+| Efectos que destacan sus defensores | Efectos que destacan sus críticos |
+|---|---|
+| Mayor crecimiento económico y control de la inflación | Aumento de la desigualdad en la distribución del ingreso |
+| Más productos disponibles y acceso al consumo | Privatización de servicios básicos (salud, educación, pensiones) con acceso según capacidad de pago |
+| Apertura comercial y llegada de inversión extranjera | Flexibilización laboral: empleos más inestables y sindicatos más débiles |
+
+*Paso a paso:* comparamos ambas miradas para evaluar el modelo con criterios económicos y sociales, sin quedarnos con una sola.
+
 #### Autoevaluación — OA 11
 
 **1. (Alternativas)** ¿Qué nombre reciben las reformas de transparencia y reestructuración

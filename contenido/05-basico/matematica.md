@@ -309,9 +309,9 @@ Paso 2 (resta): 2 × 10.000 = 20.000 (lo que pagaron); 20.000 − 13.500 = **$6.
 
 Un curso de 32 estudiantes organiza una salida a un museo. La entrada cuesta $2.800 por persona, y el arriendo del bus cuesta $85.000, que se reparte en partes iguales entre todos. ¿Cuánto debe pagar cada estudiante en total?
 
-Paso 1 (multiplicación — no se necesita, la entrada ya es por persona)
-Paso 2 (división): 85.000 ÷ 32 = 2.656,25 ≈ $2.656 (aprox., por bus, por persona; en la práctica se redondea al peso)
-Paso 3 (suma): 2.800 + 2.656 = **$5.456 aproximadamente por estudiante**
+Paso 1 (división): el bus se reparte entre todos: 85.000 ÷ 32 = 2.656,25 ≈ $2.656 por estudiante (se redondea al peso)
+Paso 2 (suma): cada estudiante paga su entrada más su parte del bus: 2.800 + 2.656 = **$5.456 aproximadamente**
+(La entrada no se multiplica, porque ya es un precio por persona.)
 
 **Ejemplo 3 — Uso de la calculadora para verificar**
 
@@ -638,9 +638,9 @@ Se alinean las comas decimales (agregando un cero a 2,7 para igualar las cifras)
 
 **Ejemplo 3 — Resta de decimales en un problema de dinero**
 
-Un producto cuesta $4,50 (en miles de pesos) y se paga con $10. ¿Cuánto es el vuelto?
+Una cuerda mide 10 m y se cortan 4,5 m para un columpio. ¿Cuántos metros quedan?
 
-10,00 − 4,50 = **5,50** (en miles de pesos, es decir, $5.500 de vuelto si la unidad fuera miles de pesos)
+Se alinean las comas: 10,0 − 4,5 = **5,5 m**.
 
 #### Preguntas de autoevaluación
 

@@ -65,3 +65,40 @@ un indicador sin ejemplo, una figura o mapa que no se muestra, o poca práctica 
 | 4 | Ejemplos de «crear problema/patrón», números en palabras, algoritmo vertical | Indicadores débiles en básica |
 | 5 | Figuras y mapas con los marcadores existentes; preguntas de práctica de Matemática | Mejoran la comprensión; no faltan contenidos |
 | 6 | `[Imagen]` y redacción | Decisión D del dueño / detalles |
+
+## Correcciones aplicadas (2026-11-17)
+
+Hechas en `main` (commits `c58e4d6`, `03735c4`, `dec69af` y el siguiente), con `scripts/correccion/insertar.py`:
+
+- **Prioridad 1:**
+  - 2.° medio OA 3: parábola graficada, efecto de a/b/c, problemas con ecuación cuadrática (terreno, lanzamiento), discriminante y región de la inecuación.
+  - 2.° medio OA 5: gráfica de la inversa y un problema.
+  - 8.° básico OA 8: las 7 formas de ecuación más inecuaciones.
+  - 8.° básico OA 10: recta desde dos puntos y forma recursiva.
+  - 8.° básico OA 3: potencia de potencia. OA 12: despeje general y Pitágoras en 3D.
+- **Prioridad 2:** tabla de vocabulario temático del temario, con traducción y un ejemplo, en Inglés de 5.° básico a 2.° medio.
+- **Prioridad 3:** pirámide y cilindro (2.° básico), áreas irregulares (5.°), tabla comparativa de planetas (1.° medio CN OA 14), populismos de Perón, Vargas y Cárdenas por criterios (2.° medio).
+- **Prioridad 4:**
+  - crear problemas (1.° y 2.° básico) y patrones (2.° y 3.°);
+  - tablas pictóricas (3.°);
+  - en 4.° básico: números en palabras y orden, algoritmo vertical de multiplicación y división, y fracciones con figura.
+- **Prioridad 5:**
+  - Mapas nuevos: expansión territorial (6.°), independencias con línea de tiempo (8.°), Estados del siglo XIX y territorio de Chile (1.° medio).
+  - Varios mapas de básica que el análisis marcó como faltantes ya existían en preguntas o ejemplos.
+  - +8 preguntas de práctica (inecuaciones, recursiva, cuadrática).
+- **Débiles y redacción:**
+  - agrupar seres vivos (1.°), normas cotidianas (5.°), rima con ejemplo real (5.° Lenguaje OA 5);
+  - ejemplos confusos de 5.° Mat OA 6 y OA 13 reescritos;
+  - la ardilla se reemplaza por el monito del monte (2.°);
+  - peste negra con gráfico (7.° Hist OA 12), leer un gráfico y problema algebraico (7.° Mat);
+  - ley de Joule (8.° CN OA 10), consecuencias sociales del neoliberalismo (2.° medio).
+
+Verificación: reimportación OK (410 OA, 6.689 preguntas, 0 sin OA), guardas de contenido en pytest en verde, validación en la app
+de 8.° básico (29/29) y 2.° medio (24/24). Los tests de conteo se actualizaron: estaban desfasados por los 20 simulacros Forma A.
+
+**Pendiente (menor):**
+- Mapa del mundo (3.° básico, Guerra Fría) y mapa de regiones de Chile (6.° básico): requieren mapas nuevos en `mapas-datos.ts`.
+- Figura de circunferencia (3.° medio OA 4) y de homotecia (1.° medio OA 8): no hay un marcador geométrico para dibujarlas.
+- Más preguntas de práctica de Matemática en pruebas de unidad de 1.° a 6.° básico.
+- Inglés: ejemplos de organizadores e idea principal (OA 10 de 7.° básico a 2.° medio).
+- `[Imagen]` (decisión D).

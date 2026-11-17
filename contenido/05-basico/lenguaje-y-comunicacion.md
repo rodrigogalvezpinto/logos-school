@@ -184,9 +184,17 @@ En los poemas, el lenguaje no solo comunica ideas: también **apela a los sentid
 
 **Ejemplo 3 — Elementos formales: verso, estrofa y rima**
 
-- El poema tiene **2 estrofas** de **4 versos** cada una.
-- Rima entre "sol" (verso 2, estrofa 2) y "volcán" (verso 4, estrofa 2): no coinciden los sonidos finales, así que **no hay rima** entre esos versos.
-- Rima entre "valle" (verso 2, estrofa 1) y "murmullo" (verso 4, estrofa 1): tampoco coinciden, este poema usa **verso libre** en varios versos (sin rima marcada), aunque en otros casos sí puede aparecer alguna rima asonante o consonante, como practicarás en las preguntas.
+- El poema de práctica tiene **2 estrofas** de **4 versos** cada una, y está escrito en **verso libre**: sus versos no riman ("valle" y "murmullo", o "sol" y "volcán", no comparten sonidos finales).
+- Para reconocer la rima, mira desde la **última vocal acentuada** de cada verso. Observa esta estrofa:
+
+> En el campo canta el **gallo**,
+> el sol se asoma en el **cerro**;
+> corre feliz mi **caballo**
+> y lo sigue mi **perro**.
+
+- "gall**o**" y "cab**allo**": coinciden **vocales y consonantes** desde la vocal acentuada (*-allo*) → **rima consonante**.
+- "c**e**rro" y "p**e**rro": también coinciden todos los sonidos (*-erro*) → **rima consonante**.
+- En cambio, "c**a**sa" y "m**a**ña" comparten solo las **vocales** (*a-a*), no las consonantes → **rima asonante**.
 
 ### Banco de preguntas de autoevaluación — OA N°5
 
