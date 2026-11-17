@@ -326,6 +326,49 @@ Determina si el punto (2, 10) pertenece a la región de soluciones de la inecuac
 
 Se evalúa x²+1 en x=2: 2²+1 = 5. Como 10 > 5, la desigualdad **se cumple**, por lo tanto el punto (2, 10) sí pertenece a la región de soluciones (la región "sobre" la parábola).
 
+**Ejemplo 4 — Graficar la parábola con una tabla de valores**
+
+Para graficar f(x) = x² − 4x + 3 (Ejemplo 1) se eligen valores de x a ambos lados del vértice (x = 2) y se calcula f(x):
+
+| x | −1 | 0 | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|---|---|
+| f(x) | 8 | 3 | 0 | −1 | 0 | 3 | 8 |
+
+::linea::−1=8;0=3;1=0;2=-1;3=0;4=3;5=8::x=x;y=f(x);valores=si::
+
+En el gráfico se leen todos los elementos: abre hacia arriba (a > 0), el punto más bajo es el vértice (2, −1), corta al eje x en x = 1 y x = 3, corta al eje y en (0, 3), y es **simétrica** respecto de la recta x = 2 (f(1) = f(3), f(0) = f(4)).
+
+**Ejemplo 5 — Qué cambia al variar a, b y c**
+
+Comparemos f(x) = x² y g(x) = −x² + 4:
+
+::linea::−2=4/0;−1=1/3;0=0/4;1=1/3;2=4/0::x=x;y=y;leyenda=f(x)=x²/g(x)=−x²+4::
+
+- El **signo de a** decide la concavidad: f abre hacia arriba (mínimo), g abre hacia abajo (máximo).
+- **|a|** mayor hace la parábola más «cerrada»; |a| menor, más «abierta».
+- **c** traslada la parábola verticalmente: g corta al eje y en (0, 4).
+- **b** (junto con a) mueve el vértice hacia la izquierda o la derecha, porque x_v = −b/(2a).
+
+**Ejemplo 6 — Modelar con una ecuación cuadrática: problema geométrico**
+
+Un terreno rectangular tiene 3 m más de largo que de ancho y su área es 40 m². ¿Cuáles son sus medidas?
+
+Si el ancho es x, el largo es x + 3: x(x + 3) = 40 → x² + 3x − 40 = 0. Se factoriza: (x + 8)(x − 5) = 0, entonces x = −8 o x = 5. Una medida no puede ser negativa, por lo tanto el ancho es **5 m** y el largo **8 m** (comprobación: 5 · 8 = 40 ✓).
+
+**Ejemplo 7 — Modelar con una ecuación cuadrática: ciencias naturales**
+
+Se lanza una pelota hacia arriba y su altura (en metros) a los t segundos es h(t) = −5t² + 20t. ¿Cuándo vuelve al suelo y cuál es su altura máxima?
+
+Vuelve al suelo cuando h(t) = 0: −5t² + 20t = 0 → −5t(t − 4) = 0 → t = 0 (el lanzamiento) o **t = 4 s**. La altura máxima está en el vértice: t = −20/(2 · (−5)) = 2 s; h(2) = −20 + 40 = **20 m**.
+
+Cuando la ecuación no se puede factorizar fácilmente, se usa la fórmula x = (−b ± √(b² − 4ac))/(2a). El **discriminante** Δ = b² − 4ac indica cuántas soluciones hay: Δ > 0, dos; Δ = 0, una; Δ < 0, ninguna real (la parábola no corta el eje x).
+
+**Ejemplo 8 — Región de soluciones de una inecuación cuadrática**
+
+La parábola y = x² + 1 divide el plano en dos regiones. Los puntos que cumplen **y > x² + 1** están **sobre** la curva (por ejemplo, (0, 3), porque 3 > 1); los que cumplen **y < x² + 1** están **bajo** ella (por ejemplo, (2, 1), porque 1 < 5). Los puntos de la curva misma no cumplen ninguna de las dos desigualdades estrictas.
+
+::linea::−2=5;−1=2;0=1;1=2;2=5::x=x;y=y = x² + 1;valores=si::
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Para f(x) = x² + 2x − 8, ¿cuál es la coordenada x del vértice?
@@ -438,6 +481,18 @@ Se escribe y=x², se intercambian las variables: x=y², y se despeja y (tomando 
 La fórmula F = (9/5)C + 32 convierte grados Celsius a Fahrenheit. Si en un día de verano en Santiago el termómetro marca 86°F, usa la función inversa para determinar la temperatura en grados Celsius.
 
 Despejando C en la fórmula original: C = (5/9)(F−32). Reemplazando F=86: C = (5/9)(86−32) = (5/9)(54) = **30°C**.
+
+**Ejemplo 4 — La gráfica de la inversa es un reflejo respecto de y = x**
+
+Para f(x) = 2x, la inversa es f⁻¹(x) = x/2. Al graficar ambas junto con la recta y = x, se observa que cada punto (a, b) de f corresponde al punto (b, a) de f⁻¹: por ejemplo, (1, 2) en f y (2, 1) en f⁻¹.
+
+::linea::0=0/0/0;1=2/0,5/1;2=4/1/2;3=6/1,5/3;4=8/2/4::x=x;y=y;leyenda=f(x)=2x/f⁻¹(x)=x÷2/y=x::
+
+Las dos rectas quedan a igual distancia de y = x, como en un espejo. Esto permite **reconocer la inversa en un gráfico**: se intercambian las coordenadas de cada punto.
+
+**Ejemplo 5 — Problema con función inversa**
+
+Un taxi cobra C(k) = 500k + 700 pesos por k kilómetros. Si un viaje costó $5.200, ¿cuántos kilómetros se recorrieron? La inversa entrega los kilómetros a partir del costo: k = (C − 700)/500. Con C = 5.200: k = 4.500/500 = **9 km**.
 
 #### Preguntas de autoevaluación
 

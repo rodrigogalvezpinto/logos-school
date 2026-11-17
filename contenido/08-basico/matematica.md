@@ -262,6 +262,12 @@ Calcula 3⁵ ÷ 3².
 
 Cuando se dividen potencias de **igual base**, se conserva la base y se **restan los exponentes**: 3⁵ ÷ 3² = 3^(5−2) = 3³ = **27**. (Comprobación: 3⁵=243, 3²=9, y 243÷9=27).
 
+**Ejemplo 4 — Potencia de una potencia**
+
+Una caja contiene 2² = 4 bolsitas, y cada bolsita trae 2² = 4 bolitas. Si se juntan 4 cajas iguales, la cantidad total se escribe (2²)³ = 2² × 2² × 2².
+
+Cuando se eleva una potencia a otra potencia, se conserva la base y se **multiplican los exponentes**: (2²)³ = 2^(2×3) = 2⁶ = **64**. (Comprobación: 4 × 4 × 4 = 64).
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿Cuál es el valor de 4³?
@@ -460,6 +466,26 @@ El triple de la suma entre la edad de Fernanda y 4 años es igual a 51. ¿Qué e
 
 Ecuación: 3(x + 4) = 51. Se resuelve: x + 4 = 51 ÷ 3 = 17; x = 17 − 4 = **13 años**.
 
+**Ejemplo 4 — Formas x/a = b y x/a + b = c**
+
+a) Un premio se reparte en partes iguales entre 4 amigos y a cada uno le tocan $3.500. ¿De cuánto era el premio? Ecuación: x/4 = 3.500. Se multiplica por 4 a ambos lados: x = 3.500 × 4 = **$14.000**.
+
+b) Un grupo divide en partes iguales el costo de una pizza entre 3 personas y cada uno agrega $500 de bebida; cada persona paga en total $2.500. ¿Cuánto costó la pizza? Ecuación: x/3 + 500 = 2.500. Se resta 500: x/3 = 2.000. Se multiplica por 3: x = **$6.000**.
+
+**Ejemplo 5 — Forma ax + b = cx + d (incógnita a ambos lados)**
+
+El gimnasio A cobra $10.000 de matrícula más $15.000 al mes; el gimnasio B cobra $40.000 de matrícula más $12.000 al mes. ¿Después de cuántos meses (x) ambos cuestan lo mismo?
+
+Ecuación: 15.000x + 10.000 = 12.000x + 40.000. Se dejan las x a un lado: 15.000x − 12.000x = 40.000 − 10.000 → 3.000x = 30.000 → x = **10 meses**.
+
+**Ejemplo 6 — Inecuación lineal**
+
+Una **inecuación** usa <, >, ≤ o ≥ en vez de =, y su solución es un **conjunto de valores**. Se resuelve igual que una ecuación, con una regla extra: si se multiplica o divide por un número **negativo**, el signo de desigualdad **se invierte**.
+
+a) Un ascensor soporta como máximo 600 kg. Si entra un carro de 120 kg, ¿cuántas cajas de 40 kg se pueden subir junto con él? Inecuación: 40x + 120 ≤ 600 → 40x ≤ 480 → x ≤ 12. Se pueden subir **12 cajas o menos**.
+
+b) Resuelve −2x + 5 > 11. Se resta 5: −2x > 6. Se divide por −2 y se invierte el signo: **x < −3**. (Comprobación con x = −4: −2·(−4) + 5 = 13, y 13 > 11 ✓).
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas — forma ax=b).** Resuelve: 7x = 84.
@@ -559,6 +585,18 @@ Observa la tabla anterior: cada vez que x aumenta en 1, f(x) aumenta en 2. Este 
 Un ahorro de $100.000 gana un interés simple de $5.000 por mes. El saldo, en función de los meses (x), se modela como una función afín: S(x) = 5.000x + 100.000. ¿Cuál será el saldo después de 8 meses?
 
 S(8) = 5.000×8 + 100.000 = 40.000 + 100.000 = **$140.000**.
+
+**Ejemplo 4 — Graficar una función afín a partir de dos puntos**
+
+Para graficar una recta bastan **dos puntos**. Si f(0) = 1 y f(4) = 9, la pendiente es a = (9 − 1)/(4 − 0) = 2 y la función es f(x) = 2x + 1. Se ubican los dos puntos y se traza la recta que pasa por ellos:
+
+::linea::0=1;1=3;2=5;3=7;4=9::x=x;y=f(x);valores=si::
+
+**Ejemplo 5 — Forma recursiva f(x+1) − f(x) = c**
+
+En una función afín, al avanzar x en 1, el valor siempre cambia en la **misma cantidad** c (la pendiente). Por eso se puede describir paso a paso: f(x+1) = f(x) + c.
+
+Una alcancía tiene $2.000 (f(0) = 2.000) y cada semana se agregan $500: f(x+1) − f(x) = 500. Entonces f(1) = 2.500, f(2) = 3.000, f(3) = 3.500… y la fórmula directa es **f(x) = 500x + 2.000**. Con ella, f(10) = 500·10 + 2.000 = **$7.000**.
 
 #### Preguntas de autoevaluación
 
@@ -664,6 +702,14 @@ Aquí la escalera es la hipotenusa (c=5) y la distancia al muro es un cateto (a=
 Una plaza rectangular mide 30 m de largo por 40 m de ancho. Si una persona camina en diagonal de una esquina a la opuesta, ¿cuánto camina, en vez de bordear la plaza?
 
 La diagonal es la hipotenusa de un triángulo rectángulo con catetos 30 y 40: c² = 30² + 40² = 900 + 1.600 = 2.500. c = √2.500 = **50 metros**. (Si hubiera bordeado, habría caminado 30+40=70 metros).
+
+**Ejemplo 4 — Despejar cualquier variable y un problema en el espacio**
+
+De c² = a² + b² se puede despejar cualquier lado: **c = √(a² + b²)**, **a = √(c² − b²)**, **b = √(c² − a²)**.
+
+Una caja mide 4 cm de largo, 3 cm de ancho y 12 cm de alto. ¿Cabe un lápiz de 13 cm en su interior, en diagonal?
+
+Primero, la diagonal de la base: d² = 4² + 3² = 16 + 9 = 25 → d = 5 cm. Luego, la diagonal de la caja es la hipotenusa de un triángulo con catetos d = 5 y la altura 12: D² = 5² + 12² = 25 + 144 = 169 → D = **13 cm**. El lápiz cabe justo.
 
 #### Preguntas de autoevaluación
 
