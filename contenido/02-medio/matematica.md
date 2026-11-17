@@ -447,6 +447,33 @@ d) Ninguna de las dos tiene vértice, porque al no tener término en x no alcanz
 
 **Respuesta correcta: c) Comparten el eje de simetría x = 0, pero f abre hacia arriba (mínimo −4) y g hacia abajo (máximo 4); son reflejos respecto al eje x.**
 *Retroalimentación:* de hecho g(x) = −f(x).
+**Pregunta 10 (alternativas — problema geométrico).** Un rectángulo tiene 2 cm más de largo que de ancho y su área es 48 cm². ¿Cuánto mide su ancho?
+a) 8 cm
+b) 12 cm
+c) 6 cm
+d) 4 cm
+
+**Respuesta correcta: c) 6 cm.**
+*Retroalimentación:* x(x + 2) = 48 → x² + 2x − 48 = 0 → (x + 8)(x − 6) = 0. Se descarta −8 por ser negativo: ancho 6 cm y largo 8 cm.
+
+**Pregunta 11 (alternativas — lanzamiento).** La altura de una pelota es h(t) = −5t² + 30t (metros, t en segundos). ¿Después de cuántos segundos vuelve al suelo?
+a) 6 s
+b) 3 s
+c) 5 s
+d) 30 s
+
+**Respuesta correcta: a) 6 s.**
+*Retroalimentación:* −5t(t − 6) = 0 → t = 0 o t = 6. A los 3 s alcanza la altura máxima (45 m), no el suelo.
+
+**Pregunta 12 (alternativas — discriminante).** ¿Cuántas veces corta al eje x la parábola f(x) = x² + 2x + 5?
+a) Dos veces
+b) Una vez
+c) Infinitas veces
+d) Ninguna vez
+
+**Respuesta correcta: d) Ninguna vez.**
+*Retroalimentación:* Δ = b² − 4ac = 4 − 20 = −16 < 0, por lo que la ecuación no tiene soluciones reales: la parábola queda completa sobre el eje x.
+
 
 ---
 

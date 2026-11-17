@@ -533,6 +533,20 @@ Isla de Pascua está a unos 3.500 km de la costa continental de Chile. Su incorp
 relacionamos la ubicación geográfica de la isla con su importancia estratégica para la
 proyección de Chile hacia el Pacífico.
 
+**Ejemplo en el mapa — La expansión territorial del siglo XIX**
+
+::mapa::chile::A@-33.45,-70.66;B@-23.6,-70.4;C@-38.7,-72.6;D@-53.15,-70.9::rosa=si::
+
+| Letra | Territorio | Cómo se incorporó |
+|---|---|---|
+| A | Núcleo central (Santiago y el valle central) | Territorio efectivo de Chile en 1810 |
+| B | Antofagasta y Tarapacá (Norte Grande) | Guerra del Pacífico (1879-1884) |
+| C | Araucanía | Ocupación de la Araucanía (1861-1883) |
+| D | Magallanes | Fuerte Bulnes (1843) y colonización |
+| — | Isla de Pascua (Rapa Nui), a 3.700 km de la costa (fuera del mapa) | Acuerdo de voluntades (1888) |
+
+*Paso a paso:* comparamos el núcleo de 1810 (A) con los territorios agregados durante el siglo XIX (B a D, más Rapa Nui) para ver que Chile se extendió hacia el norte, el sur y el océano Pacífico.
+
 #### Autoevaluación — OA 5
 
 **1. (Alternativas)** ¿Qué territorios incorporó Chile como consecuencia de su triunfo en la

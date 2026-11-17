@@ -279,6 +279,12 @@ mapa de 1871 muestra a Alemania e Italia como países unificados. *Paso a paso:*
 comparación de mapas políticos en dos momentos distintos como evidencia visual directa del
 proceso de reorganización geopolítica que implicó el surgimiento del Estado-nación.
 
+**Ejemplo en el mapa — Los nuevos Estados de Sudamérica en el siglo XIX**
+
+::mapa::sudamerica::::pintar=Chile/Argentina/Perú/Bolivia/Colombia/Venezuela/Ecuador;nombres=si;rosa=si::
+
+*Paso a paso:* tras las independencias, los antiguos virreinatos se dividieron en varios Estados. La **Gran Colombia** (1819-1831) se disolvió en Colombia, Venezuela y Ecuador. Los límites entre los nuevos países se definieron durante el siglo XIX, muchas veces mediante conflictos, como la Guerra del Pacífico (Chile frente a Perú y Bolivia) o la «Campaña del Desierto» de Argentina en la Patagonia.
+
 #### Autoevaluación — OA 3
 
 **1. (Alternativas)** ¿Qué caracteriza principalmente al Estado-nación que surgió durante el
@@ -1322,6 +1328,19 @@ Un mapa de Chile de comienzos del siglo XIX muestra amplias zonas del territorio
 territorio mucho más delimitado, medido y con fronteras definidas. *Paso a paso:* usamos la
 comparación de representaciones cartográficas en dos momentos distintos como evidencia de la
 expansión del conocimiento y del control estatal sobre el territorio durante el siglo XIX.
+
+**Ejemplo en el mapa — El territorio de Chile a comienzos y a fines del siglo XIX**
+
+::mapa::chile::A@-29.9,-71.25;B@-36.8,-73.05;C@-20.2,-70.15;D@-38.7,-72.6;E@-53.15,-70.9::rosa=si::
+
+| Letra | Situación |
+|---|---|
+| A y B | Límites aproximados del territorio controlado por el Estado hacia 1820 (de Copiapó-La Serena al río Biobío) |
+| C | Tarapacá y Antofagasta, incorporadas tras la Guerra del Pacífico (1884) |
+| D | Araucanía, ocupada por el Estado entre 1861 y 1883 |
+| E | Magallanes, ocupada desde 1843 |
+
+*Paso a paso:* al comparar el inicio y el fin del siglo, se observa que el territorio efectivo del Estado se multiplicó; las misiones científicas (Gay, Domeyko), los censos y el ferrocarril ayudaron a conocerlo y administrarlo.
 
 #### Autoevaluación — OA 12
 

@@ -555,6 +555,33 @@ d) Hermana 12 y Matías 24
 
 **Respuesta correcta: a) Hermana 12 y Matías 21.**
 *Retroalimentación:* x + (2x − 3) = 33 → 3x = 36 → x = 12; Matías: 2·12 − 3 = 21.
+**Pregunta 9 (alternativas — inecuación).** Una mochila resiste como máximo 9 kg. Si ya tiene 3 kg y se agregan libros de 1,5 kg cada uno, ¿cuántos libros (x) se pueden agregar como máximo?
+a) x ≤ 8
+b) x ≤ 4
+c) x ≤ 6
+d) x ≥ 4
+
+**Respuesta correcta: b) x ≤ 4.**
+*Retroalimentación:* 1,5x + 3 ≤ 9 → 1,5x ≤ 6 → x ≤ 4. Se pueden agregar 4 libros o menos; «x ≥ 4» invierte el sentido de la condición.
+
+**Pregunta 10 (alternativas — signo negativo).** ¿Cuál es la solución de −3x + 2 < 14?
+a) x < −4
+b) x < 4
+c) x > 4
+d) x > −4
+
+**Respuesta correcta: d) x > −4.**
+*Retroalimentación:* −3x < 12; al dividir por −3 se invierte el signo: x > −4. El error más común es olvidar invertirlo (x < −4).
+
+**Pregunta 11 (alternativas — forma x/a + b = c).** Si x/5 + 3 = 7, ¿cuánto vale x?
+a) 50
+b) 4
+c) 20
+d) 2
+
+**Respuesta correcta: c) 20.**
+*Retroalimentación:* x/5 = 7 − 3 = 4 → x = 4 · 5 = 20.
+
 
 ---
 
@@ -672,6 +699,24 @@ d) Semana 4; 26 cm
 
 **Respuesta correcta: d) Semana 4; 26 cm.**
 *Retroalimentación:* 4x + 10 = 6x + 2 → 8 = 2x → x = 4; A(4) = B(4) = 26 cm.
+**Pregunta 9 (alternativas — forma recursiva).** Una función afín cumple f(0) = 7 y f(x+1) − f(x) = 3 para todo x. ¿Cuál es su fórmula?
+a) f(x) = 7x + 3
+b) f(x) = 3x + 7
+c) f(x) = 10x
+d) f(x) = 3x − 7
+
+**Respuesta correcta: b) f(x) = 3x + 7.**
+*Retroalimentación:* el cambio constante (3) es la pendiente y f(0) = 7 es el valor inicial: f(x) = 3x + 7.
+
+**Pregunta 10 (alternativas — función a partir de dos puntos).** Una recta pasa por (0, 4) y (2, 10). ¿Qué función afín representa?
+a) f(x) = 2x + 4
+b) f(x) = 5x + 4
+c) f(x) = 4x + 3
+d) f(x) = 3x + 4
+
+**Respuesta correcta: d) f(x) = 3x + 4.**
+*Retroalimentación:* pendiente = (10 − 4)/(2 − 0) = 3; corta al eje y en 4: f(x) = 3x + 4.
+
 
 ---
 

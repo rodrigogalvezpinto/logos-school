@@ -1114,6 +1114,21 @@ fue un hecho único, sino un proceso con avances y retrocesos.
 comunes (causas) y diferencias (líderes, hitos particulares) entre distintos procesos
 independentistas americanos.
 
+**Ejemplo en el mapa y la línea de tiempo — Las independencias de Sudamérica**
+
+::mapa::sudamerica::A@10.5,-66.9;B@-34.6,-58.4;C@-33.45,-70.66;D@-12.05,-77.04;E@-16.5,-68.15::rosa=si::
+
+| Año | Hito | Lugar |
+|---|---|---|
+| 1810 | Primeras juntas de gobierno (Caracas, Buenos Aires, Santiago) | A, B, C |
+| 1811 | Venezuela declara su independencia | A |
+| 1816 | Independencia de las Provincias Unidas del Río de la Plata (Argentina) | B |
+| 1818 | Independencia de Chile (batalla de Maipú) | C |
+| 1821 | Independencia del Perú | D |
+| 1825 | Independencia de Bolivia | E |
+
+*Paso a paso:* ubicamos cada hito en el mapa y lo ordenamos en el tiempo. Se ve que el proceso duró unos 15 años y avanzó desde el norte (Bolívar) y desde el sur (San Martín, con el Ejército de los Andes) hasta converger en el Perú, último bastión realista.
+
 #### Autoevaluación — OA 16
 
 **1. (Alternativas)** ¿Qué acontecimiento europeo de 1808 desencadenó la crisis de la monarquía
