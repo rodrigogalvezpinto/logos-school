@@ -13,4 +13,55 @@ Clasificación de brechas: **Falta** (el indicador no se enseña), **Falta parci
 sin la profundidad que pide el indicador), **Visual** (mapa o imagen pendiente), **Poca práctica** (pocas preguntas
 fuera de la guía).
 
-Estado: 1.° a 4.° básico revisados. Siguen 5.° básico a 4.° medio. Al final: resumen consolidado en este archivo.
+Estado: **análisis terminado (2026-11-17), 12/12 cursos revisados.** Archivos: `01-basico.md` … `08-basico.md`,
+`09-1-medio.md`, `10-2-medio.md`, `11-3-medio.md`, `12-4-medio.md`.
+
+## Resumen consolidado
+
+**Conclusión general:** los **410 OA del temario oficial están todos en el material**, cada uno con explicación, ejemplos
+resueltos y preguntas. **No hay ningún OA ausente.** Las brechas (93 en total) son de profundidad dentro de un OA:
+un indicador sin ejemplo, una figura o mapa que no se muestra, o poca práctica fuera de la guía.
+
+| Curso | OA | Brechas | Lo más relevante |
+|---|---|---|---|
+| 1.° básico | 27/27 | 5 | Crear un problema (Mat OA 9); agrupar seres vivos; mapa de Chile; 2 `[Imagen]` |
+| 2.° básico | 33/33 | 7 | Pirámide y cilindro faltan (Mat OA 16); crear patrón; mapas; 5 `[Imagen]` |
+| 3.° básico | 29/29 | 6 | Tablas sin representación pictórica; mapa del mundo; 1 `[Imagen]` |
+| 4.° básico | 32/32 | 5 | Números en palabras; algoritmo vertical; fracciones sin figura; mapa de América |
+| 5.° básico | 43/43 | 11 | Áreas irregulares (Mat OA 22); Inglés: vocabulario temático y guías breves; mapa de zonas |
+| 6.° básico | 44/44 | 6 | Inglés: vocabulario de ciudad/ocupaciones/transporte; balanza pictórica; mapas |
+| 7.° básico | 39/39 | 6 | Inglés: vocabulario temático; problemas algebraicos; leer gráficos |
+| 8.° básico | 40/40 | 11 | **Ecuaciones/inecuaciones: 4 de 7 formas sin ejemplo y ninguna inecuación**; Inglés vocabulario |
+| 1.° medio | 40/40 | 13 | Euclides sin preguntas; comparación de planetas; Inglés vocabulario; mapas |
+| 2.° medio | 39/39 | 17 | **Función cuadrática sin gráfico y sin problemas con ecuación cuadrática**; populismos (Brasil, México) |
+| 3.° medio | 24/24 | 4 | Circunferencia sin figura; práctica de Matemática |
+| 4.° medio | 20/20 | 2 | Práctica de créditos y modelos trigonométricos |
+
+### Patrones que se repiten (corregirlos por patrón es más rápido que curso por curso)
+
+1. **Inglés, vocabulario temático (5.° básico a 2.° medio, 6 cursos).** Cada temario trae listas de vocabulario por tema
+   (comida, ropa, ciudad, ocupaciones, TIC, viajes, globalización, tecnología, etc.). Las guías enseñan bien la gramática,
+   pero esas listas casi no aparecen, y el examen de Inglés las usa. Es la brecha más extendida.
+2. **Matemática, procedimientos con un solo ejemplo o ninguno.** Los casos más serios son 8.° básico (ecuaciones e
+   inecuaciones) y 2.° medio (función cuadrática). También: «crear un problema o patrón» (1.°–3.° básico), números en
+   palabras (4.°), áreas irregulares (5.°), potencia de potencia, Pitágoras en 3D (8.°).
+3. **Figuras que se describen en palabras en vez de mostrarse.** En Matemática: parábola, circunferencia, homotecia,
+   función inversa, balanza, fracciones. En Historia: mapas en 1.° básico a 2.° medio. Ya existen los marcadores
+   `::mapa::america|sudamerica|chile|mesoamerica|mediterraneo::` y no se usan en varios OA. Faltan un mapa del mundo
+   (3.° básico, Guerra Fría) y uno de regiones de Chile (6.° básico).
+4. **Poca práctica de Matemática fuera de la guía.** En 1.° a 6.° básico varios OA tienen solo 1 pregunta en pruebas de
+   unidad. En media faltan problemas contextualizados (trigonometría, combinatoria, logaritmos, Euclides).
+5. **Imágenes pendientes `[Imagen: …]`:** 8 en Ciencias de 1.° a 3.° básico. Ya era una decisión pendiente del dueño (D).
+6. **Detalles de redacción:** 5.° básico Mat OA 6 y OA 13 (ejemplos confusos), Lenguaje OA 5 (poema sin rima), 2.° básico
+   (ardilla, que no es fauna chilena).
+
+### Prioridad sugerida si se decide corregir
+
+| Prioridad | Qué | Por qué |
+|---|---|---|
+| 1 | 2.° medio función cuadrática; 8.° básico ecuaciones e inecuaciones | Contenido central del examen, hoy sin ejemplos suficientes |
+| 2 | Inglés: vocabulario temático (5.° básico a 2.° medio) | Brecha presente en 6 cursos |
+| 3 | Faltas parciales puntuales: pirámide y cilindro (2.°), áreas irregulares (5.°), planetas (1.° medio), populismos Brasil y México (2.° medio), recursivas (8.°) | Indicador oficial no enseñado |
+| 4 | Ejemplos de «crear problema/patrón», números en palabras, algoritmo vertical | Indicadores débiles en básica |
+| 5 | Figuras y mapas con los marcadores existentes; preguntas de práctica de Matemática | Mejoran la comprensión; no faltan contenidos |
+| 6 | `[Imagen]` y redacción | Decisión D del dueño / detalles |
