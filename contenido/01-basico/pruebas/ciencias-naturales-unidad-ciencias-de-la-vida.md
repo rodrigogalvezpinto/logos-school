@@ -34,7 +34,7 @@ b) Falso
 
 ---
 
-**3.** [Imagen: un charco de agua con un sapo pequeño]
+**3.** ::fila::💧::🐸:: Un sapo pequeño junto a un charco de agua.
 
 ¿Qué elemento de la imagen es un ser vivo?
 

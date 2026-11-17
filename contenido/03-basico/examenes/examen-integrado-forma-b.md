@@ -76,7 +76,7 @@ d) Porque el cactus necesita nieve para crecer y la araucaria necesita el calor 
 >
 > Esa tarde, Mateo le contó a su papá lo ocurrido y éste le dijo: "Bien hecho, Mateo. Recordaste la regla y trabajaron en equipo".
 
-[Imagen: dos niños remando un bote en un río tranquilo, con chalecos salvavidas, y un adulto en la orilla saludándolos]
+::fila::👦::🚣::👦::🦺::
 
 El bote de Mateo y Lucas giró por una corriente fuerte. ¿Verdadero o falso?
 
@@ -128,7 +128,7 @@ d) Volver a usar un objeto, sin procesarlo; por ejemplo, usar un frasco de vidri
 > mi abuelo y yo, con las botas sucias,
 > cerramos el huerto hasta mañana.
 
-[Imagen: un abuelo y su nieto cosechando zapallos y zanahorias en un huerto al atardecer, con abejas volando entre las plantas]
+::fila::👴::👦::🎃::🥕::🐝::
 
 **8. (Alternativas)** ¿En qué ciudad está el huerto del abuelo?
 
@@ -164,7 +164,7 @@ d) Continente africano, océano Ártico
 
 ---
 
-**12. (Ciencias Naturales — Alternativas)** [Imagen: una colación con papas fritas de paquete, una bebida azucarada y golosinas]
+**12. (Ciencias Naturales — Alternativas)** ::fila::🍟::🥤::🍬:: Una colación con papas fritas de paquete, una bebida azucarada y golosinas.
 
 ¿Por qué esta colación no es la opción más saludable para comer todos los días?
 
@@ -193,7 +193,9 @@ d) Porque no tiene colores llamativos y a los niños no les gusta comerla
 >
 > Aunque no está en peligro crítico, el zorro culpeo enfrenta amenazas como la caza por considerarlo dañino para el ganado, la fragmentación de su hábitat y los atropellos en rutas. En Chile, la Ley de Caza lo protege parcialmente, pero la educación sobre su rol ecológico (controlador de roedores) es clave para su conservación.
 
-[Imagen: un zorro culpeo de pie en una estepa patagónica, con su pelaje rojizo-grisáceo y cola espesa, al atardecer]
+![Zorro culpeo](/assets/imagenes/3-basico/zorro.jpg)
+*Foto: Christian Mehlführer, CC BY-SA 3.0, Wikimedia Commons.*
+
 
 Si quisieras saber rápidamente por qué este animal es importante para el ecosistema, sin leer todo el texto, ¿qué parte deberías buscar?
 

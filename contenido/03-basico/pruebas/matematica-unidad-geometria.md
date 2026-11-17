@@ -39,7 +39,17 @@ d) 12
 
 **Pregunta 3 (verdadero o falso).** Al desplegar un cilindro, se obtienen 2 círculos y 1 rectángulo.
 
-**Pregunta 4 (identificar la red correcta).** [Imagen: dos redes: A) 2 triángulos y 3 rectángulos unidos; B) 6 cuadrados iguales unidos en forma de cruz] ¿Cuál de las dos redes corresponde a un prisma de base triangular?
+**Pregunta 4 (identificar la red correcta).** Observa las dos redes.
+
+**Red A:**
+
+::plano::sinejes;poligono _P(0,0) _Q(2,0) _R(2,3) _S(0,3);poligono _Q(2,0) _T(4,0) _U(4,3) _R(2,3);poligono _T(4,0) _V(6,0) _W(6,3) _U(4,3);poligono _R(2,3) _U(4,3) _X(3,4.7);poligono _Q(2,0) _T(4,0) _Y(3,-1.7)::
+
+**Red B:**
+
+::plano::sinejes;poligono _A(1,0) _B(2,0) _C(2,1) _D(1,1);poligono _D(1,1) _C(2,1) _E(2,2) _F(1,2);poligono _G(0,1) _D(1,1) _F(1,2) _H(0,2);poligono _C(2,1) _I(3,1) _J(3,2) _E(2,2);poligono _F(1,2) _E(2,2) _K(2,3) _L(1,3);poligono _L(1,3) _K(2,3) _M(2,4) _N(1,4)::
+
+ ¿Cuál de las dos redes corresponde a un prisma de base triangular?
 
 a) La red A
 b) La red B

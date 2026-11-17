@@ -110,7 +110,9 @@ d) 44 stickers
 >
 > Mateo tiene ocho años y vive en Castro, en una casa sobre palafitos junto al mar. Usa lentes de marco rojo y siempre lleva una bufanda azul que le regaló su abuelo. Un domingo, su bicicleta amaneció con una rueda pinchada, y Mateo pensó que no podría ir al paseo del curso. Sus amigos Josefa y Martín decidieron ayudarlo a escondidas. Primero, juntaron monedas en un frasco. Después, compraron un parche en la ferretería. Luego, arreglaron la rueda en el patio de Josefa y escondieron la bicicleta detrás de un árbol. Cuando Mateo llegó a la plaza, sus amigos le mostraron la bicicleta arreglada. Él se quedó inmóvil un segundo, con la boca abierta, y después dio un salto y los abrazó a los dos.
 
-[Imagen: un niño con lentes rojos y bufanda azul, sorprendido frente a una bicicleta en una plaza]
+![Niño andando en bicicleta](/assets/imagenes/2-basico/bicicleta.jpg)
+*Foto: Dawn Endico, CC BY-SA 2.0, Wikimedia Commons.*
+
 
 Según el texto, Josefa y Martín arreglaron a escondidas la bicicleta de Mateo.
 

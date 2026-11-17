@@ -44,15 +44,14 @@ d) Botella → plástico
 
 ---
 
-**4.** [Imagen: tres cucharas iguales en forma pero de distinto material: metal,
-madera y plástico]
+**4.** ::fila::🪑::🛝:: En una mañana fría de invierno, en la plaza hay una banca de madera y un resbalín de metal, los dos a la sombra.
 
-¿Cuál de las tres se sentiría más fría al tocarla apenas sale del cajón?
+¿Cuál se sentiría más frío al tocarlo con la mano?
 
-a) La cuchara de madera
-b) La cuchara de metal
-c) La cuchara de plástico
-d) Las tres se sienten igual
+a) La banca de madera
+b) El resbalín de metal
+c) Ninguno de los dos está frío
+d) Los dos se sienten igual
 
 ---
 
@@ -87,7 +86,7 @@ d) Apretarla con las manos
 1. c) Género (tela). Es suave y flexible, por eso es cómodo para la ropa.
 2. Verdadero. El vidrio es duro, pero frágil: se quiebra con un golpe.
 3. d) Botella → plástico. La silla suele ser de madera, la pelota de goma y la llave de metal.
-4. b) La cuchara de metal. El metal se siente más frío al tocarlo, porque saca rápido el calor de la mano. La madera y el plástico se sienten menos fríos.
+4. b) El resbalín de metal. El metal se siente más frío al tocarlo, porque saca rápido el calor de la mano; la madera, aunque esté a la misma temperatura, se siente menos fría.
 5. c) Se derrite y se ablanda. El calor del sol cambia el chocolate.
 6. Verdadero. La esponja absorbe el agua y por eso pesa más.
 7. d) Apretarla con las manos. Al aplicar fuerza, la plasticina cambia de forma.

@@ -116,7 +116,7 @@ c) A las 7
 
 ---
 
-**10.** [Imagen: 9 pollitos juntos, y 4 de ellos se alejan caminando] ¿Cuántos pollitos quedan?
+**10.** Había 9 pollitos juntos: ::contar::🐥::9:: Luego, 4 de ellos se alejaron caminando. ¿Cuántos pollitos quedan?
 
 a) 5
 b) 4
@@ -124,7 +124,7 @@ c) 13
 
 ---
 
-**11.** [Imagen: una mochila escolar con género, cierres de metal y una base de plástico] *(Varias correctas)* ¿Qué materiales tiene esta mochila, unidos con una propiedad correcta? Marca **todas** las correctas.
+**11.** ::dibujo::🎒:: Esta mochila escolar es de género, con cierres de metal y una base de plástico. *(Varias correctas)* ¿Qué materiales tiene esta mochila, unidos con una propiedad correcta? Marca **todas** las correctas.
 
 a) Metal de los cierres: duro
 b) Plástico de la base: impermeable (no deja pasar el agua)

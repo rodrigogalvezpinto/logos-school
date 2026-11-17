@@ -54,7 +54,10 @@ d) La palmera datilera
 
 **3. (Historia, Geografía y Cs. Sociales — Alternativas)** Observa el siguiente estímulo:
 
-[Imagen: dibujo de una plaza griega rodeada de columnas de piedra, con personas comprando, vendiendo y conversando, y al fondo una colina con templos]
+![Galería de columnas en la plaza pública de la antigua Atenas](/assets/imagenes/3-basico/agora.jpg)
+*Foto: Stoa de Átalo, Atenas — Julian Lupyan, CC0, Wikimedia Commons.*
+
+En esta plaza rodeada de columnas, los griegos compraban, vendían y conversaban.
 
 ¿Cómo se llamaba este espacio público de una ciudad griega, donde las personas se reunían a comerciar y conversar?
 
@@ -77,7 +80,9 @@ d) El acueducto
 >
 > Esa noche, mientras su mamá le limpiaba la raspadura en la rodilla, Joaquín prometió que la próxima vez pediría ayuda a un adulto antes de trepar tan alto. Antonia, orgullosa de haber pensado rápido, le arregló la cola del cometa con cinta adhesiva para poder volarlo de nuevo el fin de semana siguiente.
 
-[Imagen: un niño trepando un espino para rescatar un cometa rojo, mientras una niña lo mira preocupada desde el suelo, y un señor con una escalera se acerca]
+![Niños elevando un volantín](/assets/imagenes/3-basico/cometa.jpg)
+*Foto: Jules Verne Times Two, CC BY-SA 4.0, Wikimedia Commons.*
+
 
 **4. (Alternativas)** ¿En qué ciudad ocurre la historia de Joaquín?
 
@@ -136,7 +141,7 @@ d) El imperio
 > mi tía y yo, con las manos sucias,
 > guardamos la huerta hasta mañana.
 
-[Imagen: una tía y su sobrino trabajando en una huerta con tomates y lechugas, al atardecer, con abejas volando entre las plantas]
+::fila::👩::👦::🍅::🥬::🐝::
 
 Según el poema, las abejas bailan sin parar. ¿Verdadero o falso?
 
@@ -162,7 +167,7 @@ d) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo
 
 **12. (Historia, Geografía y Cs. Sociales — Alternativas)** Observa el siguiente estímulo:
 
-[Imagen: globo terráqueo con una línea roja horizontal que lo rodea por la mitad, etiquetada "línea del Ecuador"]
+::mapa::mundo::::lineas=si::
 
 ¿Qué elementos quedan divididos por la línea del Ecuador?
 
@@ -191,7 +196,9 @@ d) El Polo Norte y el Círculo Polar Ártico
 >
 > Actualmente, el pingüino de Humboldt está clasificado como una especie vulnerable, principalmente por la contaminación del mar y la escasez de peces para alimentarse. Por eso existen reservas naturales que buscan proteger su hábitat.
 
-[Imagen: un grupo de pingüinos de Humboldt sobre rocas frente al mar, con un letrero de reserva natural cerca]
+![Pingüinos de Humboldt sobre las rocas](/assets/imagenes/3-basico/pinguinos.jpg)
+*Foto: Johannes Maximilian, CC BY-SA 4.0, Wikimedia Commons.*
+
 
 Según el texto, ¿de qué se alimenta principalmente el pingüino de Humboldt?
 
@@ -222,7 +229,10 @@ d) La desaparición del aire dentro de la sala
 
 **16. (Historia, Geografía y Cs. Sociales — Alternativas)** Observa el siguiente estímulo:
 
-[Imagen: tres fotografías — a la izquierda una selva muy verde y lluviosa; al centro un paisaje con árboles que cambian de color según la estación; a la derecha un paisaje cubierto de hielo y nieve con un iglú]
+![Tres fotografías: una selva, un bosque en otoño y un iglú en la nieve](/assets/imagenes/3-basico/zonas-climaticas.jpg)
+*Foto: DirkvdM; Norbert Nagel; OhanaUnited — CC BY-SA, Wikimedia Commons.*
+
+A la izquierda, una selva muy verde y lluviosa; al centro, árboles que cambian de color según la estación; a la derecha, hielo, nieve y un iglú.
 
 La fotografía del centro, con árboles que cambian según la estación del año, corresponde a la zona climática donde se ubica la mayor parte de Chile. ¿Cómo se llama esta zona?
 

@@ -26,7 +26,7 @@ copy de cara al usuario, textos legales, y cualquier lugar donde se nombre la ma
 > copias entre pruebas y guías (C.2), explicaciones (C.4, C.4b, C.4c), sesgo de posición (C.5) y de longitud (C.6),
 > simulacros que no repiten pruebas (C.7). Validación en la app de los 12 cursos, audios de 1.°–4.° básico
 > regenerados y `logos_qa` recreada (con respaldo). **Falta, por decisión del dueño:** tag `material-aprobado-…`,
-> imágenes D (21 marcadores en 1.°–3.° básico) y revisión de un profesor real. Se trabaja en `main`; no desplegar.
+> imágenes D resueltas el 2026-11-17 (fotos libres de Commons y dibujos; ver `docs/analisis-cobertura/00-LEEME.md`) y revisión de un profesor real. Se trabaja en `main`; no desplegar.
 > **Punto de entrada para retomar:** `docs/CONTINUIDAD.md`. Las métricas de agosto/octubre que aparecen debajo
 > son antecedentes históricos (no reutilizar 408 OA, 2.917 preguntas ni suites antiguas como evidencia vigente).
 

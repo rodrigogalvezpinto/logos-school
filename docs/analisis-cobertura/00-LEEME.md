@@ -122,6 +122,11 @@ de 8.° básico (29/29) y 2.° medio (24/24). Los tests de conteo se actualizaro
   - +11 preguntas de banco.
 - **Práctica de Matemática:** +28 preguntas en las pruebas de unidad de 1.° a 6.° básico, una por cada OA que tenía poca práctica.
 
+**Imágenes `[Imagen]` (2026-11-17):** los 20 marcadores quedaron resueltos, sin ninguno pendiente.
+- 7 son fotos con licencia libre de Wikimedia Commons: ágora, volantín, pingüinos de Humboldt, zorro culpeo, zonas climáticas y bicicleta (en 2 exámenes). Están en `frontend/public/assets/imagenes/`, con el crédito bajo cada foto y en `CREDITOS.md`.
+- Los demás se resolvieron con los dibujos de la app: emoji, `::contar::`, mapa del mundo, tabla del 100 y redes con `::plano::sinejes`.
+- Google Imágenes no permite la descarga automática y sus imágenes no tienen licencia de uso. Las de Commons sí la tienen, así que sirven también en producción.
+- Al quedar visible el texto de la imagen, la pregunta 4 de las cucharas (1.° básico) resultó casi igual a una de la guía. Se reemplazó por una banca de madera y un resbalín de metal.
+
 **Sigue pendiente:**
-- `[Imagen]` (decisión D);
 - la práctica moderada de Matemática en media (3.° y 4.° medio): está cubierta, pero podría ampliarse.

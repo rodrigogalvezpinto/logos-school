@@ -43,7 +43,7 @@ c) 11
 
 ---
 
-**2.** [Imagen: una pelota roja] ¿Cuántas sílabas tiene la palabra "**pelota**"?
+**2.** ::dibujo::⚽:: ¿Cuántas sílabas tiene la palabra "**pelota**"?
 
 a) 4
 b) 2
@@ -67,7 +67,7 @@ c) Nacen, crecen y necesitan alimento
 
 ---
 
-**5.** [Imagen: un mono en un árbol] ¿Con qué sonido empieza la palabra "**mono**"?
+**5.** ::dibujo::🐒:: ¿Con qué sonido empieza la palabra "**mono**"?
 
 a) /s/
 b) /n/
