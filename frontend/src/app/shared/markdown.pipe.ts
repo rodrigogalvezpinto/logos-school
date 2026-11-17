@@ -1,5 +1,6 @@
 import { RE_GRAFICO, htmlGrafico } from './graficos';
 import { RE_MAPA, htmlMapa } from './mapas';
+import { RE_PLANO, htmlPlano } from './plano';
 import { Pipe, PipeTransform, inject } from '@angular/core';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { marked } from 'marked';
@@ -259,6 +260,7 @@ function realzarGuia(html: string): string {
 
   resultado = resultado.replace(RE_GRAFICO, (_m, tipo, d, op) => htmlGrafico(tipo, d, op));
   resultado = resultado.replace(RE_MAPA, (_m, region, marcas, op) => htmlMapa(region, marcas, op));
+  resultado = resultado.replace(RE_PLANO, (_m, d) => htmlPlano(d));
   resultado = resultado.replace(RE_REGLA, (_m, a, b) => htmlRegla(a, b));
   resultado = resultado.replace(RE_BALANZA, (_m, i, d) => htmlBalanza(i, d));
   resultado = resultado.replace(RE_LARGO, (_m, a, la, b, lb) => htmlLargo(a, la, b, lb));
@@ -332,7 +334,8 @@ export class MarkdownPipe implements PipeTransform {
     // marcador quedaba crudo (E2E 4.° básico, 2026-11-07). El SVG resultante es HTML en línea que marked respeta.
     const conDibujos = texto
       .replace(RE_MAPA, (_m, region, marcas, op) => htmlMapa(region, marcas, op))
-      .replace(RE_GRAFICO, (_m, tipo, d, op) => htmlGrafico(tipo, d, op));
+      .replace(RE_GRAFICO, (_m, tipo, d, op) => htmlGrafico(tipo, d, op))
+      .replace(RE_PLANO, (_m, d) => htmlPlano(d));
     const conMatematica = renderizarMatematica(conDibujos);
     const html = marked.parse(conMatematica, { async: false }) as string;
     return this.sanitizer.bypassSecurityTrustHtml(realzarGuia(html));

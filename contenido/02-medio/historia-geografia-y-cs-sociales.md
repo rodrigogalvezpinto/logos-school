@@ -569,6 +569,12 @@ llevar al primer ser humano a la Luna. *Paso a paso:* interpretamos ambos hitos 
 solo como logros tecnológicos aislados, sino como parte de una competencia simbólica entre
 ambas superpotencias por demostrar la superioridad de su sistema.
 
+**Ejemplo 4 — El mundo dividido en el mapa (hacia 1960)**
+
+::mapa::mundo::A@Estados Unidos;B@Rusia::pintar=Estados Unidos/Canadá/Reino Unido/Francia/Italia/Noruega/Dinamarca/Islandia/Países Bajos/Bélgica/Luxemburgo/Portugal/Grecia/Turquía;pintar2=Rusia/Ucrania/Bielorrusia/Lituania/Letonia/Estonia/Kazajistán/Uzbekistán/Turkmenistán/Kirguistán/Tayikistán/Georgia/Armenia/Azerbaiyán/Moldavia/Polonia/Chequia/Eslovaquia/Hungría/Rumania/Bulgaria/Albania/China/Mongolia/Corea del Norte/Vietnam/Cuba::
+
+En **morado**, los miembros de la OTAN (bloque capitalista, liderado por Estados Unidos, A). En **coral**, la URSS (B) con sus repúblicas, los países del Pacto de Varsovia en Europa del Este y los Estados comunistas de Asia y Cuba. El mapa usa las fronteras actuales: entonces Alemania estaba dividida en la RFA (occidental, en la OTAN desde 1955) y la RDA (comunista); Vietnam se unificó como comunista recién en 1975, y China se distanció de la URSS desde los años sesenta. Los países sin color, muchos recién descolonizados, formaron el Movimiento de Países No Alineados.
+
 #### Autoevaluación — OA 8
 
 **1. (Alternativas)** ¿Por qué se le llama "Guerra Fría" al enfrentamiento entre Estados Unidos y
@@ -712,6 +718,18 @@ dentro del sistema democrático; después de 1959, la Revolución Cubana ofreci�
 de cambio revolucionario exitoso, lo que radicalizó el debate político en buena parte del
 continente. *Paso a paso:* usamos un antes/después para mostrar cómo un hecho puntual (el
 triunfo revolucionario cubano) transformó el escenario político de toda una región.
+
+**Ejemplo 4 — Golpes de Estado comparados (1964–1976)**
+
+| Criterio | Brasil (1964) | Chile (1973) | Uruguay (1973) | Argentina (1976) |
+|---|---|---|---|---|
+| Gobierno derrocado | João Goulart | Salvador Allende | El presidente Bordaberry disolvió el Parlamento con apoyo militar | María Estela Martínez de Perón |
+| Antecedentes | Reformas de base y temor a un giro izquierdista | Polarización y crisis económica bajo la Unidad Popular | Crisis económica y guerrilla tupamara | Crisis económica y violencia política |
+| Actores | Fuerzas Armadas, sectores empresariales, apoyo de EE. UU. | Fuerzas Armadas (Junta de Pinochet), sectores opositores, apoyo de EE. UU. | Presidente civil y Fuerzas Armadas | Junta Militar (Videla) |
+| Ideología | Doctrina de Seguridad Nacional: combatir al «enemigo interno» comunista | Doctrina de Seguridad Nacional y, luego, modelo neoliberal | Doctrina de Seguridad Nacional | Doctrina de Seguridad Nacional («Proceso de Reorganización Nacional») |
+| Duración | Hasta 1985 | Hasta 1990 | Hasta 1985 | Hasta 1983, tras la derrota en Malvinas |
+
+**Rasgos comunes:** se dieron en el contexto de la Guerra Fría; suprimieron el Congreso y los partidos; violaron sistemáticamente los derechos humanos (detenidos desaparecidos, tortura, exilio), y varios coordinaron la represión entre países mediante la **Operación Cóndor** (desde 1975).
 
 #### Autoevaluación — OA 10
 
@@ -2043,6 +2061,20 @@ práctica.
 *Paso a paso:* presentamos oportunidades y desafíos en paralelo para evitar una visión ingenua
 ("la globalización resuelve la discriminación por sí sola") o excesivamente pesimista
 ("la globalización solo genera más discriminación").
+
+**Ejemplo 4 — Las formas de discriminación, con un caso de cada una**
+
+| Motivo | Situación de ejemplo |
+|---|---|
+| Raza o etnia | No arrendar una casa a una familia mapuche o afrodescendiente |
+| Nacionalidad | Burlarse del acento de un compañero venezolano o haitiano |
+| Situación socioeconómica | Excluir a alguien de un grupo por su comuna o por su ropa |
+| Religión o creencias | Ridiculizar a una compañera que usa velo |
+| Sexo, orientación sexual o identidad de género | Pagar menos a una mujer por el mismo trabajo |
+| Discapacidad | Negar el ingreso a un local a una persona con perro de asistencia |
+| Edad o apariencia | No contratar a alguien solo por su edad, su peso o sus tatuajes |
+
+Todos estos motivos están en la **Ley Zamudio** (20.609): la discriminación es *arbitraria* cuando no tiene una justificación razonable y priva, perturba o amenaza un derecho.
 
 #### Autoevaluación — OA 25
 

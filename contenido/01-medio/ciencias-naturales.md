@@ -1036,6 +1036,14 @@ aprovechando directamente las ventajas del cielo chileno para sus observaciones.
    de un conocimiento astronómico desarrollado de forma independiente a la astronomía
    occidental.
 
+**Ejemplo 1 — Astronomía de los pueblos originarios de Chile**
+
+- **Mapuche:** el **We Tripantu** («nueva salida del sol») se celebra en el solsticio de invierno, hacia el 24 de junio, cuando los días empiezan a alargarse. El lucero de la mañana (el planeta Venus) se llama **Wüñelfe**.
+- **Aymara:** el **Machaq Mara** («año nuevo») se recibe el 21 de junio, saludando los primeros rayos del sol después de la noche más larga del año.
+- **Pueblos andinos (quechua):** el **Inti Raymi** celebra el solsticio de invierno, y en la Vía Láctea se reconocían «constelaciones oscuras» formadas por las manchas sin estrellas, como la **llama** (*Yacana*).
+
+Estos pueblos usaban el cielo como calendario para sembrar, cosechar y organizar sus ceremonias: es conocimiento astronómico basado en la observación sistemática, igual que el de la ciencia moderna.
+
 **Banco de preguntas de autoevaluación**
 
 1. *(Alternativas)* ¿Cuál de los siguientes factores explica principalmente por qué

@@ -1053,6 +1053,12 @@ Un paquete de fideos pesa 400 g. Si Camila lleva 2 paquetes de fideos en su bols
 
 Usamos el referente conocido (400 g cada paquete): 400+400=**800 g** en total.
 
+**Ejemplo 4 — Problema con gramos y kilogramos**
+
+En la casa hay un paquete de 2 kg de harina. Para un queque se usan 750 g. ¿Cuánta harina queda?
+
+Primero se usa la misma unidad: 1 kg = 1.000 g, entonces 2 kg = 2.000 g. Luego se resta: 2.000 g − 750 g = **1.250 g**, que es lo mismo que **1 kg y 250 g**.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿Cuántos gramos equivalen a 1 kilogramo?

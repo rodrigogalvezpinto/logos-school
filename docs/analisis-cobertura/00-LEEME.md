@@ -96,9 +96,32 @@ Hechas en `main` (commits `c58e4d6`, `03735c4`, `dec69af` y el siguiente), con `
 Verificación: reimportación OK (410 OA, 6.689 preguntas, 0 sin OA), guardas de contenido en pytest en verde, validación en la app
 de 8.° básico (29/29) y 2.° medio (24/24). Los tests de conteo se actualizaron: estaban desfasados por los 20 simulacros Forma A.
 
-**Pendiente (menor):**
-- Mapa del mundo (3.° básico, Guerra Fría) y mapa de regiones de Chile (6.° básico): requieren mapas nuevos en `mapas-datos.ts`.
-- Figura de circunferencia (3.° medio OA 4) y de homotecia (1.° medio OA 8): no hay un marcador geométrico para dibujarlas.
-- Más preguntas de práctica de Matemática en pruebas de unidad de 1.° a 6.° básico.
-- Inglés: ejemplos de organizadores e idea principal (OA 10 de 7.° básico a 2.° medio).
-- `[Imagen]` (decisión D).
+**Segunda tanda (2026-11-17), cierra los pendientes menores:**
+- **Dibujos nuevos en la app:**
+  - mapa `mundo` (Natural Earth, con `lineas=si` para el Ecuador, los trópicos y los círculos polares, y `pintar2=` para un segundo color);
+  - regiones de Chile (`regiones=si`, límites aproximados);
+  - marcador `::plano::` (plano cartesiano con polígonos, circunferencias, puntos y rayos). Tiene tests en `markdown-marcadores.spec.ts`.
+- **Usados en:**
+  - continentes, océanos y zonas climáticas (3.° básico OA 7 y 8);
+  - regiones (6.° básico OA 11);
+  - Guerra Fría (2.° medio OA 8);
+  - ángulo central e inscrito y cuerdas que se cortan (3.° medio OA 4);
+  - homotecia con k = 2 y k = −½ (1.° medio OA 8);
+  - función seno (4.° medio OA 3);
+  - gráficos posición–tiempo y velocidad–tiempo, y adición de velocidades de Galileo (2.° medio CN OA 9);
+  - balanza dibujada (6.° básico OA 11).
+- **Ítems débiles restantes:**
+  - g ↔ kg (3.°), ordenar listas (5.°), población por zona natural (5.° Hist OA 9);
+  - raíz en ciencias (8.°) e impacto económico y científico de la Conquista (8.° Hist OA 7);
+  - en 1.° medio: crecimiento con potencias, completar el cuadrado, astronomía de pueblos originarios y consecuencias de la Primera Guerra Mundial;
+  - en 2.° medio: golpes de Estado comparados, categorías de discriminación y soluciones en los tres estados.
+- **Inglés:**
+  - organizadores e idea principal en OA 10 (7.° básico a 2.° medio);
+  - preferencias en OA 13 (8.° básico a 2.° medio);
+  - ubicaciones en la ciudad (6.° básico);
+  - +11 preguntas de banco.
+- **Práctica de Matemática:** +28 preguntas en las pruebas de unidad de 1.° a 6.° básico, una por cada OA que tenía poca práctica.
+
+**Sigue pendiente:**
+- `[Imagen]` (decisión D);
+- la práctica moderada de Matemática en media (3.° y 4.° medio): está cubierta, pero podría ampliarse.

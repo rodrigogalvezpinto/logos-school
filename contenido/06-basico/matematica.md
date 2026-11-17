@@ -460,6 +460,16 @@ Resuelve: 3x + 5 = 26
 
 Primero se elimina el término que no tiene x, restando 5 en ambos lados: 3x = 26 − 5 = 21. Luego se despeja x dividiendo por 3: x = 21 ÷ 3 = **7**. Comprobación: (3 × 7) + 5 = 21 + 5 = 26 ✓
 
+**Ejemplo 4 — La balanza dibujada**
+
+::balanza::8+6::9::
+
+La balanza se inclina: a la izquierda hay 8 + 6 = 14 y a la derecha solo 9. ¿Cuánto hay que agregar a la derecha para equilibrarla? Es la ecuación 9 + x = 14.
+
+::balanza::8+6::9+5::
+
+Al agregar 5, los dos platillos pesan 14 y la balanza queda **equilibrada**: x = 5. Resolver una ecuación es buscar el valor que equilibra la balanza; lo que se quita o agrega en un lado debe hacerse también en el otro.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Resuelve: x + 34 = 90. ¿Cuál es el valor de x?

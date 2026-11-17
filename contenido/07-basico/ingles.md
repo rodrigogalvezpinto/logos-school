@@ -230,6 +230,20 @@ sufijo ***-ly*** convierte adjetivos en adverbios de modo (*quick → quickly*,
    made me feel unhappy about wasting my afternoon."* *Boring* viene de *bore*
    (aburrir) + *-ing*; *unhappy* viene de *un-* + *happy* (feliz → infeliz).
 
+**Completar un organizador gráfico (ejemplo resuelto)**
+
+Texto: *"Recycling paper is easy. First, collect old newspapers and notebooks. Next, put them in the blue bin. Then, a truck takes them to a factory. Finally, the factory makes new paper. Because of recycling, fewer trees are cut down."*
+
+| Paso 1 (First) | Paso 2 (Next) | Paso 3 (Then) | Paso 4 (Finally) |
+|---|---|---|---|
+| collect old paper | put it in the blue bin | a truck takes it to a factory | the factory makes new paper |
+
+| Causa (cause) | Efecto (effect) |
+|---|---|
+| people recycle paper | fewer trees are cut down |
+
+Para completar un organizador se busca la información **explícita** en el texto, guiándose por los conectores: *first, next, then, finally* ordenan los pasos y *because of* marca la causa.
+
 **Banco de autoevaluación**
 
 1. *(Alternativas)* Read the instructions: *"First, turn on the computer. Next,
@@ -299,6 +313,14 @@ sufijo ***-ly*** convierte adjetivos en adverbios de modo (*quick → quickly*,
    d) while
    **Respuesta correcta:** d) while.
    **Retroalimentación:** *While* indica que las dos acciones ocurrieron al mismo tiempo; *after* o *before* indicarían que una ocurrió antes o después de la otra.
+
+9. *(Alternativas — Organizador)* Read: *"First, the seeds are planted. Next, they get water and sunlight. Then, small plants grow. Finally, the farmer picks the vegetables."* Complete the organizer: *Step 3 (Then) = ___*
+   a) the seeds are planted
+   b) small plants grow
+   c) they get water and sunlight
+   d) the farmer picks the vegetables
+   **Respuesta correcta:** b) small plants grow.
+   **Retroalimentación:** El conector *Then* introduce el tercer paso: *small plants grow*. Los otros son los pasos 1, 2 y 4.
 
 ---
 

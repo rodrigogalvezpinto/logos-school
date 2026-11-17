@@ -5,18 +5,20 @@
  * scripts/mapas/generar_mapas.py.
  *
  * Sintaxis:  ::mapa::región::marcas::[opciones::]
- *   región    america | sudamerica | chile | mesoamerica | mediterraneo (estas dos, 2026-11-16)
+ *   región    america | sudamerica | chile | mesoamerica | mediterraneo (estas dos, 2026-11-16) | mundo (2026-11-17)
  *   marcas    separadas por «;»: TEXTO@País o TEXTO@lat,lon (decimales con punto).
  *             TEXTO de 1–2 letras o números → círculo con la letra; emoji → ícono; palabra → rótulo.
  *             Puede quedar vacío: ::mapa::sudamerica::::pintar=Chile::
- *   opciones  pintar=Chile/Perú (colorea países), nombres=si (escribe los nombres de los países),
- *             rosa=si (rosa de los vientos), zonas=si (zonas naturales de Chile, solo en «chile»).
+ *   opciones  pintar=Chile/Perú (colorea países; pintar2= colorea un segundo grupo en coral), nombres=si (escribe los nombres de los países),
+ *             rosa=si (rosa de los vientos), zonas=si (zonas naturales de Chile, solo en «chile»),
+ *             regiones=si (las 16 regiones, límites aproximados, solo en «chile»),
+ *             lineas=si (Ecuador, trópicos y círculos polares, solo en «mundo»).
  */
 import { CENTROS, MAPAS } from './mapas-datos';
 
-const OPCION = String.raw`(?:pintar|nombres|rosa|zonas)=[^:;]{0,80}`;
+const OPCION = String.raw`(?:pintar2?|nombres|rosa|zonas|regiones|lineas)=[^:;]{0,400}`;
 export const RE_MAPA = new RegExp(
-  String.raw`::mapa::(america|sudamerica|chile|mesoamerica|mediterraneo)::((?:[^:;@]{1,24}@[^:;@]{1,40};?){0,12})::(?:(${OPCION}(?:;${OPCION})*)::)?`,
+  String.raw`::mapa::(america|sudamerica|chile|mesoamerica|mediterraneo|mundo)::((?:[^:;@]{1,24}@[^:;@]{1,40};?){0,12})::(?:(${OPCION}(?:;${OPCION})*)::)?`,
   'g',
 );
 
@@ -25,6 +27,14 @@ const EMOJI = /\p{Extended_Pictographic}/u;
 
 // Límites aproximados entre las zonas naturales de Chile (latitud) y su nombre.
 const ZONAS: [number, string][] = [[-17.5, 'Norte Grande'], [-27, 'Norte Chico'], [-32, 'Zona Central'], [-38, 'Zona Sur'], [-42, 'Zona Austral']];
+// Límite norte aproximado de cada región (latitud), de norte a sur. Valparaíso y la Metropolitana comparten
+// latitud (la Metropolitana está al interior), por eso van en una sola franja.
+const REGIONES: [number, string][] = [[-17.5, 'XV Arica y Parinacota'], [-19.2, 'I Tarapacá'], [-21.4, 'II Antofagasta'],
+  [-26, 'III Atacama'], [-29.3, 'IV Coquimbo'], [-32.1, 'V Valparaíso y RM'], [-33.9, "VI O'Higgins"], [-34.8, 'VII Maule'],
+  [-35.9, 'XVI Ñuble'], [-36.9, 'VIII Biobío'], [-37.9, 'IX Araucanía'], [-39.3, 'XIV Los Ríos'], [-40.6, 'X Los Lagos'],
+  [-43.7, 'XI Aysén'], [-49, 'XII Magallanes']];
+const LINEAS: [number, string][] = [[66.56, 'Círculo Polar Ártico'], [23.44, 'Trópico de Cáncer'], [0, 'Ecuador'],
+  [-23.44, 'Trópico de Capricornio'], [-66.56, 'Círculo Polar Antártico']];
 
 /** Lado mayor del recuadro que ocupa un país (px): los muy pequeños no se rotulan, se amontonarían. */
 function tamano(d: string): number {
@@ -42,12 +52,14 @@ export function htmlMapa(region: string, marcas: string, opciones?: string): str
     if (i > 0) op[p.slice(0, i).trim()] = p.slice(i + 1).trim();
   }
   const xy = (lat: number, lon: number): [number, number] => [(lon - m.lonMin) * m.k * m.c, (m.latMax - lat) * m.k];
-  const pintados = new Set((op['pintar'] ?? '').split('/').map((s) => s.trim()).filter(Boolean));
-  const margenIzq = region === 'chile' && op['zonas'] === 'si' ? 92 : 0;
+  const grupo = (k: string) => new Set((op[k] ?? '').split('/').map((s) => s.trim()).filter(Boolean));
+  const pintados = grupo('pintar'), pintados2 = grupo('pintar2');
+  const franjas = region === 'chile' ? (op['regiones'] === 'si' ? REGIONES : op['zonas'] === 'si' ? ZONAS : null) : null;
+  const margenIzq = franjas === REGIONES ? 128 : franjas ? 92 : 0;
   const ancho = m.ancho + margenIzq;
   let s = `<rect x="0" y="0" width="${ancho}" height="${m.alto}" fill="#DCEFFB"/><g transform="translate(${margenIzq} 0)">`;
   for (const [pais, d] of Object.entries(m.paises)) {
-    const relleno = pintados.has(pais) ? '#C9C3FB' : pais === 'Chile' && region === 'chile' ? '#FFF7ED' : '#F6F5F2';
+    const relleno = pintados.has(pais) ? '#C9C3FB' : pintados2.has(pais) ? '#FFC9BC' : pais === 'Chile' && region === 'chile' ? '#FFF7ED' : '#F6F5F2';
     s += `<path d="${d}" fill="${relleno}" stroke="#8B93A1" stroke-width="0.7" stroke-linejoin="round"/>`;
   }
   if (op['nombres'] === 'si') {
@@ -58,12 +70,20 @@ export function htmlMapa(region: string, marcas: string, opciones?: string): str
     }
   }
   s += '</g>';
-  if (region === 'chile' && op['zonas'] === 'si') {
-    ZONAS.forEach(([lat, nombre], i) => {
-      const y0 = xy(lat, 0)[1], y1 = i + 1 < ZONAS.length ? xy(ZONAS[i + 1][0], 0)[1] : m.alto;
+  if (franjas) {
+    const fuente = franjas === REGIONES ? 9 : 11;
+    franjas.forEach(([lat, nombre], i) => {
+      const y0 = xy(lat, 0)[1], y1 = i + 1 < franjas.length ? xy(franjas[i + 1][0], 0)[1] : m.alto;
       if (i > 0) s += `<line x1="0" y1="${y0}" x2="${ancho}" y2="${y0}" stroke="#6B7280" stroke-dasharray="4 3"/>`;
-      s += `<text x="6" y="${(y0 + y1) / 2 + 4}" font-size="11" fill="#111827" font-weight="600">${esc(nombre)}</text>`;
+      s += `<text x="6" y="${(y0 + y1) / 2 + fuente / 3}" font-size="${fuente}" fill="#111827" font-weight="600">${esc(nombre)}</text>`;
     });
+  }
+  if (region === 'mundo' && op['lineas'] === 'si') {
+    for (const [lat, nombre] of LINEAS) {
+      const y = xy(lat, 0)[1];
+      s += `<line x1="0" y1="${y}" x2="${ancho}" y2="${y}" stroke="${lat === 0 ? '#DC2626' : '#2563EB'}" stroke-width="${lat === 0 ? 1.4 : 1}" stroke-dasharray="${lat === 0 ? '' : '5 3'}"/>` +
+        `<text x="4" y="${y - 3}" font-size="10" fill="#111827" stroke="#fff" stroke-width="2.5" paint-order="stroke">${esc(nombre)}</text>`;
+    }
   }
   s += `<g transform="translate(${margenIzq} 0)">`;
   for (const marca of marcas.split(';').filter((x) => x.includes('@'))) {

@@ -266,6 +266,16 @@ adjetivos a partir de sustantivos (*care → careful*, *colour → colourful*).
    she made a good decision."* *Apply for a job* y *part-time job* son
    collocations; *pianist* usa el sufijo *-ist*; *although* marca contraste.
 
+**Idea principal y detalles que la apoyan (ejemplo resuelto)**
+
+Texto: *"Fast fashion has a high environmental cost. Producing one pair of jeans uses thousands of liters of water. Cheap clothes are thrown away quickly, and much of that clothing ends up in landfills, like the huge piles in the Atacama Desert. In addition, many factories pay very low wages."*
+
+- **Main idea:** *Fast fashion has a high environmental cost* (la primera oración; el resto la demuestra).
+- **Supporting details:** el agua que usa un jeans; la ropa que se bota rápido y termina en vertederos como los del desierto de Atacama.
+- **Dato que no apoya la idea principal ambiental:** *many factories pay very low wages* habla de un problema **social**, introducido con *In addition*.
+
+Para encontrar la idea principal pregunta: ¿de qué trata todo el párrafo? Los detalles responden ¿cómo lo sé?
+
 **Banco de autoevaluación**
 
 1. *(Alternativas)* Read: *"Save water! Take shorter showers and turn off the
@@ -347,6 +357,22 @@ adjetivos a partir de sustantivos (*care → careful*, *colour → colourful*).
    **Retroalimentación:** *Both...and...* une dos elementos que son ciertos al
    mismo tiempo: la persona fue escritora y traductora.
 
+10. *(Alternativas — Idea principal)* Read: *"Learning a second language has many benefits. It improves memory, it helps you get better jobs, and it lets you understand other cultures."* What is the main idea?
+   a) Second languages always improve your memory.
+   b) Learning a second language has many benefits.
+   c) Better jobs always require other cultures.
+   d) Memory is important for getting jobs.
+   **Respuesta correcta:** b) Learning a second language has many benefits.
+   **Retroalimentación:** *Learning a second language has many benefits* es la primera oración y resume el párrafo; mejorar la memoria es solo uno de los detalles que la apoyan.
+
+11. *(Alternativas — Detalle de apoyo)* In the same text, which is a supporting detail?
+   a) Learning a second language has many benefits.
+   b) It lets you understand other cultures.
+   c) Second languages are difficult.
+   d) Everybody speaks English.
+   **Respuesta correcta:** b) It lets you understand other cultures.
+   **Retroalimentación:** *It lets you understand other cultures* es uno de los beneficios concretos que prueban la idea principal; a) es la idea principal y c) y d) no están en el texto.
+
 ---
 
 ## OA N°13 — Escribir sobre experiencias, temas interdisciplinarios, problemas globales y culturas (Writing)
@@ -410,6 +436,14 @@ coherente, usando conectores variados y justificando siempre tus opiniones.
    festival de Holi en India, donde la gente se lanza polvos de colores. En
    mi opinión, parece una forma increíble de celebrar la primavera y la
    amistad.)
+
+**Expresar preferencias (ejemplo resuelto)**
+
+- *I prefer studying in the morning **to** studying at night **because** I feel more awake.*
+- *I'd rather (= I would rather) take the bus **than** walk when it rains.*
+- *Between a concert and a football match, I prefer the concert **since** I love live music.*
+
+Estructuras: *prefer + -ing + to + -ing*; *would rather + verbo base + than + verbo base*; y siempre una razón con *because* o *since*.
 
 **Banco de autoevaluación**
 
@@ -484,6 +518,14 @@ coherente, usando conectores variados y justificando siempre tus opiniones.
    **Retroalimentación:** Esa oración resume el texto leído con información
    relevante (quién fue, qué hizo, su impacto), cumpliendo con lo que pide el
    OA sobre escribir a partir de textos leídos.
+
+9. *(Alternativas — Preferencias)* Complete: *"I'd rather ___ a documentary than ___ a horror film."*
+   a) watching / watching
+   b) to watch / to watch
+   c) watch / watch
+   d) watched / watch
+   **Respuesta correcta:** c) watch / watch.
+   **Retroalimentación:** Después de *would rather* y de *than* va el verbo en forma base, sin *to* ni *-ing*.
 
 ---
 

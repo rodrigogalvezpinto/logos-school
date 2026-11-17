@@ -1,12 +1,12 @@
 ---
 asignatura: Matemática
 curso: 5° Básico
-oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 3","4":"OA 4","5":"OA 4","6":"OA 6","7":"OA 6","8":"OA 7","9":"OA 10","10":"OA 11","11":"OA 11","12":"OA 13"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 1","3":"OA 3","4":"OA 4","5":"OA 4","6":"OA 6","7":"OA 6","8":"OA 7","9":"OA 10","10":"OA 11","11":"OA 11","12":"OA 13","13":"OA 3","14":"OA 7","15":"OA 10","16":"OA 13"}
 eje: Números y Operaciones (OA 1, 3, 4, 6, 7, 10, 11, 13)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Números y Operaciones
 tiempo_sugerido: 25 a 30 minutos
-cantidad_preguntas: 12
+cantidad_preguntas: 16
 ultima_actualizacion: 2026-10-28
 ---
 
@@ -92,6 +92,34 @@ b) 3/8
 c) 2/8
 d) 1/12
 
+**Pregunta 13 (alternativas).** Un bus lleva 45 pasajeros por viaje. ¿Cuántos pasajeros lleva en 24 viajes?
+
+a) 1.080
+b) 900
+c) 180
+d) 1.008
+
+**Pregunta 14 (alternativas).** ¿Qué fracción es equivalente a 2/3?
+
+a) 3/4
+b) 2/6
+c) 4/6
+d) 4/9
+
+**Pregunta 15 (alternativas).** ¿Qué número decimal corresponde a 3/4?
+
+a) 0,34
+b) 0,75
+c) 3,4
+d) 0,25
+
+**Pregunta 16 (alternativas).** Marta camina 1,5 km en la mañana y 2,3 km en la tarde. ¿Cuántos kilómetros camina en total?
+
+a) 3,8 km
+b) 3,5 km
+c) 0,8 km
+d) 4,8 km
+
 ---
 
 ## Pauta de respuestas
@@ -108,3 +136,7 @@ d) 1/12
 10. **a) 0,6** — 0,6 = 0,60; comparando con 0,58, en los décimos 6 > 5.
 11. a) Josefa. 3,52 > 3,48: saltó más lejos.
 12. **b) 3/8** — 1/4 = 2/8; 2/8 + 1/8 = 3/8.
+13. **a) 1.080** — 45 × 24 = 45 × 20 + 45 × 4 = 900 + 180 = 1.080.
+14. **c) 4/6** — Al multiplicar numerador y denominador por 2: 2/3 = 4/6.
+15. **b) 0,75** — 3/4 = 75/100 = 0,75.
+16. **a) 3,8 km** — Se suman décimos con décimos: 1,5 + 2,3 = 3,8 km.

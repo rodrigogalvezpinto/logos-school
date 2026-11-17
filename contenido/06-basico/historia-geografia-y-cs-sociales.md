@@ -1078,6 +1078,12 @@ O'Higgins, predominan las actividades agrícolas. *Paso a paso:* relacionamos un
 (recursos naturales disponibles) con un rasgo humano (actividad económica dominante) para
 entender por qué cada región "se especializa" en ciertas actividades.
 
+**Ejemplo 4 — Las 16 regiones en el mapa**
+
+::mapa::chile::Santiago@-33.45,-70.66::regiones=si;rosa=si::
+
+Las franjas muestran las regiones de norte a sur (los límites son aproximados). La **Región Metropolitana**, donde está Santiago, no tiene costa: está al interior, a la misma altura que Valparaíso. La región más nueva es **Ñuble** (creada en 2018, separada del Biobío). En el extremo sur, la región de Magallanes incluye además el Territorio Chileno Antártico; Rapa Nui y el archipiélago Juan Fernández pertenecen a la región de Valparaíso.
+
 #### Autoevaluación — OA 11
 
 **1. (Alternativas)** ¿Cuál de los siguientes es un ejemplo de rasgo **físico** de una región?

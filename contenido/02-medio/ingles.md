@@ -359,6 +359,22 @@ illogical*).
    **Retroalimentación:** *As soon as* (tan pronto como) marca que una
    acción ocurrirá inmediatamente después de que se cumpla otra.
 
+10. *(Alternativas — Detalle)* Read: *"Globalization has connected markets around the world. Chilean fruit is sold in China, and Asian technology is used in Chile. However, local businesses sometimes cannot compete with big international companies."* According to the text, what is a problem of globalization?
+   a) Chilean fruit is sold in many markets in China.
+   b) Local businesses sometimes cannot compete with big companies.
+   c) Asian technology is widely used in Chilean homes.
+   d) Markets around the world are now connected to each other.
+   **Respuesta correcta:** b) Local businesses sometimes cannot compete with big companies.
+   **Retroalimentación:** El conector *However* introduce el problema: *local businesses cannot compete with big companies*; las otras opciones son efectos que el texto presenta como conexiones, no como problemas.
+
+11. *(Alternativas — Vocabulario)* In the text above, *"compete"* means:
+   a) cooperar
+   b) competir
+   c) comprar
+   d) completar
+   **Respuesta correcta:** b) competir.
+   **Retroalimentación:** *Compete* es un cognado de «competir»: los negocios locales no logran competir con las grandes empresas.
+
 ---
 
 ## OA N°13 — Escribir sobre experiencias, temas interdisciplinarios, problemas globales y culturas (Writing)
@@ -426,6 +442,14 @@ perfecto continuo, pasado perfecto, conectores como *as a result* o
    ambiental que ha estado trabajando para proteger los bosques desde 2019.
    En mi opinión, ella es un verdadero modelo a seguir porque logrará un
    cambio real, a menos que el gobierno ignore sus propuestas.)
+
+**Expresar preferencias y opiniones sobre temas globales (ejemplo resuelto)**
+
+- *I prefer buying local products **to** buying imported ones **because** they produce less pollution in transport.*
+- *I would rather use public transport **than** drive, since it is better for the environment.*
+- *Personally, I prefer online classes **as long as** the internet connection is good.*
+
+Para un texto de opinión: presenta tu preferencia, da al menos una razón (*because, since*) y, si quieres, una condición (*as long as*, «siempre que»).
 
 **Banco de autoevaluación**
 
@@ -502,6 +526,14 @@ perfecto continuo, pasado perfecto, conectores como *as a result* o
    **Retroalimentación:** Esa oración resume el texto leído con información
    relevante (quién fue, qué hizo, desde cuándo), cumpliendo con lo que pide
    el OA sobre escribir a partir de textos leídos.
+
+9. *(Alternativas — Preferencias)* Which sentence correctly expresses a preference with a reason?
+   a) I would rather to recycle than throwing everything away.
+   b) I prefer recycle than throwing things away because good.
+   c) I prefer recycling to throwing everything away because it reduces waste.
+   d) I rather recycling than throw everything away because of waste.
+   **Respuesta correcta:** c) I prefer recycling to throwing everything away because it reduces waste.
+   **Retroalimentación:** *Prefer + -ing + to + -ing* y una razón con *because*. En a) sobra *to* y en d) falta *would*.
 
 ---
 

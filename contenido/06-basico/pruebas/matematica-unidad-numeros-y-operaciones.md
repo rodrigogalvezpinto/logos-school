@@ -1,12 +1,12 @@
 ---
 asignatura: Matemática
 curso: 6° Básico
-oa_por_pregunta: {"1":"OA 2","2":"OA 2","3":"OA 3","4":"OA 3","5":"OA 4","6":"OA 4","7":"OA 4","8":"OA 5","9":"OA 5","10":"OA 8","11":"OA 8","12":"OA 8"}
+oa_por_pregunta: {"1":"OA 2","2":"OA 2","3":"OA 3","4":"OA 3","5":"OA 4","6":"OA 4","7":"OA 4","8":"OA 5","9":"OA 5","10":"OA 8","11":"OA 8","12":"OA 8","13":"OA 2","14":"OA 3","15":"OA 5"}
 eje: Eje 1 — Números y Operaciones
 tipo: Prueba de unidad
 título: Prueba de Unidad — Matemática, Eje 1: Números y Operaciones
 tiempo_sugerido: 25 a 30 minutos
-cantidad_preguntas: 12
+cantidad_preguntas: 15
 fuente: contenido/06-basico/matematica.md (banco de preguntas por OA)
 ultima_actualizacion: 2026-10-28
 ---
@@ -103,6 +103,27 @@ b) 4 3/4 litros
 c) 2 3/4 litros
 d) 2 1/4 litros
 
+**Pregunta 13 (alternativas).** Un estadio vendió 12.450 entradas el sábado y 18.795 el domingo. ¿Cuántas entradas vendió en total?
+
+a) 30.145
+b) 31.145
+c) 6.345
+d) 31.245
+
+**Pregunta 14 (alternativas).** En un curso hay 12 niñas y 18 niños. ¿Cuál es la razón entre niñas y niños, simplificada?
+
+a) 3 : 2
+b) 12 : 30
+c) 2 : 3
+d) 1 : 6
+
+**Pregunta 15 (alternativas).** ¿Qué número mixto corresponde a 11/4?
+
+a) 2 3/4
+b) 3 1/4
+c) 2 1/4
+d) 1 3/4
+
 ---
 
 ### Pauta de respuestas
@@ -119,3 +140,6 @@ d) 2 1/4 litros
 10. **a) 3 1/2** — enteros: 1+2=3; fracciones: 1/4+1/4=2/4=1/2.
 11. **a) 58,289 segundos.** Más rápida significa menos tiempo: 58,375 − 0,086 = 58,289 segundos. Conviene alinear las comas y completar con ceros.
 12. d) 2 1/4 litros — 3 2/4 − 1 1/4 = 2 1/4.
+13. **d) 31.245** — 12.450 + 18.795 = 31.245.
+14. **c) 2 : 3** — 12 : 18; dividiendo ambos por 6 queda 2 : 3. El orden importa: primero niñas.
+15. **a) 2 3/4** — 11 : 4 = 2 con resto 3; por lo tanto 11/4 = 2 3/4.

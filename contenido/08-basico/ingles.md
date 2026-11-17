@@ -249,6 +249,19 @@ discussion*).
    many students prefer it."* *Cheaper* (comparativo con *-er*); *so* introduce
    una consecuencia (los estudiantes lo prefieren por ser más barato).
 
+**Idea general y organizador (ejemplo resuelto)**
+
+Texto: *"Solar energy is becoming popular in Chile. The Atacama Desert gets more sunlight than almost any place on Earth, so solar plants produce a lot of electricity there. Solar energy is clean and renewable. However, solar panels are expensive to install and they do not work at night."*
+
+**Idea general (main idea):** la energía solar se está haciendo popular en Chile, con ventajas y desventajas. Se reconoce porque la primera oración presenta el tema y el resto lo desarrolla.
+
+| Advantages (ventajas) | Disadvantages (desventajas) |
+|---|---|
+| clean and renewable | expensive to install |
+| a lot of sunlight in Atacama | do not work at night |
+
+El conector *However* señala el paso de las ventajas a las desventajas: ayuda a ubicar cada dato en la columna correcta.
+
 **Banco de autoevaluación**
 
 1. *(Alternativas)* Read: *"Warning! Do not swim here. Strong currents can be
@@ -330,6 +343,22 @@ discussion*).
    **Retroalimentación:** Los textos con gráficos exigen relacionar la
    información visual (números, tendencias) con las ideas expresadas en el
    texto.
+
+10. *(Alternativas — Idea general)* Read: *"Many teenagers use their phones before going to sleep. The blue light from the screen makes the brain think it is still day. As a result, they fall asleep later and feel tired at school."* What is the main idea?
+   a) Phones are too expensive for most teenagers.
+   b) Using phones before sleeping affects teenagers' sleep.
+   c) Teenagers like going to school in the morning.
+   d) The brain needs a lot of blue light at night.
+   **Respuesta correcta:** b) Using phones before sleeping affects teenagers' sleep.
+   **Retroalimentación:** La idea general es que *using phones before sleeping affects teenagers' sleep*: todo el texto explica cómo el teléfono antes de dormir retrasa el sueño; las otras opciones son ideas que el texto no dice o lo contradicen.
+
+11. *(Alternativas — Organizador)* In the text above, complete: *Cause: blue light from the screen → Effect: ___*
+   a) teenagers buy new phones
+   b) the brain thinks it is still day
+   c) teenagers go to school earlier
+   d) the screen turns off
+   **Respuesta correcta:** b) the brain thinks it is still day.
+   **Retroalimentación:** El texto dice explícitamente que la luz azul *makes the brain think it is still day*; eso, a su vez, retrasa el sueño.
 
 ---
 
@@ -459,6 +488,14 @@ asignaturas. La clave sigue siendo **organizar las ideas con conectores** y
    **Retroalimentación:** Esa oración combina preferencia (*I prefer*),
    comparación (*to buying plastic ones*) y una razón (*because*), cumpliendo
    con lo que pide el OA para escribir sobre problemas globales.
+
+9. *(Alternativas — Preferencias)* Choose the sentence that correctly expresses a preference with a reason.
+   a) I prefer read books than watch TV because quiet.
+   b) I prefer reading books to watching TV because it is relaxing.
+   c) I preferring books than TV.
+   d) I prefer books to watching TV because of I like them a lot.
+   **Respuesta correcta:** b) I prefer reading books to watching TV because it is relaxing.
+   **Retroalimentación:** La estructura es *I prefer + -ing + to + -ing + because + razón*. Las otras opciones tienen errores de forma verbal o de conector.
 
 ---
 

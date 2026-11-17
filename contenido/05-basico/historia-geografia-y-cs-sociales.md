@@ -727,6 +727,18 @@ Zona Austral, con hielo, fiordos y glaciares. *Paso a paso:* para leer este tipo
 identificamos primero la simbología (qué representa cada color) y luego ubicamos cada zona de
 norte a sur.
 
+**Ejemplo 4 — ¿Cuánta gente vive en cada zona natural?**
+
+| Zona | Población | Distribución |
+|---|---|---|
+| Norte Grande | Baja | Concentrada en ciudades de la costa (Arica, Iquique, Antofagasta) y en centros mineros; el desierto casi no tiene habitantes |
+| Norte Chico | Baja a media | En los valles transversales (Copiapó, La Serena, Ovalle), donde hay agua para cultivar |
+| Zona Central | **Muy alta** | La mayor parte de la población de Chile; solo la Región Metropolitana concentra cerca de 4 de cada 10 habitantes |
+| Zona Sur | Media | Ciudades (Concepción, Temuco, Puerto Montt) y mucha población rural |
+| Zona Austral | **Muy baja** | Pocos habitantes en grandes territorios, sobre todo en Coyhaique y Punta Arenas |
+
+La población se concentra donde el clima es templado, hay agua y tierras fértiles, como en la Zona Central.
+
 #### Autoevaluación — OA 9
 
 **1. (Alternativas)** ¿Qué zona natural de Chile se caracteriza por un clima desértico y por

@@ -1,12 +1,12 @@
 ---
 asignatura: Matemática
 curso: 4° Básico
-oa_por_pregunta: {"1":"OA 1","2":"OA 3","3":"OA 3","4":"OA 5","5":"OA 6","6":"OA 7","7":"OA 8","8":"OA 9","9":"OA 9"}
+oa_por_pregunta: {"1":"OA 1","2":"OA 3","3":"OA 3","4":"OA 5","5":"OA 6","6":"OA 7","7":"OA 8","8":"OA 9","9":"OA 9","10":"OA 1","11":"OA 5","12":"OA 6","13":"OA 7","14":"OA 8"}
 eje: Números y Operaciones (OA 1, 3, 5, 6, 7, 8, 9)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Números y Operaciones
 tiempo_sugerido: 20 a 25 minutos
-cantidad_preguntas: 9
+cantidad_preguntas: 14
 ultima_actualizacion: 2026-11-07
 ---
 
@@ -80,6 +80,41 @@ b) 10/8
 c) 3/8
 d) 4/0
 
+**Pregunta 10 (alternativas).** ¿Cómo se escribe con cifras «cinco mil treinta»?
+
+a) 5.300
+b) 5.030
+c) 5.003
+d) 530
+
+**Pregunta 11 (alternativas).** ¿Cuál es el resultado de 214 × 3?
+
+a) 642
+b) 632
+c) 217
+d) 612
+
+**Pregunta 12 (alternativas).** Se reparten 84 lápices en 4 cajas en partes iguales. ¿Cuántos lápices hay en cada caja?
+
+a) 24
+b) 12
+c) 80
+d) 21
+
+**Pregunta 13 (alternativas).** Una entrada al cine cuesta $3.500. ¿Cuánto pagan 3 amigos en total?
+
+a) $6.500
+b) $10.000
+c) $10.500
+d) $9.500
+
+**Pregunta 14 (alternativas).** Una barra está dividida en 5 partes iguales y 2 están pintadas. ¿Qué fracción está pintada?
+
+a) 2/5
+b) 5/2
+c) 3/5
+d) 2/3
+
 ---
 
 ## Pauta de respuestas
@@ -93,3 +128,8 @@ d) 4/0
 7. **c) 1/6 < 1/3 < 1/2.** Con el mismo numerador 1, mientras más partes tiene el entero, más pequeña es cada parte: 1/6 < 1/3 < 1/2.
 8. **c) 5/6.** Como ambas fracciones tienen el mismo denominador, se suman los numeradores (2+3=5) y se mantiene el denominador. Sumar también los denominadores (5/12) es un error frecuente.
 9. a) 4/8. 7/8 − 3/8 = 4/8 (se restan los numeradores y se mantiene el denominador).
+10. **b) 5.030** — 5 unidades de mil, 0 centenas, 3 decenas y 0 unidades: 5.030.
+11. **a) 642** — 200 × 3 = 600, 10 × 3 = 30 y 4 × 3 = 12; 600 + 30 + 12 = 642.
+12. **d) 21** — 84 : 4 = 21, porque 4 × 21 = 84.
+13. **c) $10.500** — Se repite 3 veces el mismo precio: 3 × $3.500 = $10.500.
+14. **a) 2/5** — Hay 2 partes pintadas de un total de 5 partes iguales: 2/5.

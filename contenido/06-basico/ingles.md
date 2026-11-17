@@ -523,6 +523,12 @@ El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
 
 *Ejemplo:* *"Last summer we traveled by bus to the countryside. The farm was quiet and fun, but I was tired."* (El verano pasado viajamos en bus al campo. La granja era tranquila y entretenida, pero yo estaba cansado.)
 
+**Describir dónde están los lugares (ejemplo resuelto)**
+
+*"My town is small. The school is **next to** the park. The supermarket is **in front of** the school. The hospital is **between** the bank and the library. The bus stop is **behind** the church."*
+
+Preguntar y responder: *Where is the hospital?* → *It is between the bank and the library.*
+
 **Banco de autoevaluación**
 
 1. *(Alternativas — completar)* Complete with the present continuous: *"Look! The children ___ in the park right now."*
@@ -589,6 +595,14 @@ El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
    d) they camping
    **Respuesta correcta:** c) they are.
    **Retroalimentación:** La respuesta corta correcta a *Are they...?* es *Yes, they are.* o *No, they aren't.*
+
+9. *(Alternativas)* Read: *"The bakery is between the pharmacy and the bank."* Where is the bakery?
+   a) Al lado de la farmacia, solamente.
+   b) Entre la farmacia y el banco.
+   c) Detrás del banco.
+   d) Frente a la farmacia.
+   **Respuesta correcta:** b) Entre la farmacia y el banco.
+   **Retroalimentación:** *Between* significa «entre»: la panadería está en medio de los dos lugares.
 
 ---
 

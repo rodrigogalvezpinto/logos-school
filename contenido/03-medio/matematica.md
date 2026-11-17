@@ -276,6 +276,18 @@ Desde un punto exterior a una circunferencia se trazan dos secantes. Una tiene u
 
 Se aplica la relación: (externa 1)×(completa 1) = (externa 2)×(completa 2): 3×12 = 4×x → 36 = 4x → x = **9 cm**.
 
+**Ejemplo 4 — Verlo en el dibujo: ángulo central y ángulo inscrito**
+
+::plano::circulo O(0,0) r=5;poligono A(4,3) O(0,0) B(-4,3);poligono A(4,3) P(0,-5) B(-4,3)::
+
+El ángulo **central** ∠AOB (vértice en el centro O) y el ángulo **inscrito** ∠APB (vértice P sobre la circunferencia) abarcan el **mismo arco AB**, el de arriba. En este dibujo ∠AOB ≈ 106° y ∠APB ≈ 53°: el inscrito mide exactamente la mitad. Si movieras P a cualquier otro punto del arco de abajo, ∠APB seguiría midiendo 53°.
+
+**Ejemplo 5 — Verlo en el dibujo: dos cuerdas que se cortan**
+
+::plano::circulo O(0,0) r=5;poligono C(-4,3) D(3,-4);poligono E(4,3) F(-3,-4);punto P(0,-1)::
+
+Las cuerdas CD y EF se cortan en P. Midiendo en el dibujo: CP ≈ 5,66 y PD ≈ 4,24; EP ≈ 5,66 y PF ≈ 4,24. Se cumple CP · PD = EP · PF (los dos productos dan 24). La relación vale para cualquier par de cuerdas que se corten, aunque sus segmentos sean distintos.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Un ángulo central mide 130°. ¿Cuánto mide el arco que subtiende?

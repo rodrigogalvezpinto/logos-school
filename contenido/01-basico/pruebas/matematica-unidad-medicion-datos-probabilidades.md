@@ -1,12 +1,12 @@
 ---
 asignatura: Matemática
 curso: 1° Básico
-oa_por_pregunta: {"1":"OA 18","2":"OA 18","3":"OA 18","4":"OA 19","5":"OA 19","6":"OA 19","7":"OA 20","8":"OA 19"}
+oa_por_pregunta: {"1":"OA 18","2":"OA 18","3":"OA 18","4":"OA 19","5":"OA 19","6":"OA 19","7":"OA 20","8":"OA 19","9":"OA 20"}
 eje: Medición y Datos y Probabilidades
 tipo: Prueba de unidad
 título: Prueba de Unidad — Medición y Datos y Probabilidades
 tiempo_sugerido: 15 minutos
-cantidad_preguntas: 8
+cantidad_preguntas: 9
 fuente: contenido/01-basico/matematica.md (OA 18, 19, 20)
 ultima_actualizacion: 2026-11-07
 ---
@@ -74,6 +74,13 @@ a) La roja
 b) La verde
 c) Las dos tienen la misma cantidad
 
+**Pregunta 9 (alternativas).** En un pictograma, cada 🙂 representa 1 niño. La fila «Manzana 🍎» tiene 🙂🙂🙂🙂 y la fila «Plátano 🍌» tiene 🙂🙂. ¿Cuántos niños más prefieren manzana que plátano?
+
+a) 4
+b) 6
+c) 2
+d) 3
+
 ---
 
 ## Pauta de respuestas
@@ -86,3 +93,4 @@ c) Las dos tienen la misma cantidad
 6. c) La pelota — tiene 5 marcas, más que la escondida (4) y la cuerda (2).
 7. **c) 4.** Junto a "Frutilla" hay 4 dibujos, y cada dibujo es un niño: 4 niños prefieren la frutilla.
 8. **b) La verde.** 8 es más que 5, así que más niños tienen mochila verde.
+9. **c) 2** — Manzana tiene 4 y plátano 2: 4 − 2 = 2 niños más.

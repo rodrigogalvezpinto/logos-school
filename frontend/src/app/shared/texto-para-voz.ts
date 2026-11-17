@@ -8,12 +8,14 @@
  */
 import { RE_GRAFICO } from './graficos';
 import { RE_MAPA } from './mapas';
+import { RE_PLANO } from './plano';
 
 const MARCADORES_SOLO_DIBUJO = [
   /::posicion::[^:\s]+::[a-z-]+::[^:\s]+::/g,
   /::fila::(?:[^:\s]+::){2,6}/g,
   RE_GRAFICO, // barras, líneas, circular y cajón: se miran, no se leen
   RE_MAPA,
+  RE_PLANO,
   /::regla::\d{1,2}::\d{1,2}::/g,
   /::largo::[A-Z]::\d{1,2}::[A-Z]::\d{1,2}::/g,
   /::contar::[^:]+::\d{1,2}::/g,

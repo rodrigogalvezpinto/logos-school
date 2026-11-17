@@ -548,6 +548,12 @@ con animales o plantas conocidas en Europa, o adopta palabras indígenas. *Paso 
 relacionamos este ejemplo con el "desafío de representar una nueva realidad" mencionado en el
 objetivo.
 
+**Ejemplo 4 — Impacto económico y científico de la Conquista en Europa**
+
+- **Economía:** la plata de **Potosí** (Bolivia) y de Zacatecas (México) llegó a Europa en enormes cantidades. Hizo subir los precios (la «revolución de los precios» del siglo XVI) y financió el comercio europeo con Asia.
+- **Intercambio de productos:** a Europa llegaron la papa, el maíz, el tomate, el cacao y el tabaco; la papa ayudó a alimentar a una población creciente. A América llegaron el trigo, la vid, el caballo, la vaca y también enfermedades como la viruela.
+- **Ciencia:** el «Nuevo Mundo» desmintió ideas de los sabios antiguos, que no conocían ese continente. Impulsó la cartografía, la navegación y el estudio de plantas y animales desconocidos, y dio fuerza a la observación directa como forma de conocer.
+
 #### Autoevaluación — OA 7
 
 **1. (Alternativas)** ¿Qué postura defendió Bartolomé de las Casas en el debate de Valladolid?

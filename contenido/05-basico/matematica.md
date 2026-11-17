@@ -66,6 +66,12 @@ Un estadio recibió 38.647 espectadores en un partido. Aproxima esta cantidad a 
 
 38.647 está entre 38.000 y 39.000. Como 647 es más cercano a 1.000 que a 0, se aproxima hacia arriba: **39.000 espectadores**, aproximadamente.
 
+**Ejemplo 4 — Ordenar una lista de números grandes**
+
+Ordena de menor a mayor las visitas que recibieron cuatro museos en un año: Museo A 425.725; Museo B 302.931; Museo C 315.732; Museo D 245.902.
+
+Todos tienen 6 dígitos, así que se comparan las centenas de mil: 4, 3, 3 y 2. El Museo D (2) es el menor y el Museo A (4) el mayor. B y C empatan en 3; se mira la decena de mil: 0 en B y 1 en C, así que B es menor. Orden creciente: **245.902 < 302.931 < 315.732 < 425.725**. Decreciente: al revés.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿Cuál es el valor posicional del dígito 6 en el número 6.412.098?

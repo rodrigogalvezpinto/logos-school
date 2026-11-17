@@ -35,7 +35,18 @@ ES = {
     "Switzerland": "Suiza", "Germany": "Alemania", "Czechia": "Chequia", "Slovakia": "Eslovaquia", "Poland": "Polonia",
     "Belgium": "Bélgica", "Luxembourg": "Luxemburgo", "Russia": "Rusia", "Georgia": "Georgia", "Iraq": "Irak",
     "Saudi Arabia": "Arabia Saudita", "Andorra": "Andorra", "Liechtenstein": "Liechtenstein", "Monaco": "Mónaco",
-    "San Marino": "San Marino", "Vatican": "Vaticano", "Guernsey": "_islas", "Jersey": "_islas", "Cayman Is.": "_islas",
+    "San Marino": "San Marino", "Vatican": "Vaticano",
+    # Mundo (2026-11-17): Guerra Fría y continentes
+    "China": "China", "India": "India", "Australia": "Australia", "Japan": "Japón", "United Kingdom": "Reino Unido",
+    "North Korea": "Corea del Norte", "South Korea": "Corea del Sur", "Vietnam": "Vietnam", "Afghanistan": "Afganistán",
+    "Iran": "Irán", "South Africa": "Sudáfrica", "Kazakhstan": "Kazajistán", "Mongolia": "Mongolia",
+    "Indonesia": "Indonesia", "Dem. Rep. Congo": "R. D. del Congo", "Nigeria": "Nigeria", "Ethiopia": "Etiopía",
+    "Sudan": "Sudán", "Niger": "Níger", "Mali": "Malí", "Chad": "Chad", "Angola": "Angola", "Norway": "Noruega",
+    "Sweden": "Suecia", "Finland": "Finlandia", "Madagascar": "Madagascar", "New Zealand": "Nueva Zelanda",
+    "Belarus": "Bielorrusia", "Lithuania": "Lituania", "Latvia": "Letonia", "Estonia": "Estonia",
+    "Uzbekistan": "Uzbekistán", "Turkmenistan": "Turkmenistán", "Kyrgyzstan": "Kirguistán", "Tajikistan": "Tayikistán",
+    "Azerbaijan": "Azerbaiyán", "Armenia": "Armenia", "Netherlands": "Países Bajos", "Denmark": "Dinamarca",
+    "Iceland": "Islandia", "Guernsey": "_islas", "Jersey": "_islas", "Cayman Is.": "_islas",
 }
 
 # Países agregados para el mapa del Mediterráneo: no se dibujan en las regiones americanas.
@@ -50,7 +61,7 @@ SOLO_MEDITERRANEO = {v for k, v in ES.items() if k in (
 CENTROS_FIJOS = {"Chile": (-30.5, -70.8), "Estados Unidos": (39, -98), "Canadá": (58, -105), "Ecuador": (-1.5, -78.3),
                  "Argentina": (-35, -65), "Brasil": (-10, -52), "México": (23.5, -102.5), "Perú": (-9.5, -75),
                  "Francia": (46.5, 2.5), "Rusia": (48, 40), "Italia": (42.8, 12.6), "Grecia": (39.3, 22),
-                 "Noruega": (61, 9)}
+                 "Noruega": (61, 9), "China": (35, 103), "India": (22, 79), "Australia": (-25, 134)}
 
 
 def centroide(r):
@@ -71,6 +82,7 @@ REGIONES = {
     "chile": (-77, -64, -56.5, -17, 520, 0.35),
     "mesoamerica": (-106, -76, 6, 25, 380, 0.45),
     "mediterraneo": (-11, 42, 29, 50, 380, 0.45),
+    "mundo": (-170, 180, -58, 80, 300, 1.0),
 }
 
 
@@ -151,7 +163,9 @@ def main() -> None:
         for g in geoms:
             es = ES.get(g["properties"]["name"])
             if not es:
-                continue
+                if nombre != "mundo":
+                    continue
+                es = "_" + g["properties"]["name"]  # en el mundo se dibujan todos, sin rótulo
             americana = nombre in ("america", "sudamerica", "chile", "mesoamerica")
             if americana and es in SOLO_MEDITERRANEO:
                 continue  # p. ej., la punta de Rusia o las Azores no deben aparecer en el mapa de América

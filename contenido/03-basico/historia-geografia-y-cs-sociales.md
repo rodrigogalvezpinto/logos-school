@@ -465,6 +465,12 @@ finalmente al Polo Sur. *Paso a paso:* relacionamos la distancia a la línea del
 temperatura: mientras más cerca del Ecuador, más calor; mientras más cerca de los polos, más
 frío.
 
+**Ejemplo 4 — El planeta en un mapa**
+
+::mapa::mundo::América@-5,-60;Europa@50,15;África@5,20;Asia@45,90;Oceanía@-25,134;Océano Pacífico@0,-150;Océano Atlántico@15,-40;Océano Índico@-20,75::lineas=si;rosa=si::
+
+La línea roja es el **Ecuador**: divide la Tierra en hemisferio **norte** (arriba) y hemisferio **sur** (abajo). Las líneas azules son los **trópicos** (de Cáncer al norte y de Capricornio al sur) y los **círculos polares**. Chile está en el hemisferio sur, en América, junto al océano Pacífico; el Trópico de Capricornio cruza el norte de Chile, cerca de Antofagasta. La **Antártica**, el sexto continente, queda bajo el borde inferior del mapa, alrededor del polo sur.
+
 #### Autoevaluación — OA 7
 
 **1. (Alternativas)** ¿Qué es la línea del Ecuador?
@@ -641,6 +647,14 @@ lluvia y el calor húmedo.
 país, donde vive la mayoría de la población— se ubica en la zona templada, con sus cuatro
 estaciones del año, mientras que el extremo sur, cerca de la Antártica, tiene un clima mucho
 más frío.
+
+**Ejemplo 4 — Las zonas climáticas en el mapa**
+
+::mapa::mundo::Cálida@0,20;Templada@45,-100;Templada@-38,-65;Fría@72,90::lineas=si::
+
+- **Zona cálida:** entre los dos trópicos, a ambos lados del Ecuador. Hace calor todo el año.
+- **Zonas templadas:** entre cada trópico y su círculo polar. Tienen cuatro estaciones marcadas; casi todo Chile está en la zona templada del sur.
+- **Zonas frías:** más allá de los círculos polares, cerca de los polos. Hace frío casi todo el año.
 
 #### Autoevaluación — OA 8
 

@@ -145,6 +145,21 @@ describe('MarkdownPipe - marcadores visuales para 1° básico', () => {
     expect(medi).not.toContain('Italia');                             // sin nombres: no delata la respuesta
   });
 
+  it('::mapa:: del mundo con líneas imaginarias y de Chile con regiones (2026-11-17)', () => {
+    const mundo = html('::mapa::mundo::A@Estados Unidos;B@Rusia::lineas=si;nombres=si::');
+    expect(mundo).toContain('Trópico de Capricornio');
+    expect(mundo).toContain('Ecuador');
+    expect(html('::mapa::chile::::regiones=si::')).toContain('Magallanes');
+  });
+
+  it('::plano:: dibuja polígonos, circunferencias y rayos de una homotecia', () => {
+    const p = html("::plano::poligono A(1,1) B(2,1) C(1,2);poligono A'(2,2) B'(4,2) C'(2,4);segmento O(0,0) B'(4,2);circulo M(-2,1) r=1.5::");
+    expect(p).toContain('<polygon');
+    expect(p).toContain('<circle');
+    expect(p).toMatch(/A(?:'|&#39;|’)</);
+    expect(p).not.toContain('::plano::');
+  });
+
   it('::mapa:: con un país desconocido no dibuja nada (error visible en la revisión)', () => {
     expect(html('::mapa::sudamerica::A@Atlántida::')).not.toContain('<svg');
   });

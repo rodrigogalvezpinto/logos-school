@@ -297,6 +297,12 @@ Se comparan dos modelos para el área de manchas de un cultivo bacteriano en fun
 
 En el modelo f(r)=3r², si el radio se triplica (r → 3r): f(3r) = 3(3r)² = 3×9r² = 9×(3r²) = 9×f(r). El área se multiplica exactamente por 9, **consistente con lo observado**. Esto confirma que el exponente n=2 es adecuado para este fenómeno, ya que el área escala con el cuadrado del radio.
 
+**Ejemplo 4 — El gráfico de la función seno, un modelo periódico**
+
+::linea::0°=0;30°=0,5;60°=0,87;90°=1;120°=0,87;150°=0,5;180°=0;210°=-0,5;240°=-0,87;270°=-1;300°=-0,87;330°=-0,5::eje=si;x=ángulo;y=sen x::
+
+La función f(x) = sen x sube de 0 a 1 (en 90°), baja a −1 (en 270°) y vuelve a 0 en 360°, donde todo se repite: su **periodo** es 360° y su **amplitud** es 1. Por eso modela fenómenos que se repiten, como la altura de una cabina en una rueda de la fortuna o las mareas. Comparación con otros modelos: una función lineal o exponencial crece siempre; la seno **oscila** entre un máximo y un mínimo. Si la marea en un puerto es h(t) = 2 + 1,5 · sen(30° · t), con *t* en horas, el nivel varía entre 2 − 1,5 = **0,5 m** y 2 + 1,5 = **3,5 m**, y la marea alta se repite cada 360° ÷ 30° = **12 horas**.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿Cuál de las siguientes es una función potencia con exponente entero negativo?

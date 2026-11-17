@@ -182,6 +182,10 @@ Un medicamento se elimina del cuerpo a un ritmo tal que cada hora queda la mitad
 
 Cantidad restante = 80 × (1/2)³ = 80 × 1/8 = **10 mg**. El exponente 3 representa las 3 horas transcurridas, y la base 1/2 representa que la cantidad se reduce a la mitad en cada período.
 
+**Ejemplo 4 — Crecimiento y decrecimiento con potencias**
+
+Un cultivo de bacterias se **duplica** cada hora; parte con 500 bacterias. Después de *n* horas hay 500 · 2ⁿ: a las 3 horas, 500 · 2³ = **4.000**. Un remedio, en cambio, se reduce a la **mitad** cada 6 horas en la sangre; de 400 mg quedan 400 · (½)ⁿ después de *n* periodos: tras 12 horas (2 periodos), 400 · (½)² = 400 · ¼ = **100 mg**. Con exponente entero negativo se puede ir hacia atrás: una hora *antes* de empezar el cultivo había 500 · 2⁻¹ = 500 · ½ = 250 bacterias.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿Cuál es el valor de 2⁻³?
@@ -290,6 +294,12 @@ Aplicando la fórmula (a+b)(a−b)=a²−b², con a=2x y b=5: (2x+5)(2x−5) = (
 Factoriza la expresión x² − 16.
 
 Se reconoce como una diferencia de cuadrados (a²−b²), donde a²=x² (a=x) y b²=16 (b=4). Aplicando la fórmula al revés: x² − 16 = **(x+4)(x−4)**.
+
+**Ejemplo 4 — Completar el cuadrado de un binomio y factorizar**
+
+¿Qué número hay que sumar a x² + 6x para obtener un cuadrado de binomio? En (x + a)² = x² + 2ax + a², el término 2ax es 6x, así que a = 3 y falta a² = **9**: x² + 6x + 9 = (x + 3)². Con áreas: un cuadrado x·x y dos rectángulos 3·x forman una figura a la que le falta una esquina de 3·3 = 9 para ser un cuadrado de lado x + 3.
+
+Al revés, **factorizar** en una situación concreta: un terreno rectangular tiene área x² − 25 m². Como es una diferencia de cuadrados, x² − 25 = (x + 5)(x − 5): sus lados miden x + 5 y x − 5 metros.
 
 #### Preguntas de autoevaluación
 
@@ -508,6 +518,18 @@ k = OP'/OP = 10/4 = **2,5**. La figura se amplió 2,5 veces.
 Una cámara fotográfica proyecta la imagen de un edificio de 20 m de altura como una imagen de 2 cm en el sensor. Si el factor de homotecia (reducción) aplicado es de 1/1.000, verifica que esta relación es consistente.
 
 20 m = 2.000 cm. Aplicando el factor: 2.000 cm × (1/1.000) = **2 cm**, que coincide con la altura de la imagen en el sensor. La cámara actúa como una homotecia de reducción, con centro aproximado en el lente.
+
+**Ejemplo 4 — Homotecia dibujada en el plano (k = 2)**
+
+::plano::punto O(0,0);poligono A(1,1) B(3,1) C(1,2);poligono A'(2,2) B'(6,2) C'(2,4);segmento O(0,0) A'(2,2);segmento O(0,0) B'(6,2);segmento O(0,0) C'(2,4)::
+
+El triángulo ABC se transforma con centro O(0,0) y factor k = 2: cada coordenada se multiplica por 2 y A(1,1) → A'(2,2), B(3,1) → B'(6,2), C(1,2) → C'(2,4). Las líneas punteadas muestran la construcción: **cada punto, su imagen y el centro están en la misma recta**, y la imagen queda al doble de distancia del centro. El lado AB mide 2 y A'B' mide 4: los lados se duplican, los ángulos no cambian (las figuras son semejantes) y el área se multiplica por k² = 4.
+
+**Ejemplo 5 — Homotecia con factor negativo (k = −½)**
+
+::plano::punto O(0,0);poligono A(2,2) B(4,2) C(2,4);poligono A'(-1,-1) B'(-2,-1) C'(-1,-2);segmento A(2,2) A'(-1,-1);segmento B(4,2) B'(-2,-1);segmento C(2,4) C'(-1,-2)::
+
+Con k = −½: A(2,2) → A'(−1,−1), B(4,2) → B'(−2,−1), C(2,4) → C'(−1,−2). Como k es negativo, la imagen queda **al otro lado del centro** e invertida; como |k| < 1, es más pequeña (los lados miden la mitad). Las rectas que unen cada punto con su imagen se cruzan en el centro O: así se encuentra el centro cuando no lo dan.
 
 #### Preguntas de autoevaluación
 

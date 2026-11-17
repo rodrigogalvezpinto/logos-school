@@ -150,9 +150,9 @@ def test_importacion_completa_en_memoria_conserva_banco_y_asociaciones(capsys):
         print({"curso": detalle_curso, "resumen": resumen[detalle_curso], "pendientes": pendientes})
     else:
         print(resumen)
-    assert total_banco == 3154  # 2026-11-17: +8 preguntas (ecuaciones, inecuaciones, función cuadrática) por análisis de cobertura
-    assert total_evaluaciones == 3535  # 2026-11-17: +500 por los 20 simulacros Forma A de 5.°–8.° básico
-    assert total_vinculadas_unidad == 1825
+    assert total_banco == 3165  # 2026-11-17: +8 (ecuaciones, cuadrática) y +11 de Inglés por análisis de cobertura
+    assert total_evaluaciones == 3563  # 2026-11-17: +500 simulacros Forma A 5.°–8.°; +28 práctica de Matemática 1.°–6.° básico
+    assert total_vinculadas_unidad == 1853
     assert all(total == vinculadas for conteos in resumen.values() for total, vinculadas in conteos.values()), resumen
 
 
@@ -369,6 +369,6 @@ def test_snapshot_corpus_actual_con_pautas_y_claves_completas():
                             sin_oa_examen.setdefault(str(ruta.relative_to(CONTENIDO)), []).append(pregunta.numero)
     print(totales)
     print({"examenes_sin_oa": sin_oa_examen})
-    assert (totales["guias"], totales["oa"], totales["banco"]) == (58, 410, 3154)
-    assert (totales["pruebas"], totales["preguntas_pruebas"]) == (156, 1825)
+    assert (totales["guias"], totales["oa"], totales["banco"]) == (58, 410, 3165)
+    assert (totales["pruebas"], totales["preguntas_pruebas"]) == (156, 1853)
     assert (totales["examenes"], totales["preguntas_examenes"]) == (70, 1710)  # 2026-11-17: +20 simulacros Forma A (5.°–8.° básico)

@@ -366,6 +366,10 @@ Una cancha rectangular mide 12 m de largo por 3 m de ancho. Se quiere transforma
 
 Área del rectángulo: \( 12 \times 3 = 36\text{ m}^2 \). Lado del cuadrado equivalente: \( \sqrt{36} = \mathbf{6\text{ m}} \). Perímetro del cuadrado: \( 4 \times 6 = \mathbf{24\text{ m}} \).
 
+**Ejemplo 4 — Raíz cuadrada en ciencias**
+
+Cuando un objeto cae desde una altura *h* (en metros), llega al suelo con una velocidad aproximada de v = √(20 · h) metros por segundo. Si una pelota cae desde 5 m: v = √(20 · 5) = √100 = **10 m/s**. Desde 20 m: v = √400 = **20 m/s**. Fíjate en que cuadruplicar la altura solo **duplica** la velocidad: así se comporta la raíz cuadrada.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿Cuál es el valor de √81?

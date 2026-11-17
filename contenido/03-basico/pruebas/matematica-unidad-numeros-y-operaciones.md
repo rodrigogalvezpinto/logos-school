@@ -5,10 +5,10 @@ eje: Números y Operaciones (OA 2, 3, 5, 6, 8, 9, 10, 11)
 tipo: Prueba de unidad
 título: Prueba de Unidad — Números y Operaciones
 tiempo_sugerido: 20 a 25 minutos
-cantidad_preguntas: 10
+cantidad_preguntas: 16
 fuente: contenido/03-basico/matematica.md
 ultima_actualizacion: 2026-10-28
-oa_por_pregunta: {"1":"OA 2","2":"OA 3","3":"OA 5","4":"OA 6","5":"OA 6","6":"OA 8","7":"OA 9","8":"OA 9","9":"OA 10","10":"OA 11"}
+oa_por_pregunta: {"1":"OA 2","2":"OA 3","3":"OA 5","4":"OA 6","5":"OA 6","6":"OA 8","7":"OA 9","8":"OA 9","9":"OA 10","10":"OA 11","11":"OA 2","12":"OA 3","13":"OA 5","14":"OA 8","15":"OA 10","16":"OA 11"}
 ---
 
 # Prueba de Unidad: Números y Operaciones
@@ -16,7 +16,7 @@ oa_por_pregunta: {"1":"OA 2","2":"OA 3","3":"OA 5","4":"OA 6","5":"OA 6","6":"OA
 **Matemática — 3° Básico**
 
 Tiempo sugerido: 20-25 minutos
-Número de preguntas: 10
+Número de preguntas: 16
 
 Instrucciones: lee cada pregunta con calma. Puedes usar dibujos o material concreto (fichas, lápices) si te ayuda a pensar. Cuando termines, revisa tus respuestas.
 
@@ -86,6 +86,48 @@ a) 4/5
 b) 1/5
 c) Son iguales
 
+**Pregunta 11 (alternativas).** ¿Cómo se escribe con cifras «cuatrocientos seis»?
+
+a) 460
+b) 4006
+c) 406
+d) 46
+
+**Pregunta 12 (alternativas).** ¿Qué signo va en el recuadro? 508 ☐ 580
+
+a) <
+b) >
+c) =
+d) +
+
+**Pregunta 13 (alternativas).** ¿Qué número tiene 7 centenas, 2 decenas y 9 unidades?
+
+a) 927
+b) 792
+c) 279
+d) 729
+
+**Pregunta 14 (alternativas).** En una sala hay 6 filas con 7 sillas cada una. ¿Cuántas sillas hay?
+
+a) 42
+b) 13
+c) 36
+d) 48
+
+**Pregunta 15 (alternativas).** Sofía tiene $1.000 y compra un cuaderno de $650. ¿Cuánto vuelto recibe?
+
+a) $450
+b) $350
+c) $1.650
+d) $250
+
+**Pregunta 16 (alternativas).** Una cinta se divide en 3 partes iguales y Ana pinta 2 de ellas. ¿Qué fracción de la cinta pintó?
+
+a) 1/3
+b) 3/2
+c) 2/3
+d) 1/2
+
 ---
 
 ## Pauta de respuestas
@@ -100,3 +142,9 @@ c) Son iguales
 8. a) 6 — 36÷6=6.
 9. c) $3 000 — 750×4=3 000.
 10. a) 4/5 — mismo denominador (5); comparamos numeradores: 4 es mayor que 1.
+11. **c) 406** — 4 centenas, 0 decenas y 6 unidades: 406. El cero ocupa el lugar de las decenas.
+12. **a) <** — Las centenas son iguales (5); en las decenas, 0 < 8, por lo tanto 508 < 580.
+13. **d) 729** — 700 + 20 + 9 = 729.
+14. **a) 42** — 6 × 7 = 42. Sumar 6 + 7 = 13 no considera que cada fila repite 7 sillas.
+15. **b) $350** — $1.000 − $650 = $350.
+16. **c) 2/3** — Pintó 2 de las 3 partes iguales: 2/3.

@@ -433,6 +433,13 @@ derrocó al zar y dio origen, años después, a la URSS. *Paso a paso:* relacion
 guerra con una consecuencia geopolítica concreta y verificable: el rediseño del mapa político de
 Europa.
 
+**Ejemplo 4 — Consecuencias de la Primera Guerra Mundial en la sociedad**
+
+- **Mujeres en el trabajo:** con los hombres en el frente, millones de mujeres trabajaron en fábricas de municiones, transporte y oficinas. Ese aporte impulsó el **sufragio femenino** en la posguerra: Reino Unido (1918, parcial), Alemania (1918) y Estados Unidos (1920).
+- **Ampliación de la ciudadanía:** muchos países extendieron el voto a todos los hombres adultos, reconociendo a quienes habían combatido.
+- **Crisis económica:** los países europeos quedaron endeudados, con inflación (en Alemania, la hiperinflación de 1923) y con Estados Unidos como nueva potencia acreedora.
+- **Nuevo mapa:** cayeron los imperios alemán, austrohúngaro, ruso y otomano, y surgieron nuevos Estados en Europa del Este.
+
 #### Autoevaluación — OA 7
 
 **1. (Alternativas)** ¿Cuál de los siguientes factores se reconoce como un antecedente de largo

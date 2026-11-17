@@ -624,6 +624,20 @@ de velocidad en función del tiempo, la pendiente corresponde a la aceleración,
    5 km/h respecto del tren. Respecto de un observador en el suelo, la velocidad del
    pasajero es 100 km/h + 5 km/h = 105 km/h.
 
+**Ejemplo 1 — Leer gráficos posición–tiempo y velocidad–tiempo**
+
+::linea::0 s=0;1 s=4;2 s=8;3 s=12;4 s=12;5 s=12;6 s=6;7 s=0::eje=si;x=tiempo;y=posición (m)::
+
+Entre 0 y 3 s la recta sube con pendiente constante: el móvil avanza a **velocidad constante** de 12 m ÷ 3 s = 4 m/s. Entre 3 y 5 s la línea es horizontal: está **detenido** (velocidad 0). Entre 5 y 7 s la línea baja: **vuelve** al origen a 12 m ÷ 2 s = 6 m/s (velocidad −6 m/s).
+
+::linea::0 s=0;1 s=3;2 s=6;3 s=9;4 s=12::eje=si;x=tiempo;y=velocidad (m/s)::
+
+En un gráfico velocidad–tiempo, una recta que sube indica **aceleración constante**: aquí a = 12 m/s ÷ 4 s = 3 m/s². El área bajo la recta es la distancia recorrida: ½ · 4 s · 12 m/s = **24 m**.
+
+**Ejemplo 2 — Adición de velocidades de Galileo**
+
+Un pasajero camina a 1 m/s dentro de un tren que avanza a 20 m/s. Para alguien en el andén, si camina hacia adelante su velocidad es 20 + 1 = **21 m/s**; si camina hacia atrás, 20 − 1 = **19 m/s**. Para otro pasajero sentado, es solo 1 m/s. La velocidad depende del **sistema de referencia**, y para cambiar de sistema se suman o restan las velocidades.
+
 **Banco de preguntas de autoevaluación**
 
 1. *(Alternativas)* ¿Qué magnitud representa la pendiente de un gráfico de posición en
@@ -998,6 +1012,19 @@ electricidad, a diferencia del agua pura, que es un conductor eléctrico muy pob
    obtener 200 g de solución total, la concentración porcentual masa/masa es:
 
    $$ \%m/m = \frac{m_{\text{soluto}}}{m_{\text{solución}}} \times 100 = \frac{20\text{ g}}{200\text{ g}} \times 100 = 10\% \text{ m/m} $$
+
+**Ejemplo 1 — Soluciones en los tres estados**
+
+| Estado de la solución | Soluto en solvente | Ejemplo |
+|---|---|---|
+| Sólida | Sólido en sólido | Bronce (estaño en cobre), acero (carbono en hierro) |
+| Sólida | Gas en sólido | Hidrógeno disuelto en paladio |
+| Líquida | Sólido en líquido | Agua de mar (sal en agua) |
+| Líquida | Líquido en líquido | Vinagre (ácido acético en agua) |
+| Líquida | Gas en líquido | Bebida con gas (CO₂ en agua) |
+| Gaseosa | Gas en gas | El aire (oxígeno y otros gases en nitrógeno) |
+
+El estado de la solución es el del **solvente**, el componente que está en mayor cantidad.
 
 **Banco de preguntas de autoevaluación**
 
