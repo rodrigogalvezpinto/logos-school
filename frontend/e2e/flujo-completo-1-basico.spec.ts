@@ -144,7 +144,7 @@ test.describe.serial('Auditoría Integral y Flujo Real: 1° Básico (Apoderado y
     const contenido = page.locator('.contenido-guia');
     await expect(contenido).not.toBeEmpty();
     await expect(contenido).not.toContainText('###');
-    await expect(page.getByRole('button', { name: '🔊 Escuchar' })).toBeVisible();
+    await expect(page.getByRole('button', { name: 'Escuchar' })).toBeVisible();
     await expect(page.locator('.descargar-pdf')).toBeVisible();
 
     // Lectura con voz neuronal pregrabada (scripts/voz/generar_audios.sh): si el build trae los
@@ -152,7 +152,7 @@ test.describe.serial('Auditoría Integral y Flujo Real: 1° Básico (Apoderado y
     const hayAudios = await page.evaluate(async () => (await fetch('audio/es/manifest.json')).headers.get('content-type')?.includes('json') ?? false);
     if (hayAudios) {
       const pedido = page.waitForRequest(/\/audio\/es\/[0-9a-f]{16}\.m4a$/);
-      await page.getByRole('button', { name: '🔊 Escuchar' }).click();
+      await page.getByRole('button', { name: 'Escuchar' }).click();
       expect((await (await pedido).response())?.status()).toBe(200);
       await page.getByRole('button', { name: /Detener|Escuchar/ }).click();
     }

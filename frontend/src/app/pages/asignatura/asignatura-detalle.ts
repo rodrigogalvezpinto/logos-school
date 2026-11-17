@@ -4,11 +4,12 @@ import { ContenidoService, ObjetivoRespuesta } from '../../core/contenido.servic
 import { SesionService } from '../../core/sesion.service';
 import { estiloAsignatura } from '../../shared/estilo-asignatura';
 import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura';
+import { Emo } from '../../shared/emo';
 
 @Component({
   selector: 'app-asignatura-detalle',
   standalone: true,
-  imports: [RouterLink, IconoAsignatura],
+  imports: [Emo, RouterLink, IconoAsignatura],
   template: `
     <div class="cabecera" [style.background]="color()">
       <app-icono-asignatura [icono]="icono()" color="#ffffff" />
@@ -25,7 +26,7 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
       <input
         class="buscador"
         type="search"
-        placeholder="🔍 Buscar por palabra dentro de esta asignatura…"
+        placeholder="Buscar por palabra dentro de esta asignatura…"
         [value]="busqueda()"
         (input)="busqueda.set($any($event.target).value)"
       />
@@ -36,7 +37,7 @@ import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura'
           <div class="oa-card__info">
             <span class="oa-card__codigo">{{ oa.codigo_oficial }}</span>
             <h3>{{ oa.descripcion }}</h3>
-            <span class="oa-card__duracion">⏱️ ~{{ minutosDeLectura(oa.contenido_guia) }} min de lectura</span>
+            <span class="oa-card__duracion"><app-emo e="⏱️" /> ~{{ minutosDeLectura(oa.contenido_guia) }} min de lectura</span>
           </div>
           <div class="oa-card__acciones">
             <a class="btn btn--secundario" [routerLink]="['/alumno/estudiar', oa.id]">Estudiar guía</a>

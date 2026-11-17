@@ -94,6 +94,8 @@ def armar(ruta_b: Path, ruta_a: Path, preguntas: list[P], fila, reemplazos: dict
     fin = k + 1
     while fin < len(lineas) and lineas[fin].startswith("|"):
         fin += 1
+    for i, p in enumerate(preguntas, 1):  # una «|» en la explicación o la clave parte la fila de la pauta (P17 de 1.° medio, 2026-11-17)
+        assert "|" not in p.explicacion and "|" not in p.clave_texto(), f"pregunta {i}: «|» rompe la tabla de la pauta"
     nuevas = [fila(i, p, p.clave_texto().rstrip(".")) for i, p in enumerate(preguntas, 1)]  # sin «..» en la pauta
     cola = cola[:ip] + "\n".join(lineas[: k + 1] + nuevas + lineas[fin:])
     ruta_a.write_text(cabeza + cuerpo + cola, encoding="utf-8")

@@ -7,6 +7,7 @@ import { AgendaFamiliar, ApoderadoService } from '../../core/apoderado.service';
 import { AlertaRitmoEstudio, CeldaMapaCalor, EstimacionExamen, ObservacionHorario, PrediccionService } from '../../core/prediccion.service';
 import { SesionService } from '../../core/sesion.service';
 import { estiloAsignatura } from '../../shared/estilo-asignatura';
+import { Emo } from '../../shared/emo';
 
 const ETIQUETA_CONFIANZA: Record<string, string> = {
   sin_datos: 'Sin datos suficientes',
@@ -28,6 +29,7 @@ interface FilaHistorial {
 @Component({
   selector: 'app-notas',
   standalone: true,
+  imports: [Emo],
   template: `
     <div class="cabecera">
       <div>
@@ -73,7 +75,7 @@ interface FilaHistorial {
 
     @if (alertaRitmo(); as a) {
       <div class="tarjeta alerta-ritmo" [class.alerta-ritmo--ok]="!a.tiene_alerta">
-        <span class="alerta-ritmo__icono">{{ a.tiene_alerta ? '⚠️' : '✅' }}</span>
+        <span class="alerta-ritmo__icono"><app-emo [e]="a.tiene_alerta ? '⚠️' : '✅'" /></span>
         <div>
           <span class="alerta-ritmo__etiqueta">Ritmo de estudio</span>
           <p class="alerta-ritmo__mensaje">{{ a.mensaje }}</p>
@@ -99,7 +101,7 @@ interface FilaHistorial {
     @if (observacionHorario(); as oh) {
       @if (oh.tiene_observacion) {
         <div class="tarjeta observacion-horario">
-          <span class="observacion-horario__icono">🌙</span>
+          <span class="observacion-horario__icono"><app-emo e="🌙" /></span>
           <div>
             <span class="observacion-horario__etiqueta">Observación</span>
             <p class="observacion-horario__mensaje">{{ oh.mensaje }}</p>

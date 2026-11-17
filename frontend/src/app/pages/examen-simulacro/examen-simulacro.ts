@@ -2,14 +2,15 @@ import { Component, Input, inject, signal } from '@angular/core';
 import { EvaluacionRunner, PreguntaRunner } from '../../shared/evaluacion-runner/evaluacion-runner';
 import { EvaluacionesService, ConjuntoDetalle } from '../../core/evaluaciones.service';
 import { SesionService } from '../../core/sesion.service';
+import { Emo } from '../../shared/emo';
 
 @Component({
   selector: 'app-examen-simulacro',
   standalone: true,
-  imports: [EvaluacionRunner],
+  imports: [Emo, EvaluacionRunner],
   template: `
     <div class="examen-fondo">
-      <div class="examen-marca">🔒 Examen simulacro · Sin pausas</div>
+      <div class="examen-marca"><app-emo e="🔒" /> Examen simulacro · Sin pausas</div>
       @if (conjunto() && intentoId()) {
         <app-evaluacion-runner
           modo="examen"

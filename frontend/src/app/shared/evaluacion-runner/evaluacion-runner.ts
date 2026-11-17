@@ -7,6 +7,7 @@ import { DetallePregunta, EvaluacionesService } from '../../core/evaluaciones.se
 import { BotonEscuchar } from '../boton-escuchar/boton-escuchar';
 import { textoPreguntaParaVoz } from '../texto-para-voz';
 import { MarkdownPipe } from '../markdown.pipe';
+import { Emo } from '../emo';
 
 export type ModoEvaluacion = 'autoevaluacion' | 'prueba' | 'examen';
 type RevisionDesarrollo = 'correcta' | 'parcial' | 'incorrecta';
@@ -23,7 +24,7 @@ export interface PreguntaRunner {
 @Component({
   selector: 'app-evaluacion-runner',
   standalone: true,
-  imports: [FormsModule, BotonEscuchar, MarkdownPipe, NgTemplateOutlet],
+  imports: [Emo, FormsModule, BotonEscuchar, MarkdownPipe, NgTemplateOutlet],
   template: `
     <ng-template #revisionDesarrollo let-id>
       <fieldset class="revision-desarrollo">
@@ -73,7 +74,7 @@ export interface PreguntaRunner {
           <div class="runner__progreso">Pregunta {{ indiceActual() + 1 }} de {{ preguntas.length }}</div>
           <div class="runner__acciones-barra">
             @if (modo === 'examen') {
-              <span class="runner__cronometro">⏱ {{ tiempoRestanteTexto() }}</span>
+              <span class="runner__cronometro"><app-emo e="⏱" /> {{ tiempoRestanteTexto() }}</span>
             }
             <button class="runner__finalizar" (click)="intentarEnviar()">Finalizar intento</button>
           </div>
@@ -166,7 +167,7 @@ export interface PreguntaRunner {
                 [disabled]="!respuestas()[preguntaActual.id]?.trim()"
                 (click)="solicitarAyuda(preguntaActual.id)"
               >
-                💡 Comprobar respuesta / Ver explicación
+                <app-emo e="💡" /> Comprobar respuesta / Ver explicación
               </button>
             } @else {
               <div class="feedback feedback--revelado">
@@ -223,7 +224,7 @@ export interface PreguntaRunner {
             <p class="reportar-error__confirmacion">✓ Gracias, revisaremos esta pregunta.</p>
           } @else {
             <button class="reportar-error__link" (click)="mostrandoFormularioError.set(preguntaActual.id)">
-              ⚠ Reportar error en esta pregunta
+              <app-emo e="⚠" /> Reportar error en esta pregunta
             </button>
           }
         </div>
@@ -245,14 +246,14 @@ export interface PreguntaRunner {
             
             @if (faltantes().length > 0) {
               <p class="aviso-faltantes">
-                ⚠️ Te falta responder <strong>{{ faltantes().length }}</strong> pregunta{{ faltantes().length > 1 ? 's' : '' }}
+                <app-emo e="⚠️" /> Te falta responder <strong>{{ faltantes().length }}</strong> pregunta{{ faltantes().length > 1 ? 's' : '' }}
                 (Pregunta{{ faltantes().length > 1 ? 's' : '' }} {{ faltantesTexto() }}).
               </p>
             }
             
             @if (marcadas().size > 0) {
               <p class="aviso-marcadas">
-                📌 Dejaste <strong>{{ marcadas().size }}</strong> pregunta{{ marcadas().size > 1 ? 's' : '' }} marcada{{ marcadas().size > 1 ? 's' : '' }} para revisar
+                <app-emo e="📌" /> Dejaste <strong>{{ marcadas().size }}</strong> pregunta{{ marcadas().size > 1 ? 's' : '' }} marcada{{ marcadas().size > 1 ? 's' : '' }} para revisar
                 (Pregunta{{ marcadas().size > 1 ? 's' : '' }} {{ marcadasTexto() }}).
               </p>
             }
@@ -544,8 +545,11 @@ export class EvaluacionRunner implements OnInit {
   empezar() {
     this.empezada.set(true);
     if (this.modo === 'examen') {
+      // El tiempo se calcula contra una hora de término fija, no restando 1 s por tic (2026-11-17): los navegadores
+      // frenan los temporizadores de las pestañas en segundo plano, y el cronómetro corría más lento que el reloj real.
+      const fin = Date.now() + this.tiempoRestanteSeg() * 1000;
       this.cronometroId = setInterval(() => {
-        this.tiempoRestanteSeg.update((s) => Math.max(0, s - 1));
+        this.tiempoRestanteSeg.set(Math.max(0, Math.ceil((fin - Date.now()) / 1000)));
         if (this.tiempoRestanteSeg() === 0) {
           this.confirmarEnvio(); // se agota el tiempo → envío automático, sin excepción
         }

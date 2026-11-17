@@ -34,6 +34,7 @@ test.describe('Auto-envío del examen al agotarse el tiempo', () => {
 
     // No se responde ninguna pregunta a propósito — el auto-envío debe ocurrir igual, sin
     // el aviso de "quedan preguntas sin responder" que sí aparece en el envío manual.
+    // El cronómetro calcula el tiempo contra una hora de término fija: basta un salto del reloj (un solo tic).
     await page.clock.fastForward('02:00:00'); // cubre cualquier duración real (máx. 90 min)
 
     await expect(page.locator('.resultado')).toBeVisible({ timeout: 10_000 });

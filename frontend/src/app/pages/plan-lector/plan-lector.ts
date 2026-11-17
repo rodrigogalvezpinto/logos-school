@@ -1,10 +1,12 @@
 import { Component, inject, signal } from '@angular/core';
 import { LibroPlanLector, PlanLectorService } from '../../core/plan-lector.service';
 import { SesionService } from '../../core/sesion.service';
+import { Emo } from '../../shared/emo';
 
 @Component({
   selector: 'app-plan-lector',
   standalone: true,
+  imports: [Emo],
   template: `
     <h1>Plan Lector</h1>
     <p class="subtitulo">Una selección de libros recomendados para tu nivel — para leer a tu ritmo, fuera de las guías de Lenguaje.</p>
@@ -13,7 +15,7 @@ import { SesionService } from '../../core/sesion.service';
       <div class="grid-libros">
         @for (libro of libros(); track libro.id) {
           <div class="libro-card">
-            <div class="libro-card__portada">📖</div>
+            <div class="libro-card__portada"><app-emo e="📖" /></div>
             <div class="libro-card__info">
               <h3>{{ libro.titulo }}</h3>
               <p class="libro-card__autor">{{ libro.autor }}</p>

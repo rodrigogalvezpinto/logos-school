@@ -79,7 +79,7 @@ test.describe('Mis Logros — gamificación (Fase 1, ítem 2.2)', () => {
     // menos 1 día (profundización de gamificación, 2026-08-15, ver
     // planificacion/25-analisis-competencia-brincus.md).
     await expect(page.locator('.resumen__racha')).toBeVisible();
-    await expect(page.locator('.resumen__racha-num')).toContainText('🔥');
+    await expect(page.locator('.resumen__racha-num img.emo')).toBeVisible(); // la llama 🔥 se dibuja como imagen (2026-11-17)
   });
 
   test('la grilla de insignias muestra las 15, con insignias desbloqueadas y bloqueadas', async ({ page }) => {

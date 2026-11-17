@@ -1,6 +1,7 @@
 import { Component, inject, signal } from '@angular/core';
 import { Notificacion, NotificacionesService } from '../../core/notificaciones.service';
 import { SesionService } from '../../core/sesion.service';
+import { Emo } from '../emo';
 
 const ICONO_POR_TIPO: Record<Notificacion['tipo'], string> = {
   comunicado: '📣',
@@ -16,6 +17,7 @@ const ICONO_POR_TIPO: Record<Notificacion['tipo'], string> = {
 @Component({
   selector: 'app-campana-notificaciones',
   standalone: true,
+  imports: [Emo],
   template: `
     <div class="campana">
       <button
@@ -25,7 +27,7 @@ const ICONO_POR_TIPO: Record<Notificacion['tipo'], string> = {
         [attr.aria-expanded]="abierto()"
         aria-label="Notificaciones"
       >
-        🔔
+        <app-emo e="🔔" />
         @if (notificaciones().length) {
           <span class="campana__badge">{{ notificaciones().length }}</span>
         }
@@ -39,7 +41,7 @@ const ICONO_POR_TIPO: Record<Notificacion['tipo'], string> = {
             <ul class="campana__lista">
               @for (n of notificaciones(); track n.fecha + n.titulo) {
                 <li>
-                  <span class="campana__icono">{{ icono(n.tipo) }}</span>
+                  <span class="campana__icono"><app-emo [e]="icono(n.tipo)" /></span>
                   <div>
                     <p class="campana__titulo">{{ n.titulo }}</p>
                     <p class="campana__detalle">{{ n.detalle }}</p>

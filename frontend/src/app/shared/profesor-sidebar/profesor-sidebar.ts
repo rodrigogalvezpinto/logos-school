@@ -2,11 +2,12 @@ import { Component, Input, Output, EventEmitter, inject } from '@angular/core';
 import { Router, RouterLink, RouterLinkActive } from '@angular/router';
 import { Logo } from '../logo/logo';
 import { SesionProfesorService } from '../../core/sesion-profesor.service';
+import { Emo } from '../emo';
 
 @Component({
   selector: 'app-profesor-sidebar',
   standalone: true,
-  imports: [RouterLink, RouterLinkActive, Logo],
+  imports: [Emo, RouterLink, RouterLinkActive, Logo],
   template: `
     @if (abierto) {
       <div class="sidebar__backdrop" (click)="cerrar.emit()"></div>
@@ -18,12 +19,12 @@ import { SesionProfesorService } from '../../core/sesion-profesor.service';
       </div>
       <nav class="sidebar__nav">
         <a class="sidebar__item" routerLink="/profesor/dashboard" routerLinkActive="sidebar__item--activo" (click)="cerrar.emit()">
-          <span class="sidebar__icono">📚</span><span>Mis Cursos</span>
+          <span class="sidebar__icono"><app-emo e="📚" /></span><span>Mis Cursos</span>
         </a>
       </nav>
       <div class="sidebar__pie">
         <a class="sidebar__item" href="#" (click)="cerrarSesion($event)">
-          <span class="sidebar__icono">🚪</span><span>Cerrar sesión</span>
+          <span class="sidebar__icono"><app-emo e="🚪" /></span><span>Cerrar sesión</span>
         </a>
       </div>
     </aside>

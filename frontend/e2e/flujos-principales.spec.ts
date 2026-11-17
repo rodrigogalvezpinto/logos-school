@@ -77,7 +77,7 @@ test.describe('Panel del Alumno — contenido real', () => {
     await page.getByRole('link', { name: 'Estudiar guía' }).first().click();
     await expect(page).toHaveURL(/estudiar\/\d+/);
     await expect(page.locator('.contenido-guia')).not.toBeEmpty();
-    await expect(page.getByRole('button', { name: '🔊 Escuchar' })).toBeVisible();
+    await expect(page.getByRole('button', { name: 'Escuchar' })).toBeVisible();
     // El contenido se escribe en Markdown y debe renderizarse como HTML real, no como
     // texto plano con "###"/"**" literales (bug encontrado simulando un alumno de 1° básico).
     await expect(page.locator('.contenido-guia').locator('h1, h2, h3, p')).not.toHaveCount(0);
@@ -87,7 +87,7 @@ test.describe('Panel del Alumno — contenido real', () => {
     await expect(page).toHaveURL(/autoevaluacion\/\d+/);
     await page.getByRole('button', { name: 'Comenzar' }).click();
     await expect(page.locator('.pregunta__enunciado')).not.toBeEmpty();
-    await expect(page.getByRole('button', { name: '🔊 Escuchar' })).toBeVisible();
+    await expect(page.getByRole('button', { name: 'Escuchar' })).toBeVisible();
   });
 
   test('el panel Apoderado se ve y no rompe', async ({ page }) => {

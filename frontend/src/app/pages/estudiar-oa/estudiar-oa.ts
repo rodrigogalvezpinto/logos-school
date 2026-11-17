@@ -164,10 +164,10 @@ export function esNombreIngles(nombre: string): boolean {
         margin-bottom: 0.35rem !important;
       }
       .contenido-guia ::ng-deep .callout__titulo::before {
-        content: '💡 ';
+        content: ''; display: inline-block; width: 1.1em; height: 1.1em; margin-right: 0.3em; vertical-align: -0.15em; background: url('/assets/pictogramas/ui-1f4a1.svg') center / contain no-repeat;
       }
       .contenido-guia ::ng-deep .titulo-ejemplos::before {
-        content: '📘 ';
+        content: ''; display: inline-block; width: 1.1em; height: 1.1em; margin-right: 0.3em; vertical-align: -0.15em; background: url('/assets/pictogramas/ui-1f4d8.svg') center / contain no-repeat;
       }
       .contenido-guia ::ng-deep .titulo-ejemplos {
         margin-top: 1.75rem;
@@ -226,7 +226,7 @@ export function esNombreIngles(nombre: string): boolean {
         line-height: 1.6;
       }
       .contenido-guia ::ng-deep blockquote::before {
-        content: '📜 ';
+        content: ''; display: inline-block; width: 1.1em; height: 1.1em; margin-right: 0.3em; vertical-align: -0.15em; background: url('/assets/pictogramas/ui-1f4dc.svg') center / contain no-repeat;
         font-style: normal;
         margin-right: 0.35rem;
       }

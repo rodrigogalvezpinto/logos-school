@@ -7,11 +7,12 @@ import { PasosAprendizaje } from '../../shared/pasos-aprendizaje/pasos-aprendiza
 import { SesionService } from '../../core/sesion.service';
 import { ContenidoService } from '../../core/contenido.service';
 import { MarkdownPipe } from '../../shared/markdown.pipe';
+import { Emo } from '../../shared/emo';
 
 @Component({
   selector: 'app-autoevaluacion',
   standalone: true,
-  imports: [EvaluacionRunner, PasosAprendizaje, RouterLink, MarkdownPipe],
+  imports: [Emo, EvaluacionRunner, PasosAprendizaje, RouterLink, MarkdownPipe],
   template: `
     @if (preguntas().length) {
       <a [routerLink]="['/alumno/estudiar', oaId]" class="volver-explicacion">← Volver a la explicación</a>
@@ -20,7 +21,7 @@ import { MarkdownPipe } from '../../shared/markdown.pipe';
         <!-- Muchas preguntas remiten al texto, poema, tabla o gráfico de la guía: se puede
              consultar aquí sin salir de la práctica (hallazgo de auditoría 2026-11-07). -->
         <details class="guia-consulta">
-          <summary>📖 Ver la guía (textos, tablas y ejemplos)</summary>
+          <summary><app-emo e="📖" /> Ver la guía (textos, tablas y ejemplos)</summary>
           <div class="guia-consulta__contenido contenido-guia" [innerHTML]="guia() | markdown"></div>
         </details>
       }

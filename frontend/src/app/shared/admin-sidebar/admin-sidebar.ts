@@ -2,6 +2,7 @@ import { Component, Input, Output, EventEmitter, inject } from '@angular/core';
 import { Router, RouterLink, RouterLinkActive } from '@angular/router';
 import { Logo } from '../logo/logo';
 import { SesionAdminService } from '../../core/sesion-admin.service';
+import { Emo } from '../emo';
 
 interface ItemAdminSidebar {
   etiqueta: string;
@@ -20,7 +21,7 @@ const ITEMS: ItemAdminSidebar[] = [
 @Component({
   selector: 'app-admin-sidebar',
   standalone: true,
-  imports: [RouterLink, RouterLinkActive, Logo],
+  imports: [Emo, RouterLink, RouterLinkActive, Logo],
   template: `
     @if (abierto) {
       <div class="sidebar__backdrop" (click)="cerrar.emit()"></div>
@@ -33,14 +34,14 @@ const ITEMS: ItemAdminSidebar[] = [
       <nav class="sidebar__nav">
         @for (item of items; track item.ruta) {
           <a class="sidebar__item" [routerLink]="item.ruta" routerLinkActive="sidebar__item--activo" (click)="cerrar.emit()">
-            <span class="sidebar__icono">{{ item.icono }}</span>
+            <span class="sidebar__icono"><app-emo [e]="item.icono" /></span>
             <span>{{ item.etiqueta }}</span>
           </a>
         }
       </nav>
       <div class="sidebar__pie">
         <a class="sidebar__item" href="#" (click)="cerrarSesion($event)">
-          <span class="sidebar__icono">🚪</span><span>Cerrar sesión</span>
+          <span class="sidebar__icono"><app-emo e="🚪" /></span><span>Cerrar sesión</span>
         </a>
       </div>
     </aside>

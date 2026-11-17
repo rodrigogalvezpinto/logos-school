@@ -28,7 +28,7 @@ describe('pictogramas: emoji → imagen (se ven igual en todo equipo y se imprim
   it('cada pictograma apunta a un archivo .png o .svg con texto alternativo', () => {
     for (const [archivo, alt] of Object.values(PICTOGRAMAS)) {
       expect(archivo).toMatch(/^[a-z0-9-]+\.(png|svg)$/);
-      expect(alt.length).toBeGreaterThan(1);
+      if (!archivo.startsWith('ui-')) expect(alt.length).toBeGreaterThan(1); // los ui- son íconos decorativos
     }
   });
 });

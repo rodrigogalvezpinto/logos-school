@@ -1,0 +1,40 @@
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from forma_a import P, armar  # noqa: E402
+C=Path(__file__).resolve().parents[4]/'contenido'/'01-medio/examenes'
+H="**Pregunta {n} (alternativas).** "
+Q=[]
+def q(sec,en,ops,l,ex,oa,eje): Q.append(P(sec,H,en,ops,l,ex,oa,{"eje":eje}))
+N="Números y Operaciones"; A="Álgebra y Funciones"; G="Geometría"; E="Probabilidad y Estadística"
+q("## Eje 1: Números y Operaciones\n\n","Calcula: 20 − 6 × (−2) + 4.",["*36","12","−24","28"],"a","Primero la multiplicación: 6 × (−2) = −12; luego 20 − (−12) + 4 = 20 + 12 + 4 = 36. −24 resulta de restar antes de multiplicar.","OA 1",N)
+q("","Calcula: (−3)³ + 18 ÷ (−6).",["*−30","−24","24","−3"],"c","(−3)³ = −27 y 18 ÷ (−6) = −3; luego −27 + (−3) = −30. −24 resulta de sumar 3 en vez de restarlo.","OA 1",N)
+q("","Calcula: 2/3 + 5/6 × 2/5.",["*1","3/5","7/15","5/9"],"d","Primero el producto: 5/6 × 2/5 = 10/30 = 1/3; luego 2/3 + 1/3 = 1. 3/5 resulta de sumar antes de multiplicar.","OA 1",N)
+q("","Una estudiante tiene $36.000. Gasta 1/3 en un libro y 1/4 de lo que le queda en transporte. ¿Cuánto dinero le queda?",["*$18.000","$15.000","$6.000","$24.000"],"b","Después del libro le quedan 2/3 de 36.000 = $24.000; el transporte es 1/4 de 24.000 = $6.000, así que le quedan $18.000. $15.000 calcula el 1/4 sobre el total.","OA 1",N)
+q("","¿Cuál es el valor de (2/3)⁻²?",["*9/4","4/9","−4/9","−9/4"],"d","El exponente negativo invierte la fracción: (2/3)⁻² = (3/2)² = 9/4. El signo del exponente no hace negativo el resultado.","OA 2",N)
+q("","Expresa como una sola potencia y evalúa: 4³ × 4⁻⁵.",["*4⁻² = 1/16","4⁻² = −16","4⁻¹⁵","4⁸ = 65.536"],"a","Con igual base se suman los exponentes: 3 + (−5) = −2, y 4⁻² = 1/4² = 1/16. 4⁻¹⁵ multiplica los exponentes.","OA 2",N)
+q("","Una colonia de bacterias se triplica cada hora y ahora tiene 2.430 bacterias. ¿Cuántas había hace 3 horas?",["*90","810","65.610","2.421"],"c","Ir hacia atrás 3 horas es multiplicar por 3⁻³ = 1/27: 2.430 × 1/27 = 90 bacterias. 810 retrocede solo una hora y 65.610 avanza en vez de retroceder.","OA 2",N)
+q("## Eje 2: Álgebra y Funciones\n\n","Desarrolla: (x − 7)².",["*x² − 14x + 49","x² − 49","x² + 49","x² − 7x + 49"],"b","Cuadrado de binomio: x² − 2 · x · 7 + 7² = x² − 14x + 49. x² − 49 olvida el término del doble producto.","OA 3",A)
+q("","Desarrolla: (3x + 4)(3x − 4).",["*9x² − 16","3x² − 16","9x² − 8","9x² + 16"],"d","Suma por diferencia: (3x)² − 4² = 9x² − 16. 3x² − 16 olvida elevar el 3 al cuadrado.","OA 3",A)
+q("","Desarrolla: (x − 6)(x + 4).",["*x² − 2x − 24","x² + 2x − 24","x² − 2x + 24","x² − 10x − 24"],"a","Binomios con término común: la suma −6 + 4 = −2 da el término en x y el producto −6 · 4 = −24, el término libre: x² − 2x − 24.","OA 3",A)
+q("","Factoriza: x² + 10x + 25.",["*(x + 5)²","(x + 5)(x − 5)","(x + 10)²","(x + 25)(x + 1)"],"c","Es un trinomio cuadrado perfecto: x² + 2 · x · 5 + 5² = (x + 5)². (x + 5)(x − 5) da x² − 25.","OA 3",A)
+q("","¿Cuál es la solución del sistema x + y = 15; x − y = 3?",["*x = 9, y = 6","x = 6, y = 9","x = 12, y = 3","x = 9, y = 3"],"b","Sumando las ecuaciones: 2x = 18, x = 9; luego y = 15 − 9 = 6. Comprobación: 9 − 6 = 3. x = 6, y = 9 invierte los valores.","OA 4",A)
+q("","Resuelve por sustitución: y = 2x; 3x + y = 25.",["*x = 5, y = 10","x = 10, y = 5","x = 5, y = 5","x = 25, y = 50"],"d","Se reemplaza y = 2x en la segunda: 3x + 2x = 25, 5x = 25, x = 5; luego y = 2 · 5 = 10.","OA 4",A)
+q("","En una librería, 3 cuadernos y 2 lápices cuestan $4.400; 1 cuaderno y 2 lápices cuestan $2.000. ¿Cuánto cuesta cada uno?",["*Cuaderno $1.200 y lápiz $400","Cuaderno $400 y lápiz $1.200","Cuaderno $1.200 y lápiz $800","Cuaderno $2.400 y lápiz $800"],"a","Restando las ecuaciones: 2 cuadernos = $2.400, cuaderno $1.200; luego 2 lápices = 2.000 − 1.200 = $800, lápiz $400.","OA 4",A)
+q("## Eje 3: Geometría\n\n","El punto P(−3, 5) se transforma mediante una homotecia de centro O(0, 0) y factor k = 2. ¿Cuáles son las coordenadas de P'?",["*(−6, 10)","(−1, 7)","(6, −10)","(−1,5; 2,5)"],"c","Se multiplica cada coordenada por k = 2: P' = (2 · (−3), 2 · 5) = (−6, 10). (−1, 7) suma 2 en vez de multiplicar.","OA 8",G)
+q("","Un segmento OA mide 8 cm. Tras una homotecia de centro O, su imagen OA' mide 6 cm. ¿Cuál es el factor de homotecia?",["*3/4 (reducción)","4/3 (ampliación)","−2 (inversión)","14 (ampliación)"],"d","k = OA'/OA = 6/8 = 3/4. Como 0 < k < 1, la figura se reduce. 4/3 divide al revés.","OA 8",G)
+q("","El punto Q(9, −6) se transforma por una homotecia de centro O(0, 0) y k = −1/3. ¿Cuál es Q' y qué ocurre con la figura?",["*(−3, 2): queda al lado opuesto del centro y reducida","(3, −2): queda al mismo lado del centro y reducida","(−27, 18): queda al lado opuesto y ampliada","(27, −18): queda al mismo lado y ampliada"],"b","Se multiplica cada coordenada por −1/3: Q' = (−3, 2). El signo negativo la ubica al lado opuesto del centro y como el valor absoluto de k es menor que 1, se reduce.","OA 8",G)
+q("","En un mapa con escala 1:250.000, dos ciudades están a 6 cm. ¿Cuál es la distancia real entre ellas?",["*15 km","1,5 km","150 km","41,7 km"],"a","6 cm × 250.000 = 1.500.000 cm = 15.000 m = 15 km. 1,5 km y 150 km se equivocan al convertir de cm a km.","OA 10",G)
+q("","En el triángulo rectángulo ABC (recto en C), la altura CD divide a la hipotenusa en AD = 2 cm y DB = 8 cm. ¿Cuánto mide la altura CD?",["*4 cm","5 cm","10 cm","16 cm"],"c","Teorema de Euclides: CD² = AD × DB = 2 × 8 = 16, CD = √16 = 4 cm. 5 cm es el promedio de los segmentos y 16 es CD², no CD.","OA 10",G)
+q("","Se construye la maqueta de un edificio de 36 m de altura a escala 1:200. ¿Qué altura tiene la maqueta?",["*18 cm","180 cm","1,8 cm","72 cm"],"b","36 m = 3.600 cm; 3.600 ÷ 200 = 18 cm. 180 cm y 1,8 cm se equivocan al convertir metros a centímetros.","OA 10",G)
+q("","Un terreno tiene forma de triángulo rectángulo ABC, recto en C. Su lado mayor AB mide 18 m y la proyección del lado AC sobre AB mide 2 m. ¿Cuánto mide AC?",["*6 m","16 m","20 m","36 m"],"d","Teorema de Euclides: AC² = 2 × 18 = 36, AC = √36 = 6 m. 16 m resta las medidas y 36 es AC², no AC.","OA 10",G)
+q("## Eje 4: Probabilidad y Estadística\n\n","Se lanza un dado de 6 caras. ¿Cuál es la probabilidad de obtener un número mayor que 4?",["*1/3","1/2","2/3","1/6"],"b","Los casos favorables son 5 y 6: 2 de 6, y 2/6 = 1/3. 1/6 cuenta un solo caso favorable.","OA 14",E)
+q("","Se elige al azar una letra de la palabra LOGOS y, además, se lanza un dado de 6 caras. ¿Cuál es la probabilidad de obtener una letra O y un 6?",["*1/15","1/30","17/30","1/5"],"a","Son eventos independientes: P(O) = 2/5 (hay dos O en cinco letras) y P(6) = 1/6; P = 2/5 × 1/6 = 2/30 = 1/15. 17/30 suma las probabilidades en vez de multiplicarlas.","OA 14",E)
+q("","En un curso de 40 estudiantes se registraron los talleres a los que asisten:\n\n| Taller | Estudiantes |\n|---|---|\n| Música | 18 |\n| Teatro | 14 |\n| Música y teatro | 6 |\n| Total del curso | 40 |\n\nSi se elige un estudiante al azar, ¿cuál es la probabilidad de que asista a música o a teatro?",["*13/20","4/5","3/20","7/20"],"c","P = 18/40 + 14/40 − 6/40 = 26/40 = 13/20. Sin restar a los 6 que asisten a ambos talleres se obtiene 32/40 = 4/5.","OA 14",E)
+q("","De una caja con 6 fichas rojas y 4 blancas se sacan dos sin reposición. ¿Cuál es la probabilidad de que ambas sean blancas?",["*2/15","4/25","2/5","7/15"],"d","Sin reposición: 4/10 × 3/9 = 12/90 = 2/15. 4/25 sería con reposición (4/10 × 4/10).","OA 14",E)
+armar(C/'matematica-examen-forma-b.md', C/'matematica-examen-forma-a.md', Q,
+  fila=lambda i,p,cl: f"| {i} | **{cl}.** {p.explicacion} | {p.oa} | {p.extra['eje']} |",
+  reemplazos={"— Forma B":"— Forma A","versión: Forma B (segunda versión, preguntas propias)":"versión: Forma A (preguntas propias, distintas de la Forma B)","última actualización: 2026-08-10":"última actualización: 2026-11-17"},
+  inicio_preguntas="## Eje 1")
+if __name__=="__main__":
+    from collections import Counter; print(Counter(p.letra for p in Q), len(Q))

@@ -3,11 +3,12 @@ import { Router, RouterLink } from '@angular/router';
 import { Logo } from '../../shared/logo/logo';
 import { AuthService, PerfilAlumnoRespuesta } from '../../core/auth.service';
 import { SesionService } from '../../core/sesion.service';
+import { Emo } from '../../shared/emo';
 
 @Component({
   selector: 'app-selector-perfil',
   standalone: true,
-  imports: [Logo, RouterLink],
+  imports: [Emo, Logo, RouterLink],
   template: `
     <div class="fondo">
       <div class="pagina">
@@ -30,7 +31,7 @@ import { SesionService } from '../../core/sesion.service';
           </button>
         }
         <button class="perfil" (click)="entrarComoApoderado()">
-          <div class="perfil__avatar" style="background:#FF6B4A">👤</div>
+          <div class="perfil__avatar" style="background:#FF6B4A"><app-emo e="👤" /></div>
           <span>Ver como Apoderado</span>
           <small>Progreso y planes</small>
         </button>

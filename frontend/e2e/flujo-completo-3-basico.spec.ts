@@ -144,7 +144,7 @@ test.describe.serial('Auditoría Integral y Flujo Real: 3° Básico (Apoderado y
     const contenido = page.locator('.contenido-guia');
     await expect(contenido).not.toBeEmpty();
     await expect(contenido).not.toContainText('###');
-    await expect(page.getByRole('button', { name: '🔊 Escuchar' })).toBeVisible();
+    await expect(page.getByRole('button', { name: 'Escuchar' })).toBeVisible();
     await expect(page.locator('.descargar-pdf')).toBeVisible();
 
     // Calificar guía

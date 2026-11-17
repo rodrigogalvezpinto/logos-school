@@ -171,7 +171,7 @@ test.describe.serial('Validación de flujo real: Apoderado y Alumno de 1° Medio
     await expect(contenido).not.toContainText('###');
 
     // Controles de apoyo al estudiante
-    await expect(page.getByRole('button', { name: '🔊 Escuchar' })).toBeVisible();
+    await expect(page.getByRole('button', { name: 'Escuchar' })).toBeVisible();
     await expect(page.locator('.descargar-pdf')).toBeVisible();
 
     // Calificar la guía pedagógica
@@ -186,7 +186,7 @@ test.describe.serial('Validación de flujo real: Apoderado y Alumno de 1° Medio
     // Iniciar la autoevaluación
     await page.getByRole('button', { name: 'Comenzar' }).click();
     await expect(page.locator('.pregunta__enunciado')).not.toBeEmpty();
-    await expect(page.getByRole('button', { name: '🔊 Escuchar' })).toBeVisible();
+    await expect(page.getByRole('button', { name: 'Escuchar' })).toBeVisible();
 
     // Responder la primera pregunta (en 1° medio puede ser de desarrollo o alternativas)
     const textarea = page.locator('textarea.respuesta-abierta');

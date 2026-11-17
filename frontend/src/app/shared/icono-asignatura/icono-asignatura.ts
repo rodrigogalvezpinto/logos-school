@@ -1,4 +1,5 @@
 import { Component, Input } from '@angular/core';
+import { Emo } from '../emo';
 
 const ICONOS: Record<string, string> = {
   libro: '📖',
@@ -14,9 +15,10 @@ const ICONOS: Record<string, string> = {
 @Component({
   selector: 'app-icono-asignatura',
   standalone: true,
+  imports: [Emo],
   template: `
     <div class="icono" [style.background]="color + '22'" [style.color]="color">
-      {{ emoji }}
+      <app-emo [e]="emoji" />
     </div>
   `,
   styles: [

@@ -8,6 +8,7 @@ import { OnboardingService, ProgresoOnboarding } from '../../core/onboarding.ser
 import { SesionService } from '../../core/sesion.service';
 import { estiloAsignatura } from '../../shared/estilo-asignatura';
 import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura';
+import { Emo } from '../../shared/emo';
 
 /** Fase 1, ítem 2.4 — check-in emocional diario (ver
  * planificacion/27-plan-incorporacion-hallazgos-brincus.md). Mismos 7 estados que
@@ -43,10 +44,10 @@ const PASOS_INFO: Record<string, { etiqueta: string; ruta: string }> = {
 @Component({
   selector: 'app-alumno-inicio',
   standalone: true,
-  imports: [RouterLink, IconoAsignatura],
+  imports: [Emo, RouterLink, IconoAsignatura],
   template: `
     <div class="saludo-header">
-      <h1>¡Hola de nuevo, {{ nombreAlumno() }}! 👋</h1>
+      <h1>¡Hola de nuevo, {{ nombreAlumno() }}! <app-emo e="👋" /></h1>
       @if (cursoAlumno()) {
         <span class="badge-curso">{{ cursoAlumno() }}</span>
       }
@@ -55,7 +56,7 @@ const PASOS_INFO: Record<string, { etiqueta: string; ruta: string }> = {
 
     @if (diasRestantesPrueba(); as dias) {
       <div class="aviso-prueba" [class.aviso-prueba--urgente]="dias <= 2">
-        ⏳ Tu prueba gratuita {{ dias === 0 ? 'termina hoy' : dias === 1 ? 'termina mañana' : 'termina en ' + dias + ' días' }}
+        <app-emo e="⏳" /> Tu prueba gratuita {{ dias === 0 ? 'termina hoy' : dias === 1 ? 'termina mañana' : 'termina en ' + dias + ' días' }}
         <a routerLink="/seleccion-plan">Elegir un plan →</a>
       </div>
     }
@@ -68,7 +69,7 @@ const PASOS_INFO: Record<string, { etiqueta: string; ruta: string }> = {
           <div class="checkin__opciones">
             @for (estado of estadosAnimo(); track estado) {
               <button class="checkin__opcion" (click)="registrarAnimo(estado)">
-                <span class="checkin__emoji">{{ emojiAnimo(estado) }}</span>
+                <span class="checkin__emoji"><app-emo [e]="emojiAnimo(estado)" /></span>
                 <span>{{ etiquetaAnimo(estado) }}</span>
               </button>
             }

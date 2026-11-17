@@ -4,6 +4,7 @@ import { OnboardingService } from '../../core/onboarding.service';
 import { PrediccionService, SemanaJardin } from '../../core/prediccion.service';
 import { SesionService } from '../../core/sesion.service';
 import { PlantaJardin } from '../../shared/planta-jardin/planta-jardin';
+import { Emo } from '../../shared/emo';
 
 /** Emoji simple por avatar — sin arte propio en Fase 1 (ver
  * planificacion/27-plan-incorporacion-hallazgos-brincus.md, ítem 2.2: MVP deliberadamente
@@ -39,28 +40,28 @@ const COLOR_POR_AVATAR: Record<string, string> = {
 @Component({
   selector: 'app-logros',
   standalone: true,
-  imports: [PlantaJardin],
+  imports: [Emo, PlantaJardin],
   template: `
     <h1>Mis Logros</h1>
     <p class="subtitulo">Gana XP estudiando y rindiendo pruebas, y sube de nivel.</p>
 
     @if (perfil(); as p) {
       <div class="resumen">
-        <div class="resumen__avatar" [style.background]="esferaAvatar(p.avatar_id)">{{ emoji(p.avatar_id) }}</div>
+        <div class="resumen__avatar" [style.background]="esferaAvatar(p.avatar_id)"><app-emo [e]="emoji(p.avatar_id)" /></div>
         <div class="resumen__datos">
           <p class="resumen__nivel">Nivel {{ p.nivel }}</p>
-          <p class="resumen__xp">⚡ {{ p.xp }} XP total</p>
+          <p class="resumen__xp"><app-emo e="⚡" /> {{ p.xp }} XP total</p>
           <div class="resumen__barra">
             <div
               class="resumen__barra-relleno"
               [style.width.%]="progresoNivelPct(p)"
             ></div>
           </div>
-          <p class="resumen__faltante">Te faltan {{ p.xp_para_siguiente_nivel }} XP para el nivel {{ p.nivel + 1 }} 🚀</p>
+          <p class="resumen__faltante">Te faltan {{ p.xp_para_siguiente_nivel }} XP para el nivel {{ p.nivel + 1 }} <app-emo e="🚀" /></p>
         </div>
         @if (p.racha_dias_actual > 0) {
           <div class="resumen__racha">
-            <span class="resumen__racha-num">🔥 {{ p.racha_dias_actual }}</span>
+            <span class="resumen__racha-num"><app-emo e="🔥" /> {{ p.racha_dias_actual }}</span>
             <span class="resumen__racha-etiqueta">{{ p.racha_dias_actual === 1 ? 'día seguido' : 'días seguidos' }}</span>
           </div>
         }
@@ -84,10 +85,10 @@ const COLOR_POR_AVATAR: Record<string, string> = {
       <div class="grilla-logros">
         @for (logro of p.logros; track logro.id) {
           <div class="logro-card" [class.logro-card--bloqueado]="!logro.desbloqueado" [title]="logro.descripcion">
-            <span class="logro-card__icono">{{ logro.icono }}</span>
+            <span class="logro-card__icono"><app-emo [e]="logro.icono" /></span>
             <p class="logro-card__nombre">{{ logro.nombre }}</p>
             @if (!logro.desbloqueado) {
-              <span class="logro-card__candado">🔒</span>
+              <span class="logro-card__candado"><app-emo e="🔒" /></span>
             }
           </div>
         }
@@ -99,9 +100,11 @@ const COLOR_POR_AVATAR: Record<string, string> = {
           <button
             class="avatar-opcion"
             [class.avatar-opcion--elegido]="a === p.avatar_id"
+            [attr.aria-label]="'Elegir avatar ' + nombreAvatar(a)"
+            [attr.aria-pressed]="a === p.avatar_id"
             (click)="elegirAvatar(a)"
           >
-            <span class="avatar-opcion__emoji" [style.background]="esferaAvatar(a)">{{ emoji(a) }}</span>
+            <span class="avatar-opcion__emoji" [style.background]="esferaAvatar(a)"><app-emo [e]="emoji(a)" /></span>
             @if (a === p.avatar_id) {
               <span class="avatar-opcion__check">✓</span>
             }
@@ -112,14 +115,14 @@ const COLOR_POR_AVATAR: Record<string, string> = {
       <h2>Cómo ganar XP</h2>
       <div class="grilla-xp">
         <div class="tarjeta-xp">
-          <span class="tarjeta-xp__icono">📝</span>
+          <span class="tarjeta-xp__icono"><app-emo e="📝" /></span>
           <div>
             <p class="tarjeta-xp__valor">+5 XP</p>
             <p class="tarjeta-xp__desc">Por cada prueba o examen que entregues (la primera vez).</p>
           </div>
         </div>
         <div class="tarjeta-xp">
-          <span class="tarjeta-xp__icono">📖</span>
+          <span class="tarjeta-xp__icono"><app-emo e="📖" /></span>
           <div>
             <p class="tarjeta-xp__valor">+2 XP</p>
             <p class="tarjeta-xp__desc">Por cada guía que revises por primera vez.</p>
@@ -405,6 +408,11 @@ export class Logros {
 
   emoji(avatarId: string): string {
     return EMOJI_POR_AVATAR[avatarId] || '❓';
+  }
+
+  /** Nombre legible del avatar para lectores de pantalla (el dibujo es decorativo). */
+  nombreAvatar(avatarId: string): string {
+    return avatarId.replace(/_/g, ' ');
   }
 
   /** Fondo tipo "esfera/gema" por avatar (radial-gradient con brillo simulado) — ver

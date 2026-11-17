@@ -6,6 +6,7 @@ import { PlanDeEstudio, PlanEstudioService, SesionEstudio } from '../../core/pla
 import { SesionService } from '../../core/sesion.service';
 import { estiloAsignatura } from '../../shared/estilo-asignatura';
 import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura';
+import { Emo } from '../../shared/emo';
 
 type VistaPlan = 'lista' | 'semanal' | 'mensual';
 
@@ -42,7 +43,7 @@ const DIAS: { valor: string; etiqueta: string }[] = [
 @Component({
   selector: 'app-plan-estudio',
   standalone: true,
-  imports: [FormsModule, IconoAsignatura],
+  imports: [Emo, FormsModule, IconoAsignatura],
   template: `
     <h1>Plan de Estudio</h1>
 
@@ -84,7 +85,7 @@ const DIAS: { valor: string; etiqueta: string }[] = [
               <div class="fila-sesion__info">
                 <span class="fecha">{{ s.fecha_programada }}</span>
                 @if (s.es_repaso) {
-                  <span class="chip-repaso">📚 Repaso</span>
+                  <span class="chip-repaso"><app-emo e="📚" /> Repaso</span>
                 }
                 <h3>{{ nombreAsignatura(s.asignatura_id) }}</h3>
                 <p>{{ s.oa_ids.length }} objetivo{{ s.oa_ids.length > 1 ? 's' : '' }} · ~{{ s.minutos_estimados }} min</p>
@@ -108,7 +109,7 @@ const DIAS: { valor: string; etiqueta: string }[] = [
                     <div class="fila-sesion__info">
                       <span class="fecha">{{ s.fecha_programada }}</span>
                 @if (s.es_repaso) {
-                  <span class="chip-repaso">📚 Repaso</span>
+                  <span class="chip-repaso"><app-emo e="📚" /> Repaso</span>
                 }
                       <h3>{{ nombreAsignatura(s.asignatura_id) }}</h3>
                       <p>{{ s.oa_ids.length }} objetivo{{ s.oa_ids.length > 1 ? 's' : '' }} · ~{{ s.minutos_estimados }} min</p>
@@ -127,7 +128,7 @@ const DIAS: { valor: string; etiqueta: string }[] = [
 
       <div class="repaso">
         <button type="button" class="btn btn--secundario" (click)="mostrarRepaso.set(!mostrarRepaso())">
-          {{ mostrarRepaso() ? '✕ Cerrar' : '📚 Repasar contenido de años anteriores' }}
+          @if (mostrarRepaso()) {✕ Cerrar} @else {<app-emo e="📚" /> Repasar contenido de años anteriores}
         </button>
 
         @if (mostrarRepaso()) {

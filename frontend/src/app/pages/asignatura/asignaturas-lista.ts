@@ -4,14 +4,15 @@ import { ContenidoService, AsignaturaRespuesta } from '../../core/contenido.serv
 import { SesionService } from '../../core/sesion.service';
 import { estiloAsignatura } from '../../shared/estilo-asignatura';
 import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura';
+import { Emo } from '../../shared/emo';
 
 @Component({
   selector: 'app-asignaturas-lista',
   standalone: true,
-  imports: [RouterLink, IconoAsignatura],
+  imports: [Emo, RouterLink, IconoAsignatura],
   template: `
     <h1>Mis Asignaturas</h1>
-    <p class="subtitulo">El temario oficial completo, organizado por Objetivo de Aprendizaje. Pincha una asignatura para ver su ruta de aprendizaje 👇</p>
+    <p class="subtitulo">El temario oficial completo, organizado por Objetivo de Aprendizaje. Pincha una asignatura para ver su ruta de aprendizaje <app-emo e="👇" /></p>
 
     @if (error()) {
       <p class="error-carga">{{ error() }}</p>

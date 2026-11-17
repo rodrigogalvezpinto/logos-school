@@ -1,14 +1,16 @@
 import { Component, Input, inject } from '@angular/core';
 import { LectorVozService } from '../../core/lector-voz.service';
 import { textoParaVoz } from '../texto-para-voz';
+import { Emo } from '../emo';
 
 @Component({
   selector: 'app-boton-escuchar',
   standalone: true,
+  imports: [Emo],
   template: `
     @if (lector.disponible) {
       <button type="button" class="boton-escuchar" (click)="alternar()">
-        {{ lector.hablando() ? '⏸ Detener' : '🔊 Escuchar' }}
+        @if (lector.hablando()) {⏸ Detener} @else {<app-emo e="🔊" /> Escuchar}
       </button>
     }
   `,

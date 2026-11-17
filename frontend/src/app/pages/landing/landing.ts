@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { Logo } from '../../shared/logo/logo';
+import { Emo } from '../../shared/emo';
 
 // Contenido de estudio 100% completo para los 12 niveles (ver contenido/00-estado-contenido.md)
 // — lista estática porque refleja completitud de contenido, no el avance de importación a la
@@ -14,7 +15,7 @@ const NIVELES = [
 @Component({
   selector: 'app-landing',
   standalone: true,
-  imports: [RouterLink, Logo],
+  imports: [Emo, RouterLink, Logo],
   template: `
     <div class="landing">
       <header class="landing__nav">
@@ -32,7 +33,7 @@ const NIVELES = [
         <div class="landing__hero-blob landing__hero-blob--uno"></div>
         <div class="landing__hero-blob landing__hero-blob--dos"></div>
         <div class="landing__hero-texto">
-          <span class="landing__pill">✨ Preparación para Exámenes Libres · Mineduc</span>
+          <span class="landing__pill"><app-emo e="✨" /> Preparación para Exámenes Libres · Mineduc</span>
           <h1>Prepárate para tu <span class="landing__resaltado">Examen Libre</span>, con la materia completa y a tu ritmo.</h1>
           <p>
             Guías, práctica, pruebas cortas y un examen de ensayo idéntico al real —
@@ -43,9 +44,9 @@ const NIVELES = [
             <a routerLink="/login" class="btn btn--secundario btn--grande">Ya tengo cuenta</a>
           </div>
           <div class="landing__hero-confianza">
-            <span>🎓 408 Objetivos de Aprendizaje</span>
-            <span>📚 12 niveles completos</span>
-            <span>🔒 Sin publicidad a menores</span>
+            <span><app-emo e="🎓" /> 408 Objetivos de Aprendizaje</span>
+            <span><app-emo e="📚" /> 12 niveles completos</span>
+            <span><app-emo e="🔒" /> Sin publicidad a menores</span>
           </div>
         </div>
         <div class="landing__hero-ilustracion">
@@ -66,8 +67,8 @@ const NIVELES = [
             <rect x="50" y="150" width="150" height="10" rx="5" fill="#C9C4F7" />
             <rect x="50" y="170" width="110" height="10" rx="5" fill="#C9C4F7" />
           </svg>
-          <span class="landing__hero-chip landing__hero-chip--nota">Nota 6.8 🎉</span>
-          <span class="landing__hero-chip landing__hero-chip--racha">🔥 12 días seguidos</span>
+          <span class="landing__hero-chip landing__hero-chip--nota">Nota 6.8 <app-emo e="🎉" /></span>
+          <span class="landing__hero-chip landing__hero-chip--racha"><app-emo e="🔥" /> 12 días seguidos</span>
         </div>
       </section>
 
@@ -95,7 +96,7 @@ const NIVELES = [
         <h2>Qué mirar al elegir cómo preparar tu examen libre</h2>
         <div class="landing__diferenciadores-grid">
           <div class="diferenciador">
-            <span class="diferenciador__icono diferenciador__icono--indigo">📘</span>
+            <span class="diferenciador__icono diferenciador__icono--indigo"><app-emo e="📘" /></span>
             <h3>100% alineado al temario oficial</h3>
             <p>
               Cada guía y cada pregunta viene de los 12 temarios UCE/Mineduc reales — no material
@@ -103,7 +104,7 @@ const NIVELES = [
             </p>
           </div>
           <div class="diferenciador">
-            <span class="diferenciador__icono diferenciador__icono--coral">💸</span>
+            <span class="diferenciador__icono diferenciador__icono--coral"><app-emo e="💸" /></span>
             <h3>Gratis o de muy bajo costo</h3>
             <p>
               El contenido de estudio (guías, práctica, pruebas y exámenes de ensayo) es y
@@ -111,7 +112,7 @@ const NIVELES = [
             </p>
           </div>
           <div class="diferenciador">
-            <span class="diferenciador__icono diferenciador__icono--verde">🗓️</span>
+            <span class="diferenciador__icono diferenciador__icono--verde"><app-emo e="🗓️" /></span>
             <h3>A tu ritmo, con horario si lo necesitas</h3>
             <p>
               Estudia libremente o arma un plan de estudio con la frecuencia que elijas —
@@ -119,7 +120,7 @@ const NIVELES = [
             </p>
           </div>
           <div class="diferenciador">
-            <span class="diferenciador__icono diferenciador__icono--amarillo">📊</span>
+            <span class="diferenciador__icono diferenciador__icono--amarillo"><app-emo e="📊" /></span>
             <h3>Sabes si estás realmente preparado</h3>
             <p>
               Notas por asignatura, historial completo y un examen de práctica idéntico al real
@@ -170,7 +171,7 @@ const NIVELES = [
         <h2>Dos formas de estudiar en Logos</h2>
         <div class="landing__modos-grid">
           <div class="modo-card">
-            <span class="modo-card__icono">🧑‍🎓</span>
+            <span class="modo-card__icono"><app-emo e="🧑‍🎓" /></span>
             <h3>Autoestudio</h3>
             <p>
               Tú eliges tu curso, estudias cuando quieras y avanzas a tu ritmo. Es la forma más
@@ -178,7 +179,7 @@ const NIVELES = [
             </p>
           </div>
           <div class="modo-card">
-            <span class="modo-card__icono">🧑‍🏫</span>
+            <span class="modo-card__icono"><app-emo e="🧑‍🏫" /></span>
             <h3>Con un profesor</h3>
             <p>
               Si tu profesor te agrega a un Curso/Sección, además ves su progreso agregado y
@@ -202,7 +203,7 @@ const NIVELES = [
             <p>Acceso completo a todas las asignaturas de tu curso.</p>
           </div>
           <div class="plan-card plan-card--destacado">
-            <span class="plan-card__badge">⭐ Recomendado</span>
+            <span class="plan-card__badge"><app-emo e="⭐" /> Recomendado</span>
             <h3>Por periodo de examinación</h3>
             <p class="plan-card__precio">$89.900<span>pago único</span></p>
             <p>Cubre un periodo completo de examinación Mineduc (~5 meses).</p>

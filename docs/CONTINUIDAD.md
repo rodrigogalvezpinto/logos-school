@@ -18,12 +18,11 @@ El dueño decidió continuar el proyecto con Devin. Resumen del estado en que se
   con axe en las pantallas del alumno corregida (tarea 10); simulacros **Forma A** del régimen B/C listos para
   **5.°, 6.°, 7.° y 8.° básico** (20 de 42 archivos; §6.7). Corpus: **6.681 preguntas, 0 sin OA**; pytest de
   contenido 145/145; validación en la app de 5.° a 8.° básico en verde.
-- **Siguiente tarea concreta:** Formas A de **1.° a 4.° medio** (22 archivos). Procedimiento en §6.7; herramienta
+- **Siguiente tarea concreta:** Formas A de **2.° a 4.° medio** (17 archivos; 1.° medio listo el 2026-11-17). Procedimiento en §6.7; herramienta
   `backend/scripts/herramientas_auditoria/forma_a.py` y ejemplos en `formas_a/` (un script por asignatura y curso).
 - **Después:** tareas 13–15 de `docs/auditorias/COLA-TRABAJO-AUTONOMO.md` (juegos de práctica, tutor IA y
   pasarela de pago, cada una en su rama `feature/*`, sin unir a `main`).
-- **Decisiones del dueño pendientes:** tag `material-aprobado-…`, 21 imágenes `[Imagen: …]` de 1.° a 3.° básico,
-  revisión de un profesor real, cuentas y claves de `docs/PENDIENTES-USUARIO.md`. Nada desplegado.
+- **Decisiones del dueño pendientes:** tag `material-aprobado-…`, revisión de un profesor real, cuentas y claves de `docs/PENDIENTES-USUARIO.md`. Nada desplegado.
 - **Hallazgos que conviene recordar** (detalle en §8 y en `AUDITORIA_MAESTRA.md` §15.40–15.42):
   1. Al redactar preguntas nuevas, la fuente más común de error fue **reutilizar sin querer datos de la guía o de
      una prueba** (≈30 casos en las Formas A); revisar siempre con `solapamiento_pruebas_guias.py` y pytest.
@@ -216,9 +215,26 @@ Leer la muestra `docs/auditorias/fase1/muestra-docente/NN-curso.md` y aplicar lo
 Corregir con `rehacer`/`explicar` lo que falle y registrar en AUDITORIA_MAESTRA. La muestra se regeneró el 2026-11-16
 (`backend/scripts/muestra_revision_docente.py`). Revisadas las 12 muestras (2026-11-16); lo encontrado quedó corregido (ver AUDITORIA_MAESTRA §15.40). Sigue pendiente la revisión por un profesor real.
 
-### 6.3 D — imágenes (requiere decisión del dueño)
-`grep -rn "\[Imagen" contenido/0[1-3]-basico` lista los 32 casos. Opciones a proponer al dueño: dibujos SVG propios,
-marcadores `::emoji::`/`::dibujo::` existentes, o ilustraciones generadas. No elegir sin él.
+### 6.3 ✅ RESUELTO (2026-11-17) — imágenes, pictogramas y PDF
+- **`[Imagen]`:** los 20 marcadores quedaron resueltos con fotos libres de Wikimedia Commons o con dibujos de la app. Los créditos están en `frontend/public/assets/imagenes/CREDITOS.md`.
+- **Pictogramas del material:** el dueño pidió quitar los emoji, porque se veían mal en algunos equipos y no salían en el PDF.
+  - El material sigue escrito con emoji, pero `shared/pictogramas.ts` los cambia por imágenes al dibujar, tanto en el texto como dentro de los SVG.
+  - Son 130 imágenes en `public/assets/pictogramas/`: ilustraciones de Commons y OpenMoji. La lista está en `pictogramas-datos.ts` y los créditos en `CREDITOS.md`.
+  - Un emoji nuevo sin imagen se ve como emoji: hay que agregarlo a la lista.
+- **Íconos de la interfaz:** `<app-emo e="📚" />` (`shared/emo.ts`) muestra `ui-<código>.svg` de OpenMoji.
+- **PDF de la guía:** «Descargar guía en PDF» abre la guía ya dibujada y el diálogo de imprimir. El generador fpdf2 del backend queda sin uso desde la app, porque descartaba emoji, mapas, gráficos e imágenes.
+- **Dibujos nuevos:** mapa `mundo` (`lineas=si`, `pintar2=`), `regiones=si` en el mapa de Chile y `::plano::`, que admite `sinejes` y nombres con «_» para no rotularlos.
+- **Cronómetro del examen:** calcula el tiempo contra una hora de término fija.
+  - Antes restaba 1 s por tic y corría más lento con la pestaña en segundo plano.
+  - La prueba `examen-auto-envio` usaba `fastForward` y no podía pasar; ahora pasa.
+- **Pruebas E2E:**
+  - buscan el botón por «Escuchar», porque el emoji pasó a ser imagen;
+  - los botones de avatar tienen `aria-label`.
+  - `observacion-horario` y `plan-estudio-atrasada` necesitan la base `logos_auditoria_test` y `LOGOS_E2E_DATABASE_URL`, que el entorno de QA no monta.
+- **Cuenta demo, solo en desarrollo:**
+  - Es `demo@logos.cl`, un apoderado con un hijo en cada curso, sembrado con `backend/scripts/crear_cuenta_demo.py`.
+  - El login muestra el botón «Entrar con la cuenta demo».
+  - `environment.prod.ts` lleva `cuentaDemo: null`, así que ni el botón ni la cuenta existen en producción.
 
 ### 6.4 ✅ RESUELTO (2026-11-16) — Mapas de Mesoamérica y del Mediterráneo
 `scripts/mapas/generar_mapas.py` genera ahora también `mesoamerica` y `mediterraneo` (nombres de países en español; los
@@ -245,8 +261,8 @@ tutor IA detrás de variable de entorno, pasarela de pago detrás de variable de
 (cuentas y claves que debe crear el dueño).
 
 ### 6.7 Tarea 8 — simulacros Forma A del régimen B/C (en curso)
-Estado: 5.° a 8.° básico listos (5 asignaturas cada uno). Faltan 1.° a 4.° medio:
-22 archivos (`<asignatura>-examen-forma-a.md`, mismas asignaturas que la Forma B de cada curso).
+Estado: 5.° a 8.° básico y **1.° medio** listos (5 asignaturas cada uno; 1.° medio el 2026-11-17, scripts `formas_a/*1m.py`). Faltan 2.° a 4.° medio:
+17 archivos (`<asignatura>-examen-forma-a.md`, mismas asignaturas que la Forma B de cada curso).
 
 Procedimiento por archivo (el importador ya reconoce `forma-a` y crea «Examen <asignatura> Forma A»):
 1. Leer la Forma B: secciones, OA por pregunta, puntajes, tipos (alternativas, varias correctas, V/F) y formato de la pauta.

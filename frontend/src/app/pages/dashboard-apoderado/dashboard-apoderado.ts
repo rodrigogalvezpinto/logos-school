@@ -5,6 +5,7 @@ import { AuthService, PerfilAlumnoRespuesta } from '../../core/auth.service';
 import { ContenidoService } from '../../core/contenido.service';
 import { SesionService } from '../../core/sesion.service';
 import { validarRut } from '../../core/rut.util';
+import { Emo } from '../../shared/emo';
 
 /** Fase 1, ítem 2.9 del plan de incorporación de hallazgos de Brincus — agregar un
  * alumno inline en el propio panel del Apoderado, sin salir a la ruta aparte
@@ -14,9 +15,9 @@ import { validarRut } from '../../core/rut.util';
 @Component({
   selector: 'app-dashboard-apoderado',
   standalone: true,
-  imports: [FormsModule],
+  imports: [Emo, FormsModule],
   template: `
-    <h1>Hola, {{ nombreApoderado() }} 👋</h1>
+    <h1>Hola, {{ nombreApoderado() }} <app-emo e="👋" /></h1>
     <p class="subtitulo">Así va tu familia en Logos School.</p>
 
     @if (metaFamiliar(); as meta) {
@@ -54,7 +55,7 @@ import { validarRut } from '../../core/rut.util';
               </div>
             </div>
           } @else {
-            <button type="button" class="alumno-card__eliminar" (click)="confirmandoEliminar.set(alumno.id)" [attr.aria-label]="'Eliminar a ' + alumno.nombre">🗑️</button>
+            <button type="button" class="alumno-card__eliminar" (click)="confirmandoEliminar.set(alumno.id)" [attr.aria-label]="'Eliminar a ' + alumno.nombre"><app-emo e="🗑️" /></button>
           }
         </div>
       }

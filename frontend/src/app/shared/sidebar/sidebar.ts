@@ -1,6 +1,7 @@
 import { Component, Input, Output, EventEmitter } from '@angular/core';
 import { RouterLink, RouterLinkActive } from '@angular/router';
 import { Logo } from '../logo/logo';
+import { Emo } from '../emo';
 
 export interface ItemSidebar {
   etiqueta: string;
@@ -39,7 +40,7 @@ const ITEM_ESTADISTICAS: ItemSidebar = { etiqueta: 'Estadísticas', icono: '📈
 @Component({
   selector: 'app-sidebar',
   standalone: true,
-  imports: [RouterLink, RouterLinkActive, Logo],
+  imports: [Emo, RouterLink, RouterLinkActive, Logo],
   template: `
     @if (abierto) {
       <div class="sidebar__backdrop" (click)="cerrar.emit()"></div>
@@ -57,7 +58,7 @@ const ITEM_ESTADISTICAS: ItemSidebar = { etiqueta: 'Estadísticas', icono: '📈
             routerLinkActive="sidebar__item--activo"
             (click)="cerrar.emit()"
           >
-            <span class="sidebar__icono">{{ item.icono }}</span>
+            <span class="sidebar__icono"><app-emo [e]="item.icono" /></span>
             <span>{{ item.etiqueta }}</span>
             @if (item.proximamente) {
               <span class="sidebar__badge">pronto</span>
@@ -67,10 +68,10 @@ const ITEM_ESTADISTICAS: ItemSidebar = { etiqueta: 'Estadísticas', icono: '📈
       </nav>
       <div class="sidebar__pie">
         <a class="sidebar__item" [routerLink]="modo === 'alumno' ? '/alumno/configuracion' : '/apoderado/configuracion'" (click)="cerrar.emit()">
-          <span class="sidebar__icono">⚙️</span><span>Configuración</span>
+          <span class="sidebar__icono"><app-emo e="⚙️" /></span><span>Configuración</span>
         </a>
         <a class="sidebar__item" routerLink="/selector-perfil" (click)="cerrar.emit()">
-          <span class="sidebar__icono">🔄</span><span>Cambiar de perfil</span>
+          <span class="sidebar__icono"><app-emo e="🔄" /></span><span>Cambiar de perfil</span>
         </a>
       </div>
     </aside>

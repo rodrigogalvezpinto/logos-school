@@ -6,6 +6,7 @@ import { EvaluacionesService, ConjuntoResumen } from '../../core/evaluaciones.se
 import { SesionService } from '../../core/sesion.service';
 import { estiloAsignatura } from '../../shared/estilo-asignatura';
 import { IconoAsignatura } from '../../shared/icono-asignatura/icono-asignatura';
+import { Emo } from '../../shared/emo';
 
 interface GrupoAsignatura {
   asignatura: AsignaturaRespuesta;
@@ -16,7 +17,7 @@ interface GrupoAsignatura {
 @Component({
   selector: 'app-evaluaciones',
   standalone: true,
-  imports: [RouterLink, IconoAsignatura],
+  imports: [Emo, RouterLink, IconoAsignatura],
   template: `
     <h1>Pruebas y Exámenes</h1>
     <p class="subtitulo">Todo lo que puedes rendir, agrupado por asignatura.</p>
@@ -48,8 +49,8 @@ interface GrupoAsignatura {
                 <span class="conjunto-card__etiqueta">Prueba de unidad</span>
                 <h3>{{ prueba.nombre }}</h3>
                 <div class="conjunto-card__meta">
-                  <span>📝 {{ prueba.num_preguntas }} preguntas</span>
-                  <span>⏱️ sin tiempo límite</span>
+                  <span><app-emo e="📝" /> {{ prueba.num_preguntas }} preguntas</span>
+                  <span><app-emo e="⏱️" /> sin tiempo límite</span>
                 </div>
                 @if (prueba.intentos_entregados > 0) {
                   <p class="conjunto-card__historial" [class.conjunto-card__historial--aprobada]="prueba.ultima_nota! >= 4">
@@ -67,8 +68,8 @@ interface GrupoAsignatura {
                 <span class="conjunto-card__etiqueta">Examen simulacro</span>
                 <h3>{{ examen.nombre }}</h3>
                 <div class="conjunto-card__meta">
-                  <span>📝 {{ examen.num_preguntas }} preguntas</span>
-                  <span>⏱️ {{ examen.tiempo_sugerido_min }} min</span>
+                  <span><app-emo e="📝" /> {{ examen.num_preguntas }} preguntas</span>
+                  <span><app-emo e="⏱️" /> {{ examen.tiempo_sugerido_min }} min</span>
                 </div>
                 @if (examen.intentos_entregados > 0) {
                   <p class="conjunto-card__historial" [class.conjunto-card__historial--aprobada]="examen.ultima_nota! >= 4">
@@ -99,8 +100,8 @@ interface GrupoAsignatura {
             <span class="conjunto-card__etiqueta">Examen integrado</span>
             <h3>{{ ei.nombre }}</h3>
             <div class="conjunto-card__meta">
-              <span>📝 {{ ei.num_preguntas }} preguntas</span>
-              <span>⏱️ {{ ei.tiempo_sugerido_min }} min</span>
+              <span><app-emo e="📝" /> {{ ei.num_preguntas }} preguntas</span>
+              <span><app-emo e="⏱️" /> {{ ei.tiempo_sugerido_min }} min</span>
             </div>
             @if (ei.intentos_entregados > 0) {
               <p class="conjunto-card__historial" [class.conjunto-card__historial--aprobada]="ei.ultima_nota! >= 4">
@@ -120,7 +121,7 @@ interface GrupoAsignatura {
 
     @if (!grupos().length && !examenIntegrado()) {
       <div class="mensaje-vacio">
-        <span class="mensaje-vacio__icono">🎉</span>
+        <span class="mensaje-vacio__icono"><app-emo e="🎉" /></span>
         <h3>¡Buen trabajo!</h3>
         <p>Has completado todas las prácticas disponibles. Sigue estudiando las guías para aprender más.</p>
       </div>
