@@ -141,7 +141,7 @@ c) Que solo vive en ciudades grandes
 d) Que se traslada de un lugar a otro sin vivienda permanente
 
 ✅ Respuesta correcta: **d) Que se traslada de un lugar a otro sin vivienda permanente**
-💬 *Retroalimentación:* ¡Correcto! Los pueblos nómades se mueven de un lugar a otro,
+*Retroalimentación:* ¡Correcto! Los pueblos nómades se mueven de un lugar a otro,
 generalmente para cazar, pescar o recolectar alimentos.
 
 ---
@@ -150,7 +150,7 @@ generalmente para cazar, pescar o recolectar alimentos.
 cultivaba papas y quínoa.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* ¡Muy bien! Los aymara eran agricultores sedentarios del altiplano
+*Retroalimentación:* ¡Muy bien! Los aymara eran agricultores sedentarios del altiplano
 andino.
 
 ---
@@ -167,7 +167,7 @@ c) A los pueblos canoeros australes, como los chonos, kawésqar y yaganes
 d) A los rapa nui, que navegaban en canoas por Isla de Pascua
 
 ✅ Respuesta correcta: **c) A los pueblos canoeros australes, como los chonos, kawésqar y yaganes**
-💬 *Retroalimentación:* ¡Correcto! Estos pueblos vivían del mar, trasladándose en canoas por
+*Retroalimentación:* ¡Correcto! Estos pueblos vivían del mar, trasladándose en canoas por
 los canales del extremo sur para pescar y recolectar mariscos.
 
 ---
@@ -186,7 +186,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **d) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* ¡Bien hecho! Los mapuche construían la ruka, los canoeros un toldo
+*Retroalimentación:* ¡Bien hecho! Los mapuche construían la ruka, los canoeros un toldo
 liviano que podían transportar y los selk'nam un toldo de cuero en la estepa. Cada vivienda se
 adapta al entorno y al modo de vida (sedentario o nómade) del pueblo que la construye.
 
@@ -200,7 +200,7 @@ c) Aymara → Selk'nam → Mapuche
 d) Aymara → Mapuche → Selk'nam
 
 ✅ Respuesta correcta: **d) Aymara → Mapuche → Selk'nam**
-💬 *Retroalimentación:* ¡Excelente! Los aymara vivían en el extremo norte, los mapuche en el
+*Retroalimentación:* ¡Excelente! Los aymara vivían en el extremo norte, los mapuche en el
 centro-sur, y los selk'nam en el extremo sur, en la Patagonia y Tierra del Fuego.
 
 ---
@@ -216,7 +216,7 @@ trabajo
 
 ✅ Respuesta correcta: **d) Que eran sedentarios, ya que la cerámica requiere tiempo,
 herramientas y un lugar fijo de trabajo**
-💬 *Retroalimentación:* ¡Correcto! Fabricar cerámica de calidad, como la diaguita, necesita
+*Retroalimentación:* ¡Correcto! Fabricar cerámica de calidad, como la diaguita, necesita
 tiempo y estabilidad, algo propio de los pueblos sedentarios.
 
 ---
@@ -285,7 +285,7 @@ tradicional rapa nui.
 de los españoles y ya no existen personas mapuche, aymara o rapa nui en la actualidad.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Los pueblos indígenas continúan existiendo hoy en Chile, manteniendo
+*Retroalimentación:* Los pueblos indígenas continúan existiendo hoy en Chile, manteniendo
 parte de su cultura y adaptándose también a la vida actual.
 
 ---
@@ -298,7 +298,7 @@ c) Navidad
 d) We Tripantu
 
 ✅ Respuesta correcta: **d) We Tripantu**
-💬 *Retroalimentación:* ¡Correcto! El We Tripantu marca el inicio de un nuevo ciclo de la
+*Retroalimentación:* ¡Correcto! El We Tripantu marca el inicio de un nuevo ciclo de la
 naturaleza para el pueblo mapuche.
 
 ---
@@ -311,7 +311,7 @@ c) Vivir exclusivamente en el campo, sin ciudades
 d) Viajar en avión
 
 ✅ Respuesta correcta: **a) Practicar tejidos y artesanía tradicional**
-💬 *Retroalimentación:* ¡Muy bien! Hoy muchas familias indígenas viven en ciudades y usan
+*Retroalimentación:* ¡Muy bien! Hoy muchas familias indígenas viven en ciudades y usan
 tecnología (eso ha cambiado), pero mantienen tradiciones como la artesanía y los tejidos.
 
 ---
@@ -324,7 +324,7 @@ c) El idioma mapuzugun, que todavía se habla
 d) La fiesta del We Tripantu (año nuevo mapuche)
 
 ✅ Respuesta correcta: **b, c y d**
-💬 *Retroalimentación:* ¡Muy bien! El idioma, fiestas como el We Tripantu o la Tapati, la
+*Retroalimentación:* ¡Muy bien! El idioma, fiestas como el We Tripantu o la Tapati, la
 artesanía, la comida tradicional y las danzas son costumbres que se mantienen. Ir al
 supermercado en canoa no es una costumbre tradicional.
 
@@ -342,7 +342,7 @@ d) Que los mapuche solo pueden vivir en el sur y no deberían vivir en Santiago
 
 ✅ Respuesta correcta: **a) Que una persona puede mantener su cultura de origen y, al mismo
 tiempo, vivir de forma moderna**
-💬 *Retroalimentación:* ¡Correcto! Las culturas indígenas no quedaron "congeladas" en el
+*Retroalimentación:* ¡Correcto! Las culturas indígenas no quedaron "congeladas" en el
 pasado: sus tradiciones conviven con la vida actual.
 
 ---
@@ -350,7 +350,7 @@ pasado: sus tradiciones conviven con la vida actual.
 **6. (Verdadero o Falso)** El idioma mapudungun ya no lo habla ninguna persona en Chile.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El mapudungun sigue siendo hablado por personas mapuche en Chile,
+*Retroalimentación:* El mapudungun sigue siendo hablado por personas mapuche en Chile,
 aunque hoy es menos común que hace siglos.
 
 ---
@@ -427,7 +427,7 @@ c) Que solo tiene origen indígena, porque aquí vivían los pueblos
 d) Que no tiene ningún origen definido ni una historia propia
 
 ✅ Respuesta correcta: **a) Que nació de la mezcla entre pueblos indígenas y españoles**
-💬 *Retroalimentación:* ¡Correcto! El mestizaje es la unión entre las culturas indígena y
+*Retroalimentación:* ¡Correcto! El mestizaje es la unión entre las culturas indígena y
 española que dio origen a la sociedad chilena actual.
 
 ---
@@ -436,7 +436,7 @@ española que dio origen a la sociedad chilena actual.
 idioma indígena.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* ¡Muy bien! "Guagua" viene del quechua, y hoy es una palabra muy usada
+*Retroalimentación:* ¡Muy bien! "Guagua" viene del quechua, y hoy es una palabra muy usada
 en el español de Chile.
 
 ---
@@ -449,7 +449,7 @@ c) El palín
 d) El idioma español
 
 ✅ Respuesta correcta: **a y c**
-💬 *Retroalimentación:* ¡Excelente! La papa, el choclo y el palín son aportes indígenas; el
+*Retroalimentación:* ¡Excelente! La papa, el choclo y el palín son aportes indígenas; el
 idioma español y la religión católica llegaron con los españoles. Reconocer el origen de cada
 elemento nos ayuda a entender cómo se formó nuestra cultura mestiza.
 
@@ -463,7 +463,7 @@ c) El trigo
 d) El choclo
 
 ✅ Respuesta correcta: **c) El trigo**
-💬 *Retroalimentación:* ¡Correcto! El trigo, usado para hacer pan, fue traído por los
+*Retroalimentación:* ¡Correcto! El trigo, usado para hacer pan, fue traído por los
 españoles. La papa, la quínoa y el choclo ya eran cultivados por los pueblos originarios.
 
 ---
@@ -476,7 +476,7 @@ c) "Guagua", que significa bebé
 d) "Ventana", que significa abertura en la pared
 
 ✅ Respuesta correcta: **c) "Guagua", que significa bebé**
-💬 *Retroalimentación:* ¡Muy bien! "Guagua" viene de una lengua indígena (quechua). Otras
+*Retroalimentación:* ¡Muy bien! "Guagua" viene de una lengua indígena (quechua). Otras
 palabras de origen indígena que usamos en Chile son "poncho", "pololo/a", "cahuín" o "malón".
 
 ---
@@ -492,7 +492,7 @@ d) Que el ají llegó a Chile recién en el último siglo, traído desde Europa 
 
 ✅ Respuesta correcta: **c) Que la comida chilena puede combinar aportes de distintos
 orígenes, mostrando el mestizaje**
-💬 *Retroalimentación:* ¡Correcto! Muchas comidas típicas chilenas son un buen ejemplo de
+*Retroalimentación:* ¡Correcto! Muchas comidas típicas chilenas son un buen ejemplo de
 mestizaje, porque combinan ingredientes y técnicas de distintos orígenes.
 
 ---
@@ -565,7 +565,7 @@ c) Palestina
 d) Colombia
 
 ✅ Respuesta correcta: **a) Alemania**
-💬 *Retroalimentación:* ¡Correcto! La inmigración alemana dejó huellas visibles en ciudades
+*Retroalimentación:* ¡Correcto! La inmigración alemana dejó huellas visibles en ciudades
 del sur de Chile, como su arquitectura y comidas típicas.
 
 ---
@@ -574,7 +574,7 @@ del sur de Chile, como su arquitectura y comidas típicas.
 fuera del mundo árabe.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* ¡Muy bien! Muchas familias palestinas llegaron a Chile hace más de un
+*Retroalimentación:* ¡Muy bien! Muchas familias palestinas llegaron a Chile hace más de un
 siglo y hoy sus descendientes participan en distintos ámbitos de la vida del país.
 
 ---
@@ -594,7 +594,7 @@ c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* ¡Excelente! Los alemanes trajeron la arquitectura de madera y el kuchen,
+*Retroalimentación:* ¡Excelente! Los alemanes trajeron la arquitectura de madera y el kuchen,
 los chinos y coreanos platos como el arroz chaufán, y los árabes el pan árabe y dulces como el
 baklava. Cada grupo de inmigrantes trajo consigo elementos propios de su cultura de origen.
 
@@ -609,7 +609,7 @@ d) Un cacique mapuche que defendió su territorio de los españoles en el sur
 
 ✅ Respuesta correcta: **b) Un educador y escritor nacido en Venezuela que ayudó a fundar la
 Universidad de Chile**
-💬 *Retroalimentación:* ¡Correcto! Andrés Bello es un buen ejemplo de una persona inmigrante
+*Retroalimentación:* ¡Correcto! Andrés Bello es un buen ejemplo de una persona inmigrante
 que hizo un aporte muy importante a Chile.
 
 ---
@@ -622,7 +622,7 @@ c) China → el kuchen
 d) Perú → la nieve de la cordillera
 
 ✅ Respuesta correcta: **a) Italia → la pizza y otras comidas**
-💬 *Retroalimentación:* ¡Muy bien! La comunidad italiana trajo comidas como la pizza y las pastas.
+*Retroalimentación:* ¡Muy bien! La comunidad italiana trajo comidas como la pizza y las pastas.
 Han llegado inmigrantes de muchos países (Alemania, Croacia, China, Corea, Palestina, Perú,
 Colombia, Haití, Venezuela, entre otros), y cada comunidad aporta comida, música o costumbres.
 
@@ -633,7 +633,7 @@ ocurrieron hace muchos años, en el pasado, y hoy ya no llegan personas de otros
 a Chile.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La inmigración ha ocurrido a lo largo de toda la historia de Chile y
+*Retroalimentación:* La inmigración ha ocurrido a lo largo de toda la historia de Chile y
 sigue ocurriendo en la actualidad, con personas que llegan desde distintos países
 latinoamericanos y de otras partes del mundo.
 
@@ -710,7 +710,7 @@ c) Brasil
 d) Uruguay
 
 ✅ Respuesta correcta: **b) Perú**
-💬 *Retroalimentación:* ¡Correcto! Perú limita con Chile por el norte.
+*Retroalimentación:* ¡Correcto! Perú limita con Chile por el norte.
 
 ---
 
@@ -718,7 +718,7 @@ d) Uruguay
 la frontera más larga.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* ¡Muy bien! Argentina está al este, separada de Chile principalmente
+*Retroalimentación:* ¡Muy bien! Argentina está al este, separada de Chile principalmente
 por la Cordillera de los Andes.
 
 ---
@@ -734,7 +734,7 @@ c) A = Argentina, B = Bolivia, C = Perú
 d) A = Perú, B = Argentina, C = Bolivia
 
 ✅ Respuesta correcta: **b) A = Perú, B = Bolivia, C = Argentina**
-💬 *Retroalimentación:* ¡Excelente! Perú limita con Chile por el norte (A), Bolivia por el noreste (B) y Argentina por el este, al otro lado de la cordillera (C). Los puntos cardinales nos ayudan a ubicar a cada país vecino.
+*Retroalimentación:* ¡Excelente! Perú limita con Chile por el norte (A), Bolivia por el noreste (B) y Argentina por el este, al otro lado de la cordillera (C). Los puntos cardinales nos ayudan a ubicar a cada país vecino.
 
 ---
 
@@ -746,7 +746,7 @@ c) Océano Pacífico
 d) Océano Ártico
 
 ✅ Respuesta correcta: **c) Océano Pacífico**
-💬 *Retroalimentación:* ¡Correcto! El océano Pacífico bordea a Chile de norte a sur por el
+*Retroalimentación:* ¡Correcto! El océano Pacífico bordea a Chile de norte a sur por el
 oeste.
 
 ---
@@ -758,7 +758,7 @@ c) La capital regional de la Región de Valparaíso es Santiago, porque está m�
 d) Las regiones de Chile no tienen capital: todas dependen directamente de Santiago.
 
 ✅ Respuesta correcta: **b) La Región Metropolitana tiene como capital a Santiago, que también es la capital de Chile.**
-💬 *Retroalimentación:* ¡Muy bien! Santiago es a la vez la capital de la Región Metropolitana y
+*Retroalimentación:* ¡Muy bien! Santiago es a la vez la capital de la Región Metropolitana y
 la capital del país; las demás regiones tienen su propia capital regional (por ejemplo,
 Valparaíso en la Región de Valparaíso). Averigua cuál es la capital de tu región.
 
@@ -775,7 +775,7 @@ c) Al noreste de Chile
 d) Al suroeste de Chile
 
 ✅ Respuesta correcta: **c) Al noreste de Chile**
-💬 *Retroalimentación:* ¡Muy bien! Bolivia se encuentra entre la dirección norte (Perú) y la
+*Retroalimentación:* ¡Muy bien! Bolivia se encuentra entre la dirección norte (Perú) y la
 dirección este (Argentina). Cuando un lugar está "entre" dos direcciones cardinales, decimos
 que está en una dirección intermedia, como el noreste.
 
@@ -850,7 +850,7 @@ c) Desierto
 d) Archipiélago
 
 ✅ Respuesta correcta: **b) Lago**
-💬 *Retroalimentación:* ¡Correcto! El lago es una extensión de agua dulce rodeada de tierra,
+*Retroalimentación:* ¡Correcto! El lago es una extensión de agua dulce rodeada de tierra,
 muy común en el sur de Chile.
 
 ---
@@ -859,7 +859,7 @@ muy común en el sur de Chile.
 desiertos más secos del mundo.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* ¡Muy bien! El desierto de Atacama es conocido mundialmente por ser
+*Retroalimentación:* ¡Muy bien! El desierto de Atacama es conocido mundialmente por ser
 extremadamente seco.
 
 ---
@@ -873,7 +873,7 @@ c) A Isla de Pascua
 d) A la zona centro de Chile
 
 ✅ Respuesta correcta: **d) A la zona centro de Chile**
-💬 *Retroalimentación:* ¡Excelente! Los valles fértiles con viñedos y ríos, entre las dos
+*Retroalimentación:* ¡Excelente! Los valles fértiles con viñedos y ríos, entre las dos
 cordilleras, son característicos de la zona central del país.
 
 ---
@@ -892,7 +892,7 @@ c) 1-A, 2-C, 3-B
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* ¡Bien hecho! Un fiordo es una entrada de mar rodeada de montañas, un
+*Retroalimentación:* ¡Bien hecho! Un fiordo es una entrada de mar rodeada de montañas, un
 archipiélago es un conjunto de islas y un volcán puede expulsar lava. Estas tres palabras son
 muy útiles para describir los paisajes del sur de Chile.
 
@@ -908,7 +908,7 @@ d) Río
 e) Mochila
 
 ✅ Respuesta correcta: **a, b, c y d**
-💬 *Retroalimentación:* ¡Muy bien! Cordillera, río, valle y costa son palabras geográficas (una
+*Retroalimentación:* ¡Muy bien! Cordillera, río, valle y costa son palabras geográficas (una
 mochila no es parte del paisaje), igual
 que océano, desierto, volcán, archipiélago, isla, fiordo o lago. Intenta describir el paisaje de
 tu región usando al menos tres de ellas.
@@ -923,7 +923,7 @@ c) Valles fértiles con viñedos → Desierto y volcanes → Bosques, lagos y fi
 d) Desierto y volcanes → Bosques, lagos y fiordos → Valles fértiles con viñedos
 
 ✅ Respuesta correcta: **b) Desierto y volcanes → Valles fértiles con viñedos → Bosques, lagos y fiordos**
-💬 *Retroalimentación:* ¡Excelente! Este orden refleja el cambio de paisajes de Chile de norte
+*Retroalimentación:* ¡Excelente! Este orden refleja el cambio de paisajes de Chile de norte
 a sur: desierto, luego valles centrales cerca de la capital, y finalmente bosques y fiordos en
 el sur.
 
@@ -1004,7 +1004,7 @@ d) Para saber qué pasillos hay que decorar en las fiestas del colegio
 
 ✅ Respuesta correcta: **b) Para saber cómo salir de forma segura y ordenada en caso de una
 emergencia**
-💬 *Retroalimentación:* ¡Correcto! Conocer las vías de evacuación nos ayuda a actuar con
+*Retroalimentación:* ¡Correcto! Conocer las vías de evacuación nos ayuda a actuar con
 calma y seguridad si ocurre un sismo u otra emergencia.
 
 ---
@@ -1013,7 +1013,7 @@ calma y seguridad si ocurre un sismo u otra emergencia.
 que ayudan a personas con discapacidad a moverse con más seguridad.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* ¡Muy bien! Estas adaptaciones permiten que más personas puedan
+*Retroalimentación:* ¡Muy bien! Estas adaptaciones permiten que más personas puedan
 desplazarse de forma segura y autónoma.
 
 ---
@@ -1028,7 +1028,7 @@ d) Porque el silencio cura las enfermedades sin necesidad de remedios
 
 ✅ Respuesta correcta: **b) Para no molestar a las personas enfermas que necesitan
 tranquilidad para descansar**
-💬 *Retroalimentación:* ¡Correcto! Las zonas de silencio buscan proteger el descanso de las
+*Retroalimentación:* ¡Correcto! Las zonas de silencio buscan proteger el descanso de las
 personas que están enfermas.
 
 ---
@@ -1048,7 +1048,7 @@ c) 1-C, 2-A, 3-B
 d) 1-C, 2-B, 3-A
 
 ✅ Respuesta correcta: **d) 1-C, 2-B, 3-A**
-💬 *Retroalimentación:* ¡Excelente! Cada norma cuida algo distinto: nuestra seguridad, la
+*Retroalimentación:* ¡Excelente! Cada norma cuida algo distinto: nuestra seguridad, la
 buena convivencia, o el patrimonio de nuestra comunidad.
 
 ---
@@ -1060,7 +1060,7 @@ c) Botar la basura en el río, porque el agua se la lleva.
 d) Arrancar plantas de la plaza, porque vuelven a crecer.
 
 ✅ Respuesta correcta: **a) Reciclar, porque así se generan menos residuos que contaminan.**
-💬 *Retroalimentación:* ¡Muy bien! Reciclar, no botar basura, cuidar el agua y no dañar plantas
+*Retroalimentación:* ¡Muy bien! Reciclar, no botar basura, cuidar el agua y no dañar plantas
 ni animales son normas que protegen el medioambiente. Botar basura en el río lo contamina y
 arrancar plantas daña la naturaleza.
 
@@ -1077,7 +1077,7 @@ d) Cambiarlo a otra escuela que quede más lejos de su casa
 
 ✅ Respuesta correcta: **c) Construir una rampa u otra adaptación que le permita entrar con
 seguridad**
-💬 *Retroalimentación:* ¡Correcto! Las adaptaciones, como las rampas, son necesarias para que
+*Retroalimentación:* ¡Correcto! Las adaptaciones, como las rampas, son necesarias para que
 todas las personas puedan participar plenamente de la vida escolar y comunitaria.
 
 ---
@@ -1144,7 +1144,7 @@ c) Vender alimentos y otros productos en las ferias
 d) Cuidar el patrimonio y los edificios antiguos
 
 ✅ Respuesta correcta: **b) Trasladar personas y productos de un lugar a otro**
-💬 *Retroalimentación:* ¡Correcto! Buses, trenes, aviones y barcos permiten que personas y
+*Retroalimentación:* ¡Correcto! Buses, trenes, aviones y barcos permiten que personas y
 productos lleguen de un lugar a otro.
 
 ---
@@ -1153,7 +1153,7 @@ productos lleguen de un lugar a otro.
 ayudar a avisar a la comunidad sobre una emergencia, como un tsunami.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* ¡Muy bien! Los medios de comunicación cumplen un rol muy importante
+*Retroalimentación:* ¡Muy bien! Los medios de comunicación cumplen un rol muy importante
 para informar rápidamente a muchas personas en caso de emergencia.
 
 ---
@@ -1167,7 +1167,7 @@ c) Carabineros
 d) El hospital
 
 ✅ Respuesta correcta: **a) La CONAF**
-💬 *Retroalimentación:* ¡Correcto! La CONAF (Corporación Nacional Forestal) protege los
+*Retroalimentación:* ¡Correcto! La CONAF (Corporación Nacional Forestal) protege los
 parques nacionales y el patrimonio natural de Chile.
 
 ---
@@ -1186,7 +1186,7 @@ c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* ¡Excelente! Cada servicio cumple una labor distinta, pero todos
+*Retroalimentación:* ¡Excelente! Cada servicio cumple una labor distinta, pero todos
 benefician a la comunidad.
 
 ---
@@ -1200,7 +1200,7 @@ d) Sería muy difícil que lleguen alimentos frescos a las ciudades, y la alimen
 personas se vería afectada.
 
 ✅ Respuesta correcta: **d) Sería muy difícil que lleguen alimentos frescos a las ciudades, y la alimentación de las personas se vería afectada.**
-💬 *Retroalimentación:* ¡Muy bien pensado! Los medios de transporte trasladan personas y
+*Retroalimentación:* ¡Muy bien pensado! Los medios de transporte trasladan personas y
 productos; sin ellos, los alimentos del campo no podrían llegar a quienes viven en las
 ciudades.
 
@@ -1218,7 +1218,7 @@ d) Un canal de televisión únicamente, que muestre el sitio en las noticias y l
 
 ✅ Respuesta correcta: **b) Una institución encargada de proteger el patrimonio cultural,
 como un museo o un organismo especializado**
-💬 *Retroalimentación:* ¡Correcto! Los sitios arqueológicos son parte de nuestro patrimonio
+*Retroalimentación:* ¡Correcto! Los sitios arqueológicos son parte de nuestro patrimonio
 cultural y deben ser protegidos y estudiados por instituciones especializadas.
 
 ---

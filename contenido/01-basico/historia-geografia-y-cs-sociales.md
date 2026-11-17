@@ -99,7 +99,7 @@ c) Almorzar
 d) Cenar
 
 ✅ Respuesta correcta: **a) Despertarme y levantarme**
-💬 *Retroalimentación:* ¡Muy bien! Lo primero en la mañana es despertarnos y levantarnos.
+*Retroalimentación:* ¡Muy bien! Lo primero en la mañana es despertarnos y levantarnos.
 Después viene el desayuno; el almuerzo, la siesta y la cena llegan más tarde.
 
 ---
@@ -108,7 +108,7 @@ Después viene el desayuno; el almuerzo, la siesta y la cena llegan más tarde.
 afuera.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La noche es cuando está oscuro y normalmente dormimos. El día es
+*Retroalimentación:* La noche es cuando está oscuro y normalmente dormimos. El día es
 cuando hay sol y hacemos nuestras actividades.
 
 ---
@@ -121,7 +121,7 @@ c) Desayunar → Almorzar → Cenar
 d) Desayunar → Cenar → Almorzar
 
 ✅ Respuesta correcta: **c) Desayunar → Almorzar → Cenar**
-💬 *Retroalimentación:* ¡Excelente! El desayuno es en la mañana, el almuerzo al mediodía, y la
+*Retroalimentación:* ¡Excelente! El desayuno es en la mañana, el almuerzo al mediodía, y la
 cena en la noche.
 
 ---
@@ -133,7 +133,7 @@ c) Domingo
 d) Jueves
 
 ✅ Respuesta correcta: **d) Jueves**
-💬 *Retroalimentación:* Correcto. "Ayer" siempre es el día que pasó justo antes de hoy.
+*Retroalimentación:* Correcto. "Ayer" siempre es el día que pasó justo antes de hoy.
 
 ---
 
@@ -145,7 +145,7 @@ c) El año próximo estará en 2° Básico → Este año está en 1° Básico �
 d) Este año está en 1° Básico → El año próximo estará en 2° Básico → El año pasado estaba en Kínder
 
 ✅ Respuesta correcta: **a) El año pasado estaba en Kínder → Este año está en 1° Básico → El año próximo estará en 2° Básico**
-💬 *Retroalimentación:* ¡Muy bien! Primero viene lo que pasó (el año pasado), luego lo que pasa
+*Retroalimentación:* ¡Muy bien! Primero viene lo que pasó (el año pasado), luego lo que pasa
 ahora (este año) y al final lo que pasará (el año próximo). Vamos creciendo de curso en curso,
 año tras año.
 
@@ -155,7 +155,7 @@ año tras año.
 día antes de hoy (ayer) fue lunes.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* ¡Correcto! Los días van en orden: lunes, martes, miércoles… Si hoy es
+*Retroalimentación:* ¡Correcto! Los días van en orden: lunes, martes, miércoles… Si hoy es
 martes, el día anterior fue lunes.
 
 ---
@@ -231,7 +231,7 @@ c) El girasol
 d) El copihue
 
 ✅ Respuesta correcta: **d) El copihue**
-💬 *Retroalimentación:* ¡Correcto! El copihue es una flor roja en forma de campanita, típica
+*Retroalimentación:* ¡Correcto! El copihue es una flor roja en forma de campanita, típica
 del sur de Chile, y es el símbolo floral de nuestro país.
 
 ---
@@ -239,7 +239,7 @@ del sur de Chile, y es el símbolo floral de nuestro país.
 **2. (Verdadero o Falso)** La cueca es el baile nacional de Chile.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* ¡Muy bien! La cueca se baila especialmente en las Fiestas Patrias, en
+*Retroalimentación:* ¡Muy bien! La cueca se baila especialmente en las Fiestas Patrias, en
 septiembre.
 
 ---
@@ -251,7 +251,7 @@ c) 18 de septiembre
 d) 1 de enero
 
 ✅ Respuesta correcta: **c) 18 de septiembre**
-💬 *Retroalimentación:* ¡Correcto! El 18 de septiembre celebramos las Fiestas Patrias, con
+*Retroalimentación:* ¡Correcto! El 18 de septiembre celebramos las Fiestas Patrias, con
 cueca, empanadas y banderas chilenas.
 
 ---
@@ -264,7 +264,7 @@ c) En la cordillera, cuando cae la nieve
 d) En las caletas de pescadores, junto al mar
 
 ✅ Respuesta correcta: **d) En las caletas de pescadores, junto al mar**
-💬 *Retroalimentación:* ¡Bien hecho! Cada fiesta se relaciona con el lugar y las personas que
+*Retroalimentación:* ¡Bien hecho! Cada fiesta se relaciona con el lugar y las personas que
 la celebran: la Fiesta de San Pedro en las caletas de pescadores, el rodeo en el campo y la
 Fiesta de La Tirana en el norte.
 
@@ -277,7 +277,7 @@ c) El sushi
 d) Los tacos
 
 ✅ Respuesta correcta: **a) La empanada**
-💬 *Retroalimentación:* ¡Correcto! La empanada es una comida muy típica en Chile,
+*Retroalimentación:* ¡Correcto! La empanada es una comida muy típica en Chile,
 especialmente en las Fiestas Patrias.
 
 ---
@@ -290,7 +290,7 @@ c) Celebrar la Fiesta de La Tirana en el norte
 d) Hacer un rodeo en el campo
 
 ✅ Respuesta correcta: **b, c y d**
-💬 *Retroalimentación:* ¡Muy bien! La cueca en Fiestas Patrias, La Tirana y el rodeo son
+*Retroalimentación:* ¡Muy bien! La cueca en Fiestas Patrias, La Tirana y el rodeo son
 costumbres chilenas que se celebran en distintas zonas del país. Patinar en la Antártica cada
 domingo no es una costumbre de las familias chilenas. Pregunta en tu casa qué fiesta típica se
 celebra en tu ciudad o región.
@@ -302,7 +302,7 @@ c) El esquí acuático
 d) El sumo
 
 ✅ Respuesta correcta: **a) El trompo**
-💬 *Retroalimentación:* ¡Muy bien! El trompo, el emboque, la rayuela y el volantín son juegos
+*Retroalimentación:* ¡Muy bien! El trompo, el emboque, la rayuela y el volantín son juegos
 típicos que se juegan en Chile, sobre todo en Fiestas Patrias.
 
 **8. (Alternativas)** En la plaza principal de una ciudad hay una estatua de una persona
@@ -313,7 +313,7 @@ c) Una tienda donde se compran recuerdos
 d) Un paradero de buses
 
 ✅ Respuesta correcta: **b) Un monumento que recuerda a esa persona**
-💬 *Retroalimentación:* ¡Exacto! Los monumentos, como estatuas, iglesias antiguas o cerros
+*Retroalimentación:* ¡Exacto! Los monumentos, como estatuas, iglesias antiguas o cerros
 conocidos, son hitos que identifican a una ciudad o región y nos recuerdan su historia.
 
 ---
@@ -381,14 +381,14 @@ c) Concepción
 d) Santiago
 
 ✅ Respuesta correcta: **d) Santiago**
-💬 *Retroalimentación:* ¡Correcto! Santiago es la capital de Chile.
+*Retroalimentación:* ¡Correcto! Santiago es la capital de Chile.
 
 ---
 
 **2. (Verdadero o Falso)** La Cordillera de los Andes es un conjunto de montañas.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* ¡Muy bien! La Cordillera de los Andes es una cadena de montañas muy
+*Retroalimentación:* ¡Muy bien! La Cordillera de los Andes es una cadena de montañas muy
 altas que recorre gran parte de Chile.
 
 ---
@@ -405,7 +405,7 @@ c) Las montañas son la Cordillera de los Andes y el mar es el océano Pacífico
 d) Las montañas son la Antártica y el mar es una piscina muy grande.
 
 ✅ Respuesta correcta: **c) Las montañas son la Cordillera de los Andes y el mar es el océano Pacífico.**
-💬 *Retroalimentación:* ¡Bien hecho! En los mapas usamos dibujos y colores para representar
+*Retroalimentación:* ¡Bien hecho! En los mapas usamos dibujos y colores para representar
 elementos reales, como montañas o el mar.
 
 ---
@@ -417,7 +417,7 @@ c) Océano Índico
 d) Océano Ártico
 
 ✅ Respuesta correcta: **a) Océano Pacífico**
-💬 *Retroalimentación:* ¡Correcto! El océano Pacífico está junto a todo el territorio chileno,
+*Retroalimentación:* ¡Correcto! El océano Pacífico está junto a todo el territorio chileno,
 de norte a sur.
 
 ---
@@ -430,7 +430,7 @@ c) Región de Madrid
 d) Región de la Luna
 
 ✅ Respuesta correcta: **a) Región de Valparaíso**
-💬 *Retroalimentación:* ¡Muy bien! Valparaíso es una de las regiones de Chile. El Amazonas está
+*Retroalimentación:* ¡Muy bien! Valparaíso es una de las regiones de Chile. El Amazonas está
 en otros países de Sudamérica, Madrid está en España y la Luna no es un lugar de Chile. Pregunta
 en tu casa el nombre de tu región y de tu localidad (tu ciudad o pueblo).
 
@@ -448,7 +448,7 @@ c) El Punto B, porque Chile se extiende mucho más hacia el sur.
 d) Ninguno, porque Chile es un país muy corto.
 
 ✅ Respuesta correcta: **c) El Punto B, porque Chile se extiende mucho más hacia el sur.**
-💬 *Retroalimentación:* ¡Excelente! Chile es un país muy largo: tanto el norte (Punto A) como el
+*Retroalimentación:* ¡Excelente! Chile es un país muy largo: tanto el norte (Punto A) como el
 sur (Punto B) quedan lejos de Santiago, que está en la zona central. Pero el Punto B queda más
 lejos, porque el territorio chileno se extiende mucho más hacia el sur.
 
@@ -521,7 +521,7 @@ c) Edificio
 d) Cordillera
 
 ✅ Respuesta correcta: **d) Cordillera**
-💬 *Retroalimentación:* ¡Correcto! La cordillera es un elemento natural. Los caminos,
+*Retroalimentación:* ¡Correcto! La cordillera es un elemento natural. Los caminos,
 edificios y puentes son construcciones hechas por las personas.
 
 ---
@@ -529,7 +529,7 @@ edificios y puentes son construcciones hechas por las personas.
 **2. (Verdadero o Falso)** Un desierto es un lugar con mucha vegetación y agua.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Un desierto es un lugar muy seco, con poca lluvia y poca vegetación.
+*Retroalimentación:* Un desierto es un lugar muy seco, con poca lluvia y poca vegetación.
 
 ---
 
@@ -542,7 +542,7 @@ c) El techo
 d) Nada
 
 ✅ Respuesta correcta: **b) La puerta**
-💬 *Retroalimentación:* ¡Muy bien! "Delante" es lo que está hacia donde miramos (la pizarra), y
+*Retroalimentación:* ¡Muy bien! "Delante" es lo que está hacia donde miramos (la pizarra), y
 "detrás" es lo que queda al otro lado, a nuestra espalda (la puerta).
 
 ---
@@ -555,7 +555,7 @@ c) Camino
 d) Vegetación
 
 ✅ Respuesta correcta: **b) Mar**
-💬 *Retroalimentación:* ¡Correcto! El mar (u océano) es una gran masa de agua salada, distinta
+*Retroalimentación:* ¡Correcto! El mar (u océano) es una gran masa de agua salada, distinta
 a un río, que es agua dulce.
 
 ---
@@ -568,7 +568,7 @@ c) Cordillera
 d) Construcciones
 
 ✅ Respuesta correcta: **b, c y d**
-💬 *Retroalimentación:* ¡Muy bien! Cordillera, construcciones y vegetación son palabras
+*Retroalimentación:* ¡Muy bien! Cordillera, construcciones y vegetación son palabras
 geográficas que nos ayudan a describir un paisaje, por ejemplo: "En mi barrio hay muchas
 construcciones y al fondo se ve la cordillera". Un cumpleaños es una celebración, no una parte
 del paisaje.
@@ -585,7 +585,7 @@ c) A la izquierda y a la derecha solo hay cordillera
 d) A la izquierda el juego infantil y a la derecha los árboles
 
 ✅ Respuesta correcta: **d) A la izquierda el juego infantil y a la derecha los árboles**
-💬 *Retroalimentación:* ¡Excelente! Para usar bien "izquierda" y "derecha" siempre debemos
+*Retroalimentación:* ¡Excelente! Para usar bien "izquierda" y "derecha" siempre debemos
 pensar hacia dónde está mirando la persona: si miras la cordillera, igual que en la foto, el
 juego queda a tu izquierda y los árboles a tu derecha.
 
@@ -654,7 +654,7 @@ c) Cerrar los ojos
 d) Gritar fuerte
 
 ✅ Respuesta correcta: **b) Mirar hacia ambos lados**
-💬 *Retroalimentación:* ¡Correcto! Mirar hacia ambos lados antes de cruzar nos ayuda a
+*Retroalimentación:* ¡Correcto! Mirar hacia ambos lados antes de cruzar nos ayuda a
 asegurarnos de que no vienen autos.
 
 ---
@@ -662,7 +662,7 @@ asegurarnos de que no vienen autos.
 **2. (Verdadero o Falso)** No es necesario respetar los semáforos si no hay autos cerca.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Siempre debemos respetar los semáforos, porque nos protegen a
+*Retroalimentación:* Siempre debemos respetar los semáforos, porque nos protegen a
 nosotros y a los demás, incluso si en ese momento no vemos autos cerca.
 
 ---
@@ -675,7 +675,7 @@ c) Hablar al mismo tiempo que el profesor
 d) Pararme y caminar por la sala
 
 ✅ Respuesta correcta: **b) Levantar la mano y esperar mi turno**
-💬 *Retroalimentación:* ¡Muy bien! Levantar la mano es una norma que ayuda a que todos puedan
+*Retroalimentación:* ¡Muy bien! Levantar la mano es una norma que ayuda a que todos puedan
 hablar y ser escuchados en orden.
 
 ---
@@ -688,7 +688,7 @@ c) En el barrio, de noche
 d) En la playa, al bañarse
 
 ✅ Respuesta correcta: **b) En la escuela, durante la clase**
-💬 *Retroalimentación:* ¡Excelente! Cada norma nos ayuda a convivir mejor en un lugar
+*Retroalimentación:* ¡Excelente! Cada norma nos ayuda a convivir mejor en un lugar
 específico: levantar la mano para hablar en la escuela, mirar hacia ambos lados antes de cruzar
 en la calle, y no hacer ruidos molestos de noche en el barrio.
 
@@ -702,7 +702,7 @@ c) Esconder las cosas de mis hermanos
 d) Ordenar mis juguetes
 
 ✅ Respuesta correcta: **b y d**
-💬 *Retroalimentación:* ¡Muy bien! Ordenar tus juguetes y pedir las cosas por favor ayudan a que
+*Retroalimentación:* ¡Muy bien! Ordenar tus juguetes y pedir las cosas por favor ayudan a que
 todos en la familia vivan mejor. Gritar o esconder las cosas de otros molesta y genera
 problemas.
 
@@ -716,7 +716,7 @@ c) Porque siempre existe el riesgo de un accidente, y las normas nos ayudan a ev
 d) Porque las normas sirven solo para los autos, y los peatones pueden cruzar por donde quieran.
 
 ✅ Respuesta correcta: **c) Porque siempre existe el riesgo de un accidente, y las normas nos ayudan a evitarlo.**
-💬 *Retroalimentación:* ¡Muy bien pensado! Aunque muchas veces no pase nada, siempre existe el
+*Retroalimentación:* ¡Muy bien pensado! Aunque muchas veces no pase nada, siempre existe el
 riesgo de que ocurra un accidente si no se respetan las normas. Por eso es mejor seguirlas
 siempre, nos mire alguien o no.
 
@@ -785,7 +785,7 @@ c) Carabineros
 d) La escuela
 
 ✅ Respuesta correcta: **b) El hospital o la posta**
-💬 *Retroalimentación:* ¡Correcto! El hospital o la posta son los lugares donde médicos y
+*Retroalimentación:* ¡Correcto! El hospital o la posta son los lugares donde médicos y
 enfermeras atienden a las personas enfermas.
 
 ---
@@ -794,7 +794,7 @@ enfermeras atienden a las personas enfermas.
 personas.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* ¡Muy bien! Carabineros ayuda a mantener la seguridad y a resolver
+*Retroalimentación:* ¡Muy bien! Carabineros ayuda a mantener la seguridad y a resolver
 emergencias en la comunidad.
 
 ---
@@ -806,7 +806,7 @@ c) El supermercado
 d) El hospital
 
 ✅ Respuesta correcta: **d) El hospital**
-💬 *Retroalimentación:* ¡Excelente! El hospital cuida la salud, la escuela enseña y ayuda a
+*Retroalimentación:* ¡Excelente! El hospital cuida la salud, la escuela enseña y ayuda a
 aprender, y la municipalidad cuida las calles y plazas de la comuna. Cada institución cumple
 una labor distinta, pero todas ayudan a la comunidad.
 
@@ -820,7 +820,7 @@ c) Carabineros
 d) La escuela
 
 ✅ Respuesta correcta: **b) La municipalidad**
-💬 *Retroalimentación:* ¡Correcto! La municipalidad se encarga de cuidar espacios de uso
+*Retroalimentación:* ¡Correcto! La municipalidad se encarga de cuidar espacios de uso
 común como plazas y calles.
 
 ---
@@ -832,7 +832,7 @@ c) Hospital: enseña a leer y a escribir
 d) Municipalidad: cura a los enfermos en su casa
 
 ✅ Respuesta correcta: **a) Carabineros: cuidan la seguridad de las personas**
-💬 *Retroalimentación:* ¡Muy bien! Carabineros cuida la seguridad. La escuela enseña, el hospital
+*Retroalimentación:* ¡Muy bien! Carabineros cuida la seguridad. La escuela enseña, el hospital
 cuida la salud y la municipalidad se preocupa de las calles, plazas y servicios de la comuna.
 
 ---
@@ -845,7 +845,7 @@ c) A la municipalidad
 d) A ningún lugar, porque no es importante
 
 ✅ Respuesta correcta: **c) A la municipalidad**
-💬 *Retroalimentación:* ¡Correcto! La municipalidad es la institución encargada de cuidar y
+*Retroalimentación:* ¡Correcto! La municipalidad es la institución encargada de cuidar y
 reparar las calles y espacios públicos de la comuna.
 
 ---

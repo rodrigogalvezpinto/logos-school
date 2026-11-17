@@ -144,7 +144,7 @@ c) Obtener riquezas como oro, plata y otros metales
 d) Establecer un sistema democrático de elecciones
 
 ✅ Respuesta correcta: **d) Establecer un sistema democrático de elecciones**
-💬 *Retroalimentación:* Los tres objetivos centrales de la Corona eran territoriales,
+*Retroalimentación:* Los tres objetivos centrales de la Corona eran territoriales,
 religiosos y económicos. La democracia, tal como la conocemos hoy, no existía como objetivo
 de la conquista.
 
@@ -153,7 +153,7 @@ de la conquista.
 **2. (Verdadero o Falso)** Pedro de Valdivia fundó la ciudad de Santiago en 1541.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Pedro de Valdivia fundó Santiago en 1541, dando inicio a un largo
+*Retroalimentación:* Pedro de Valdivia fundó Santiago en 1541, dando inicio a un largo
 proceso de fundación de ciudades en el territorio chileno.
 
 ---
@@ -165,7 +165,7 @@ c) 2 → 4 → 3 → 1
 d) 1 → 2 → 3 → 4
 
 ✅ Respuesta correcta: **a) 2 → 3 → 4 → 1**
-💬 *Retroalimentación:* Almagro llegó primero (1535), luego se fundó Santiago (1541), después ocurrieron los levantamientos de Lautaro (década de 1550) y, finalmente, el desastre de Curalaba (1598).
+*Retroalimentación:* Almagro llegó primero (1535), luego se fundó Santiago (1541), después ocurrieron los levantamientos de Lautaro (década de 1550) y, finalmente, el desastre de Curalaba (1598).
 
 ---
 
@@ -178,7 +178,7 @@ d) Michimalonco atacó y destruyó gran parte de la ciudad recién fundada
 
 ✅ Respuesta correcta: **d) Michimalonco atacó y destruyó gran parte de la ciudad recién
 fundada**
-💬 *Retroalimentación:* En 1541, poco después de la fundación de Santiago, el líder indígena
+*Retroalimentación:* En 1541, poco después de la fundación de Santiago, el líder indígena
 Michimalonco lideró un ataque que destruyó gran parte de la ciudad, mostrando la fuerte
 resistencia que enfrentaron los españoles.
 
@@ -191,7 +191,7 @@ c) Porque las ciudades no tenían ninguna función en la conquista: se fundaban 
 d) Porque permitía a los españoles establecerse de forma permanente, controlar el territorio, organizar su administración y facilitar la evangelización
 
 ✅ Respuesta correcta: **d) Porque permitía a los españoles establecerse de forma permanente, controlar el territorio, organizar su administración y facilitar la evangelización**
-💬 *Retroalimentación:* Fundar ciudades marcaba la diferencia entre explorar un territorio y quedarse en él para gobernarlo.
+*Retroalimentación:* Fundar ciudades marcaba la diferencia entre explorar un territorio y quedarse en él para gobernarlo.
 
 ---
 
@@ -202,7 +202,7 @@ c) La conquista avanzó solo hacia el norte, porque el sur ya estaba ocupado por
 d) Las ciudades se fundaron de sur a norte, empezando por Valdivia y terminando en Santiago
 
 ✅ Respuesta correcta: **b) Avanzó progresivamente desde el centro hacia el norte y el sur, fundando ciudades a lo largo de los años**
-💬 *Retroalimentación:* Las fechas muestran que la conquista fue un proceso gradual (el registro abarca 11 años, 1541–1552) y que buscó expandirse en varias direcciones desde el valle central.
+*Retroalimentación:* Las fechas muestran que la conquista fue un proceso gradual (el registro abarca 11 años, 1541–1552) y que buscó expandirse en varias direcciones desde el valle central.
 
 ---
 
@@ -213,7 +213,7 @@ c) Porque la sociedad que surgió no era ni completamente española ni completam
 d) Porque no hubo ningún cambio en la forma de vivir: indígenas y españoles siguieron completamente separados
 
 ✅ Respuesta correcta: **c) Porque la sociedad que surgió no era ni completamente española ni completamente indígena: su elemento central fue el mestizaje**
-💬 *Retroalimentación:* También son elementos de esa nueva sociedad las ciudades fundadas y los conflictos bélicos que marcaron esta nueva etapa.
+*Retroalimentación:* También son elementos de esa nueva sociedad las ciudades fundadas y los conflictos bélicos que marcaron esta nueva etapa.
 
 ---
 
@@ -289,7 +289,7 @@ c) Imposición de una nueva religión en Europa
 d) Llegada de oro, plata y nuevos alimentos americanos
 
 ✅ Respuesta correcta: **d) Llegada de oro, plata y nuevos alimentos americanos**
-💬 *Retroalimentación:* Europa se benefició económicamente de las riquezas americanas y
+*Retroalimentación:* Europa se benefició económicamente de las riquezas americanas y
 conoció nuevos alimentos como la papa, el maíz y el tomate, que hoy son parte fundamental de
 su gastronomía.
 
@@ -299,7 +299,7 @@ su gastronomía.
 América fueron los conflictos bélicos, no las enfermedades.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Aunque los conflictos bélicos también causaron muertes, las
+*Retroalimentación:* Aunque los conflictos bélicos también causaron muertes, las
 enfermedades traídas por los europeos —como la viruela— fueron la causa principal de la
 enorme disminución de la población indígena, ya que esta no tenía defensas contra ellas.
 
@@ -311,7 +311,7 @@ b) El aumento de riqueza gracias al oro y la plata
 c) La incorporación de nuevos alimentos como la papa y el maíz a su dieta
 
 ✅ Respuesta correcta: **a) Una fuerte disminución de la población originaria**
-💬 *Retroalimentación:* El oro, la plata y los nuevos alimentos beneficiaron principalmente a Europa, mientras que la disminución de población fue una consecuencia devastadora vivida en América.
+*Retroalimentación:* El oro, la plata y los nuevos alimentos beneficiaron principalmente a Europa, mientras que la disminución de población fue una consecuencia devastadora vivida en América.
 
 ---
 
@@ -322,7 +322,7 @@ c) Europa: disminución de su población por enfermedades americanas. América: 
 d) Europa: ninguna consecuencia. América: ninguna consecuencia
 
 ✅ Respuesta correcta: **a) Europa: llegada de nuevos alimentos como la papa y el tomate. América: imposición de una nueva lengua y religión**
-💬 *Retroalimentación:* En América también hubo una fuerte disminución de la población indígena por enfermedades; la papa y el tomate son originarios de América y llegaron a Europa.
+*Retroalimentación:* En América también hubo una fuerte disminución de la población indígena por enfermedades; la papa y el tomate son originarios de América y llegaron a Europa.
 
 ---
 
@@ -335,7 +335,7 @@ c) La democracia
 d) El mestizaje
 
 ✅ Respuesta correcta: **d) El mestizaje**
-💬 *Retroalimentación:* El mestizaje, es decir, la mezcla biológica y cultural entre
+*Retroalimentación:* El mestizaje, es decir, la mezcla biológica y cultural entre
 españoles e indígenas, fue una de las consecuencias más importantes y duraderas de la
 conquista, y explica el origen de gran parte de la población latinoamericana actual.
 
@@ -348,7 +348,7 @@ c) Porque el impacto fue exactamente igual en ambos continentes: los dos ganaron
 d) Porque Europa fue el conquistador y se enriqueció, mientras que América fue el territorio conquistado y perdió población y autonomía
 
 ✅ Respuesta correcta: **d) Porque Europa fue el conquistador y se enriqueció, mientras que América fue el territorio conquistado y perdió población y autonomía**
-💬 *Retroalimentación:* En lo económico, demográfico y cultural, Europa vivió principalmente enriquecimiento y expansión de poder, y América consecuencias mucho más dolorosas.
+*Retroalimentación:* En lo económico, demográfico y cultural, Europa vivió principalmente enriquecimiento y expansión de poder, y América consecuencias mucho más dolorosas.
 
 ---
 
@@ -418,7 +418,7 @@ d) Que Chile no tenía ninguna relación con el Virreinato del Perú
 
 ✅ Respuesta correcta: **c) Que Chile estaba controlado política y económicamente por
 España**
-💬 *Retroalimentación:* Durante la Colonia, Chile no tomaba decisiones de forma autónoma:
+*Retroalimentación:* Durante la Colonia, Chile no tomaba decisiones de forma autónoma:
 dependía de las decisiones tomadas en España y de la administración del Virreinato del Perú.
 
 ---
@@ -427,7 +427,7 @@ dependía de las decisiones tomadas en España y de la administración del Virre
 religiosos y no tuvo ningún papel en la educación.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La Iglesia católica tuvo un rol central también en la educación,
+*Retroalimentación:* La Iglesia católica tuvo un rol central también en la educación,
 fundando los primeros colegios, y en la formación de las costumbres de la época colonial.
 
 ---
@@ -441,7 +441,7 @@ c) Colonialismo
 d) Evangelización
 
 ✅ Respuesta correcta: **b) Sincretismo**
-💬 *Retroalimentación:* El sincretismo es la combinación de elementos de distintas culturas o
+*Retroalimentación:* El sincretismo es la combinación de elementos de distintas culturas o
 religiones en una misma expresión, como ocurre en fiestas religiosas populares que mezclan lo
 católico con lo indígena.
 
@@ -454,7 +454,7 @@ c) La influencia en las costumbres y celebraciones de la época
 d) La evangelización de la población indígena y mestiza
 
 ✅ Respuesta correcta: **a, c y d**
-💬 *Retroalimentación:* La Iglesia evangelizó, educó e influyó en las costumbres; el comercio de la colonia estaba orientado principalmente hacia España, no era libre.
+*Retroalimentación:* La Iglesia evangelizó, educó e influyó en las costumbres; el comercio de la colonia estaba orientado principalmente hacia España, no era libre.
 
 ---
 
@@ -465,7 +465,7 @@ c) La independencia, porque es una fiesta patria que se celebra con jinetes y ba
 d) El monopolio comercial, porque en la fiesta se vende comunión y solo la vende la Iglesia
 
 ✅ Respuesta correcta: **b) El sincretismo, porque combina una tradición católica con elementos de la cultura campesina chilena**
-💬 *Retroalimentación:* Muchas celebraciones actuales en Chile son ejemplos vivos de sincretismo: mezclan elementos religiosos traídos por los españoles con tradiciones y formas de vida propias del territorio.
+*Retroalimentación:* Muchas celebraciones actuales en Chile son ejemplos vivos de sincretismo: mezclan elementos religiosos traídos por los españoles con tradiciones y formas de vida propias del territorio.
 
 ---
 
@@ -473,7 +473,7 @@ d) El monopolio comercial, porque en la fiesta se vende comunión y solo la vend
 en toda América que aún se pueden reconocer en el presente.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* El mestizaje fue un proceso que ocurrió en distintos países
+*Retroalimentación:* El mestizaje fue un proceso que ocurrió en distintos países
 americanos con características similares, y por eso hoy se reconocen rasgos culturales
 compartidos —idioma, religión, tradiciones— en gran parte de Latinoamérica.
 
@@ -486,7 +486,7 @@ c) Porque Chile no podía comerciar libremente con otros países: su comercio de
 d) Porque la colonia comerciaba solo con Asia, y España no le permitía venderle nada a Europa
 
 ✅ Respuesta correcta: **c) Porque Chile no podía comerciar libremente con otros países: su comercio debía orientarse principalmente hacia España**
-💬 *Retroalimentación:* Al depender de la metrópoli, Chile no podía tomar decisiones económicas propias, lo que restringía sus posibilidades de crecimiento independiente.
+*Retroalimentación:* Al depender de la metrópoli, Chile no podía tomar decisiones económicas propias, lo que restringía sus posibilidades de crecimiento independiente.
 
 ---
 
@@ -570,7 +570,7 @@ c) Río Maipo
 d) Río Baker
 
 ✅ Respuesta correcta: **b) Río Biobío**
-💬 *Retroalimentación:* El río Biobío se convirtió en una frontera natural entre el
+*Retroalimentación:* El río Biobío se convirtió en una frontera natural entre el
 territorio controlado por los españoles al norte y el territorio mapuche independiente al
 sur, dando origen a lo que se conoce como "vida fronteriza".
 
@@ -580,7 +580,7 @@ sur, dando origen a lo que se conoce como "vida fronteriza".
 llegar a acuerdos mediante el diálogo, en lugar de la guerra.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Los parlamentos, como el de Quillín en 1641, eran instancias de
+*Retroalimentación:* Los parlamentos, como el de Quillín en 1641, eran instancias de
 negociación donde ambas partes buscaban acuerdos de paz, comercio y convivencia, como
 alternativa al conflicto armado permanente.
 
@@ -599,7 +599,7 @@ c) 1-C, 2-B, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Cada concepto representa una forma distinta de relación entre españoles y mapuches: la encomienda es una forma de trabajo, la evangelización es religiosa, y la Guerra de Arauco es el conflicto bélico central del período.
+*Retroalimentación:* Cada concepto representa una forma distinta de relación entre españoles y mapuches: la encomienda es una forma de trabajo, la evangelización es religiosa, y la Guerra de Arauco es el conflicto bélico central del período.
 
 ---
 
@@ -611,7 +611,7 @@ c) El sistema de parlamentos
 d) La esclavitud indígena
 
 ✅ Respuesta correcta: **b) La guerra defensiva**
-💬 *Retroalimentación:* La guerra defensiva buscaba evangelizar a los mapuches en lugar de
+*Retroalimentación:* La guerra defensiva buscaba evangelizar a los mapuches en lugar de
 combatirlos activamente, aunque finalmente no logró poner fin al conflicto de la Guerra de
 Arauco.
 
@@ -624,7 +624,7 @@ c) Los parlamentos, donde se negociaban acuerdos
 d) La vida fronteriza, con intercambio en torno al Biobío
 
 ✅ Respuesta correcta: **b, c y d**
-💬 *Retroalimentación:* También lo fueron el trabajo forzado (encomienda), la evangelización y el mestizaje. No existían elecciones con voto universal en la Colonia.
+*Retroalimentación:* También lo fueron el trabajo forzado (encomienda), la evangelización y el mestizaje. No existían elecciones con voto universal en la Colonia.
 
 ---
 
@@ -635,7 +635,7 @@ c) La evangelización, con misiones religiosas en todo el territorio mapuche
 d) La vida fronteriza, con intercambio comercial y convivencia en la zona de frontera
 
 ✅ Respuesta correcta: **d) La vida fronteriza, con intercambio comercial y convivencia en la zona de frontera**
-💬 *Retroalimentación:* La relación entre españoles y mapuches no fue solo de conflicto constante: también hubo largos períodos e instancias de intercambio y convivencia en la zona fronteriza.
+*Retroalimentación:* La relación entre españoles y mapuches no fue solo de conflicto constante: también hubo largos períodos e instancias de intercambio y convivencia en la zona fronteriza.
 
 ---
 
@@ -646,7 +646,7 @@ c) Porque los españoles no querían el territorio al sur del Biobío y nunca in
 d) Porque nunca hubo guerra entre ellos: desde la llegada de los españoles convivieron en paz
 
 ✅ Respuesta correcta: **b) Porque ninguna de las dos partes lograba una victoria definitiva y tenían intereses compartidos, como el comercio**
-💬 *Retroalimentación:* Buscar formas de convivencia reducía el desgaste de una guerra prolongada, y el comercio permitía obtener bienes que cada grupo no producía por sí mismo.
+*Retroalimentación:* Buscar formas de convivencia reducía el desgaste de una guerra prolongada, y el comercio permitía obtener bienes que cada grupo no producía por sí mismo.
 
 ---
 
@@ -749,7 +749,7 @@ c) Norte Grande
 d) Zona Austral
 
 ✅ Respuesta correcta: **c) Norte Grande**
-💬 *Retroalimentación:* El Norte Grande, que incluye el desierto de Atacama, tiene un clima
+*Retroalimentación:* El Norte Grande, que incluye el desierto de Atacama, tiene un clima
 desértico con muy pocas precipitaciones y concentra gran parte de la producción de cobre del
 país.
 
@@ -759,7 +759,7 @@ país.
 población del país.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* La Zona Central, que incluye la Región Metropolitana, concentra la
+*Retroalimentación:* La Zona Central, que incluye la Región Metropolitana, concentra la
 mayor densidad y cantidad de población de Chile, además de tener un clima mediterráneo
 favorable para la agricultura.
 
@@ -772,7 +772,7 @@ c) Norte Grande → Norte Chico → Zona Central → Zona Sur → Zona Austral
 d) Norte Grande → Zona Central → Norte Chico → Zona Sur → Zona Austral
 
 ✅ Respuesta correcta: **c) Norte Grande → Norte Chico → Zona Central → Zona Sur → Zona Austral**
-💬 *Retroalimentación:* Este es el orden geográfico de las cinco grandes zonas naturales de Chile, desde el límite con Perú hasta el extremo sur del país.
+*Retroalimentación:* Este es el orden geográfico de las cinco grandes zonas naturales de Chile, desde el límite con Perú hasta el extremo sur del país.
 
 ---
 
@@ -786,7 +786,7 @@ c) Zona Central
 d) Norte Chico
 
 ✅ Respuesta correcta: **a) Zona Austral**
-💬 *Retroalimentación:* La Zona Austral se caracteriza por su clima frío, sus fiordos y glaciares, la ganadería ovina y una población escasa en comparación con el resto del país.
+*Retroalimentación:* La Zona Austral se caracteriza por su clima frío, sus fiordos y glaciares, la ganadería ovina y una población escasa en comparación con el resto del país.
 
 ---
 
@@ -799,7 +799,7 @@ d) Solo el desierto costero, con dunas, quebradas y oasis en el interior, sin co
 
 ✅ Respuesta correcta: **b) Cordillera de los Andes, Depresión Intermedia, cordillera de la
 Costa y planicies litorales**
-💬 *Retroalimentación:* En la Zona Central se distinguen con claridad las cuatro macroformas: la cordillera de los Andes al este, la Depresión Intermedia (los valles), la cordillera de la Costa y las planicies litorales junto al mar.
+*Retroalimentación:* En la Zona Central se distinguen con claridad las cuatro macroformas: la cordillera de los Andes al este, la Depresión Intermedia (los valles), la cordillera de la Costa y las planicies litorales junto al mar.
 
 ---
 
@@ -810,7 +810,7 @@ c) La Zona Austral es la más poblada de Chile y tiene un clima desértico, idea
 d) El Norte Grande tiene clima desértico y su recurso principal es la minería; la Zona Sur es lluviosa y destaca por sus bosques
 
 ✅ Respuesta correcta: **d) El Norte Grande tiene clima desértico y su recurso principal es la minería; la Zona Sur es lluviosa y destaca por sus bosques**
-💬 *Retroalimentación:* Comparar zonas en clima, relieve, población o recursos ayuda a entender la diversidad del territorio chileno.
+*Retroalimentación:* Comparar zonas en clima, relieve, población o recursos ayuda a entender la diversidad del territorio chileno.
 
 ---
 
@@ -821,7 +821,7 @@ c) Porque todas las zonas tienen la misma cantidad de habitantes, y la Zona Cent
 d) Porque la Zona Austral tiene el mejor clima del país, pero sus habitantes prefieren trabajar en la Zona Central
 
 ✅ Respuesta correcta: **b) Porque la Zona Central tiene un clima más favorable (mediterráneo), tierras agrícolas y actividad económica, mientras que el desierto o el frío extremo dificultan la vida**
-💬 *Retroalimentación:* El clima y los recursos naturales influyen en dónde se concentra la población.
+*Retroalimentación:* El clima y los recursos naturales influyen en dónde se concentra la población.
 
 ---
 
@@ -897,7 +897,7 @@ c) Zona Sur
 d) Zona Central
 
 ✅ Respuesta correcta: **b) Norte Grande**
-💬 *Retroalimentación:* El Norte Grande, especialmente la Región de Antofagasta, concentra la
+*Retroalimentación:* El Norte Grande, especialmente la Región de Antofagasta, concentra la
 mayor parte de la producción de cobre de Chile.
 
 ---
@@ -906,7 +906,7 @@ mayor parte de la producción de cobre de Chile.
 renovables.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Ambos son minerales y, por lo tanto, recursos no renovables: una vez
+*Retroalimentación:* Ambos son minerales y, por lo tanto, recursos no renovables: una vez
 extraídos, no se regeneran en una escala de tiempo humana.
 
 ---
@@ -921,7 +921,7 @@ c) Cada recurso depende de las condiciones naturales de su zona: bosques por el 
 d) La pesca se concentra en el desierto del Norte Grande, los bosques en la costa y la minería en el sur, porque así se reparten los recursos en Chile
 
 ✅ Respuesta correcta: **c) Cada recurso depende de las condiciones naturales de su zona: bosques por el clima lluvioso del sur, pesca por el mar y la Corriente de Humboldt, minerales por la geología del norte**
-💬 *Retroalimentación:* La distribución de los recursos naturales no es aleatoria: depende del clima, el relieve y otras condiciones geográficas propias de cada zona del país.
+*Retroalimentación:* La distribución de los recursos naturales no es aleatoria: depende del clima, el relieve y otras condiciones geográficas propias de cada zona del país.
 
 ---
 
@@ -933,7 +933,7 @@ c) Establecer vedas pesqueras y reforestar zonas taladas
 d) Extraer cobre sin ninguna regulación ambiental
 
 ✅ Respuesta correcta: **c) Establecer vedas pesqueras y reforestar zonas taladas**
-💬 *Retroalimentación:* Las vedas y la reforestación son ejemplos concretos de cómo cuidar
+*Retroalimentación:* Las vedas y la reforestación son ejemplos concretos de cómo cuidar
 recursos renovables para que sigan existiendo en el futuro, en el marco del desarrollo
 sostenible.
 
@@ -946,7 +946,7 @@ c) Bosque nativo
 d) Hierro
 
 ✅ Respuesta correcta: **a y c**
-💬 *Retroalimentación:* Los minerales (cobre, hierro) son no renovables, mientras que los bosques y los recursos marítimos pueden regenerarse si se cuidan adecuadamente.
+*Retroalimentación:* Los minerales (cobre, hierro) son no renovables, mientras que los bosques y los recursos marítimos pueden regenerarse si se cuidan adecuadamente.
 
 ---
 
@@ -957,7 +957,7 @@ c) Porque los no renovables se pueden usar sin límite, ya que la naturaleza los
 d) No es importante: todos los recursos son iguales y ninguno se agota si se usa con frecuencia
 
 ✅ Respuesta correcta: **a) Porque los no renovables, una vez agotados, no vuelven a existir, y los renovables pueden mantenerse si se gestionan sin sobreexplotarlos**
-💬 *Retroalimentación:* Un recurso no renovable, como el cobre o el petróleo, se agota para siempre; uno renovable, como el bosque o los peces, puede durar si se usa sin sobreexplotarlo. Por eso cada uno requiere un cuidado distinto.
+*Retroalimentación:* Un recurso no renovable, como el cobre o el petróleo, se agota para siempre; uno renovable, como el bosque o los peces, puede durar si se usa sin sobreexplotarlo. Por eso cada uno requiere un cuidado distinto.
 
 ---
 
@@ -968,7 +968,7 @@ c) Regular la extracción para reducir el daño ambiental
 d) Invertir las ganancias del cobre en otras áreas de desarrollo
 
 ✅ Respuesta correcta: **b, c y d**
-💬 *Retroalimentación:* Como el cobre se agotará en algún momento, conviene regular su extracción, controlar la contaminación de la minería, invertir sus ganancias y diversificar la economía.
+*Retroalimentación:* Como el cobre se agotará en algún momento, conviene regular su extracción, controlar la contaminación de la minería, invertir sus ganancias y diversificar la economía.
 
 ---
 
@@ -1042,7 +1042,7 @@ c) Que dependen del lugar donde una persona nace
 d) Que solo se aplican a los adultos
 
 ✅ Respuesta correcta: **b) Que todas las personas los tienen, sin excepción**
-💬 *Retroalimentación:* La universalidad es una característica central de los derechos
+*Retroalimentación:* La universalidad es una característica central de los derechos
 humanos: todas las personas los poseen por el solo hecho de ser personas, sin importar sus
 características individuales.
 
@@ -1052,7 +1052,7 @@ características individuales.
 lugar de nacimiento.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Los derechos no dependen de características individuales como la
+*Retroalimentación:* Los derechos no dependen de características individuales como la
 etnia, el sexo o el lugar de nacimiento: son los mismos para todas las personas.
 
 ---
@@ -1065,7 +1065,7 @@ c) Los pares, la comunidad y el Estado
 d) Nadie está obligado a respetarlos
 
 ✅ Respuesta correcta: **c) Los pares, la comunidad y el Estado**
-💬 *Retroalimentación:* El respeto a los derechos involucra a distintos niveles: otras
+*Retroalimentación:* El respeto a los derechos involucra a distintos niveles: otras
 personas, el entorno cercano (comunidad) y las instituciones del Estado.
 
 ---
@@ -1077,7 +1077,7 @@ c) Ningún principio, porque es una decisión privada que no tiene relación con
 d) El principio de universalidad: los derechos son iguales para todas las personas, sin importar su lugar de nacimiento
 
 ✅ Respuesta correcta: **d) El principio de universalidad: los derechos son iguales para todas las personas, sin importar su lugar de nacimiento**
-💬 *Retroalimentación:* Cuando una persona recibe un trato distinto solo por una característica como el lugar de nacimiento, se está discriminando y vulnerando el principio de que los derechos son iguales para todas las personas.
+*Retroalimentación:* Cuando una persona recibe un trato distinto solo por una característica como el lugar de nacimiento, se está discriminando y vulnerando el principio de que los derechos son iguales para todas las personas.
 
 ---
 
@@ -1088,7 +1088,7 @@ c) Que solo los adultos tienen derechos, porque los niños todavía no pueden vo
 d) Que los derechos son un favor que el Estado entrega y que se puede quitar cuando quiera
 
 ✅ Respuesta correcta: **b) Que, por el solo hecho de ser persona, cada individuo tiene derechos que deben ser reconocidos y respetados**
-💬 *Retroalimentación:* Los derechos no son un favor ni dependen de las características de cada persona.
+*Retroalimentación:* Los derechos no son un favor ni dependen de las características de cada persona.
 
 ---
 
@@ -1096,7 +1096,7 @@ d) Que los derechos son un favor que el Estado entrega y que se puede quitar cua
 cualquier otra persona.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Los derechos son universales: ninguna característica individual,
+*Retroalimentación:* Los derechos son universales: ninguna característica individual,
 incluida una condición de discapacidad, disminuye o cambia los derechos que una persona
 posee.
 
@@ -1109,7 +1109,7 @@ c) Se generaría una sociedad desigual y discriminatoria, donde algunas personas
 d) No cambiaría nada, porque los derechos humanos dependen solo de las leyes de cada país y no de la universalidad
 
 ✅ Respuesta correcta: **c) Se generaría una sociedad desigual y discriminatoria, donde algunas personas tendrían más protección que otras por características que no eligieron**
-💬 *Retroalimentación:* Por eso es importante que los derechos sean universales: hacerlos depender de esas características sería profundamente injusto.
+*Retroalimentación:* Por eso es importante que los derechos sean universales: hacerlos depender de esas características sería profundamente injusto.
 
 ---
 
@@ -1197,7 +1197,7 @@ d) Prohibir la formación de partidos políticos para evitar los conflictos entr
 
 ✅ Respuesta correcta: **b) Asegurar que las personas puedan ejercer derechos como la
 educación y la salud**
-💬 *Retroalimentación:* El Estado tiene la responsabilidad de garantizar que las personas
+*Retroalimentación:* El Estado tiene la responsabilidad de garantizar que las personas
 puedan ejercer efectivamente sus derechos, no solo reconocerlos en el papel.
 
 ---
@@ -1205,7 +1205,7 @@ puedan ejercer efectivamente sus derechos, no solo reconocerlos en el papel.
 **2. (Verdadero o Falso)** Tener derechos no genera ningún deber para las personas.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Los derechos siempre están acompañados de deberes: por ejemplo, todas
+*Retroalimentación:* Los derechos siempre están acompañados de deberes: por ejemplo, todas
 las personas deben respetar los derechos de los demás y respetar las leyes.
 
 ---
@@ -1218,7 +1218,7 @@ c) El derecho a no respetar las leyes
 d) El derecho a impedir que otras personas voten
 
 ✅ Respuesta correcta: **a) El derecho a sufragio**
-💬 *Retroalimentación:* El derecho a sufragio, es decir, a votar en elecciones, es una de las
+*Retroalimentación:* El derecho a sufragio, es decir, a votar en elecciones, es una de las
 formas fundamentales de participación en la vida pública que el Estado debe asegurar.
 
 ---
@@ -1236,7 +1236,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Cada situación ilustra una relación distinta entre derechos y deberes: el respeto mutuo entre personas, la responsabilidad del Estado, y el ejercicio activo de la participación ciudadana.
+*Retroalimentación:* Cada situación ilustra una relación distinta entre derechos y deberes: el respeto mutuo entre personas, la responsabilidad del Estado, y el ejercicio activo de la participación ciudadana.
 
 ---
 
@@ -1247,7 +1247,7 @@ c) Derecho a la propiedad → tomar las cosas de los demás cuando uno las neces
 d) Libertad de expresión → expresarse respetando la opinión y los derechos de los demás
 
 ✅ Respuesta correcta: **d) Libertad de expresión → expresarse respetando la opinión y los derechos de los demás**
-💬 *Retroalimentación:* Ejercer un derecho implica deberes: por ejemplo, expresarse sin ofender ni dañar a otras personas.
+*Retroalimentación:* Ejercer un derecho implica deberes: por ejemplo, expresarse sin ofender ni dañar a otras personas.
 
 ---
 
@@ -1258,7 +1258,7 @@ c) El derecho a la salud; permite atenderse en el hospital y recibir medicamento
 d) Ninguno; formar fundaciones está prohibido para los vecinos y solo puede hacerlo la municipalidad
 
 ✅ Respuesta correcta: **b) El derecho a formar organizaciones de participación social; permite organizarse libremente para resolver problemas comunes**
-💬 *Retroalimentación:* La participación social organizada, como fundaciones o juntas de vecinos, es una herramienta poderosa para mejorar el entorno, más allá de solo votar, y depende de que el Estado la garantice.
+*Retroalimentación:* La participación social organizada, como fundaciones o juntas de vecinos, es una herramienta poderosa para mejorar el entorno, más allá de solo votar, y depende de que el Estado la garantice.
 
 ---
 
@@ -1269,7 +1269,7 @@ c) La convivencia se volvería desordenada e injusta, porque el ejercicio del de
 d) No pasaría nada, porque los derechos de cada persona son independientes y nunca se cruzan con los de otra
 
 ✅ Respuesta correcta: **c) La convivencia se volvería desordenada e injusta, porque el ejercicio del derecho de una persona pasaría a llevar los derechos de otra**
-💬 *Retroalimentación:* Por eso es importante el equilibrio entre derechos y deberes, como respetar las leyes y los derechos de los demás.
+*Retroalimentación:* Por eso es importante el equilibrio entre derechos y deberes, como respetar las leyes y los derechos de los demás.
 
 ---
 

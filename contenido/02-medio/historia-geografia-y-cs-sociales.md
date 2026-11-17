@@ -172,7 +172,7 @@ c) La independencia de las colonias americanas
 d) La Gran Depresión de 1929
 
 ✅ Respuesta correcta: **d) La Gran Depresión de 1929**
-💬 *Retroalimentación:* El colapso económico de 1929 puso en duda la capacidad del Estado
+*Retroalimentación:* El colapso económico de 1929 puso en duda la capacidad del Estado
 liberal mínimo para enfrentar crisis de gran escala, abriendo paso a modelos políticos y
 económicos alternativos.
 
@@ -182,7 +182,7 @@ económicos alternativos.
 diferencias ideológicas, compartían el rechazo al pluralismo político y a las elecciones libres.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Aunque partían de ideologías distintas —e incluso enfrentadas entre
+*Retroalimentación:* Aunque partían de ideologías distintas —e incluso enfrentadas entre
 sí—, los tres regímenes totalitarios concentraban el poder en un partido único y rechazaban la
 democracia liberal.
 
@@ -201,7 +201,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Los tres modelos ampliaron el rol del Estado frente al liberalismo clásico, pero con vínculos muy distintos con la democracia.
+*Retroalimentación:* Los tres modelos ampliaron el rol del Estado frente al liberalismo clásico, pero con vínculos muy distintos con la democracia.
 
 ---
 
@@ -212,7 +212,7 @@ c) El Estado de Bienestar europeo
 d) El populismo latinoamericano
 
 ✅ Respuesta correcta: **d) El populismo latinoamericano**
-💬 *Retroalimentación:* El populismo se caracteriza por un liderazgo carismático que apela a las masas; mantiene formalmente las elecciones, aunque tiende a debilitar el equilibrio de poderes.
+*Retroalimentación:* El populismo se caracteriza por un liderazgo carismático que apela a las masas; mantiene formalmente las elecciones, aunque tiende a debilitar el equilibrio de poderes.
 
 ---
 
@@ -223,7 +223,7 @@ c) Porque solo afectó a las finanzas de algunos bancos
 d) Porque su magnitud (desempleo masivo, quiebras, contracción del comercio) mostró que la intervención mínima del Estado era insuficiente, abriendo paso a modelos con mayor intervención
 
 ✅ Respuesta correcta: **d) Porque su magnitud (desempleo masivo, quiebras, contracción del comercio) mostró que la intervención mínima del Estado era insuficiente, abriendo paso a modelos con mayor intervención**
-💬 *Retroalimentación:* La mayor intervención estatal se dio dentro de la democracia (Estado de Bienestar) o fuera de ella (totalitarismos).
+*Retroalimentación:* La mayor intervención estatal se dio dentro de la democracia (Estado de Bienestar) o fuera de ella (totalitarismos).
 
 ---
 
@@ -234,7 +234,7 @@ c) Ambos amplían el rol del Estado, pero el Estado de Bienestar mantiene el plu
 d) El Estado de Bienestar elimina los partidos y las elecciones libres para concentrar el poder en el gobierno, mientras el totalitarismo garantiza el pluralismo y reduce el rol del Estado
 
 ✅ Respuesta correcta: **c) Ambos amplían el rol del Estado, pero el Estado de Bienestar mantiene el pluralismo y las elecciones libres, mientras el totalitarismo los elimina y concentra el poder en un partido único**
-💬 *Retroalimentación:* Los dos amplían el papel del Estado, pero el Estado de Bienestar conserva el pluralismo y las elecciones libres, mientras el totalitarismo los suprime y concentra todo el poder. La diferencia está en su relación con la democracia.
+*Retroalimentación:* Los dos amplían el papel del Estado, pero el Estado de Bienestar conserva el pluralismo y las elecciones libres, mientras el totalitarismo los suprime y concentra todo el poder. La diferencia está en su relación con la democracia.
 
 ---
 
@@ -309,7 +309,7 @@ c) Gran Bretaña y Japón, potencias navales
 d) Estados Unidos y la Unión Soviética
 
 ✅ Respuesta correcta: **d) Estados Unidos y la Unión Soviética**
-💬 *Retroalimentación:* Ambos países emergieron con un poderío militar, económico e ideológico
+*Retroalimentación:* Ambos países emergieron con un poderío militar, económico e ideológico
 muy superior al de las antiguas potencias europeas, que perdieron su hegemonía mundial.
 
 ---
@@ -318,7 +318,7 @@ muy superior al de las antiguas potencias europeas, que perdieron su hegemonía 
 ONU en 1948, en el contexto de posguerra.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* La Declaración de 1948 fue una respuesta directa a las atrocidades de la
+*Retroalimentación:* La Declaración de 1948 fue una respuesta directa a las atrocidades de la
 Segunda Guerra Mundial y se convirtió en el fundamento moral y jurídico de gran parte del
 derecho internacional posterior.
 
@@ -331,7 +331,7 @@ c) 2 → 3 → 1 → 4
 d) 4 → 2 → 1 → 3
 
 ✅ Respuesta correcta: **a) 2 → 1 → 3 → 4**
-💬 *Retroalimentación:* La guerra terminó en 1945, la ONU se fundó ese mismo año, la Declaración se aprobó en 1948 y la descolonización se aceleró en las décadas de 1950 y 1960.
+*Retroalimentación:* La guerra terminó en 1945, la ONU se fundó ese mismo año, la Declaración se aprobó en 1948 y la descolonización se aceleró en las décadas de 1950 y 1960.
 
 ---
 
@@ -342,7 +342,7 @@ c) Con la Revolución rusa de 1917 y la expansión del comunismo en Europa
 d) Con la descolonización, favorecida por el debilitamiento de las potencias coloniales europeas
 
 ✅ Respuesta correcta: **d) Con la descolonización, favorecida por el debilitamiento de las potencias coloniales europeas**
-💬 *Retroalimentación:* La pérdida de hegemonía europea abrió espacio real a las independencias.
+*Retroalimentación:* La pérdida de hegemonía europea abrió espacio real a las independencias.
 
 ---
 
@@ -353,7 +353,7 @@ c) Porque la destrucción material y humana, sumada al ascenso de Estados Unidos
 d) Porque Estados Unidos y la URSS se debilitaron con la guerra, y Europa tuvo que asumir sola la reconstrucción y la defensa del orden mundial durante las décadas siguientes
 
 ✅ Respuesta correcta: **c) Porque la destrucción material y humana, sumada al ascenso de Estados Unidos y la URSS como superpotencias, hizo que Europa dejara de ser el centro indiscutido del poder mundial**
-💬 *Retroalimentación:* Antes de la guerra, las potencias europeas dominaban gran parte del comercio, la política y los territorios coloniales.
+*Retroalimentación:* Antes de la guerra, las potencias europeas dominaban gran parte del comercio, la política y los territorios coloniales.
 
 ---
 
@@ -364,7 +364,7 @@ c) Porque cumplen funciones complementarias: la ONU es un espacio permanente de 
 d) Porque la ONU se creó para declarar guerras
 
 ✅ Respuesta correcta: **c) Porque cumplen funciones complementarias: la ONU es un espacio permanente de diálogo entre Estados y la Declaración fija un estándar común sobre cómo tratar a todas las personas**
-💬 *Retroalimentación:* Juntas buscan evitar nuevas guerras entre países y nuevas atrocidades contra las personas dentro de ellos.
+*Retroalimentación:* Juntas buscan evitar nuevas guerras entre países y nuevas atrocidades contra las personas dentro de ellos.
 
 ---
 
@@ -444,7 +444,7 @@ c) 1949
 d) 1973
 
 ✅ Respuesta correcta: **c) 1949**
-💬 *Retroalimentación:* En 1934 las mujeres habían obtenido el voto solo en elecciones
+*Retroalimentación:* En 1934 las mujeres habían obtenido el voto solo en elecciones
 municipales; recién en 1949 se amplió a elecciones presidenciales y parlamentarias.
 
 ---
@@ -453,7 +453,7 @@ municipales; recién en 1949 se amplió a elecciones presidenciales y parlamenta
 limitó exclusivamente a la ampliación del derecho a voto.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La democratización incluyó también el empoderamiento social y
+*Retroalimentación:* La democratización incluyó también el empoderamiento social y
 organizativo de la clase media y la clase obrera, y el acceso creciente de toda la población a
 la cultura de masas (radio, cine, deporte).
 
@@ -472,7 +472,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Cada actor se empoderó por vías distintas, pero todos contribuyeron a una sociedad chilena más democrática.
+*Retroalimentación:* Cada actor se empoderó por vías distintas, pero todos contribuyeron a una sociedad chilena más democrática.
 
 ---
 
@@ -483,7 +483,7 @@ c) La llegada de la televisión a los hogares chilenos
 d) La incorporación de las mujeres a la ciudadanía política plena
 
 ✅ Respuesta correcta: **d) La incorporación de las mujeres a la ciudadanía política plena**
-💬 *Retroalimentación:* Las mujeres votaron por primera vez en una elección presidencial en 1952, tras la ley de 1949 que les dio el voto pleno; la fotografía muestra su incorporación a la ciudadanía política. Las fuentes visuales permiten verificar ese cambio.
+*Retroalimentación:* Las mujeres votaron por primera vez en una elección presidencial en 1952, tras la ley de 1949 que les dio el voto pleno; la fotografía muestra su incorporación a la ciudadanía política. Las fuentes visuales permiten verificar ese cambio.
 
 ---
 
@@ -494,7 +494,7 @@ c) Eliminó el acceso a la información
 d) Solo benefició a los sectores rurales aislados, que recibieron por primera vez noticias, mientras en las ciudades la cultura siguió siendo igual
 
 ✅ Respuesta correcta: **a) Permitió que personas de distintos niveles socioeconómicos accedieran a los mismos contenidos culturales, generando un sentido de comunidad nacional más amplio**
-💬 *Retroalimentación:* Antes de estos medios, el acceso a la cultura estaba más limitado a quienes tenían más recursos.
+*Retroalimentación:* Antes de estos medios, el acceso a la cultura estaba más limitado a quienes tenían más recursos.
 
 ---
 
@@ -505,7 +505,7 @@ c) Porque, aunque tenían intereses distintos, ambos aumentaron los grupos capac
 d) Porque ambos reemplazaron a la élite por completo en la vida política y cultural, y desde entonces la oligarquía dejó de tener influencia en el país
 
 ✅ Respuesta correcta: **c) Porque, aunque tenían intereses distintos, ambos aumentaron los grupos capaces de organizarse, hacer valer demandas y participar en la vida política y cultural**
-💬 *Retroalimentación:* Clase media y clase obrera tenían intereses distintos, pero ambas se organizaron, hicieron valer sus demandas y participaron en la política y la cultura. Al sumar más grupos a la vida pública, la sociedad se democratizó.
+*Retroalimentación:* Clase media y clase obrera tenían intereses distintos, pero ambas se organizaron, hicieron valer sus demandas y participaron en la política y la cultura. Al sumar más grupos a la vida pública, la sociedad se democratizó.
 
 ---
 
@@ -588,7 +588,7 @@ d) Porque solo involucró a países europeos, sin efectos en América Latina, As
 
 ✅ Respuesta correcta: **b) Porque, pese a la fuerte confrontación, ambas superpotencias
 evitaron un enfrentamiento militar directo entre sí**
-💬 *Retroalimentación:* La confrontación fue real e intensa —ideológica, política, cultural—,
+*Retroalimentación:* La confrontación fue real e intensa —ideológica, política, cultural—,
 pero se llama "fría" porque no llegó a una guerra militar directa entre Estados Unidos y la URSS.
 
 ---
@@ -597,7 +597,7 @@ pero se llama "fría" porque no llegó a una guerra militar directa entre Estado
 en que el mundo estuvo más cerca de un enfrentamiento nuclear directo entre las superpotencias.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* La instalación de misiles soviéticos en Cuba, a pocos kilómetros de
+*Retroalimentación:* La instalación de misiles soviéticos en Cuba, a pocos kilómetros de
 Estados Unidos, generó una tensión extrema que finalmente se resolvió por vía diplomática.
 
 ---
@@ -615,7 +615,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* La Guerra Fría se expresó en todos los ámbitos de la vida social, no solo en lo militar o diplomático.
+*Retroalimentación:* La Guerra Fría se expresó en todos los ámbitos de la vida social, no solo en lo militar o diplomático.
 
 ---
 
@@ -626,7 +626,7 @@ c) El fin de la Primera Guerra Mundial y la división de Alemania en dos
 d) La construcción del Muro de Berlín (1961), símbolo de la división de Europa en bloques
 
 ✅ Respuesta correcta: **d) La construcción del Muro de Berlín (1961), símbolo de la división de Europa en bloques**
-💬 *Retroalimentación:* El muro fue la expresión física del orden bipolar.
+*Retroalimentación:* El muro fue la expresión física del orden bipolar.
 
 ---
 
@@ -637,7 +637,7 @@ c) Porque compartían la misma ideología
 d) Porque no hubo ninguna competencia entre ellas: EE.UU. y la URSS cooperaron en la reconstrucción de Europa, y el término frío alude solo al clima ruso
 
 ✅ Respuesta correcta: **b) Porque EE.UU. y la URSS representaban proyectos de sociedad antagónicos y compitieron por su influencia, pero evitaron un choque militar directo por el riesgo nuclear**
-💬 *Retroalimentación:* Estados Unidos (capitalismo y democracia liberal) y la URSS (comunismo y partido único) defendían modelos de sociedad opuestos y compitieron por influencia, pero evitaron enfrentarse directamente por el riesgo de una guerra nuclear.
+*Retroalimentación:* Estados Unidos (capitalismo y democracia liberal) y la URSS (comunismo y partido único) defendían modelos de sociedad opuestos y compitieron por influencia, pero evitaron enfrentarse directamente por el riesgo de una guerra nuclear.
 
 ---
 
@@ -648,7 +648,7 @@ c) Porque, al evitar el enfrentamiento militar directo, los triunfos deportivos 
 d) Porque ambas potencias abandonaron el deporte
 
 ✅ Respuesta correcta: **c) Porque, al evitar el enfrentamiento militar directo, los triunfos deportivos o científicos funcionaban como evidencia simbólica de qué modelo "funcionaba mejor"**
-💬 *Retroalimentación:* Ganar medallas o llegar primero al espacio tenía un fuerte efecto ante la opinión pública mundial.
+*Retroalimentación:* Ganar medallas o llegar primero al espacio tenía un fuerte efecto ante la opinión pública mundial.
 
 ---
 
@@ -742,7 +742,7 @@ c) El Plan Marshall
 d) La Alianza para el Progreso
 
 ✅ Respuesta correcta: **d) La Alianza para el Progreso**
-💬 *Retroalimentación:* La Alianza para el Progreso fue un programa de ayuda económica de
+*Retroalimentación:* La Alianza para el Progreso fue un programa de ayuda económica de
 Estados Unidos hacia América Latina, orientado a promover reformas graduales que evitaran que
 otros países siguieran el camino de la Revolución Cubana.
 
@@ -753,7 +753,7 @@ latinoamericanos entre las décadas de 1960 y 1970 fueron hechos aislados, sin r
 ni con el contexto internacional de la Guerra Fría.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Aunque cada país tuvo particularidades propias, estas dictaduras
+*Retroalimentación:* Aunque cada país tuvo particularidades propias, estas dictaduras
 compartieron un contexto regional común —la tensión entre revolución y reforma, la influencia de
 Estados Unidos y la Doctrina de la Seguridad Nacional— propio de la Guerra Fría en América
 Latina.
@@ -767,7 +767,7 @@ c) 1 → 2 → 4 → 3
 d) 2 → 4 → 3 → 1
 
 ✅ Respuesta correcta: **a) 2 → 4 → 1 → 3**
-💬 *Retroalimentación:* Brasil (1964), Uruguay (junio de 1973), Chile (septiembre de 1973) y Argentina (1976): fue un proceso regional prolongado, no simultáneo.
+*Retroalimentación:* Brasil (1964), Uruguay (junio de 1973), Chile (septiembre de 1973) y Argentina (1976): fue un proceso regional prolongado, no simultáneo.
 
 ---
 
@@ -778,7 +778,7 @@ c) La Alianza del Pacífico
 d) La Doctrina de la Seguridad Nacional
 
 ✅ Respuesta correcta: **d) La Doctrina de la Seguridad Nacional**
-💬 *Retroalimentación:* El documento pide preparar a las Fuerzas Armadas latinoamericanas para combatir una «amenaza» interna: es la lógica de la Doctrina de la Seguridad Nacional, que trasladó la Guerra Fría al interior de cada país.
+*Retroalimentación:* El documento pide preparar a las Fuerzas Armadas latinoamericanas para combatir una «amenaza» interna: es la lógica de la Doctrina de la Seguridad Nacional, que trasladó la Guerra Fría al interior de cada país.
 
 ---
 
@@ -789,7 +789,7 @@ c) La coexistencia de sectores que buscaban cambios profundos siguiendo la Revol
 d) La ausencia de cualquier conflicto político en la región, porque los sectores que buscaban cambios profundos y los que apostaban por reformas graduales compartían el mismo programa
 
 ✅ Respuesta correcta: **c) La coexistencia de sectores que buscaban cambios profundos siguiendo la Revolución Cubana y sectores que apostaban por reformas graduales en democracia, mientras golpes de Estado interrumpieron ambos caminos**
-💬 *Retroalimentación:* Sectores conservadores y las Fuerzas Armadas, a menudo con influencia de EE.UU., interrumpieron ambos caminos en varios países.
+*Retroalimentación:* Sectores conservadores y las Fuerzas Armadas, a menudo con influencia de EE.UU., interrumpieron ambos caminos en varios países.
 
 ---
 
@@ -800,7 +800,7 @@ c) Porque compartieron la lógica de la Doctrina de la Seguridad Nacional, que t
 d) Porque no existió oposición política en la región, y la represión se dirigió solo contra delincuentes comunes, sin ninguna doctrina compartida entre los países
 
 ✅ Respuesta correcta: **c) Porque compartieron la lógica de la Doctrina de la Seguridad Nacional, que trataba a la oposición como enemigo interno, con patrones similares de detención, tortura y desaparición**
-💬 *Retroalimentación:* La lógica común se tradujo en patrones represivos similares en distintos países.
+*Retroalimentación:* La lógica común se tradujo en patrones represivos similares en distintos países.
 
 ---
 
@@ -889,7 +889,7 @@ c) New Deal y Estado de Bienestar
 d) Revolución Cubana y Alianza Bolivariana
 
 ✅ Respuesta correcta: **b) Perestroika y Glasnost**
-💬 *Retroalimentación:* Estas reformas buscaban modernizar el sistema soviético, pero terminaron
+*Retroalimentación:* Estas reformas buscaban modernizar el sistema soviético, pero terminaron
 acelerando la crisis que llevó a la disolución de la URSS en 1991.
 
 ---
@@ -898,7 +898,7 @@ acelerando la crisis que llevó a la disolución de la URSS en 1991.
 símbolos más importantes del fin de la división bipolar del mundo durante la Guerra Fría.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Al igual que su construcción en 1961 simbolizó la división del mundo en
+*Retroalimentación:* Al igual que su construcción en 1961 simbolizó la división del mundo en
 dos bloques, su caída en 1989 simbolizó el fin de esa división.
 
 ---
@@ -916,7 +916,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Estos procesos —económico, global y tecnológico— transformaron el mundo posterior a la Guerra Fría.
+*Retroalimentación:* Estos procesos —económico, global y tecnológico— transformaron el mundo posterior a la Guerra Fría.
 
 ---
 
@@ -927,7 +927,7 @@ c) La Revolución Francesa y la expansión de las ideas nacionalistas en Europa
 d) Las transformaciones geopolíticas tras el fin de la Guerra Fría, con la disolución de esos Estados
 
 ✅ Respuesta correcta: **d) Las transformaciones geopolíticas tras el fin de la Guerra Fría, con la disolución de esos Estados**
-💬 *Retroalimentación:* Comparar mapas permite visualizar procesos de fragmentación geopolítica.
+*Retroalimentación:* Comparar mapas permite visualizar procesos de fragmentación geopolítica.
 
 ---
 
@@ -938,7 +938,7 @@ c) El neoliberalismo causó la Revolución rusa
 d) No existe ninguna relación entre ambos procesos: el neoliberalismo surgió en América Latina décadas antes de la caída de la URSS y no tuvo influencia en Europa ni en Estados Unidos
 
 ✅ Respuesta correcta: **b) El derrumbe del comunismo soviético dejó al capitalismo de libre mercado sin rival ideológico y, junto con la crisis de los Estados de Bienestar más costosos, favoreció el neoliberalismo**
-💬 *Retroalimentación:* El neoliberalismo enfatizó la apertura comercial, la privatización y un menor rol económico del Estado.
+*Retroalimentación:* El neoliberalismo enfatizó la apertura comercial, la privatización y un menor rol económico del Estado.
 
 ---
 
@@ -949,7 +949,7 @@ c) Porque permitió coordinar operaciones económicas y hacer circular informaci
 d) Porque solo afectó al entretenimiento
 
 ✅ Respuesta correcta: **c) Porque permitió coordinar operaciones económicas y hacer circular información en tiempo real a escala mundial, profundizando la internacionalización de la economía**
-💬 *Retroalimentación:* Antes, coordinar a escala mundial era mucho más lento y costoso.
+*Retroalimentación:* Antes, coordinar a escala mundial era mucho más lento y costoso.
 
 ---
 
@@ -1031,7 +1031,7 @@ d) Un relato de ficción sobre el pasado, escrito para entretener a los lectores
 
 ✅ Respuesta correcta: **b) Una lectura del proceso histórico, elaborada por un historiador a
 partir de evidencia, que prioriza ciertos factores o causas por sobre otros**
-💬 *Retroalimentación:* Las interpretaciones historiográficas se basan en evidencia y
+*Retroalimentación:* Las interpretaciones historiográficas se basan en evidencia y
 argumentación, pero como todo proceso histórico complejo, admiten más de una lectura razonada
 sobre qué factores fueron más determinantes.
 
@@ -1042,7 +1042,7 @@ significa aceptar que todas son igualmente válidas, sin importar la evidencia e
 basan.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Comparar interpretaciones implica evaluar en qué evidencia se sustenta
+*Retroalimentación:* Comparar interpretaciones implica evaluar en qué evidencia se sustenta
 cada una y qué tan sólida es su argumentación, no simplemente aceptarlas todas por igual.
 
 ---
@@ -1060,7 +1060,7 @@ c) 1-B, 2-C, 3-A
 d) 1-C, 2-B, 3-A
 
 ✅ Respuesta correcta: **a) 1-C, 2-A, 3-B**
-💬 *Retroalimentación:* Distinguir los énfasis permite comparar interpretaciones de manera informada.
+*Retroalimentación:* Distinguir los énfasis permite comparar interpretaciones de manera informada.
 
 ---
 
@@ -1071,7 +1071,7 @@ c) Una opinión sin fundamento histórico
 d) Una interpretación multicausal
 
 ✅ Respuesta correcta: **d) Una interpretación multicausal**
-💬 *Retroalimentación:* Las interpretaciones multicausales reconocen la interacción entre varias causas de distinto orden.
+*Retroalimentación:* Las interpretaciones multicausales reconocen la interacción entre varias causas de distinto orden.
 
 ---
 
@@ -1082,7 +1082,7 @@ c) Porque no existen fuentes sobre el período
 d) Porque todas las interpretaciones valen lo mismo, tengan o no evidencia, y la tarea del historiador es solo reunir opiniones distintas sobre el período
 
 ✅ Respuesta correcta: **b) Porque es un proceso complejo y multicausal, y los historiadores pueden priorizar de forma razonada distintos factores, sin que se discutan los hechos centrales**
-💬 *Retroalimentación:* Interpretar distinto no significa poner en duda la existencia del golpe ni sus consecuencias.
+*Retroalimentación:* Interpretar distinto no significa poner en duda la existencia del golpe ni sus consecuencias.
 
 ---
 
@@ -1093,7 +1093,7 @@ c) Porque el trabajo historiográfico exige sustentar las interpretaciones en ev
 d) Porque las fuentes históricas no sirven en temas políticos: los documentos y archivos del período fueron escritos por los gobiernos, y por eso solo vale la interpretación personal de cada historiador
 
 ✅ Respuesta correcta: **c) Porque el trabajo historiográfico exige sustentar las interpretaciones en evidencia verificable (documentos, testimonios, archivos), lo que distingue visiones que amplían la comprensión de afirmaciones sin sustento**
-💬 *Retroalimentación:* Esto no implica que solo pueda existir una única interpretación correcta.
+*Retroalimentación:* Esto no implica que solo pueda existir una única interpretación correcta.
 
 ---
 
@@ -1180,7 +1180,7 @@ c) La DINA
 d) La Alianza para el Progreso
 
 ✅ Respuesta correcta: **b) La Vicaría de la Solidaridad**
-💬 *Retroalimentación:* La Vicaría de la Solidaridad sucedió al Comité Pro Paz y prestó
+*Retroalimentación:* La Vicaría de la Solidaridad sucedió al Comité Pro Paz y prestó
 asistencia legal, social y de documentación a víctimas de violaciones a los Derechos Humanos y
 sus familiares durante toda la dictadura.
 
@@ -1191,7 +1191,7 @@ consistió en hechos aislados, cometidos por individuos sin relación con una po
 del Estado.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La evidencia histórica y judicial documenta que las violaciones a los
+*Retroalimentación:* La evidencia histórica y judicial documenta que las violaciones a los
 Derechos Humanos durante la dictadura fueron sistemáticas, es decir, ejecutadas de manera
 organizada por agencias estatales específicamente creadas para ese fin, como la DINA y la CNI.
 
@@ -1210,7 +1210,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* En el período coexistieron mecanismos de represión estatal e iniciativas de defensa de las víctimas.
+*Retroalimentación:* En el período coexistieron mecanismos de represión estatal e iniciativas de defensa de las víctimas.
 
 ---
 
@@ -1221,7 +1221,7 @@ c) Un trámite administrativo del Registro Civil para cambiar de domicilio
 d) La desaparición forzada como práctica sistemática de la dictadura, y el rol de la Vicaría en documentarla
 
 ✅ Respuesta correcta: **d) La desaparición forzada como práctica sistemática de la dictadura, y el rol de la Vicaría en documentarla**
-💬 *Retroalimentación:* Este tipo de documentos constituye evidencia primaria clave para reconstruir lo ocurrido.
+*Retroalimentación:* Este tipo de documentos constituye evidencia primaria clave para reconstruir lo ocurrido.
 
 ---
 
@@ -1232,7 +1232,7 @@ c) El cierre del Congreso Nacional
 d) La proscripción de los partidos políticos
 
 ✅ Respuesta correcta: **a, c y d**
-💬 *Retroalimentación:* Suprimir el Estado de Derecho significó eliminar los límites y controles sobre el poder; en dictadura no hubo elecciones libres periódicas.
+*Retroalimentación:* Suprimir el Estado de Derecho significó eliminar los límites y controles sobre el poder; en dictadura no hubo elecciones libres periódicas.
 
 ---
 
@@ -1243,7 +1243,7 @@ c) Porque la sociedad completa permaneció pasiva durante la dictadura, y solo e
 d) Porque solo importa la acción posterior del Estado
 
 ✅ Respuesta correcta: **b) Porque muestra que la sociedad civil organizada, con gran riesgo, defendió y documentó a las víctimas, algo clave hoy para el derecho a la verdad y la justicia**
-💬 *Retroalimentación:* La defensa de los Derechos Humanos también dependió de la sociedad civil durante el propio período.
+*Retroalimentación:* La defensa de los Derechos Humanos también dependió de la sociedad civil durante el propio período.
 
 ---
 
@@ -1338,7 +1338,7 @@ c) La Declaración Universal de los Derechos Humanos
 d) La Perestroika
 
 ✅ Respuesta correcta: **b) El Plan Laboral**
-💬 *Retroalimentación:* El Plan Laboral modificó de forma importante la legislación laboral
+*Retroalimentación:* El Plan Laboral modificó de forma importante la legislación laboral
 chilena, restringiendo el poder sindical y el derecho a huelga, en el marco del modelo económico
 neoliberal.
 
@@ -1349,7 +1349,7 @@ de gasto social y de intervención estatal en la economía que existía a mediad
 Chile.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El modelo neoliberal implicó precisamente una transformación del rol del
+*Retroalimentación:* El modelo neoliberal implicó precisamente una transformación del rol del
 Estado, con una disminución del gasto social como proporción del gasto público y una reducción
 de la intervención estatal directa en la economía.
 
@@ -1368,7 +1368,7 @@ c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Estos rasgos caracterizan el modelo económico implementado en dictadura.
+*Retroalimentación:* Estos rasgos caracterizan el modelo económico implementado en dictadura.
 
 ---
 
@@ -1379,7 +1379,7 @@ c) La ausencia de crisis económicas durante la dictadura militar
 d) El efecto de la Gran Depresión de 1929
 
 ✅ Respuesta correcta: **a) Una consecuencia social de corto plazo del modelo, particularmente severa en la crisis de 1982**
-💬 *Retroalimentación:* Los datos permiten evaluar de manera equilibrada los efectos del modelo.
+*Retroalimentación:* Los datos permiten evaluar de manera equilibrada los efectos del modelo.
 
 ---
 
@@ -1390,7 +1390,7 @@ c) El Estado no cambió su rol económico
 d) El Estado dejó de ser productor directo y principal responsable del gasto social, transfiriendo funciones al mercado mediante privatizaciones y menor gasto social relativo
 
 ✅ Respuesta correcta: **d) El Estado dejó de ser productor directo y principal responsable del gasto social, transfiriendo funciones al mercado mediante privatizaciones y menor gasto social relativo**
-💬 *Retroalimentación:* Fue un giro respecto del papel central que el Estado tenía desde mediados del siglo XX.
+*Retroalimentación:* Fue un giro respecto del papel central que el Estado tenía desde mediados del siglo XX.
 
 ---
 
@@ -1401,7 +1401,7 @@ c) Porque solo importan los efectos de corto plazo, como la crisis de 1982, ya q
 d) Porque no tuvo consecuencias sociales
 
 ✅ Respuesta correcta: **b) Porque en el corto plazo generó altos costos sociales (como en la crisis de 1982) y en el largo plazo fue la base de la economía chilena, con logros y también debilidades como la desigualdad**
-💬 *Retroalimentación:* Evaluar solo un plazo entregaría una visión incompleta.
+*Retroalimentación:* Evaluar solo un plazo entregaría una visión incompleta.
 
 ---
 
@@ -1478,7 +1478,7 @@ c) La creación de la ONU
 d) La caída del Muro de Berlín y el fin de la URSS
 
 ✅ Respuesta correcta: **b) Una severa crisis económica, con alto desempleo**
-💬 *Retroalimentación:* La crisis económica de 1982 debilitó el apoyo social al régimen incluso
+*Retroalimentación:* La crisis económica de 1982 debilitó el apoyo social al régimen incluso
 en sectores que antes lo respaldaban, y se considera uno de los factores que precipitó el
 surgimiento de las protestas nacionales.
 
@@ -1488,7 +1488,7 @@ surgimiento de las protestas nacionales.
 se explica por un único factor: la presión de la comunidad internacional.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Se trató de un proceso multicausal, que combinó la crisis económica, las
+*Retroalimentación:* Se trató de un proceso multicausal, que combinó la crisis económica, las
 protestas nacionales, la rearticulación del mundo político y la mediación de la Iglesia Católica
 y de organismos de Derechos Humanos, junto con la presión internacional.
 
@@ -1507,7 +1507,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Distintos actores contribuyeron de forma complementaria a la recuperación democrática.
+*Retroalimentación:* Distintos actores contribuyeron de forma complementaria a la recuperación democrática.
 
 ---
 
@@ -1518,7 +1518,7 @@ c) La ausencia de diálogo entre los actores políticos y sociales
 d) El inicio de la dictadura
 
 ✅ Respuesta correcta: **a) La rearticulación política mediante alianzas multipartidistas y el rol mediador de la Iglesia**
-💬 *Retroalimentación:* Mediación eclesial y rearticulación política actuaron de forma combinada.
+*Retroalimentación:* Mediación eclesial y rearticulación política actuaron de forma combinada.
 
 ---
 
@@ -1529,7 +1529,7 @@ c) No tienen ninguna relación
 d) La crisis, con alto desempleo y quiebras, debilitó el apoyo al régimen y generó un descontento que se expresó desde 1983 en protestas masivas, pese a la represión
 
 ✅ Respuesta correcta: **d) La crisis, con alto desempleo y quiebras, debilitó el apoyo al régimen y generó un descontento que se expresó desde 1983 en protestas masivas, pese a la represión**
-💬 *Retroalimentación:* El descontento alcanzó incluso a sectores que antes respaldaban al régimen.
+*Retroalimentación:* El descontento alcanzó incluso a sectores que antes respaldaban al régimen.
 
 ---
 
@@ -1540,7 +1540,7 @@ c) Porque el régimen renunció voluntariamente sin ninguna presión, al conside
 d) Porque la democracia volvió por decisión de otro país, que obligó al régimen a convocar el plebiscito, sin que la crisis, la movilización ni los mediadores tuvieran influencia en el proceso y su desenlace
 
 ✅ Respuesta correcta: **b) Porque un régimen que concentraba el poder y controlaba las Fuerzas Armadas difícilmente cedería ante una sola presión; la combinación de crisis, movilización, oposición organizada y mediadores abrió el camino al plebiscito**
-💬 *Retroalimentación:* La presión múltiple y sostenida abrió el camino institucional hacia el plebiscito de 1988.
+*Retroalimentación:* La presión múltiple y sostenida abrió el camino institucional hacia el plebiscito de 1988.
 
 ---
 
@@ -1624,7 +1624,7 @@ c) El plebiscito fue anulado por irregularidades en el conteo
 d) Ninguna opción alcanzó la mayoría y se repitió la votación
 
 ✅ Respuesta correcta: **b) La opción "No", que impedía que Pinochet continuara como presidente**
-💬 *Retroalimentación:* El triunfo del "No" abrió el camino a las elecciones presidenciales y
+*Retroalimentación:* El triunfo del "No" abrió el camino a las elecciones presidenciales y
 parlamentarias de 1989, y al inicio del gobierno democrático de Patricio Aylwin en 1990.
 
 ---
@@ -1633,7 +1633,7 @@ parlamentarias de 1989, y al inicio del gobierno democrático de Patricio Aylwin
 tensiones entre el mundo civil y el mundo militar desaparecieron de inmediato.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La transición estuvo marcada por tensiones cívico-militares durante toda
+*Retroalimentación:* La transición estuvo marcada por tensiones cívico-militares durante toda
 la década de 1990, en un contexto en que Augusto Pinochet permaneció como Comandante en Jefe del
 Ejército hasta 1998.
 
@@ -1646,7 +1646,7 @@ c) 2 → 4 → 1 → 3
 d) 2 → 4 → 3 → 1
 
 ✅ Respuesta correcta: **c) 2 → 4 → 1 → 3**
-💬 *Retroalimentación:* Plebiscito (octubre de 1988), elecciones (diciembre de 1989), inicio del gobierno de Aylwin (marzo de 1990) e Informe Rettig (1991).
+*Retroalimentación:* Plebiscito (octubre de 1988), elecciones (diciembre de 1989), inicio del gobierno de Aylwin (marzo de 1990) e Informe Rettig (1991).
 
 ---
 
@@ -1657,7 +1657,7 @@ c) Suspendió todas las elecciones hasta que se redactara una nueva Constitució
 d) Disolvió el Congreso Nacional
 
 ✅ Respuesta correcta: **a) Abrió el camino a las elecciones de 1989, que dieron inicio al gobierno democrático de Aylwin en 1990**
-💬 *Retroalimentación:* El resultado del plebiscito permitió el retorno a un gobierno electo democráticamente.
+*Retroalimentación:* El resultado del plebiscito permitió el retorno a un gobierno electo democráticamente.
 
 ---
 
@@ -1668,7 +1668,7 @@ c) El cierre de los tribunales de justicia que investigaban las violaciones a lo
 d) Comisiones de verdad (Rettig, 1991; luego Valech) que documentaron las violaciones, junto con reparaciones económicas, simbólicas y de acceso a la justicia
 
 ✅ Respuesta correcta: **d) Comisiones de verdad (Rettig, 1991; luego Valech) que documentaron las violaciones, junto con reparaciones económicas, simbólicas y de acceso a la justicia**
-💬 *Retroalimentación:* Las comisiones Rettig (1991) y Valech documentaron las violaciones a los derechos humanos, y el Estado entregó reparaciones económicas y simbólicas y facilitó el acceso a la justicia a víctimas y familiares.
+*Retroalimentación:* Las comisiones Rettig (1991) y Valech documentaron las violaciones a los derechos humanos, y el Estado entregó reparaciones económicas y simbólicas y facilitó el acceso a la justicia a víctimas y familiares.
 
 ---
 
@@ -1679,7 +1679,7 @@ c) Porque no hubo elecciones
 d) Porque se eliminaron todas las instituciones anteriores en un día, incluida la Constitución de 1980, y Pinochet dejó de inmediato la Comandancia en Jefe del Ejército
 
 ✅ Respuesta correcta: **b) Porque se mantuvieron elementos del período dictatorial, como la Constitución de 1980 y Pinochet como Comandante en Jefe hasta 1998, lo que obligó a negociar reformas gradualmente**
-💬 *Retroalimentación:* La transición mantuvo elementos de la dictadura, como la Constitución de 1980 y a Pinochet como Comandante en Jefe del Ejército hasta 1998; eso obligó a negociar reformas y produjo episodios de tensión cívico-militar.
+*Retroalimentación:* La transición mantuvo elementos de la dictadura, como la Constitución de 1980 y a Pinochet como Comandante en Jefe del Ejército hasta 1998; eso obligó a negociar reformas y produjo episodios de tensión cívico-militar.
 
 ---
 
@@ -1768,7 +1768,7 @@ c) Ciudades satélite planificadas
 d) Zonas industriales
 
 ✅ Respuesta correcta: **b) Poblaciones callampas**
-💬 *Retroalimentación:* Se les llamó así porque, al igual que los hongos, aparecían y crecían con
+*Retroalimentación:* Se les llamó así porque, al igual que los hongos, aparecían y crecían con
 gran rapidez, reflejando la escasez de vivienda formal frente a la intensa migración
 campo-ciudad.
 
@@ -1779,7 +1779,7 @@ principalmente porque las ciudades chilenas tenían más viviendas formales disp
 número de familias que migraban.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Todo lo contrario: la oferta de vivienda formal fue insuficiente para
+*Retroalimentación:* Todo lo contrario: la oferta de vivienda formal fue insuficiente para
 absorber a la población migrante, lo que generó escasez habitacional y la ocupación irregular de
 terrenos.
 
@@ -1798,7 +1798,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* La migración campo-ciudad, en un contexto de pobreza, contribuyó a la marginalidad y a la segregación urbana.
+*Retroalimentación:* La migración campo-ciudad, en un contexto de pobreza, contribuyó a la marginalidad y a la segregación urbana.
 
 ---
 
@@ -1809,7 +1809,7 @@ c) El Estado de Bienestar
 d) La revolución de los precios
 
 ✅ Respuesta correcta: **a) La segregación urbana**
-💬 *Retroalimentación:* La desigualdad social se tradujo en una organización desigual del territorio urbano.
+*Retroalimentación:* La desigualdad social se tradujo en una organización desigual del territorio urbano.
 
 ---
 
@@ -1820,7 +1820,7 @@ c) No existe relación entre ambos procesos: la pobreza rural se resolvió con l
 d) La pobreza rural impulsó una migración masiva a las ciudades que superó su capacidad de ofrecer vivienda y servicios, generando crecimiento desordenado y poblaciones callampas
 
 ✅ Respuesta correcta: **d) La pobreza rural impulsó una migración masiva a las ciudades que superó su capacidad de ofrecer vivienda y servicios, generando crecimiento desordenado y poblaciones callampas**
-💬 *Retroalimentación:* La velocidad de la migración superó la capacidad de las ciudades.
+*Retroalimentación:* La velocidad de la migración superó la capacidad de las ciudades.
 
 ---
 
@@ -1831,7 +1831,7 @@ c) Porque solo afectó a ciudades de otros países de América Latina, y en Chil
 d) Porque hoy todos los barrios tienen el mismo acceso a servicios, y eso demuestra que los patrones de mediados de siglo ya se revirtieron
 
 ✅ Respuesta correcta: **b) Porque sus patrones espaciales se consolidaron y explican en parte la desigualdad territorial actual de las ciudades chilenas**
-💬 *Retroalimentación:* La concentración de ingresos y servicios en ciertas comunas persiste en la geografía urbana actual.
+*Retroalimentación:* La concentración de ingresos y servicios en ciertas comunas persiste en la geografía urbana actual.
 
 ---
 
@@ -1927,7 +1927,7 @@ c) Imprescriptibilidad
 d) Interdependencia
 
 ✅ Respuesta correcta: **c) Imprescriptibilidad**
-💬 *Retroalimentación:* La imprescriptibilidad implica que una violación a los Derechos Humanos
+*Retroalimentación:* La imprescriptibilidad implica que una violación a los Derechos Humanos
 sigue siendo, en principio, perseguible sin límite de tiempo, lo que es especialmente relevante
 para casos como los ocurridos durante la dictadura militar.
 
@@ -1937,7 +1937,7 @@ para casos como los ocurridos durante la dictadura militar.
 otros según las circunstancias.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La indivisibilidad de los Derechos Humanos establece precisamente que no
+*Retroalimentación:* La indivisibilidad de los Derechos Humanos establece precisamente que no
 se pueden separar ni jerarquizar unos por sobre otros.
 
 ---
@@ -1955,7 +1955,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* La institucionalidad de Derechos Humanos opera en niveles nacional, regional e internacional que se complementan.
+*Retroalimentación:* La institucionalidad de Derechos Humanos opera en niveles nacional, regional e internacional que se complementan.
 
 ---
 
@@ -1966,7 +1966,7 @@ c) Que los Derechos Humanos no existen realmente, porque si existieran, el país
 d) Que el país no tiene ninguna obligación internacional, porque los tratados de Derechos Humanos solo obligan a los Estados que los redactaron
 
 ✅ Respuesta correcta: **a) Las limitaciones de la institucionalidad internacional, que depende en buena medida de la voluntad de cooperación de los Estados**
-💬 *Retroalimentación:* Se trata de comprender de forma realista cómo opera la institucionalidad en la práctica.
+*Retroalimentación:* Se trata de comprender de forma realista cómo opera la institucionalidad en la práctica.
 
 ---
 
@@ -1977,7 +1977,7 @@ c) Ambos términos significan lo mismo
 d) Universales: corresponden a toda persona sin distinción. Indivisibles: no se pueden separar ni jerarquizar, por ejemplo, no se justifica la tortura para proteger la seguridad pública
 
 ✅ Respuesta correcta: **d) Universales: corresponden a toda persona sin distinción. Indivisibles: no se pueden separar ni jerarquizar, por ejemplo, no se justifica la tortura para proteger la seguridad pública**
-💬 *Retroalimentación:* El derecho a la vida, por ejemplo, corresponde a cualquier persona en cualquier país.
+*Retroalimentación:* El derecho a la vida, por ejemplo, corresponde a cualquier persona en cualquier país.
 
 ---
 
@@ -1988,7 +1988,7 @@ c) Porque la universalidad no admite ninguna medida específica, así que esos g
 d) Porque esos grupos no tienen derechos propios y dependen de la protección que les den otros
 
 ✅ Respuesta correcta: **b) Porque no se les otorgan más derechos, sino condiciones para ejercer en igualdad real los mismos derechos universales**
-💬 *Retroalimentación:* Sin medidas específicas, el ejercicio efectivo de los derechos de niños, personas con discapacidad o pueblos indígenas podría verse obstaculizado.
+*Retroalimentación:* Sin medidas específicas, el ejercicio efectivo de los derechos de niños, personas con discapacidad o pueblos indígenas podría verse obstaculizado.
 
 ---
 
@@ -2087,7 +2087,7 @@ c) Ley de Transparencia
 d) Ley del Plan Laboral
 
 ✅ Respuesta correcta: **b) Ley Zamudio**
-💬 *Retroalimentación:* La Ley N°20.609, conocida como Ley Zamudio (2012), estableció un
+*Retroalimentación:* La Ley N°20.609, conocida como Ley Zamudio (2012), estableció un
 procedimiento judicial específico para denunciar y sancionar actos de discriminación arbitraria
 en Chile.
 
@@ -2097,7 +2097,7 @@ en Chile.
 que las sociedades homogéneas —sin diferencias entre sus integrantes— son el ideal a alcanzar.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Este OA plantea exactamente lo contrario: la diversidad debe entenderse
+*Retroalimentación:* Este OA plantea exactamente lo contrario: la diversidad debe entenderse
 como una manifestación positiva de la libertad y la dignidad humana, no como un problema a
 eliminar mediante la homogeneización forzada.
 
@@ -2116,7 +2116,7 @@ c) 1-C, 2-B, 3-A
 d) 1-C, 2-A, 3-B
 
 ✅ Respuesta correcta: **c) 1-C, 2-B, 3-A**
-💬 *Retroalimentación:* Reconocer la discriminación en situaciones concretas ayuda a identificarla más allá de la definición.
+*Retroalimentación:* Reconocer la discriminación en situaciones concretas ayuda a identificarla más allá de la definición.
 
 ---
 
@@ -2127,7 +2127,7 @@ c) Una medida de especial protección
 d) Un caso de inflación
 
 ✅ Respuesta correcta: **a) Discriminación por nacionalidad**
-💬 *Retroalimentación:* Distinguir un criterio justificado (requisito técnico) de uno arbitrario (prejuicio) es clave para identificar la discriminación.
+*Retroalimentación:* Distinguir un criterio justificado (requisito técnico) de uno arbitrario (prejuicio) es clave para identificar la discriminación.
 
 ---
 
@@ -2138,7 +2138,7 @@ c) Porque la diversidad no tiene relación con los derechos: las creencias y la 
 d) Porque las personas ejercen su libertad al definir su identidad, creencias o forma de vida, y respetar esa diversidad reconoce la igual dignidad de cada una
 
 ✅ Respuesta correcta: **d) Porque las personas ejercen su libertad al definir su identidad, creencias o forma de vida, y respetar esa diversidad reconoce la igual dignidad de cada una**
-💬 *Retroalimentación:* Cada persona ejerce su libertad al definir su identidad, sus creencias y su forma de vida; respetar esa diversidad es reconocer que todas tienen la misma dignidad y los mismos derechos.
+*Retroalimentación:* Cada persona ejerce su libertad al definir su identidad, sus creencias y su forma de vida; respetar esa diversidad es reconocer que todas tienen la misma dignidad y los mismos derechos.
 
 ---
 
@@ -2149,7 +2149,7 @@ c) Porque impide el contacto entre culturas
 d) Porque solo genera desafíos y ninguna oportunidad: el contacto entre culturas siempre aumenta la discriminación hacia las comunidades migrantes
 
 ✅ Respuesta correcta: **b) Aumenta el contacto entre culturas y la visibilidad de casos de discriminación (oportunidad), pero puede generar nuevas formas de discriminación, como hacia comunidades migrantes (desafío)**
-💬 *Retroalimentación:* El contacto entre culturas necesita educación, inclusión efectiva y voluntad política.
+*Retroalimentación:* El contacto entre culturas necesita educación, inclusión efectiva y voluntad política.
 
 ---
 

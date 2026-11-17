@@ -134,7 +134,7 @@ a hacerse sedentarios
 
 ✅ Respuesta correcta: **d) El proceso mediante el cual los seres humanos comenzaron a
 domesticar plantas y animales y a hacerse sedentarios**
-💬 *Retroalimentación:* La Revolución neolítica marca el paso de sociedades nómades de
+*Retroalimentación:* La Revolución neolítica marca el paso de sociedades nómades de
 cazadores-recolectores a sociedades sedentarias basadas en la agricultura y la ganadería.
 
 ---
@@ -143,7 +143,7 @@ cazadores-recolectores a sociedades sedentarias basadas en la agricultura y la g
 luego se difundió hacia todas las demás regiones.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La domesticación de plantas y animales surgió de manera independiente
+*Retroalimentación:* La domesticación de plantas y animales surgió de manera independiente
 en distintos lugares del planeta —Medio Oriente, China, América, entre otros— y en momentos
 distintos.
 
@@ -156,7 +156,7 @@ c) 1 → 4 → 2 → 3
 d) 2 → 4 → 3 → 1
 
 ✅ Respuesta correcta: **a) 2 → 3 → 4 → 1**
-💬 *Retroalimentación:* La domesticación permite la vida sedentaria; la vida sedentaria y las mejores técnicas agrícolas generan excedentes; y los excedentes hacen posible acumular bienes y comerciar con ellos.
+*Retroalimentación:* La domesticación permite la vida sedentaria; la vida sedentaria y las mejores técnicas agrícolas generan excedentes; y los excedentes hacen posible acumular bienes y comerciar con ellos.
 
 ---
 
@@ -173,7 +173,7 @@ c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **d) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Estos tres conceptos están estrechamente vinculados: la domesticación posibilita la sedentarización, y esta, junto con mejores técnicas agrícolas, genera excedentes.
+*Retroalimentación:* Estos tres conceptos están estrechamente vinculados: la domesticación posibilita la sedentarización, y esta, junto con mejores técnicas agrícolas, genera excedentes.
 
 ---
 
@@ -184,7 +184,7 @@ c) Porque los grupos humanos abandonaron la agricultura para volver a la caza y 
 d) Porque los seres humanos pasaron de desplazarse constantemente en busca de alimento a establecerse de forma permanente, transformando el paisaje para cultivarlo y habitarlo
 
 ✅ Respuesta correcta: **d) Porque los seres humanos pasaron de desplazarse constantemente en busca de alimento a establecerse de forma permanente, transformando el paisaje para cultivarlo y habitarlo**
-💬 *Retroalimentación:* Antes del Neolítico los grupos eran nómades; con la agricultura y la ganadería comenzaron a habitar de forma estable un territorio y a transformarlo.
+*Retroalimentación:* Antes del Neolítico los grupos eran nómades; con la agricultura y la ganadería comenzaron a habitar de forma estable un territorio y a transformarlo.
 
 ---
 
@@ -195,7 +195,7 @@ c) Porque permitió que no todas las personas se dedicaran a producir alimento, 
 d) Porque eliminó cualquier diferencia de tareas entre las personas, de modo que todos compartían por igual la artesanía, el comercio y la religión
 
 ✅ Respuesta correcta: **c) Porque permitió que no todas las personas se dedicaran a producir alimento, liberando tiempo para la artesanía, el comercio, la administración o la religión**
-💬 *Retroalimentación:* Cuando se produjo más alimento del necesario, ya no todos tuvieron que dedicarse a cultivar: algunas personas pudieron ser artesanos, comerciantes, administradores o sacerdotes. Esa división del trabajo hizo más compleja a la sociedad.
+*Retroalimentación:* Cuando se produjo más alimento del necesario, ya no todos tuvieron que dedicarse a cultivar: algunas personas pudieron ser artesanos, comerciantes, administradores o sacerdotes. Esa división del trabajo hizo más compleja a la sociedad.
 
 ---
 
@@ -272,7 +272,7 @@ c) Sociedades completamente igualitarias, sin diferencias sociales
 d) Desarrollo de la escritura y la contabilidad para registrar las cosechas
 
 ✅ Respuesta correcta: **c) Sociedades completamente igualitarias, sin diferencias sociales**
-💬 *Retroalimentación:* Las primeras civilizaciones se caracterizaron, precisamente, por la
+*Retroalimentación:* Las primeras civilizaciones se caracterizaron, precisamente, por la
 estratificación social, es decir, la existencia de distintos grupos con diferente poder,
 riqueza y prestigio.
 
@@ -282,7 +282,7 @@ riqueza y prestigio.
 estrechamente vinculados al ejercicio del poder político.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Muchos gobernantes de las primeras civilizaciones se presentaban como
+*Retroalimentación:* Muchos gobernantes de las primeras civilizaciones se presentaban como
 representantes o encarnaciones de los dioses, lo que legitimaba su poder ante la población.
 
 ---
@@ -300,7 +300,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Estos rasgos se desarrollaron de forma interrelacionada en las primeras civilizaciones, permitiendo administrar sociedades cada vez más grandes y complejas.
+*Retroalimentación:* Estos rasgos se desarrollaron de forma interrelacionada en las primeras civilizaciones, permitiendo administrar sociedades cada vez más grandes y complejas.
 
 ---
 
@@ -311,7 +311,7 @@ c) Porque impidió que se desarrollara el comercio entre ciudades
 d) Porque permitió registrar y controlar recursos, tributos, transacciones comerciales y leyes en sociedades cada vez más numerosas
 
 ✅ Respuesta correcta: **d) Porque permitió registrar y controlar recursos, tributos, transacciones comerciales y leyes en sociedades cada vez más numerosas**
-💬 *Retroalimentación:* En sociedades cada vez más grandes, había que llevar la cuenta de cosechas, tributos, intercambios y leyes; la contabilidad y la escritura permitieron registrarlos y controlarlos. Por eso la escritura nació muy ligada a la administración.
+*Retroalimentación:* En sociedades cada vez más grandes, había que llevar la cuenta de cosechas, tributos, intercambios y leyes; la contabilidad y la escritura permitieron registrarlos y controlarlos. Por eso la escritura nació muy ligada a la administración.
 
 ---
 
@@ -322,7 +322,7 @@ c) El desarrollo de técnicas de contabilidad y escritura para administrar los r
 d) La democracia directa de los ciudadanos
 
 ✅ Respuesta correcta: **c) El desarrollo de técnicas de contabilidad y escritura para administrar los recursos del Estado**
-💬 *Retroalimentación:* Este tipo de registros muestra cómo la escritura surgió ligada a necesidades administrativas, como el cobro y control de tributos.
+*Retroalimentación:* Este tipo de registros muestra cómo la escritura surgió ligada a necesidades administrativas, como el cobro y control de tributos.
 
 ---
 
@@ -333,7 +333,7 @@ c) Porque las ciudades concentraron población, recursos y poder, lo que facilit
 d) Porque las ciudades se trasladaban constantemente de un lugar a otro
 
 ✅ Respuesta correcta: **c) Porque las ciudades concentraron población, recursos y poder, lo que facilitó la administración centralizada, la diferenciación de roles, la construcción de templos y el registro de información**
-💬 *Retroalimentación:* La concentración urbana hizo necesaria y posible una organización más compleja de la sociedad.
+*Retroalimentación:* La concentración urbana hizo necesaria y posible una organización más compleja de la sociedad.
 
 ---
 
@@ -411,7 +411,7 @@ d) Solo los esclavos liberados que hubieran servido en el ejército de la ciudad
 
 ✅ Respuesta correcta: **b) Solo los hombres libres, mayores de edad, hijos de padre y madre
 atenienses**
-💬 *Retroalimentación:* La ciudadanía ateniense excluía a las mujeres, los esclavos y los
+*Retroalimentación:* La ciudadanía ateniense excluía a las mujeres, los esclavos y los
 extranjeros residentes, a pesar de que estos últimos dos grupos formaban una parte importante
 de la población y la economía de la ciudad.
 
@@ -421,7 +421,7 @@ de la población y la economía de la ciudad.
 tenían derecho a participar en la Asamblea y votar las leyes.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Estos tres grupos estaban excluidos de la ciudadanía ateniense y, por lo
+*Retroalimentación:* Estos tres grupos estaban excluidos de la ciudadanía ateniense y, por lo
 tanto, no podían participar directamente en las decisiones políticas de la ciudad.
 
 ---
@@ -439,7 +439,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Comparar estas tres formas de gobierno ayuda a comprender por qué la democracia ateniense fue una innovación política importante en el mundo antiguo.
+*Retroalimentación:* Comparar estas tres formas de gobierno ayuda a comprender por qué la democracia ateniense fue una innovación política importante en el mundo antiguo.
 
 ---
 
@@ -450,7 +450,7 @@ c) Fue una forma de gobierno en que un solo rey tomaba todas las decisiones
 d) Fue innovadora porque los ciudadanos participaban directamente en las decisiones, pero excluía a la mayoría de la población: mujeres, esclavos y extranjeros
 
 ✅ Respuesta correcta: **d) Fue innovadora porque los ciudadanos participaban directamente en las decisiones, pero excluía a la mayoría de la población: mujeres, esclavos y extranjeros**
-💬 *Retroalimentación:* La democracia ateniense combinó una innovación (la participación directa) con una limitación importante (una ciudadanía muy restringida).
+*Retroalimentación:* La democracia ateniense combinó una innovación (la participación directa) con una limitación importante (una ciudadanía muy restringida).
 
 ---
 
@@ -461,7 +461,7 @@ c) Que era un extranjero recién llegado a Atenas, ya que los extranjeros tenía
 d) Que era, casi con certeza, un hombre libre, adulto, hijo de padre y madre atenienses, ya que solo los ciudadanos podían participar y votar en la Asamblea
 
 ✅ Respuesta correcta: **d) Que era, casi con certeza, un hombre libre, adulto, hijo de padre y madre atenienses, ya que solo los ciudadanos podían participar y votar en la Asamblea**
-💬 *Retroalimentación:* Analizar quién podía hablar y votar en una fuente histórica ayuda a comprender cuán restringida era la ciudadanía en la Atenas clásica.
+*Retroalimentación:* Analizar quién podía hablar y votar en una fuente histórica ayuda a comprender cuán restringida era la ciudadanía en la Atenas clásica.
 
 ---
 
@@ -472,7 +472,7 @@ c) Porque introdujo la idea de que el poder político puede basarse en la partic
 d) No es importante: la democracia actual no tiene ninguna relación con Atenas, porque surgió de manera independiente en Europa durante el siglo XX
 
 ✅ Respuesta correcta: **c) Porque introdujo la idea de que el poder político puede basarse en la participación y deliberación de los ciudadanos, idea que luego se amplió a toda la población**
-💬 *Retroalimentación:* Ampliada con el tiempo a toda la población, la idea de participación ciudadana es la base de las democracias actuales.
+*Retroalimentación:* Ampliada con el tiempo a toda la población, la idea de participación ciudadana es la base de las democracias actuales.
 
 ---
 
@@ -548,7 +548,7 @@ d) La prohibición del comercio entre Roma y los territorios conquistados, para 
 
 ✅ Respuesta correcta: **c) El proceso mediante el cual los pueblos conquistados adoptaron
 elementos de la lengua, el derecho y la cultura romana**
-💬 *Retroalimentación:* La romanización implicó la adopción de rasgos culturales romanos por
+*Retroalimentación:* La romanización implicó la adopción de rasgos culturales romanos por
 parte de los pueblos conquistados, muchas veces combinados con elementos de sus propias
 tradiciones.
 
@@ -558,7 +558,7 @@ tradiciones.
 esclavizadas.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* La esclavitud fue una parte fundamental de la economía romana,
+*Retroalimentación:* La esclavitud fue una parte fundamental de la economía romana,
 alimentada en buena medida por las conquistas militares del imperio.
 
 ---
@@ -576,7 +576,7 @@ c) 1-B, 2-C, 3-A
 d) 1-C, 2-B, 3-A
 
 ✅ Respuesta correcta: **a) 1-C, 2-A, 3-B**
-💬 *Retroalimentación:* Estas tres características se combinaron para permitir tanto la expansión territorial de Roma como su administración a largo plazo.
+*Retroalimentación:* Estas tres características se combinaron para permitir tanto la expansión territorial de Roma como su administración a largo plazo.
 
 ---
 
@@ -587,7 +587,7 @@ c) Porque nunca participó en conquistas
 d) Porque permitió tanto conquistar nuevos territorios (expansión) como proteger las fronteras de invasiones externas (defensa)
 
 ✅ Respuesta correcta: **d) Porque permitió tanto conquistar nuevos territorios (expansión) como proteger las fronteras de invasiones externas (defensa)**
-💬 *Retroalimentación:* El ejército fue un pilar del crecimiento y también de la continuidad del dominio romano.
+*Retroalimentación:* El ejército fue un pilar del crecimiento y también de la continuidad del dominio romano.
 
 ---
 
@@ -598,7 +598,7 @@ c) Que Roma no tenía contacto con sus provincias
 d) Que los caminos se construyeron solo para fines religiosos, para que los peregrinos llegaran a los templos de Roma, sin uso comercial ni militar
 
 ✅ Respuesta correcta: **b) Que Roma logró administrar un territorio muy extenso gracias a una infraestructura que facilitaba la comunicación, el comercio y el movimiento de tropas**
-💬 *Retroalimentación:* La infraestructura fue clave para que un imperio tan extenso pudiera mantenerse administrado y comunicado durante siglos.
+*Retroalimentación:* La infraestructura fue clave para que un imperio tan extenso pudiera mantenerse administrado y comunicado durante siglos.
 
 ---
 
@@ -609,7 +609,7 @@ c) Porque, al ser culto oficial, se difundió por todo el territorio romano y so
 d) Porque solo se practicó en la ciudad de Atenas
 
 ✅ Respuesta correcta: **c) Porque, al ser culto oficial, se difundió por todo el territorio romano y sobrevivió a la caída del imperio, transformándose en un elemento central de la Europa medieval**
-💬 *Retroalimentación:* El cristianismo se transformó en uno de los elementos que darían forma a la civilización europea medieval.
+*Retroalimentación:* El cristianismo se transformó en uno de los elementos que darían forma a la civilización europea medieval.
 
 ---
 
@@ -683,7 +683,7 @@ c) Maya, azteca e inca, de la América precolombina
 d) China, india y árabe, de las rutas comerciales de Asia
 
 ✅ Respuesta correcta: **a) Grecorromana, judeocristiana y germana**
-💬 *Retroalimentación:* La civilización europea medieval se formó a partir de la síntesis de
+*Retroalimentación:* La civilización europea medieval se formó a partir de la síntesis de
 estas tres tradiciones culturales, tras la fragmentación del Imperio romano de Occidente.
 
 ---
@@ -692,7 +692,7 @@ estas tres tradiciones culturales, tras la fragmentación del Imperio romano de 
 la unidad política del territorio bajo un solo gobierno.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Todo lo contrario: la caída del Imperio romano de Occidente provocó la
+*Retroalimentación:* Todo lo contrario: la caída del Imperio romano de Occidente provocó la
 fragmentación del territorio en distintos reinos germánicos independientes entre sí.
 
 ---
@@ -710,7 +710,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* La civilización europea medieval resulta de la combinación de estas tres herencias culturales distintas.
+*Retroalimentación:* La civilización europea medieval resulta de la combinación de estas tres herencias culturales distintas.
 
 ---
 
@@ -721,7 +721,7 @@ c) Difundió el cristianismo por Europa, actuando como elemento de unificación 
 d) Otorgó legitimidad religiosa al poder de los gobernantes, por ejemplo con coronaciones
 
 ✅ Respuesta correcta: **b, c y d**
-💬 *Retroalimentación:* En un contexto de fragmentación política, la Iglesia fue un elemento de unificación cultural y de legitimación del poder; lejos de prohibir la escritura, la conservó en monasterios.
+*Retroalimentación:* En un contexto de fragmentación política, la Iglesia fue un elemento de unificación cultural y de legitimación del poder; lejos de prohibir la escritura, la conservó en monasterios.
 
 ---
 
@@ -732,7 +732,7 @@ c) El de administrar el comercio entre ciudades
 d) El de legitimar el poder político de los gobernantes
 
 ✅ Respuesta correcta: **d) El de legitimar el poder político de los gobernantes**
-💬 *Retroalimentación:* Las coronaciones religiosas eran una forma de que el poder de un gobernante fuera reconocido como legítimo ante la población cristiana.
+*Retroalimentación:* Las coronaciones religiosas eran una forma de que el poder de un gobernante fuera reconocido como legítimo ante la población cristiana.
 
 ---
 
@@ -743,7 +743,7 @@ c) Porque Europa copió exactamente la organización de Roma sin cambios, y la p
 d) Porque solo los pueblos germanos aportaron a su formación
 
 ✅ Respuesta correcta: **b) Porque los elementos romanos se combinaron con elementos judeocristianos y con las costumbres de los pueblos germanos, dando origen a algo nuevo**
-💬 *Retroalimentación:* Derecho, lengua y cultura clásica se combinaron con la religión judeocristiana y las formas de organización germanas.
+*Retroalimentación:* Derecho, lengua y cultura clásica se combinaron con la religión judeocristiana y las formas de organización germanas.
 
 ---
 
@@ -824,7 +824,7 @@ d) El regreso a una vida exclusivamente nómade, sin asentamientos permanentes, 
 
 ✅ Respuesta correcta: **b) El crecimiento de las ciudades como centros de comercio, artesanía y
 vida social**
-💬 *Retroalimentación:* A partir del siglo XII, las ciudades europeas recuperaron protagonismo
+*Retroalimentación:* A partir del siglo XII, las ciudades europeas recuperaron protagonismo
 como centros de actividad comercial, artesanal y social, tras siglos en que predominó la vida
 rural.
 
@@ -834,7 +834,7 @@ rural.
 recuperación y difusión de la cultura clásica en Europa.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Las universidades se convirtieron en centros donde se estudiaban y
+*Retroalimentación:* Las universidades se convirtieron en centros donde se estudiaban y
 difundían textos de la cultura clásica grecorromana, entre otros conocimientos.
 
 ---
@@ -852,7 +852,7 @@ c) 1-C, 2-A, 3-B
 d) 1-C, 2-B, 3-A
 
 ✅ Respuesta correcta: **c) 1-C, 2-A, 3-B**
-💬 *Retroalimentación:* Estas transformaciones estuvieron interrelacionadas: la tecnología impulsó la producción y el comercio, y la riqueza generada contribuyó al desarrollo de la vida urbana e intelectual.
+*Retroalimentación:* Estas transformaciones estuvieron interrelacionadas: la tecnología impulsó la producción y el comercio, y la riqueza generada contribuyó al desarrollo de la vida urbana e intelectual.
 
 ---
 
@@ -863,7 +863,7 @@ c) El comercio desapareció y por eso crecieron las ciudades
 d) No tuvieron ninguna relación con el crecimiento de las ciudades, que crecieron solo por la llegada de pueblos invasores que buscaban refugio tras las murallas
 
 ✅ Respuesta correcta: **a) Las innovaciones aumentaron la producción agrícola y los excedentes impulsaron el comercio, que atrajo actividad económica y población hacia las ciudades**
-💬 *Retroalimentación:* Tecnología, excedentes y comercio se reforzaron entre sí, favoreciendo el crecimiento y renovado protagonismo de las ciudades.
+*Retroalimentación:* Tecnología, excedentes y comercio se reforzaron entre sí, favoreciendo el crecimiento y renovado protagonismo de las ciudades.
 
 ---
 
@@ -874,7 +874,7 @@ c) La desaparición total de la población urbana
 d) Un crecimiento de la población durante buena parte del período, seguido de fuertes caídas por crisis como las epidemias de mediados del siglo XIV
 
 ✅ Respuesta correcta: **d) Un crecimiento de la población durante buena parte del período, seguido de fuertes caídas por crisis como las epidemias de mediados del siglo XIV**
-💬 *Retroalimentación:* Las epidemias, como la peste negra de mediados del siglo XIV, provocaron fuertes caídas de población.
+*Retroalimentación:* Las epidemias, como la peste negra de mediados del siglo XIV, provocaron fuertes caídas de población.
 
 ---
 
@@ -885,7 +885,7 @@ c) Porque estaban dedicadas solo a la formación militar
 d) Porque impidieron el desarrollo de movimientos culturales posteriores, como el Renacimiento, al prohibir nuevas ideas
 
 ✅ Respuesta correcta: **b) Porque sentaron las bases institucionales para producir, conservar y difundir conocimiento, un modelo que se mantiene hasta hoy**
-💬 *Retroalimentación:* El modelo universitario medieval fue clave para movimientos culturales posteriores y sigue vigente.
+*Retroalimentación:* El modelo universitario medieval fue clave para movimientos culturales posteriores y sigue vigente.
 
 ---
 
@@ -962,7 +962,7 @@ c) Caminos elevados que conectaban distintas ciudades a través del lago
 d) Sistemas de escritura jeroglífica para registrar los tributos de los pueblos
 
 ✅ Respuesta correcta: **b) Islas artificiales de cultivo construidas sobre el agua del lago**
-💬 *Retroalimentación:* Las chinampas fueron una solución tecnológica de los aztecas para
+*Retroalimentación:* Las chinampas fueron una solución tecnológica de los aztecas para
 cultivar alimentos a pesar de asentarse en una zona de lagos, con poca tierra firme disponible.
 
 ---
@@ -971,7 +971,7 @@ cultivar alimentos a pesar de asentarse en una zona de lagos, con poca tierra fi
 tipo de entorno natural, con selvas tropicales en ambos casos.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Los mayas se desarrollaron principalmente en zonas de selva tropical
+*Retroalimentación:* Los mayas se desarrollaron principalmente en zonas de selva tropical
 (península de Yucatán), mientras que los aztecas se asentaron en el Valle de México, una zona
 de lagos y volcanes.
 
@@ -990,7 +990,7 @@ c) 1-A, 2-B, 3-B
 d) 1-B, 2-B, 3-A
 
 ✅ Respuesta correcta: **c) 1-A, 2-B, 3-B**
-💬 *Retroalimentación:* Cada civilización desarrolló tecnologías específicas para adaptarse a su entorno: los mayas, en la selva; los aztecas, en la zona lacustre de Tenochtitlan.
+*Retroalimentación:* Cada civilización desarrolló tecnologías específicas para adaptarse a su entorno: los mayas, en la selva; los aztecas, en la zona lacustre de Tenochtitlan.
 
 ---
 
@@ -1001,7 +1001,7 @@ c) Que el comercio en Mesoamérica estaba prohibido por los gobernantes, y que l
 d) Que estos productos llegaban solo desde Europa
 
 ✅ Respuesta correcta: **a) Que existía una red comercial que vinculaba distintas regiones de Mesoamérica, permitiendo el intercambio de productos entre zonas con recursos diferentes**
-💬 *Retroalimentación:* La red comercial fue clave para acceder a productos que no se encontraban en el propio territorio.
+*Retroalimentación:* La red comercial fue clave para acceder a productos que no se encontraban en el propio territorio.
 
 ---
 
@@ -1012,7 +1012,7 @@ c) Su única función era organizar ceremonias religiosas en los templos, sin pa
 d) Permitió expandir el territorio controlado, someter a otros pueblos que debían pagar tributo y controlar rutas comerciales, especialmente en el caso azteca
 
 ✅ Respuesta correcta: **d) Permitió expandir el territorio controlado, someter a otros pueblos que debían pagar tributo y controlar rutas comerciales, especialmente en el caso azteca**
-💬 *Retroalimentación:* El elemento militar fue clave en la expansión y en el sistema de tributos, sobre todo en el imperio azteca.
+*Retroalimentación:* El elemento militar fue clave en la expansión y en el sistema de tributos, sobre todo en el imperio azteca.
 
 ---
 
@@ -1023,7 +1023,7 @@ c) Porque permitieron abandonar por completo la agricultura y dedicarse solo al 
 d) Porque se usaron para navegar hasta Europa
 
 ✅ Respuesta correcta: **b) Porque permitieron adaptar entornos desafiantes (selva, lago) para producir suficiente alimento y sostener poblaciones numerosas en ciudades**
-💬 *Retroalimentación:* Estas tecnologías fueron la base material que permitió el desarrollo de sociedades complejas.
+*Retroalimentación:* Estas tecnologías fueron la base material que permitió el desarrollo de sociedades complejas.
 
 **7. (Alternativas)** ¿Qué importancia tuvo la **red comercial** en Mesoamérica para mayas y aztecas?
 a) Permitió intercambiar productos de distintas zonas, como cacao, obsidiana, plumas y sal, en grandes mercados como el de Tlatelolco
@@ -1032,7 +1032,7 @@ c) Solo comerciaban con los incas a través de la cordillera de los Andes, sin n
 d) Usaban monedas de oro acuñadas por el emperador, igual que en Europa
 
 ✅ Respuesta correcta: **a) Permitió intercambiar productos de distintas zonas, como cacao, obsidiana, plumas y sal, en grandes mercados como el de Tlatelolco**
-💬 *Retroalimentación:* El comercio unía regiones con recursos distintos; el cacao llegó a usarse como medio de intercambio. Los mercaderes aztecas (*pochtecas*) recorrían largas distancias y también informaban al Estado.
+*Retroalimentación:* El comercio unía regiones con recursos distintos; el cacao llegó a usarse como medio de intercambio. Los mercaderes aztecas (*pochtecas*) recorrían largas distancias y también informaban al Estado.
 
 **8. (Alternativas)** ¿Qué función social tenía la **cosmología** (la explicación del universo) entre mayas y aztecas?
 a) Ninguna: era solo un pasatiempo de los sacerdotes
@@ -1041,7 +1041,7 @@ c) Servía únicamente para navegar por el océano Pacífico
 d) Prohibía cualquier ceremonia religiosa en las ciudades, para que los sacerdotes no tuvieran poder sobre los gobernantes
 
 ✅ Respuesta correcta: **b) Organizaba el calendario agrícola y religioso, daba sentido a los rituales y legitimaba el poder de gobernantes y sacerdotes**
-💬 *Retroalimentación:* Mayas y aztecas observaban el cielo y crearon calendarios muy precisos; creían que los dioses mantenían el orden del universo y que los rituales eran necesarios para que el mundo siguiera funcionando.
+*Retroalimentación:* Mayas y aztecas observaban el cielo y crearon calendarios muy precisos; creían que los dioses mantenían el orden del universo y que los rituales eran necesarios para que el mundo siguiera funcionando.
 
 ---
 
@@ -1107,7 +1107,7 @@ c) El sistema legal basado exclusivamente en el derecho chino
 d) El calendario musulmán
 
 ✅ Respuesta correcta: **b) El consumo de alimentos como el maíz, la papa o el cacao**
-💬 *Retroalimentación:* Estos alimentos, domesticados originalmente por civilizaciones
+*Retroalimentación:* Estos alimentos, domesticados originalmente por civilizaciones
 americanas como la maya, la azteca y la inca, forman parte hoy de la alimentación de millones
 de personas en el mundo.
 
@@ -1118,7 +1118,7 @@ de personas en el mundo.
 latinoamericanas actuales.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El legado también incluye aspectos políticos, como algunas ideas sobre
+*Retroalimentación:* El legado también incluye aspectos políticos, como algunas ideas sobre
 ciudadanía y república provenientes del mundo clásico, que influyeron en la formación de las
 repúblicas latinoamericanas.
 
@@ -1137,7 +1137,7 @@ c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* El legado cultural de las civilizaciones estudiadas se manifiesta hoy en la alimentación, en las ideas políticas y en la arquitectura de nuestras ciudades.
+*Retroalimentación:* El legado cultural de las civilizaciones estudiadas se manifiesta hoy en la alimentación, en las ideas políticas y en la arquitectura de nuestras ciudades.
 
 ---
 
@@ -1148,7 +1148,7 @@ c) El consumo de maíz y cacao, de origen mesoamericano
 d) Las catedrales de estilo europeo en las plazas de muchas ciudades
 
 ✅ Respuesta correcta: **a, c y d**
-💬 *Retroalimentación:* La alimentación, la arquitectura y las ideas políticas muestran legados concretos; los celulares son una tecnología reciente que no proviene de estas civilizaciones.
+*Retroalimentación:* La alimentación, la arquitectura y las ideas políticas muestran legados concretos; los celulares son una tecnología reciente que no proviene de estas civilizaciones.
 
 ---
 
@@ -1159,7 +1159,7 @@ c) Que las ciudades latinoamericanas son exclusivamente europeas, porque la cate
 d) Que el pasado no tiene relación con el presente
 
 ✅ Respuesta correcta: **a) La confluencia de múltiples legados culturales —americanos precolombinos y europeos— en un mismo espacio urbano actual**
-💬 *Retroalimentación:* Este tipo de imágenes muestra cómo distintas civilizaciones han dejado huellas que conviven en el paisaje urbano latinoamericano.
+*Retroalimentación:* Este tipo de imágenes muestra cómo distintas civilizaciones han dejado huellas que conviven en el paisaje urbano latinoamericano.
 
 ---
 
@@ -1170,7 +1170,7 @@ c) Porque solo es valioso si se puede vender
 d) Porque forma parte de la identidad histórica y cultural latinoamericana, y su pérdida significaría perder una fuente de conocimiento sobre cómo se formó nuestra sociedad
 
 ✅ Respuesta correcta: **d) Porque forma parte de la identidad histórica y cultural latinoamericana, y su pérdida significaría perder una fuente de conocimiento sobre cómo se formó nuestra sociedad**
-💬 *Retroalimentación:* Proteger el patrimonio es proteger la memoria de nuestro pasado y de nuestra identidad.
+*Retroalimentación:* Proteger el patrimonio es proteger la memoria de nuestro pasado y de nuestra identidad.
 
 ---
 
@@ -1250,7 +1250,7 @@ c) La cantidad de idiomas hablados en un continente o región
 d) El nombre que se le da a una ciudad al momento de fundarla
 
 ✅ Respuesta correcta: **a) La cercanía a zonas fértiles y la disponibilidad de recursos**
-💬 *Retroalimentación:* Factores como la disponibilidad de recursos, la fertilidad del suelo, la
+*Retroalimentación:* Factores como la disponibilidad de recursos, la fertilidad del suelo, la
 fragilidad del medio y la vulnerabilidad ante amenazas naturales han influido históricamente en
 dónde se asientan las sociedades humanas.
 
@@ -1260,7 +1260,7 @@ dónde se asientan las sociedades humanas.
 vía: el medio afecta al ser humano, pero el ser humano no transforma el medio.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Es una relación de doble vía: los seres humanos se adaptan al medio,
+*Retroalimentación:* Es una relación de doble vía: los seres humanos se adaptan al medio,
 pero también lo transforman activamente, como muestran ejemplos como las chinampas aztecas o
 los acueductos romanos.
 
@@ -1279,7 +1279,7 @@ c) 1-B, 2-C, 3-A
 d) 1-C, 2-A, 3-B
 
 ✅ Respuesta correcta: **b) 1-C, 2-B, 3-A**
-💬 *Retroalimentación:* Cada uno de estos factores ayuda a explicar decisiones y desafíos distintos en la vinculación entre las sociedades humanas y su entorno natural.
+*Retroalimentación:* Cada uno de estos factores ayuda a explicar decisiones y desafíos distintos en la vinculación entre las sociedades humanas y su entorno natural.
 
 ---
 
@@ -1290,7 +1290,7 @@ c) Un grupo nómade que nunca modificó su entorno
 d) Las chinampas aztecas sobre el lago de Texcoco
 
 ✅ Respuesta correcta: **a, b y d**
-💬 *Retroalimentación:* Las chinampas, los canales y los caminos adaptan y transforman el entorno; un grupo que no modifica su medio no ilustra la transformación.
+*Retroalimentación:* Las chinampas, los canales y los caminos adaptan y transforman el entorno; un grupo que no modifica su medio no ilustra la transformación.
 
 ---
 
@@ -1301,7 +1301,7 @@ c) La cercanía a zonas fértiles y la disponibilidad de agua dulce, que permit�
 d) La preferencia por las altas cumbres nevadas, desde donde nacen los grandes ríos
 
 ✅ Respuesta correcta: **c) La cercanía a zonas fértiles y la disponibilidad de agua dulce, que permitían una agricultura productiva**
-💬 *Retroalimentación:* La mayoría de las primeras civilizaciones se desarrollaron junto a grandes ríos por la fertilidad y los recursos que ofrecían.
+*Retroalimentación:* La mayoría de las primeras civilizaciones se desarrollaron junto a grandes ríos por la fertilidad y los recursos que ofrecían.
 
 ---
 
@@ -1312,7 +1312,7 @@ c) Porque así se justifica explotar los recursos sin límites mientras duren, y
 d) Porque solo importa para entender el pasado: las sociedades actuales cuentan con tecnología suficiente para evitar cualquier daño grave al medio
 
 ✅ Respuesta correcta: **a) Porque algunos entornos pueden dañarse de forma severa o irreversible, y comprenderlo permite tomar decisiones más responsables sobre cómo habitar el territorio**
-💬 *Retroalimentación:* Comprender la fragilidad del medio ayuda a habitar y transformar el territorio de forma responsable, en el pasado y hoy.
+*Retroalimentación:* Comprender la fragilidad del medio ayuda a habitar y transformar el territorio de forma responsable, en el pasado y hoy.
 
 ---
 
@@ -1382,7 +1382,7 @@ c) El agotamiento de un suelo agrícola por sobreexplotación
 d) La contaminación de un río
 
 ✅ Respuesta correcta: **b) La construcción de embalses de riego en zonas secas**
-💬 *Retroalimentación:* Los embalses de riego son un ejemplo de intervención humana que busca
+*Retroalimentación:* Los embalses de riego son un ejemplo de intervención humana que busca
 propiciar efectos positivos, al permitir la agricultura en zonas que naturalmente tienen poca
 disponibilidad de agua.
 
@@ -1392,7 +1392,7 @@ disponibilidad de agua.
 medio natural, ya que las sociedades de esa época eran demasiado pequeñas para transformarlo.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La Revolución agrícola del neolítico sí generó impactos importantes
+*Retroalimentación:* La Revolución agrícola del neolítico sí generó impactos importantes
 sobre el medio, como la tala de bosques para cultivar y la modificación de cursos de agua para
 el riego, con elementos que se mantienen hasta el presente.
 
@@ -1405,7 +1405,7 @@ c) Ambas son de escala global
 d) 1: escala local; 2: escala global
 
 ✅ Respuesta correcta: **d) 1: escala local; 2: escala global**
-💬 *Retroalimentación:* Las medidas de mitigación pueden aplicarse a nivel de una comunidad específica (escala local) o a nivel de acuerdos entre países (escala global).
+*Retroalimentación:* Las medidas de mitigación pueden aplicarse a nivel de una comunidad específica (escala local) o a nivel de acuerdos entre países (escala global).
 
 ---
 
@@ -1416,7 +1416,7 @@ c) Solo tiene desventajas: altera los ecosistemas y la disponibilidad de agua, s
 d) No tiene ningún efecto sobre el entorno, porque el agua del embalse vuelve al río sin cambios después de regar los cultivos del valle
 
 ✅ Respuesta correcta: **b) Puede aportar más agua para cultivar o abastecer a la población, pero también alterar ecosistemas o la disponibilidad de agua para otras poblaciones**
-💬 *Retroalimentación:* Toda intervención en el medio suele traer beneficios claros, pero también puede generar costos o efectos negativos.
+*Retroalimentación:* Toda intervención en el medio suele traer beneficios claros, pero también puede generar costos o efectos negativos.
 
 ---
 
@@ -1427,7 +1427,7 @@ c) Continuidad: en ambos casos se transforma el medio con fines agrícolas. Camb
 d) Continuidad: la escala del impacto es idéntica, porque en ambos casos se tala la misma superficie. Cambio: ninguno, salvo el tipo de cultivo
 
 ✅ Respuesta correcta: **c) Continuidad: en ambos casos se transforma el medio con fines agrícolas. Cambio: la escala del impacto y la tecnología son mucho mayores hoy**
-💬 *Retroalimentación:* Aunque algunas dinámicas se repiten, la magnitud de los impactos ambientales puede cambiar radicalmente con el tiempo.
+*Retroalimentación:* Aunque algunas dinámicas se repiten, la magnitud de los impactos ambientales puede cambiar radicalmente con el tiempo.
 
 ---
 
@@ -1438,7 +1438,7 @@ c) Porque las intervenciones bien planificadas nunca tienen efectos secundarios,
 d) Porque evaluar las desventajas de una obra impide cualquier intervención, ya que toda obra tiene algún costo para el medio natural
 
 ✅ Respuesta correcta: **a) Porque toda intervención puede generar efectos secundarios no deseados, y una evaluación completa permite decisiones más responsables a mediano y largo plazo**
-💬 *Retroalimentación:* Considerar costos y beneficios a mediano y largo plazo permite tomar decisiones más responsables.
+*Retroalimentación:* Considerar costos y beneficios a mediano y largo plazo permite tomar decisiones más responsables.
 
 ---
 
@@ -1519,7 +1519,7 @@ d) En Atenas no existía el concepto de ciudadanía, que surgió recién en la �
 
 ✅ Respuesta correcta: **b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros;
 hoy se extiende a mujeres y hombres adultos, sin distinción de sexo ni condición social**
-💬 *Retroalimentación:* La noción de ciudadanía se ha ampliado significativamente desde la
+*Retroalimentación:* La noción de ciudadanía se ha ampliado significativamente desde la
 Atenas clásica hasta la actualidad, incorporando a grupos que antes estaban excluidos.
 
 ---
@@ -1528,7 +1528,7 @@ Atenas clásica hasta la actualidad, incorporando a grupos que antes estaban exc
 democracia ateniense, funcionan principalmente como democracias representativas.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Mientras en Atenas los ciudadanos participaban directamente en la
+*Retroalimentación:* Mientras en Atenas los ciudadanos participaban directamente en la
 Asamblea, hoy la mayoría de las democracias eligen representantes que ejercen el poder político
 en nombre de la ciudadanía.
 
@@ -1547,7 +1547,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **d) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Estos tres conceptos, originados o desarrollados en el mundo clásico y medieval, siguen presentes —aunque transformados— en la organización política actual.
+*Retroalimentación:* Estos tres conceptos, originados o desarrollados en el mundo clásico y medieval, siguen presentes —aunque transformados— en la organización política actual.
 
 ---
 
@@ -1558,7 +1558,7 @@ c) Similitud: ninguna. Diferencia: en Atenas no existía la participación polí
 d) Similitud: la ciudadanía incluía a todos los habitantes, incluidos mujeres, esclavos y extranjeros. Diferencia: hoy solo vota el rey y los ciudadanos no participan en las decisiones
 
 ✅ Respuesta correcta: **b) Similitud: los ciudadanos participan en decisiones políticas. Diferencia: hoy la ciudadanía incluye a mujeres y no excluye a grupos por su condición de esclavos o extranjeros de origen**
-💬 *Retroalimentación:* Comparar conceptos políticos permite identificar elementos de continuidad (la participación) y de cambio (la ampliación de la ciudadanía).
+*Retroalimentación:* Comparar conceptos políticos permite identificar elementos de continuidad (la participación) y de cambio (la ampliación de la ciudadanía).
 
 ---
 
@@ -1569,7 +1569,7 @@ c) Con un sindicato o un colegio profesional, porque agrupan a personas de un mi
 d) Con un partido político, porque presenta candidatos a Presidente y defiende un programa de gobierno para todo el país
 
 ✅ Respuesta correcta: **c) Con un sindicato o un colegio profesional, porque agrupan a personas de un mismo oficio para regular su actividad y representar sus intereses**
-💬 *Retroalimentación:* Aunque el contexto es distinto, la función de agrupar y representar los intereses de un oficio se mantiene entre los gremios y organizaciones actuales.
+*Retroalimentación:* Aunque el contexto es distinto, la función de agrupar y representar los intereses de un oficio se mantiene entre los gremios y organizaciones actuales.
 
 ---
 
@@ -1580,7 +1580,7 @@ c) Porque el pasado no tiene relación con el presente, y compararlos sirve solo
 d) Porque así se demuestra que no hubo ningún cambio
 
 ✅ Respuesta correcta: **a) Porque muchas instituciones actuales tienen raíces históricas, y comprender su origen y transformación ayuda a entender cómo funcionan hoy y a valorar los cambios logrados**
-💬 *Retroalimentación:* Comprender el origen de las instituciones permite valorar cambios como la ampliación de la ciudadanía.
+*Retroalimentación:* Comprender el origen de las instituciones permite valorar cambios como la ampliación de la ciudadanía.
 
 ---
 
@@ -1648,7 +1648,7 @@ c) Iglesia
 d) República
 
 ✅ Respuesta correcta: **b) Almohada**
-💬 *Retroalimentación:* "Almohada" es una de las muchas palabras del español que provienen del
+*Retroalimentación:* "Almohada" es una de las muchas palabras del español que provienen del
 árabe, herencia de los siglos de convivencia entre musulmanes y cristianos en la península
 ibérica.
 
@@ -1658,7 +1658,7 @@ ibérica.
 medieval empobreció culturalmente a las sociedades europeas.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Todo lo contrario: el contacto con culturas diversas —árabe, bizantina,
+*Retroalimentación:* Todo lo contrario: el contacto con culturas diversas —árabe, bizantina,
 germana, entre otras— enriqueció a las sociedades europeas en ámbitos como el lenguaje, la
 religión y las ciencias.
 
@@ -1677,7 +1677,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **d) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Cada una de estas culturas realizó aportes específicos que enriquecieron a las sociedades europeas del mundo antiguo y medieval.
+*Retroalimentación:* Cada una de estas culturas realizó aportes específicos que enriquecieron a las sociedades europeas del mundo antiguo y medieval.
 
 ---
 
@@ -1688,7 +1688,7 @@ c) Los avances científicos árabes en matemáticas y medicina
 d) La conservación del legado clásico por parte de Bizancio
 
 ✅ Respuesta correcta: **b, c y d**
-💬 *Retroalimentación:* Vocabulario, ciencia y conservación del legado clásico son aportes reales; internet es una invención del siglo XX.
+*Retroalimentación:* Vocabulario, ciencia y conservación del legado clásico son aportes reales; internet es una invención del siglo XX.
 
 ---
 
@@ -1699,7 +1699,7 @@ c) Que en la Edad Media no existían traducciones
 d) Que el conocimiento solo se producía en Europa occidental, y los árabes se limitaron a copiar textos latinos antiguos sin agregar nada
 
 ✅ Respuesta correcta: **b) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a ambas sociedades, más allá de sus diferencias**
-💬 *Retroalimentación:* Los procesos de traducción e intercambio, como en la península ibérica medieval, muestran cómo la diversidad puede ser fuente de enriquecimiento mutuo.
+*Retroalimentación:* Los procesos de traducción e intercambio, como en la península ibérica medieval, muestran cómo la diversidad puede ser fuente de enriquecimiento mutuo.
 
 ---
 
@@ -1710,7 +1710,7 @@ c) Porque la civilización europea resulta de la confluencia de múltiples cultu
 d) Porque la diversidad cultural siempre es una amenaza
 
 ✅ Respuesta correcta: **c) Porque la civilización europea resulta de la confluencia de múltiples culturas, y reducirla a una sola tradición invisibiliza contribuciones reales**
-💬 *Retroalimentación:* Reconocer estos aportes ayuda a valorar la diversidad cultural como algo enriquecedor.
+*Retroalimentación:* Reconocer estos aportes ayuda a valorar la diversidad cultural como algo enriquecedor.
 
 ---
 
@@ -1788,7 +1788,7 @@ d) Solo hubo convivencia pacífica, sin ningún conflicto ni conquista territori
 
 ✅ Respuesta correcta: **b) Hubo mutua influencia cultural y científica, junto con períodos de
 conflicto y conquista territorial**
-💬 *Retroalimentación:* La relación entre musulmanes y católicos en la península ibérica combinó,
+*Retroalimentación:* La relación entre musulmanes y católicos en la península ibérica combinó,
 a lo largo del tiempo, tanto dinámicas de convivencia e intercambio cultural como de conflicto
 territorial.
 
@@ -1798,7 +1798,7 @@ territorial.
 los pueblos conquistados mantuvieran sus propias creencias religiosas.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* La tolerancia religiosa fue, en ambos casos, una estrategia que facilitó
+*Retroalimentación:* La tolerancia religiosa fue, en ambos casos, una estrategia que facilitó
 la convivencia y la estabilidad dentro de imperios muy extensos y culturalmente diversos.
 
 ---
@@ -1816,7 +1816,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Comercio, diplomacia y tolerancia religiosa fueron estrategias concretas de convivencia entre pueblos y culturas distintas en el mundo antiguo y medieval.
+*Retroalimentación:* Comercio, diplomacia y tolerancia religiosa fueron estrategias concretas de convivencia entre pueblos y culturas distintas en el mundo antiguo y medieval.
 
 ---
 
@@ -1827,7 +1827,7 @@ c) Convivencia: la persecución religiosa de las minorías que no compartían la
 d) Convivencia: intercambios científicos entre musulmanes y cristianos en la península ibérica. Conflicto: las guerras por el territorio entre ambos grupos
 
 ✅ Respuesta correcta: **d) Convivencia: intercambios científicos entre musulmanes y cristianos en la península ibérica. Conflicto: las guerras por el territorio entre ambos grupos**
-💬 *Retroalimentación:* El intercambio comercial, la tolerancia y la influencia cultural mutua son formas de convivencia; las guerras y conquistas, formas de conflicto.
+*Retroalimentación:* El intercambio comercial, la tolerancia y la influencia cultural mutua son formas de convivencia; las guerras y conquistas, formas de conflicto.
 
 ---
 
@@ -1838,7 +1838,7 @@ c) Que siempre vivieron en paz absoluta, sin ningún conflicto territorial ni mi
 d) Que solo se relacionaron mediante guerras por el territorio, sin ningún tipo de intercambio cultural ni científico
 
 ✅ Respuesta correcta: **b) Que durante siglos mantuvieron intercambios culturales y científicos mientras, al mismo tiempo, se enfrentaban en conflictos territoriales y militares**
-💬 *Retroalimentación:* Reconocer que la historia rara vez es completamente pacífica o completamente conflictiva ayuda a comprender la complejidad de las relaciones entre pueblos.
+*Retroalimentación:* Reconocer que la historia rara vez es completamente pacífica o completamente conflictiva ayuda a comprender la complejidad de las relaciones entre pueblos.
 
 ---
 
@@ -1849,7 +1849,7 @@ c) Porque, igual que en el pasado, en un mundo diverso estas actitudes son funda
 d) Porque la tolerancia solo fue útil en la Edad Media
 
 ✅ Respuesta correcta: **c) Porque, igual que en el pasado, en un mundo diverso estas actitudes son fundamentales para prevenir conflictos y construir respeto mutuo entre culturas**
-💬 *Retroalimentación:* Así como la tolerancia y la diplomacia permitieron la convivencia en el pasado, siguen siendo claves en sociedades diversas.
+*Retroalimentación:* Así como la tolerancia y la diplomacia permitieron la convivencia en el pasado, siguen siendo claves en sociedades diversas.
 
 ---
 

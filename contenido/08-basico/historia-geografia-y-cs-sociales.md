@@ -137,7 +137,7 @@ c) La caída del Imperio romano de Occidente
 d) La fundación de las universidades medievales
 
 ✅ Respuesta correcta: **a) La Reforma protestante**
-💬 *Retroalimentación:* Iniciada por Martín Lutero en 1517, la Reforma dividió a la cristiandad
+*Retroalimentación:* Iniciada por Martín Lutero en 1517, la Reforma dividió a la cristiandad
 occidental entre católicos y protestantes, un quiebre que la Iglesia católica intentó responder
 con la Contrarreforma.
 
@@ -147,7 +147,7 @@ con la Contrarreforma.
 forma mucho más rápida y masiva que en la época de los manuscritos copiados a mano.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Gracias a la imprenta, inventada por Gutenberg hacia mediados del siglo
+*Retroalimentación:* Gracias a la imprenta, inventada por Gutenberg hacia mediados del siglo
 XV, fue posible reproducir textos de manera rápida y masiva, lo que aceleró la difusión del
 humanismo y, más tarde, de las ideas de la Reforma.
 
@@ -160,7 +160,7 @@ c) 2 → 1 → 3 → 4
 d) 1 → 2 → 3 → 4
 
 ✅ Respuesta correcta: **a) 2 → 3 → 1 → 4**
-💬 *Retroalimentación:* Primero la imprenta (hacia 1450), luego las tesis de Lutero (1517), después el Concilio de Trento (1545-1563) y, en 1633, el proceso a Galileo.
+*Retroalimentación:* Primero la imprenta (hacia 1450), luego las tesis de Lutero (1517), después el Concilio de Trento (1545-1563) y, en 1633, el proceso a Galileo.
 
 ---
 
@@ -177,7 +177,7 @@ c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **d) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* La revolución científica y su defensa del heliocentrismo generaron tensiones con una Iglesia que, tras la Reforma, buscaba reafirmar su autoridad mediante la Contrarreforma.
+*Retroalimentación:* La revolución científica y su defensa del heliocentrismo generaron tensiones con una Iglesia que, tras la Reforma, buscaba reafirmar su autoridad mediante la Contrarreforma.
 
 ---
 
@@ -188,7 +188,7 @@ c) Porque solo imprimía mapas para los navegantes, y así las ideas humanistas 
 d) Porque permitió reproducir textos de manera rápida y en gran cantidad, acelerando la circulación de ideas por toda Europa
 
 ✅ Respuesta correcta: **d) Porque permitió reproducir textos de manera rápida y en gran cantidad, acelerando la circulación de ideas por toda Europa**
-💬 *Retroalimentación:* Antes de la imprenta los libros se copiaban a mano; la imprenta multiplicó los ejemplares de las ideas humanistas y de las tesis de Lutero.
+*Retroalimentación:* Antes de la imprenta los libros se copiaban a mano; la imprenta multiplicó los ejemplares de las ideas humanistas y de las tesis de Lutero.
 
 ---
 
@@ -199,7 +199,7 @@ c) Porque Galileo defendió conclusiones basadas en la observación directa (tel
 d) Porque la Iglesia apoyó de inmediato sus conclusiones y las incorporó a la enseñanza, abandonando las explicaciones medievales
 
 ✅ Respuesta correcta: **c) Porque Galileo defendió conclusiones basadas en la observación directa (telescopio), frente a explicaciones basadas en la autoridad de textos antiguos o religiosos**
-💬 *Retroalimentación:* El nuevo método basado en evidencia, propio de la revolución científica, entró en conflicto con la autoridad tradicional.
+*Retroalimentación:* El nuevo método basado en evidencia, propio de la revolución científica, entró en conflicto con la autoridad tradicional.
 
 ---
 
@@ -279,7 +279,7 @@ c) Un ejército profesional pagado y controlado por la Corona
 d) La total autonomía de las ciudades frente al rey y sus funcionarios
 
 ✅ Respuesta correcta: **c) Un ejército profesional pagado y controlado por la Corona**
-💬 *Retroalimentación:* A diferencia de la Edad Media, donde los reyes dependían de las tropas de
+*Retroalimentación:* A diferencia de la Edad Media, donde los reyes dependían de las tropas de
 los señores feudales, el Estado moderno desarrolló ejércitos permanentes bajo control directo de
 la Corona.
 
@@ -289,7 +289,7 @@ la Corona.
 figura del rey, sin participación de los señores feudales en la administración del territorio.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Todo lo contrario: en la Edad Media el poder estaba fragmentado entre
+*Retroalimentación:* Todo lo contrario: en la Edad Media el poder estaba fragmentado entre
 múltiples señores feudales con amplia autonomía, mientras que la concentración del poder en el
 rey es, precisamente, un rasgo distintivo del Estado moderno.
 
@@ -308,7 +308,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Estos tres rasgos se refuerzan entre sí: la burocracia y el sistema fiscal daban al rey los recursos y el control necesarios para sostener un ejército propio.
+*Retroalimentación:* Estos tres rasgos se refuerzan entre sí: la burocracia y el sistema fiscal daban al rey los recursos y el control necesarios para sostener un ejército propio.
 
 ---
 
@@ -319,7 +319,7 @@ c) No tuvieron ninguna relación con el poder del rey: el Estado moderno surgió
 d) La expansión unificó regiones bajo una misma administración y el monopolio comercial generó ingresos para financiar la burocracia y el ejército del rey
 
 ✅ Respuesta correcta: **d) La expansión unificó regiones bajo una misma administración y el monopolio comercial generó ingresos para financiar la burocracia y el ejército del rey**
-💬 *Retroalimentación:* La expansión puso más territorios bajo una misma administración, y el monopolio del comercio dio al rey ingresos para pagar funcionarios y un ejército permanente. Ambos procesos fortalecieron el poder centralizado del Estado moderno.
+*Retroalimentación:* La expansión puso más territorios bajo una misma administración, y el monopolio del comercio dio al rey ingresos para pagar funcionarios y un ejército permanente. Ambos procesos fortalecieron el poder centralizado del Estado moderno.
 
 ---
 
@@ -330,7 +330,7 @@ c) La separación de poderes del Estado propuesta por Montesquieu
 d) La soberanía popular
 
 ✅ Respuesta correcta: **a) Un sistema fiscal centralizado y una burocracia dependiente del rey**
-💬 *Retroalimentación:* El Estado moderno reemplazó la administración dispersa medieval por una administración centralizada bajo control real.
+*Retroalimentación:* El Estado moderno reemplazó la administración dispersa medieval por una administración centralizada bajo control real.
 
 ---
 
@@ -341,7 +341,7 @@ c) Porque el rey necesitaba una fuerza propia que no dependiera de los señores 
 d) Porque el ejército limitaba el poder del rey
 
 ✅ Respuesta correcta: **c) Porque el rey necesitaba una fuerza propia que no dependiera de los señores feudales, y mantenerla exigía recursos fiscales centralizados: ambos procesos se retroalimentaron**
-💬 *Retroalimentación:* Concentración del poder y ejército propio se reforzaron mutuamente.
+*Retroalimentación:* Concentración del poder y ejército propio se reforzaron mutuamente.
 
 ---
 
@@ -420,7 +420,7 @@ d) Por la cantidad de metales preciosos (oro y plata) que lograba acumular
 
 ✅ Respuesta correcta: **d) Por la cantidad de metales preciosos (oro y plata) que lograba
 acumular**
-💬 *Retroalimentación:* El principio central del mercantilismo era que la riqueza de un reino se
+*Retroalimentación:* El principio central del mercantilismo era que la riqueza de un reino se
 medía, sobre todo, por su capacidad de acumular oro y plata.
 
 ---
@@ -429,7 +429,7 @@ medía, sobre todo, por su capacidad de acumular oro y plata.
 los precios en Europa, provocada en parte por la llegada masiva de plata americana.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* El aumento de metales preciosos en circulación, sin un aumento
+*Retroalimentación:* El aumento de metales preciosos en circulación, sin un aumento
 equivalente de bienes disponibles, provocó una inflación sostenida durante buena parte del siglo
 XVI, fenómeno conocido como revolución de los precios.
 
@@ -448,7 +448,7 @@ c) 1-B, 2-C, 3-A
 d) 1-C, 2-B, 3-A
 
 ✅ Respuesta correcta: **a) 1-C, 2-A, 3-B**
-💬 *Retroalimentación:* Estos tres mecanismos buscaban, en conjunto, maximizar la acumulación de metales preciosos y riqueza para el reino.
+*Retroalimentación:* Estos tres mecanismos buscaban, en conjunto, maximizar la acumulación de metales preciosos y riqueza para el reino.
 
 ---
 
@@ -459,7 +459,7 @@ c) Porque los metales preciosos se quedaron en América sin circular, y Europa t
 d) Porque las potencias europeas establecieron conexiones comerciales con América, África y Asia, integrando economías de distintos continentes bajo la lógica mercantilista
 
 ✅ Respuesta correcta: **d) Porque las potencias europeas establecieron conexiones comerciales con América, África y Asia, integrando economías de distintos continentes bajo la lógica mercantilista**
-💬 *Retroalimentación:* Por primera vez se integraron a gran escala economías de distintos continentes.
+*Retroalimentación:* Por primera vez se integraron a gran escala economías de distintos continentes.
 
 ---
 
@@ -470,7 +470,7 @@ c) La revolución de los precios: el alza sostenida provocada por el aumento de 
 d) La abolición del mercantilismo y la llegada del libre comercio a España
 
 ✅ Respuesta correcta: **c) La revolución de los precios: el alza sostenida provocada por el aumento de metales preciosos en circulación**
-💬 *Retroalimentación:* Relacionar dos variables —llegada de plata y precios— permite comprender cómo la economía americana afectó la vida cotidiana en Europa.
+*Retroalimentación:* Relacionar dos variables —llegada de plata y precios— permite comprender cómo la economía americana afectó la vida cotidiana en Europa.
 
 ---
 
@@ -481,7 +481,7 @@ c) Porque entendía la riqueza como algo limitado (metales y rutas), de modo que
 d) Porque los reinos no buscaban acumular riqueza, sino territorios, y las guerras se producían por motivos solo religiosos
 
 ✅ Respuesta correcta: **c) Porque entendía la riqueza como algo limitado (metales y rutas), de modo que lo que un reino ganaba generalmente lo perdía otro**
-💬 *Retroalimentación:* Para el mercantilismo, la riqueza (metales preciosos y rutas comerciales) era limitada: si un reino ganaba, otro perdía. Esa idea empujó a las potencias a competir y a enfrentarse en vez de cooperar.
+*Retroalimentación:* Para el mercantilismo, la riqueza (metales preciosos y rutas comerciales) era limitada: si un reino ganaba, otro perdía. Esa idea empujó a las potencias a competir y a enfrentarse en vez de cooperar.
 
 ---
 
@@ -565,7 +565,7 @@ d) Que la Conquista de América no había ocurrido
 
 ✅ Respuesta correcta: **a) Que los indígenas eran seres humanos racionales, con plenos
 derechos**
-💬 *Retroalimentación:* Bartolomé de las Casas denunció los abusos cometidos durante la Conquista
+*Retroalimentación:* Bartolomé de las Casas denunció los abusos cometidos durante la Conquista
 y defendió la humanidad y racionalidad de los pueblos indígenas, en contraposición a la postura
 de Sepúlveda.
 
@@ -575,7 +575,7 @@ de Sepúlveda.
 mundo conocido, que hasta entonces se limitaba a Europa, Asia y el norte de África.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* La existencia de un continente hasta entonces desconocido para los
+*Retroalimentación:* La existencia de un continente hasta entonces desconocido para los
 europeos los obligó a corregir mapas y a repensar conocimientos previos sobre la geografía del
 mundo.
 
@@ -588,7 +588,7 @@ c) Ambos defendieron la "esclavitud natural" de los indígenas, pero Las Casas p
 d) Ambos negaron que los indígenas fueran seres humanos racionales, y discutieron solo si la Corona debía permitir o no la encomienda en América
 
 ✅ Respuesta correcta: **a) Bartolomé de las Casas denunció los abusos y defendió la humanidad racional de los indígenas; Juan Ginés de Sepúlveda defendió la "esclavitud natural" para justificar el sometimiento**
-💬 *Retroalimentación:* En Valladolid, Bartolomé de las Casas denunció los abusos y defendió que los indígenas eran seres humanos racionales; Juan Ginés de Sepúlveda sostuvo la idea de la «esclavitud natural» para justificar la conquista. Fue un debate moral dentro de la propia cultura europea.
+*Retroalimentación:* En Valladolid, Bartolomé de las Casas denunció los abusos y defendió que los indígenas eran seres humanos racionales; Juan Ginés de Sepúlveda sostuvo la idea de la «esclavitud natural» para justificar la conquista. Fue un debate moral dentro de la propia cultura europea.
 
 ---
 
@@ -599,7 +599,7 @@ c) En copiar exactamente las ciudades europeas en América, sin cambiar sus nomb
 d) En describir plantas, animales, paisajes y sociedades desconocidos, desarrollando nuevas palabras, categorías y formas de representación (mapas, crónicas, dibujos)
 
 ✅ Respuesta correcta: **d) En describir plantas, animales, paisajes y sociedades desconocidos, desarrollando nuevas palabras, categorías y formas de representación (mapas, crónicas, dibujos)**
-💬 *Retroalimentación:* Los europeos encontraron plantas, animales, paisajes y sociedades que no conocían, para los que no tenían palabras ni categorías. Tuvieron que crear nuevos términos, mapas, crónicas y dibujos para describirlos.
+*Retroalimentación:* Los europeos encontraron plantas, animales, paisajes y sociedades que no conocían, para los que no tenían palabras ni categorías. Tuvieron que crear nuevos términos, mapas, crónicas y dibujos para describirlos.
 
 ---
 
@@ -610,7 +610,7 @@ c) Con la de Galileo Galilei, que defendía la observación de la naturaleza
 d) Con la de Bartolomé de las Casas, que defendía la racionalidad y humanidad de los indígenas
 
 ✅ Respuesta correcta: **d) Con la de Bartolomé de las Casas, que defendía la racionalidad y humanidad de los indígenas**
-💬 *Retroalimentación:* La crónica afirma que los indígenas tienen alma racional y no pueden ser tratados como bestias: es el argumento central de Bartolomé de las Casas en el debate de Valladolid.
+*Retroalimentación:* La crónica afirma que los indígenas tienen alma racional y no pueden ser tratados como bestias: es el argumento central de Bartolomé de las Casas en el debate de Valladolid.
 
 ---
 
@@ -621,7 +621,7 @@ c) Porque planteó de forma sistemática si todos los seres humanos tienen los m
 d) No es importante: no tiene relación con el presente, porque los derechos humanos se definieron recién en el siglo XX
 
 ✅ Respuesta correcta: **c) Porque planteó de forma sistemática si todos los seres humanos tienen los mismos derechos, independientemente de su origen o cultura**
-💬 *Retroalimentación:* Esa pregunta sigue siendo central en la discusión actual sobre los derechos humanos.
+*Retroalimentación:* Esa pregunta sigue siendo central en la discusión actual sobre los derechos humanos.
 
 ---
 
@@ -699,7 +699,7 @@ d) Un tribunal encargado de juzgar a los encomenderos que abusaban de los indíg
 
 ✅ Respuesta correcta: **b) Un sistema de trabajo obligatorio y rotativo, usado especialmente en
 la minería**
-💬 *Retroalimentación:* La mita obligaba a comunidades indígenas a proporcionar mano de obra de
+*Retroalimentación:* La mita obligaba a comunidades indígenas a proporcionar mano de obra de
 forma rotativa, especialmente para la explotación minera, como en el caso de Potosí.
 
 ---
@@ -708,7 +708,7 @@ forma rotativa, especialmente para la explotación minera, como en el caso de Po
 organizada en distintos grupos o castas según el origen étnico y familiar de las personas.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* La sociedad de castas ordenaba a la población colonial en grupos como
+*Retroalimentación:* La sociedad de castas ordenaba a la población colonial en grupos como
 peninsulares, criollos, mestizos, indígenas y personas africanas esclavizadas, cada uno con
 distintos derechos y posición social.
 
@@ -727,7 +727,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Estos tres procesos ocurrieron de manera simultánea y entrelazada durante la formación de la sociedad colonial americana.
+*Retroalimentación:* Estos tres procesos ocurrieron de manera simultánea y entrelazada durante la formación de la sociedad colonial americana.
 
 ---
 
@@ -738,7 +738,7 @@ c) No había ninguna diferencia
 d) La encomienda obligaba a comunidades indígenas a trabajar y tributar a un encomendero a cambio de supuesta protección y evangelización; la esclavitud consideraba a las personas africanas propiedad de otra persona, sin derechos
 
 ✅ Respuesta correcta: **d) La encomienda obligaba a comunidades indígenas a trabajar y tributar a un encomendero a cambio de supuesta protección y evangelización; la esclavitud consideraba a las personas africanas propiedad de otra persona, sin derechos**
-💬 *Retroalimentación:* La esclavitud africana se utilizó especialmente donde escaseaba la mano de obra indígena.
+*Retroalimentación:* La esclavitud africana se utilizó especialmente donde escaseaba la mano de obra indígena.
 
 ---
 
@@ -749,7 +749,7 @@ c) La soberanía popular, que permitía a cada grupo social elegir libremente a 
 d) La libertad de culto
 
 ✅ Respuesta correcta: **b) La sociedad de castas, en que el origen étnico y familiar determinaba derechos y posición social**
-💬 *Retroalimentación:* El origen determinaba de forma muy concreta las oportunidades de las personas en la sociedad colonial.
+*Retroalimentación:* El origen determinaba de forma muy concreta las oportunidades de las personas en la sociedad colonial.
 
 ---
 
@@ -760,7 +760,7 @@ c) Porque gran parte de la población, la lengua, la religión, la alimentación
 d) Porque los pueblos indígenas desaparecieron sin dejar aportes, y la población actual desciende solo de europeos y africanos llegados a América
 
 ✅ Respuesta correcta: **c) Porque gran parte de la población, la lengua, la religión, la alimentación y las costumbres actuales resultan de la mezcla entre pueblos indígenas, europeos y africanos durante la Colonia**
-💬 *Retroalimentación:* Gran parte de la población, las lenguas, la religión, la comida y las costumbres de América Latina surgieron de la mezcla entre pueblos indígenas, europeos y africanos. Por eso el mestizaje y la transculturación explican la identidad actual.
+*Retroalimentación:* Gran parte de la población, las lenguas, la religión, la comida y las costumbres de América Latina surgieron de la mezcla entre pueblos indígenas, europeos y africanos. Por eso el mestizaje y la transculturación explican la identidad actual.
 
 ---
 
@@ -838,7 +838,7 @@ d) Se prohibió cualquier tipo de contacto entre españoles y mapuches
 
 ✅ Respuesta correcta: **b) Se estableció una frontera de facto en el río Biobío, con territorio
 mapuche autónomo al sur**
-💬 *Retroalimentación:* Al no poder conquistar militarmente el territorio al sur del Biobío, se
+*Retroalimentación:* Al no poder conquistar militarmente el territorio al sur del Biobío, se
 consolidó una frontera que separó el dominio colonial español del territorio mapuche, que
 mantuvo autonomía política y territorial durante toda la Colonia.
 
@@ -849,7 +849,7 @@ caracterizó exclusivamente por el conflicto armado, sin ninguna forma de conviv
 intercambio.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Además del conflicto armado (malones, expediciones militares), existieron
+*Retroalimentación:* Además del conflicto armado (malones, expediciones militares), existieron
 formas de convivencia, como el comercio fronterizo, el mestizaje y los parlamentos diplomáticos,
 como el de Quilín en 1641.
 
@@ -868,7 +868,7 @@ c) 1-B, 2-C, 3-A
 d) 1-C, 2-B, 3-A
 
 ✅ Respuesta correcta: **a) 1-C, 2-A, 3-B**
-💬 *Retroalimentación:* Estos tres conceptos permiten comprender la complejidad de los vínculos en la frontera del Biobío durante la Colonia.
+*Retroalimentación:* Estos tres conceptos permiten comprender la complejidad de los vínculos en la frontera del Biobío durante la Colonia.
 
 ---
 
@@ -879,7 +879,7 @@ c) Un tratado de comercio entre España y Portugal
 d) Una reunión diplomática en que la Corona española reconoció el río Biobío como límite de su dominio efectivo, mostrando la negociación ante el fracaso de la conquista militar
 
 ✅ Respuesta correcta: **d) Una reunión diplomática en que la Corona española reconoció el río Biobío como límite de su dominio efectivo, mostrando la negociación ante el fracaso de la conquista militar**
-💬 *Retroalimentación:* Ante el fracaso de la conquista militar, españoles y mapuches desarrollaron mecanismos de negociación.
+*Retroalimentación:* Ante el fracaso de la conquista militar, españoles y mapuches desarrollaron mecanismos de negociación.
 
 ---
 
@@ -890,7 +890,7 @@ c) Que no existía ningún contacto entre españoles y mapuches, salvo durante l
 d) Que los mapuches dependían del comercio con Europa para obtener ganado y alimentos
 
 ✅ Respuesta correcta: **b) La convivencia y el intercambio comercial que, junto al conflicto armado, formaban parte de la vida en la frontera**
-💬 *Retroalimentación:* La frontera no fue solo escenario de guerra, sino también de contacto económico y cultural sostenido.
+*Retroalimentación:* La frontera no fue solo escenario de guerra, sino también de contacto económico y cultural sostenido.
 
 ---
 
@@ -901,7 +901,7 @@ c) Porque la resistencia mapuche obligó a la Corona a reconocer, de hecho y med
 d) Porque los mapuches fueron sometidos más rápido que otros pueblos, y el río marcó el límite de las tierras repartidas en encomienda
 
 ✅ Respuesta correcta: **c) Porque la resistencia mapuche obligó a la Corona a reconocer, de hecho y mediante parlamentos, un territorio autónomo, algo poco común en la América colonial española**
-💬 *Retroalimentación:* En la mayoría de los territorios americanos los pueblos indígenas fueron sometidos militar y políticamente durante la Conquista.
+*Retroalimentación:* En la mayoría de los territorios americanos los pueblos indígenas fueron sometidos militar y políticamente durante la Conquista.
 
 ---
 
@@ -981,7 +981,7 @@ c) Bartolomé de las Casas
 d) Galileo Galilei
 
 ✅ Respuesta correcta: **b) Montesquieu**
-💬 *Retroalimentación:* Montesquieu propuso dividir el poder del Estado en poder ejecutivo,
+*Retroalimentación:* Montesquieu propuso dividir el poder del Estado en poder ejecutivo,
 legislativo y judicial, para evitar que se concentrara en una sola persona o institución.
 
 ---
@@ -990,7 +990,7 @@ legislativo y judicial, para evitar que se concentrara en una sola persona o ins
 autoridad legítima de un gobierno proviene de un derecho divino otorgado al rey.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La idea de soberanía popular sostiene, precisamente, lo contrario: que la
+*Retroalimentación:* La idea de soberanía popular sostiene, precisamente, lo contrario: que la
 autoridad legítima proviene del acuerdo y la voluntad del pueblo, no de un derecho divino ni
 hereditario.
 
@@ -1009,7 +1009,7 @@ c) 1-B, 2-C, 3-A
 d) 1-C, 2-A, 3-B
 
 ✅ Respuesta correcta: **a) 1-C, 2-B, 3-A**
-💬 *Retroalimentación:* Estos conceptos, junto a la separación de poderes y los principios de libertad e igualdad, forman el núcleo del pensamiento político ilustrado.
+*Retroalimentación:* Estos conceptos, junto a la separación de poderes y los principios de libertad e igualdad, forman el núcleo del pensamiento político ilustrado.
 
 ---
 
@@ -1020,7 +1020,7 @@ c) Porque proponían volver al feudalismo, devolviendo el poder a los señores l
 d) Porque defendían un poder limitado por leyes, dividido entre instituciones y legitimado por el pueblo, incompatible con un rey que concentraba todo el poder
 
 ✅ Respuesta correcta: **d) Porque defendían un poder limitado por leyes, dividido entre instituciones y legitimado por el pueblo, incompatible con un rey que concentraba todo el poder**
-💬 *Retroalimentación:* El absolutismo concentraba el poder en el rey sin límites legales ni participación popular.
+*Retroalimentación:* El absolutismo concentraba el poder en el rey sin límites legales ni participación popular.
 
 ---
 
@@ -1031,7 +1031,7 @@ c) Al mercantilismo, que busca acumular metales preciosos en el reino
 d) A la Contrarreforma, que fortaleció la autoridad de la Iglesia
 
 ✅ Respuesta correcta: **b) A la separación y equilibrio de los poderes del Estado, propuesta principalmente por Montesquieu**
-💬 *Retroalimentación:* Ningún poder del Estado —legislativo, ejecutivo o judicial— debe concentrarse en una sola institución o persona.
+*Retroalimentación:* Ningún poder del Estado —legislativo, ejecutivo o judicial— debe concentrarse en una sola institución o persona.
 
 ---
 
@@ -1042,7 +1042,7 @@ c) La separación de poderes
 d) La existencia de una constitución que limita al poder político
 
 ✅ Respuesta correcta: **a, c y d**
-💬 *Retroalimentación:* Los tres primeros son pilares de las repúblicas democráticas actuales; el derecho divino de los reyes es justamente lo que la Ilustración criticó.
+*Retroalimentación:* Los tres primeros son pilares de las repúblicas democráticas actuales; el derecho divino de los reyes es justamente lo que la Ilustración criticó.
 
 ---
 
@@ -1146,7 +1146,7 @@ c) El Concilio de Trento y la Contrarreforma
 d) La Revolución científica y el heliocentrismo
 
 ✅ Respuesta correcta: **b) La invasión napoleónica a España y la caída de Fernando VII**
-💬 *Retroalimentación:* Al quedar la monarquía española sin un rey legítimo en el trono, se abrió
+*Retroalimentación:* Al quedar la monarquía española sin un rey legítimo en el trono, se abrió
 un vacío de poder que las colonias americanas resolvieron, en un primer momento, mediante Juntas
 de Gobierno locales.
 
@@ -1156,7 +1156,7 @@ de Gobierno locales.
 únicamente en Chile, sin relación con lo que sucedía en el resto del continente.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La independencia hispanoamericana fue un proceso continental, con causas
+*Retroalimentación:* La independencia hispanoamericana fue un proceso continental, con causas
 comunes en distintos territorios, aunque cada uno tuvo también particularidades propias en sus
 tiempos, líderes y hechos concretos.
 
@@ -1169,7 +1169,7 @@ c) 2 → 1 → 4 → 3
 d) 2 → 1 → 3 → 4
 
 ✅ Respuesta correcta: **c) 2 → 1 → 4 → 3**
-💬 *Retroalimentación:* Primera Junta (1810), Reconquista (1814-1817), Chacabuco (1817) y declaración de la Independencia (1818).
+*Retroalimentación:* Primera Junta (1810), Reconquista (1814-1817), Chacabuco (1817) y declaración de la Independencia (1818).
 
 ---
 
@@ -1186,7 +1186,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* La independencia de Chile no fue un proceso lineal: tuvo avances y un importante retroceso temporal.
+*Retroalimentación:* La independencia de Chile no fue un proceso lineal: tuvo avances y un importante retroceso temporal.
 
 ---
 
@@ -1197,7 +1197,7 @@ c) Que los procesos fueron hechos aislados sin relación entre sí
 d) Que la independencia hispanoamericana fue un proceso continental, más o menos simultáneo en distintos territorios
 
 ✅ Respuesta correcta: **d) Que la independencia hispanoamericana fue un proceso continental, más o menos simultáneo en distintos territorios**
-💬 *Retroalimentación:* No se trató de hechos aislados, sino de un fenómeno que abarcó gran parte del continente.
+*Retroalimentación:* No se trató de hechos aislados, sino de un fenómeno que abarcó gran parte del continente.
 
 ---
 
@@ -1208,7 +1208,7 @@ c) Porque la independencia se explica solo por las ideas ilustradas, que bastaro
 d) Porque los criollos rechazaban las ideas ilustradas y buscaban la independencia para restaurar el poder absoluto del rey de España en América
 
 ✅ Respuesta correcta: **b) Porque dieron un marco conceptual a los criollos, pero se requirió además una coyuntura (la crisis de la monarquía española) y motivaciones políticas y económicas concretas**
-💬 *Retroalimentación:* Las ideas, la coyuntura y los intereses criollos se combinaron para dar lugar a los movimientos independentistas.
+*Retroalimentación:* Las ideas, la coyuntura y los intereses criollos se combinaron para dar lugar a los movimientos independentistas.
 
 ---
 
@@ -1297,7 +1297,7 @@ d) El desierto de Atacama, definido principalmente por su clima árido y seco
 
 ✅ Respuesta correcta: **b) La región andina, definida por elementos culturales compartidos entre
 países**
-💬 *Retroalimentación:* Mientras la Patagonia, la cordillera y el desierto son ejemplos de
+*Retroalimentación:* Mientras la Patagonia, la cordillera y el desierto son ejemplos de
 regiones definidas por factores físicos, la región andina se define principalmente por elementos
 culturales compartidos entre distintos países.
 
@@ -1307,7 +1307,7 @@ culturales compartidos entre distintos países.
 político-administrativa) siempre coinciden exactamente en sus límites territoriales.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Una misma zona puede analizarse con distintos criterios de región, y esos
+*Retroalimentación:* Una misma zona puede analizarse con distintos criterios de región, y esos
 criterios no necesariamente producen los mismos límites territoriales.
 
 ---
@@ -1325,7 +1325,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Reconocer estos criterios ayuda a identificar qué tipo de región se está analizando en cada caso.
+*Retroalimentación:* Reconocer estos criterios ayuda a identificar qué tipo de región se está analizando en cada caso.
 
 ---
 
@@ -1336,7 +1336,7 @@ c) Ambas se basan solo en límites administrativos fijados por ley, y la diferen
 d) No existe diferencia entre ellas: toda región se define a la vez por el clima y por la cultura, de modo que no es posible separar ambos criterios
 
 ✅ Respuesta correcta: **a) Física: basada en clima, relieve o vegetación (p. ej., una región desértica). Humana: basada en lengua, religión o historia compartida (p. ej., una región cultural)**
-💬 *Retroalimentación:* Cada tipo de región pone el foco en rasgos distintos del territorio.
+*Retroalimentación:* Cada tipo de región pone el foco en rasgos distintos del territorio.
 
 ---
 
@@ -1347,7 +1347,7 @@ c) Una región económica productiva
 d) Una región político-administrativa
 
 ✅ Respuesta correcta: **d) Una región político-administrativa**
-💬 *Retroalimentación:* Los mapas de división político-administrativa son la representación más habitual de este tipo de región.
+*Retroalimentación:* Los mapas de división político-administrativa son la representación más habitual de este tipo de región.
 
 ---
 
@@ -1358,7 +1358,7 @@ c) Porque solo la región político-administrativa es válida, y los otros tipos
 d) Porque así se evita estudiar el territorio
 
 ✅ Respuesta correcta: **b) Porque cada tipo pone el foco en aspectos distintos (clima, cultura, economía, organización), y combinarlos permite una comprensión más completa**
-💬 *Retroalimentación:* Combinar criterios permite una comprensión más matizada de un mismo espacio geográfico.
+*Retroalimentación:* Combinar criterios permite una comprensión más matizada de un mismo espacio geográfico.
 
 ---
 
@@ -1437,7 +1437,7 @@ d) Solamente la cantidad de universidades y colegios presentes en la región
 
 ✅ Respuesta correcta: **b) Las redes de transporte y comunicaciones, y el acceso a bienes,
 servicios e información**
-💬 *Retroalimentación:* El grado de conexión o aislamiento de una región depende principalmente de
+*Retroalimentación:* El grado de conexión o aislamiento de una región depende principalmente de
 la infraestructura de transporte y comunicaciones disponible, y del acceso efectivo a bienes,
 servicios e información.
 
@@ -1447,7 +1447,7 @@ servicios e información.
 acceso a servicios de salud especializados, sin importar su ubicación geográfica.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El aislamiento territorial de algunas regiones o localidades puede
+*Retroalimentación:* El aislamiento territorial de algunas regiones o localidades puede
 dificultar seriamente el acceso oportuno a servicios de salud especializados, en comparación con
 zonas más conectadas o cercanas a grandes centros urbanos.
 
@@ -1466,7 +1466,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Reconocer estos ejemplos ayuda a identificar problemáticas territoriales concretas en distintas regiones del país.
+*Retroalimentación:* Reconocer estos ejemplos ayuda a identificar problemáticas territoriales concretas en distintas regiones del país.
 
 ---
 
@@ -1477,7 +1477,7 @@ c) Ningún cambio relevante en el mercado laboral, porque los adultos mayores re
 d) Cierre de todos los servicios de salud, porque los adultos mayores se trasladan a la capital a atenderse
 
 ✅ Respuesta correcta: **a) Escasez de mano de obra joven y mayor demanda de servicios para adultos mayores, como salud geriátrica**
-💬 *Retroalimentación:* Interpretar datos demográficos permite anticipar impactos concretos en el empleo y los servicios.
+*Retroalimentación:* Interpretar datos demográficos permite anticipar impactos concretos en el empleo y los servicios.
 
 ---
 
@@ -1488,7 +1488,7 @@ c) Las obliga a todas a trasladarse a vivir en la capital, porque en las regione
 d) Al concentrarse servicios, inversión y empleo en el centro, pueden tener menor acceso a ellos o deben trasladarse largas distancias, generando desigualdades territoriales
 
 ✅ Respuesta correcta: **d) Al concentrarse servicios, inversión y empleo en el centro, pueden tener menor acceso a ellos o deben trasladarse largas distancias, generando desigualdades territoriales**
-💬 *Retroalimentación:* La concentración en el centro genera desigualdades de acceso entre territorios.
+*Retroalimentación:* La concentración en el centro genera desigualdades de acceso entre territorios.
 
 ---
 
@@ -1499,7 +1499,7 @@ c) Porque solo sirven para estudiar Santiago, que es la única ciudad del país 
 d) Porque las desigualdades territoriales no existen
 
 ✅ Respuesta correcta: **b) Porque permiten identificar desigualdades en acceso a servicios, empleo e infraestructura, y pensar soluciones a problemas de conectividad o migración**
-💬 *Retroalimentación:* Comparar el campo con la ciudad y el centro con la periferia muestra dónde faltan servicios, empleo o infraestructura; eso ayuda a entender problemas como la migración o la falta de conectividad y a pensar soluciones.
+*Retroalimentación:* Comparar el campo con la ciudad y el centro con la periferia muestra dónde faltan servicios, empleo o infraestructura; eso ayuda a entender problemas como la migración o la falta de conectividad y a pensar soluciones.
 
 ---
 
@@ -1575,7 +1575,7 @@ c) Únicamente la cantidad de exportaciones de una región
 d) Solo la superficie territorial y la población de una región
 
 ✅ Respuesta correcta: **b) Salud (esperanza de vida), educación y nivel de vida (ingreso)**
-💬 *Retroalimentación:* El IDH permite comparar el bienestar de regiones o países considerando más
+*Retroalimentación:* El IDH permite comparar el bienestar de regiones o países considerando más
 que solo el ingreso económico, incorporando también salud y educación.
 
 ---
@@ -1585,7 +1585,7 @@ sin comprometer la capacidad del medio ambiente para satisfacer las necesidades 
 generaciones.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Esta es, precisamente, la idea central del desarrollo sustentable:
+*Retroalimentación:* Esta es, precisamente, la idea central del desarrollo sustentable:
 equilibrar el crecimiento económico presente con el cuidado ambiental de largo plazo.
 
 ---
@@ -1603,7 +1603,7 @@ c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Estos conceptos permiten analizar de forma más completa la situación económica y el desarrollo de una región.
+*Retroalimentación:* Estos conceptos permiten analizar de forma más completa la situación económica y el desarrollo de una región.
 
 ---
 
@@ -1614,7 +1614,7 @@ c) Ambas tienen el mismo IDH, porque el índice no considera la educación
 d) Ninguna, porque el IDH solo se calcula para países y no para regiones
 
 ✅ Respuesta correcta: **a) La Región B, porque el IDH considera también salud y educación, no solo el ingreso**
-💬 *Retroalimentación:* El concepto de desarrollo humano entrega una imagen más completa que mirar únicamente el ingreso.
+*Retroalimentación:* El concepto de desarrollo humano entrega una imagen más completa que mirar únicamente el ingreso.
 
 ---
 
@@ -1625,7 +1625,7 @@ c) Que depende completamente de las importaciones, porque se especializa en una 
 d) Que puede producir cierto bien de forma relativamente más eficiente que otras, por sus condiciones naturales, humanas o tecnológicas, como una región minera especializada en minería
 
 ✅ Respuesta correcta: **d) Que puede producir cierto bien de forma relativamente más eficiente que otras, por sus condiciones naturales, humanas o tecnológicas, como una región minera especializada en minería**
-💬 *Retroalimentación:* La ventaja comparativa se basa en las condiciones particulares de cada región.
+*Retroalimentación:* La ventaja comparativa se basa en las condiciones particulares de cada región.
 
 ---
 
@@ -1636,7 +1636,7 @@ c) Porque la sustentabilidad prohíbe toda actividad económica que use recursos
 d) No existe ninguna tensión entre ambos
 
 ✅ Respuesta correcta: **b) Porque actividades rentables en el corto plazo, como la explotación intensiva de un recurso, pueden generar impactos ambientales que comprometen esa actividad y la calidad de vida a largo plazo**
-💬 *Retroalimentación:* Explotar un recurso de forma intensiva puede dejar ganancias rápidas, pero si daña el ambiente termina afectando esa misma actividad y a las personas. El desarrollo sustentable busca equilibrar producción y cuidado del ambiente.
+*Retroalimentación:* Explotar un recurso de forma intensiva puede dejar ganancias rápidas, pero si daña el ambiente termina afectando esa misma actividad y a las personas. El desarrollo sustentable busca equilibrar producción y cuidado del ambiente.
 
 ---
 
@@ -1721,7 +1721,7 @@ c) La conquista de América
 d) La Guerra de Arauco en Chile
 
 ✅ Respuesta correcta: **b) La Revolución Francesa de 1789**
-💬 *Retroalimentación:* La declaración fue aprobada por la Asamblea Nacional francesa en 1789, en
+*Retroalimentación:* La declaración fue aprobada por la Asamblea Nacional francesa en 1789, en
 el marco de la Revolución Francesa, profundamente influida por las ideas ilustradas.
 
 ---
@@ -1731,7 +1731,7 @@ Declaración de los Derechos del Hombre y del Ciudadano de 1789 y la actual Decl
 de los Derechos Humanos de 1948.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Principios como la libertad, la igualdad, la seguridad y la participación
+*Retroalimentación:* Principios como la libertad, la igualdad, la seguridad y la participación
 política están presentes en ambas declaraciones, aunque la de 1948 amplía su alcance a toda la
 humanidad de forma más consistente.
 
@@ -1750,7 +1750,7 @@ c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Estos principios muestran cómo las ideas ilustradas se plasmaron en un documento político y jurídico concreto.
+*Retroalimentación:* Estos principios muestran cómo las ideas ilustradas se plasmaron en un documento político y jurídico concreto.
 
 ---
 
@@ -1761,7 +1761,7 @@ c) En que solo la nobleza puede gobernar, porque es el grupo más preparado de l
 d) En que la nación debe obedecer siempre al rey, que representa su voluntad y concentra todos los poderes del Estado de manera absoluta
 
 ✅ Respuesta correcta: **a) En que la autoridad política reside en la nación, y nadie puede ejercer un poder que no provenga de su voluntad, rompiendo con el derecho divino del rey**
-💬 *Retroalimentación:* Representó una ruptura con la idea de que el poder del rey provenía de un derecho divino.
+*Retroalimentación:* Representó una ruptura con la idea de que el poder del rey provenía de un derecho divino.
 
 ---
 
@@ -1772,7 +1772,7 @@ c) La declaración de 1789 copió textualmente la de 1948, por lo que ambas dice
 d) Una continuidad: la Declaración de 1948 retoma y amplía la idea de libertad e igualdad de 1789, extendiéndola explícitamente a toda la humanidad
 
 ✅ Respuesta correcta: **d) Una continuidad: la Declaración de 1948 retoma y amplía la idea de libertad e igualdad de 1789, extendiéndola explícitamente a toda la humanidad**
-💬 *Retroalimentación:* Los principios ilustrados del siglo XVIII siguen vigentes en los Derechos Humanos actuales.
+*Retroalimentación:* Los principios ilustrados del siglo XVIII siguen vigentes en los Derechos Humanos actuales.
 
 ---
 
@@ -1783,7 +1783,7 @@ c) Prohibió la igualdad ante la ley, porque mantuvo los privilegios de la noble
 d) Solo se aplicó a los reyes y a la nobleza, que fueron los únicos que obtuvieron derechos políticos, lo que hoy es relevante solo para estudiar la historia de Francia
 
 ✅ Respuesta correcta: **b) Aunque proclamaba la igualdad, excluyó a grupos como las mujeres de derechos políticos plenos, lo que muestra que reconocer un derecho no garantiza su aplicación real**
-💬 *Retroalimentación:* Esta tensión sigue siendo relevante para evaluar la vigencia efectiva de los Derechos Humanos.
+*Retroalimentación:* Esta tensión sigue siendo relevante para evaluar la vigencia efectiva de los Derechos Humanos.
 
 ---
 

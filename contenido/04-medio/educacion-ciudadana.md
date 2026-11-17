@@ -191,7 +191,7 @@ d) Organiza las elecciones y proclama los resultados
 ✅ Respuesta correcta: **a) Ejerce la función legislativa en conjunto con el Presidente, y la
 fiscalización política del gobierno corresponde exclusivamente a la Cámara de Diputadas y
 Diputados**
-💬 *Retroalimentación:* La opción b) describe al Poder Ejecutivo, la c) al Poder Judicial y la
+*Retroalimentación:* La opción b) describe al Poder Ejecutivo, la c) al Poder Judicial y la
 d) confunde las tareas del Servel con la proclamación de resultados, que corresponde al
 Tribunal Calificador de Elecciones. Legislar es colegislar: incluso ciertas iniciativas, como
 el aumento del gasto público, son exclusivas del Presidente.
@@ -202,7 +202,7 @@ el aumento del gasto público, son exclusivas del Presidente.
 son órganos que dependen del Poder Ejecutivo para funcionar.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Ambos son órganos autónomos de control: la Contraloría fiscaliza la
+*Retroalimentación:* Ambos son órganos autónomos de control: la Contraloría fiscaliza la
 legalidad del uso de recursos públicos y el Tribunal Constitucional controla la
 constitucionalidad de las normas, precisamente para que ningún poder actúe sin contrapesos.
 
@@ -221,7 +221,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Cada institución cumple una función distinta: administrar elecciones, encabezar la justicia y ejercer la representación legislativa.
+*Retroalimentación:* Cada institución cumple una función distinta: administrar elecciones, encabezar la justicia y ejercer la representación legislativa.
 
 ---
 
@@ -235,7 +235,7 @@ d) Se repite la elección con todos los candidatos originales
 
 ✅ Respuesta correcta: **c) Se realiza una segunda vuelta entre las dos candidaturas más
 votadas**
-💬 *Retroalimentación:* La segunda vuelta busca que quien asuma la Presidencia obtenga más de
+*Retroalimentación:* La segunda vuelta busca que quien asuma la Presidencia obtenga más de
 la mitad de los votos **válidamente emitidos** (no simplemente la mayoría relativa), a
 diferencia de la elección de alcaldes, donde basta ser la candidatura más votada.
 
@@ -245,7 +245,7 @@ diferencia de la elección de alcaldes, donde basta ser la candidatura más vota
 personas que militan en un partido político.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Existen mecanismos de participación para **candidaturas
+*Retroalimentación:* Existen mecanismos de participación para **candidaturas
 independientes**, que permiten postular a personas sin militancia partidista cumpliendo
 requisitos como reunir patrocinios o firmas de respaldo.
 
@@ -258,7 +258,7 @@ c) El Banco Central, que fija la tasa de interés y controla el presupuesto de c
 d) La Contraloría General de la República, que fiscaliza la legalidad del uso de los recursos públicos
 
 ✅ Respuesta correcta: **d) La Contraloría General de la República, que fiscaliza la legalidad del uso de los recursos públicos**
-💬 *Retroalimentación:* La Contraloría es un contrapeso especializado en legalidad administrativa.
+*Retroalimentación:* La Contraloría es un contrapeso especializado en legalidad administrativa.
 
 ---
 
@@ -269,7 +269,7 @@ c) Porque eliminan la necesidad de leyes
 d) Porque someten cada órgano a reglas y a la fiscalización de otros, evitando el poder arbitrario y favoreciendo decisiones conforme a la ley y al interés general
 
 ✅ Respuesta correcta: **d) Porque someten cada órgano a reglas y a la fiscalización de otros, evitando el poder arbitrario y favoreciendo decisiones conforme a la ley y al interés general**
-💬 *Retroalimentación:* El mecanismo de control mutuo tiene como finalidad evitar abusos y servir al interés general.
+*Retroalimentación:* El mecanismo de control mutuo tiene como finalidad evitar abusos y servir al interés general.
 
 ---
 
@@ -280,7 +280,7 @@ c) El control o contrapeso del poder mediante la fiscalización
 d) La concentración del poder local en una sola persona
 
 ✅ Respuesta correcta: **b y c**
-💬 *Retroalimentación:* Elegir autoridades no les otorga un poder ilimitado.
+*Retroalimentación:* Elegir autoridades no les otorga un poder ilimitado.
 
 ---
 
@@ -403,7 +403,7 @@ d) Un desarrollo centrado exclusivamente en la protección ambiental de los ecos
 
 ✅ Respuesta correcta: **c) Un desarrollo que satisface las necesidades del presente sin
 comprometer la capacidad de las futuras generaciones de satisfacer las suyas**
-💬 *Retroalimentación:* La sustentabilidad integra las dimensiones económica, social y
+*Retroalimentación:* La sustentabilidad integra las dimensiones económica, social y
 ambiental; no es "cero actividad económica" ni "solo ambiente", sino equilibrio entre
 bienestar presente y futuro.
 
@@ -414,7 +414,7 @@ en impuestos y en qué se gasta— tienen efectos que se perciben en la vida cot
 personas.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Las políticas fiscales, monetarias o de protección social afectan
+*Retroalimentación:* Las políticas fiscales, monetarias o de protección social afectan
 precios, empleo, servicios y oportunidades concretas: por eso este OA habla del impacto en la
 "vida cotidiana".
 
@@ -433,7 +433,7 @@ c) 1-C, 2-A, 3-B
 d) 1-C, 2-B, 3-A
 
 ✅ Respuesta correcta: **c) 1-C, 2-A, 3-B**
-💬 *Retroalimentación:* Un modelo sustentable debe considerar las tres dimensiones a la vez.
+*Retroalimentación:* Un modelo sustentable debe considerar las tres dimensiones a la vez.
 
 ---
 
@@ -448,7 +448,7 @@ d) Basado exclusivamente en el trabajo artesanal local
 
 ✅ Respuesta correcta: **a) Extractivo, con riesgos de dependencia de precios internacionales
 y presión sobre recursos naturales**
-💬 *Retroalimentación:* Los modelos extractivos no son "erróneos" por definición —generan
+*Retroalimentación:* Los modelos extractivos no son "erróneos" por definición —generan
 empleo e ingresos—, pero este OA pide reconocer sus riesgos característicos: dependencia
 externa, agotamiento de recursos y costos ambientales territoriales.
 
@@ -458,7 +458,7 @@ externa, agotamiento de recursos y costos ambientales territoriales.
 relación con los modelos de desarrollo ni con la vida digna de las personas.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El cambio climático está profundamente ligado a los modelos de
+*Retroalimentación:* El cambio climático está profundamente ligado a los modelos de
 desarrollo (uso de combustibles fósiles, degradación de ecosistemas) y afecta la vida digna
 de comunidades concretas —sequías, incendios, escasez hídrica—, muchas veces a quienes menos
 contribuyeron a causarlo.
@@ -472,7 +472,7 @@ c) La situación no tiene dimensión social
 d) La dimensión ambiental mejora gracias a los vertidos, que alimentan a los peces; la social se beneficia del empleo y la económica no cambia, porque los costos se reparten por igual
 
 ✅ Respuesta correcta: **a) Económica: empleo y viabilidad; ambiental: degradación del ecosistema marino; social: afecta el sustento de los pescadores, distribuyendo beneficios y costos de forma desigual**
-💬 *Retroalimentación:* El beneficio económico y los costos no recaen siempre sobre las mismas personas.
+*Retroalimentación:* El beneficio económico y los costos no recaen siempre sobre las mismas personas.
 
 ---
 
@@ -483,7 +483,7 @@ c) El gasto público solo depende del clima
 d) Destinar más gasto a educación y salud universales expresa prioridad por la redistribución; rebajar impuestos para la inversión expresa confianza en el mercado
 
 ✅ Respuesta correcta: **d) Destinar más gasto a educación y salud universales expresa prioridad por la redistribución; rebajar impuestos para la inversión expresa confianza en el mercado**
-💬 *Retroalimentación:* Gastar más en educación y salud universales muestra que se prioriza redistribuir; bajar impuestos para atraer inversión muestra confianza en el mercado. Cada decisión fiscal refleja una visión del desarrollo.
+*Retroalimentación:* Gastar más en educación y salud universales muestra que se prioriza redistribuir; bajar impuestos para atraer inversión muestra confianza en el mercado. Cada decisión fiscal refleja una visión del desarrollo.
 
 ---
 
@@ -494,7 +494,7 @@ c) Que la minería no genera ingresos
 d) Que el ingreso promedio oculta dimensiones como la calidad ambiental, la diversidad del empleo y la sostenibilidad del modelo
 
 ✅ Respuesta correcta: **d) Que el ingreso promedio oculta dimensiones como la calidad ambiental, la diversidad del empleo y la sostenibilidad del modelo**
-💬 *Retroalimentación:* Un análisis completo exige considerar dimensiones sociales, ambientales y la escala territorial.
+*Retroalimentación:* Un análisis completo exige considerar dimensiones sociales, ambientales y la escala territorial.
 
 ---
 
@@ -651,7 +651,7 @@ d) Porque las empresas no tienen interés legítimo en definir las condiciones d
 
 ✅ Respuesta correcta: **c) Porque en la relación laboral existe una asimetría de poder que
 sin normas mínimas puede traducirse en condiciones que vulneran la dignidad de quien trabaja**
-💬 *Retroalimentación:* Las normas laborales no eliminan la negociación, sino que fijan pisos
+*Retroalimentación:* Las normas laborales no eliminan la negociación, sino que fijan pisos
 mínimos —jornada, remuneración, seguridad, descanso— por debajo de los cuales no puede
 llegarse, equilibrando una relación desigual por naturaleza.
 
@@ -662,7 +662,7 @@ exclusivamente de la buena voluntad de las empresas, ya que no existe ninguna in
 encargada de fiscalizarla.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La Dirección del Trabajo y su servicio de inspección fiscalizan el
+*Retroalimentación:* La Dirección del Trabajo y su servicio de inspección fiscalizan el
 cumplimiento de la normativa laboral, y los tribunales del trabajo resuelven los conflictos:
 los derechos laborales cuentan con mecanismos institucionales de resguardo.
 
@@ -681,7 +681,7 @@ c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Estas tendencias, junto con la flexibilidad laboral, marcan las demandas actuales sobre derechos laborales.
+*Retroalimentación:* Estas tendencias, junto con la flexibilidad laboral, marcan las demandas actuales sobre derechos laborales.
 
 ---
 
@@ -696,7 +696,7 @@ d) Un sistema que traslada todos los costos del cuidado infantil a las familias 
 
 ✅ Respuesta correcta: **a) El permiso postnatal, la protección del empleo durante el embarazo
 y mecanismos de sala cuna**
-💬 *Retroalimentación:* Estos mecanismos buscan que tener hijos e hijas no signifique perder
+*Retroalimentación:* Estos mecanismos buscan que tener hijos e hijas no signifique perder
 el empleo ni los ingresos, y son parte de los mecanismos de protección que el temario pide
 identificar.
 
@@ -708,7 +708,7 @@ forman parte de una evolución institucional en la que los movimientos y organiz
 sociales tuvieron un aporte central.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Los derechos laborales son el resultado de una evolución con avances y
+*Retroalimentación:* Los derechos laborales son el resultado de una evolución con avances y
 retrocesos —desde el primer Código del Trabajo de 1931 hasta la reforma de negociación
 colectiva de 2016-2017—, impulsada en buena parte por sindicatos, organizaciones de
 trabajadoras y movimientos sociales, no de concesiones espontáneas.
@@ -722,7 +722,7 @@ c) Ninguno: los socios independientes no tienen debate, porque eligen libremente
 d) El debate sobre la propiedad de los medios
 
 ✅ Respuesta correcta: **a) El de los empleos de plataformas y la frontera entre trabajo dependiente e independiente, cuando la tecnología puede usarse para evadir protecciones laborales**
-💬 *Retroalimentación:* Las nuevas formas de trabajo obligan a repensar —no a abandonar— los derechos laborales.
+*Retroalimentación:* Las nuevas formas de trabajo obligan a repensar —no a abandonar— los derechos laborales.
 
 ---
 
@@ -733,7 +733,7 @@ c) Porque el sindicato reemplaza al Estado en la fiscalización de las empresas 
 d) Porque, individualmente, quien trabaja tiene poco poder frente a quien emplea, y organizado colectivamente puede acordar mejores condiciones
 
 ✅ Respuesta correcta: **d) Porque, individualmente, quien trabaja tiene poco poder frente a quien emplea, y organizado colectivamente puede acordar mejores condiciones**
-💬 *Retroalimentación:* La organización colectiva corrige la asimetría individual.
+*Retroalimentación:* La organización colectiva corrige la asimetría individual.
 
 ---
 
@@ -744,7 +744,7 @@ c) Que el teletrabajo es solo negativo
 d) Entre la flexibilidad laboral, que mejora la calidad de vida, y el riesgo de que extienda la jornada real y erosione el derecho a la desconexión
 
 ✅ Respuesta correcta: **d) Entre la flexibilidad laboral, que mejora la calidad de vida, y el riesgo de que extienda la jornada real y erosione el derecho a la desconexión**
-💬 *Retroalimentación:* El debate busca flexibilizar sin precarizar.
+*Retroalimentación:* El debate busca flexibilizar sin precarizar.
 
 ---
 
@@ -858,7 +858,7 @@ d) Que el Estado no intervenga nunca en la economía ni en la educación
 
 ✅ Respuesta correcta: **b) Que todas las personas partan con condiciones similares para
 desarrollarse**
-💬 *Retroalimentación:* La igualdad de oportunidades no exige resultados idénticos, sino
+*Retroalimentación:* La igualdad de oportunidades no exige resultados idénticos, sino
 condiciones de partida comparables (acceso a educación, salud, entre otras) para que cada
 persona pueda desarrollar su proyecto de vida.
 
@@ -868,7 +868,7 @@ persona pueda desarrollar su proyecto de vida.
 hacer algo.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Esa es la libertad "negativa" (no ser impedido). La libertad positiva
+*Retroalimentación:* Esa es la libertad "negativa" (no ser impedido). La libertad positiva
 implica contar con condiciones reales —por ejemplo, educación o recursos— para poder ejercer
 efectivamente tus decisiones.
 
@@ -887,7 +887,7 @@ c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* La igualdad tiene varias caras, y la solidaridad es un valor distinto centrado en el apoyo mutuo.
+*Retroalimentación:* La igualdad tiene varias caras, y la solidaridad es un valor distinto centrado en el apoyo mutuo.
 
 ---
 
@@ -901,7 +901,7 @@ c) La inclusión de personas con discapacidad
 d) La solidaridad intergeneracional
 
 ✅ Respuesta correcta: **b) La equidad de género**
-💬 *Retroalimentación:* La brecha salarial es uno de los indicadores más citados al analizar la
+*Retroalimentación:* La brecha salarial es uno de los indicadores más citados al analizar la
 equidad de género como desafío democrático.
 
 ---
@@ -910,7 +910,7 @@ equidad de género como desafío democrático.
 exactamente, se debe reducir la desigualdad económica (qué políticas aplicar y en qué medida).
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Existe amplio consenso en que la desigualdad extrema es un problema y en
+*Retroalimentación:* Existe amplio consenso en que la desigualdad extrema es un problema y en
 que todas las personas merecen igual dignidad, pero el **cómo** enfrentarla (nivel de impuestos,
 rol del Estado, políticas específicas) es objeto de debate político legítimo entre distintas
 posturas.
@@ -924,7 +924,7 @@ c) Inclusión
 d) Igualdad de trato
 
 ✅ Respuesta correcta: **c y d**
-💬 *Retroalimentación:* La exclusión por edad, sin razón legítima vinculada al desempeño, es una barrera a la inclusión.
+*Retroalimentación:* La exclusión por edad, sin razón legítima vinculada al desempeño, es una barrera a la inclusión.
 
 ---
 
@@ -935,7 +935,7 @@ c) Porque los impuestos no son parte del debate democrático, sino una decisión
 d) Porque la libertad y la solidaridad significan lo mismo
 
 ✅ Respuesta correcta: **a) Porque una persona puede priorizar decidir sobre su ingreso y otra que quienes tienen más aporten más; ambas valoran principios democráticos con distinto peso**
-💬 *Retroalimentación:* El desacuerdo legítimo entre valores es distinto de un desacuerdo sobre si la democracia debe existir.
+*Retroalimentación:* El desacuerdo legítimo entre valores es distinto de un desacuerdo sobre si la democracia debe existir.
 
 ---
 
@@ -946,7 +946,7 @@ c) La superación de la pobreza en la región
 d) La equidad de género: subrepresentación de mujeres en cargos de decisión política
 
 ✅ Respuesta correcta: **d) La equidad de género: subrepresentación de mujeres en cargos de decisión política**
-💬 *Retroalimentación:* Hay una brecha entre el derecho formal a ser elegidas y la participación efectiva en el poder.
+*Retroalimentación:* Hay una brecha entre el derecho formal a ser elegidas y la participación efectiva en el poder.
 
 ---
 
@@ -954,7 +954,7 @@ d) La equidad de género: subrepresentación de mujeres en cargos de decisión p
 a los pueblos originarios— es incompatible con la idea de igualdad ante la ley.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Reconocer la diversidad étnica y cultural no contradice la igualdad ante
+*Retroalimentación:* Reconocer la diversidad étnica y cultural no contradice la igualdad ante
 la ley; ambas pueden convivir dentro de una democracia que valora tanto derechos comunes para
 todas las personas como el respeto a identidades y culturas particulares.
 
@@ -970,7 +970,7 @@ d) Que puedas expresar tu opinión en público y en redes sin censura previa
 
 ✅ Respuesta correcta: **b) Que el Estado financie becas para que estudiantes de bajos recursos
 puedan acceder a la educación superior**
-💬 *Retroalimentación:* Las opciones a, c y d describen libertad negativa (ausencia de
+*Retroalimentación:* Las opciones a, c y d describen libertad negativa (ausencia de
 impedimentos); la b describe libertad positiva, porque crea condiciones reales para poder
 ejercer una decisión (estudiar) que de otro modo sería solo formal.
 
@@ -989,7 +989,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **b) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Cada desafío tiene manifestaciones concretas distintas, con un trasfondo común de libertad, igualdad y solidaridad.
+*Retroalimentación:* Cada desafío tiene manifestaciones concretas distintas, con un trasfondo común de libertad, igualdad y solidaridad.
 
 ---
 
@@ -1000,7 +1000,7 @@ c) Microsegmentación
 d) Solidaridad
 
 ✅ Respuesta correcta: **a y d**
-💬 *Retroalimentación:* Las becas apoyan a quienes tienen menos recursos (solidaridad) y les permiten estudiar en condiciones más parejas que el resto (igualdad de oportunidades).
+*Retroalimentación:* Las becas apoyan a quienes tienen menos recursos (solidaridad) y les permiten estudiar en condiciones más parejas que el resto (igualdad de oportunidades).
 
 ---
 
@@ -1011,7 +1011,7 @@ c) Porque su exclusión vulnera su igual dignidad y derechos, y la inclusión de
 d) Porque es un tema exclusivo del ámbito privado y familiar, que no requiere normas ni políticas públicas de accesibilidad
 
 ✅ Respuesta correcta: **c) Porque su exclusión vulnera su igual dignidad y derechos, y la inclusión depende de condiciones estructurales (accesibilidad, normas, políticas), no de la caridad**
-💬 *Retroalimentación:* La inclusión es un derecho exigible, no un favor.
+*Retroalimentación:* La inclusión es un derecho exigible, no un favor.
 
 ---
 
@@ -1020,7 +1020,7 @@ desigualdad económica significa que da lo mismo qué postura se adopte frente a
 Humanos de los grupos afectados.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El debate legítimo se da sobre las políticas y su alcance (impuestos,
+*Retroalimentación:* El debate legítimo se da sobre las políticas y su alcance (impuestos,
 gasto social, rol del Estado), no sobre si se respetan o no los Derechos Humanos y la igual
 dignidad de las personas afectadas, que es un consenso democrático que no está en discusión.
 
@@ -1033,7 +1033,7 @@ c) Equidad de género, porque busca reducir una carga de cuidado que ha recaído
 d) Desinformación electoral
 
 ✅ Respuesta correcta: **b y c**
-💬 *Retroalimentación:* Se conecta la forma de participación con el contenido del desafío que se busca resolver.
+*Retroalimentación:* Se conecta la forma de participación con el contenido del desafío que se busca resolver.
 
 ---
 
@@ -1048,7 +1048,7 @@ d) La solidaridad solo aplica entre familiares y amigos cercanos, y el Estado no
 
 ✅ Respuesta correcta: **b) La solidaridad se traduce en el apoyo mutuo entre personas y puede
 expresarse en políticas públicas y en el respeto a los Derechos Humanos de los más vulnerables**
-💬 *Retroalimentación:* La solidaridad no es solo un sentimiento privado: en una democracia se
+*Retroalimentación:* La solidaridad no es solo un sentimiento privado: en una democracia se
 traduce en decisiones colectivas —impuestos, políticas sociales, protección de derechos— que
 sostienen a quienes están en situación de mayor vulnerabilidad.
 
@@ -1166,7 +1166,7 @@ d) Un sistema legal que regula la propiedad de los medios de comunicación
 
 ✅ Respuesta correcta: **b) Un entorno digital donde los algoritmos muestran principalmente
 contenido afín a lo que el usuario ya piensa**
-💬 *Retroalimentación:* Las cámaras de eco surgen porque los algoritmos priorizan mostrar
+*Retroalimentación:* Las cámaras de eco surgen porque los algoritmos priorizan mostrar
 contenido que genera más interacción, que suele ser el que confirma las creencias previas del
 usuario, reforzándolas.
 
@@ -1177,7 +1177,7 @@ redes sociales han contribuido, en algunos casos, a destapar hechos de corrupci�
 modo habrían permanecido ocultos.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Esta es una de las oportunidades más citadas de los medios y las nuevas
+*Retroalimentación:* Esta es una de las oportunidades más citadas de los medios y las nuevas
 tecnologías para el fortalecimiento de la democracia: la fiscalización y la transparencia.
 
 ---
@@ -1195,7 +1195,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Cada concepto describe un riesgo distinto: veracidad, transparencia de la propaganda y pluralismo.
+*Retroalimentación:* Cada concepto describe un riesgo distinto: veracidad, transparencia de la propaganda y pluralismo.
 
 ---
 
@@ -1208,7 +1208,7 @@ c) La Ley General de Educación
 d) El Código Penal exclusivamente y sus delitos
 
 ✅ Respuesta correcta: **b) La Ley de Protección de la Vida Privada**
-💬 *Retroalimentación:* Esta ley, junto con otras normas y debates públicos en curso, busca
+*Retroalimentación:* Esta ley, junto con otras normas y debates públicos en curso, busca
 regular cómo se recopilan, almacenan y usan los datos personales de las personas en Chile.
 
 ---
@@ -1217,7 +1217,7 @@ regular cómo se recopilan, almacenan y usan los datos personales de las persona
 de usar redes sociales y medios digitales.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La alfabetización mediática no busca el abandono de estas herramientas,
+*Retroalimentación:* La alfabetización mediática no busca el abandono de estas herramientas,
 sino desarrollar la capacidad de evaluarlas críticamente: contrastar fuentes, identificar sesgos
 e intereses, y proteger la información personal, aprovechando a la vez sus oportunidades.
 
@@ -1230,7 +1230,7 @@ c) Microsegmentación; no tiene efectos
 d) Desinformación posiblemente coordinada; es grave porque puede influir en el voto con información falsa cuando hay poco tiempo para verificar
 
 ✅ Respuesta correcta: **d) Desinformación posiblemente coordinada; es grave porque puede influir en el voto con información falsa cuando hay poco tiempo para verificar**
-💬 *Retroalimentación:* El patrón masivo y simultáneo es una señal habitual de campañas coordinadas.
+*Retroalimentación:* El patrón masivo y simultáneo es una señal habitual de campañas coordinadas.
 
 ---
 
@@ -1241,7 +1241,7 @@ c) No tiene ningún efecto en el debate público
 d) Garantiza que todas las voces se escuchen por igual, porque un solo dueño distribuye el espacio de forma equilibrada
 
 ✅ Respuesta correcta: **b) Reduce la diversidad de perspectivas que llegan a la ciudadanía y dificulta que voces minoritarias o críticas alcancen audiencia**
-💬 *Retroalimentación:* El pluralismo depende de fuentes independientes, no solo de muchos medios en apariencia.
+*Retroalimentación:* El pluralismo depende de fuentes independientes, no solo de muchos medios en apariencia.
 
 ---
 
@@ -1252,7 +1252,7 @@ c) Riesgo: propagar desinformación. Responsabilidad: alfabetización mediática
 d) Riesgo: la concentración de medios. Responsabilidad: comprar periódicos
 
 ✅ Respuesta correcta: **c) Riesgo: propagar desinformación. Responsabilidad: alfabetización mediática, verificando fuentes antes de compartir**
-💬 *Retroalimentación:* Si muchos jóvenes comparten información sin contrastarla, se propaga la desinformación; la responsabilidad ciudadana es verificar las fuentes antes de compartir, lo que se llama alfabetización mediática.
+*Retroalimentación:* Si muchos jóvenes comparten información sin contrastarla, se propaga la desinformación; la responsabilidad ciudadana es verificar las fuentes antes de compartir, lo que se llama alfabetización mediática.
 
 ---
 
@@ -1260,7 +1260,7 @@ d) Riesgo: la concentración de medios. Responsabilidad: comprar periódicos
 la circulación de discurso de odio hacia personas o grupos.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* El anonimato reduce la percepción de consecuencias para quien publica
+*Retroalimentación:* El anonimato reduce la percepción de consecuencias para quien publica
 contenido discriminatorio o de odio, lo que puede amplificar este tipo de discurso en algunas
 plataformas.
 
@@ -1276,7 +1276,7 @@ c) La igualdad ante la ley
 d) La libertad de prensa
 
 ✅ Respuesta correcta: **b) El resguardo de la vida privada**
-💬 *Retroalimentación:* La falta de información clara sobre el uso de datos personales —como la
+*Retroalimentación:* La falta de información clara sobre el uso de datos personales —como la
 ubicación— es precisamente uno de los riesgos centrales que este OA pide identificar en el uso de
 nuevas tecnologías.
 
@@ -1295,7 +1295,7 @@ c) 1-C, 2-B, 3-A
 d) 1-A, 2-C, 3-B
 
 ✅ Respuesta correcta: **a) 1-A, 2-B, 3-C**
-💬 *Retroalimentación:* Informarse por redes puede ser oportunidad o riesgo, según cómo se use y con qué criterio.
+*Retroalimentación:* Informarse por redes puede ser oportunidad o riesgo, según cómo se use y con qué criterio.
 
 ---
 
@@ -1306,7 +1306,7 @@ c) Microsegmentación de la publicidad; se mitiga cerrando las redes sociales y 
 d) Concentración de medios; podría mitigarse con regulación que promueva diversidad de propietarios, medios independientes y hábitos de consumo diverso
 
 ✅ Respuesta correcta: **d) Concentración de medios; podría mitigarse con regulación que promueva diversidad de propietarios, medios independientes y hábitos de consumo diverso**
-💬 *Retroalimentación:* Que un solo grupo controle una plataforma, dos canales y un diario concentra la propiedad de los medios y reduce la diversidad de voces; se puede mitigar con regulación que promueva más propietarios, medios independientes y un consumo informativo variado.
+*Retroalimentación:* Que un solo grupo controle una plataforma, dos canales y un diario concentra la propiedad de los medios y reduce la diversidad de voces; se puede mitigar con regulación que promueva más propietarios, medios independientes y un consumo informativo variado.
 
 ---
 
@@ -1317,7 +1317,7 @@ c) Presupuestos participativos en línea
 d) Campañas digitales de firmas para exigir respuesta a un problema
 
 ✅ Respuesta correcta: **b, c y d**
-💬 *Retroalimentación:* Difundir rumores no fortalece la participación, sino que la debilita.
+*Retroalimentación:* Difundir rumores no fortalece la participación, sino que la debilita.
 
 ---
 
@@ -1325,7 +1325,7 @@ d) Campañas digitales de firmas para exigir respuesta a un problema
 medios y las TIC para la vida democrática es parte de lo que este OA espera que puedas hacer.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Uno de los indicadores centrales de este OA pide precisamente argumentar,
+*Retroalimentación:* Uno de los indicadores centrales de este OA pide precisamente argumentar,
 con ejemplos, tanto las virtudes como las amenazas que representan los medios de comunicación
 masivos y las nuevas tecnologías para la vida en democracia.
 
@@ -1338,7 +1338,7 @@ c) Solo afecta la vida privada, no la participación, porque cada persona recibe
 d) Solo es un problema técnico de informática
 
 ✅ Respuesta correcta: **b) Afecta la participación, porque la ciudadanía no puede evaluar informadamente los mensajes, y la vida privada, porque se usan datos personales sin control claro de los usuarios**
-💬 *Retroalimentación:* Microsegmentación opaca y uso no transparente de datos son problemas relacionados.
+*Retroalimentación:* Microsegmentación opaca y uso no transparente de datos son problemas relacionados.
 
 ---
 
@@ -1352,7 +1352,7 @@ d) Aceptar los términos de una aplicación sin revisar qué datos personales so
 
 ✅ Respuesta correcta: **b) Contrastar una noticia con al menos otra fuente antes de
 compartirla**
-💬 *Retroalimentación:* Verificar y contrastar información antes de difundirla es una de las
+*Retroalimentación:* Verificar y contrastar información antes de difundirla es una de las
 prácticas centrales de la alfabetización mediática, que ayuda a reducir la propagación de
 desinformación.
 
@@ -1362,7 +1362,7 @@ desinformación.
 necesariamente, una amenaza para la democracia.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Este OA pide evaluar tanto oportunidades como riesgos: las mismas
+*Retroalimentación:* Este OA pide evaluar tanto oportunidades como riesgos: las mismas
 tecnologías que pueden usarse para desinformar también pueden fortalecer la fiscalización, el
 pluralismo y la participación ciudadana, dependiendo de cómo se usen y regulen.
 

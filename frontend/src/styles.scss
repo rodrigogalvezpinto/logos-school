@@ -476,3 +476,10 @@ blockquote {
 .grafico { display: inline-block; margin: 0.25rem 0.75rem 0.25rem 0; padding: 0.35rem; border-radius: 12px; background: #fff; border: 1px solid #E5E7EB; vertical-align: middle; line-height: 0; max-width: 100%; }
 .grafico svg { max-width: 100%; height: auto; }
 .opcion__visual .grafico svg { max-width: 220px; }
+
+/* Pictogramas (2026-11-17): imágenes que reemplazan a los emoji del material; se imprimen y se ven igual en todo equipo. */
+img.pictograma { height: 1.5em; width: auto; vertical-align: -0.35em; display: inline-block; }
+.dibujo img.pictograma, .fila-dibujo img.pictograma { height: 1em; vertical-align: bottom; }
+.emoji-educativo-inline__icono img.pictograma { height: 1em; vertical-align: middle; }
+.contar__item img.pictograma { height: 1em; vertical-align: middle; }
+@media print { img.pictograma { -webkit-print-color-adjust: exact; print-color-adjust: exact; } }

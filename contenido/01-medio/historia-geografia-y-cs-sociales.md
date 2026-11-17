@@ -143,7 +143,7 @@ constitución
 
 ✅ Respuesta correcta: **d) El constitucionalismo, es decir, que el poder político se ejerza
 dentro del marco de una constitución**
-💬 *Retroalimentación:* El constitucionalismo, junto con la separación de poderes y el
+*Retroalimentación:* El constitucionalismo, junto con la separación de poderes y el
 reconocimiento de derechos individuales, es uno de los pilares del liberalismo decimonónico.
 
 ---
@@ -152,7 +152,7 @@ reconocimiento de derechos individuales, es uno de los pilares del liberalismo d
 esclavitud, entendiéndola como contraria a los principios liberales de libertad e igualdad.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* El abolicionismo fue una de las expresiones más concretas de cómo las
+*Retroalimentación:* El abolicionismo fue una de las expresiones más concretas de cómo las
 ideas liberales se tradujeron en cambios legales y sociales durante el siglo XIX.
 
 ---
@@ -170,7 +170,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **a) 1-A, 2-C, 3-B**
-💬 *Retroalimentación:* Estas tres nociones —forma de gobierno, modelo económico y participación política— son expresiones distintas de un mismo ideario liberal y republicano.
+*Retroalimentación:* Estas tres nociones —forma de gobierno, modelo económico y participación política— son expresiones distintas de un mismo ideario liberal y republicano.
 
 ---
 
@@ -181,7 +181,7 @@ c) Parlamentarismo
 d) Libre mercado
 
 ✅ Respuesta correcta: **b, c y d**
-💬 *Retroalimentación:* La constitución que limita al rey, el parlamento elegido y el fin de los monopolios forman un mismo programa liberal; el absolutismo es justamente lo que el panfleto rechaza.
+*Retroalimentación:* La constitución que limita al rey, el parlamento elegido y el fin de los monopolios forman un mismo programa liberal; el absolutismo es justamente lo que el panfleto rechaza.
 
 ---
 
@@ -192,7 +192,7 @@ c) Porque solo las mujeres pudieron votar al comienzo del siglo
 d) Porque el voto se extendió poco a poco (primero eliminando requisitos de renta entre los hombres), mientras grupos como las mujeres quedaron excluidos casi todo el siglo
 
 ✅ Respuesta correcta: **d) Porque el voto se extendió poco a poco (primero eliminando requisitos de renta entre los hombres), mientras grupos como las mujeres quedaron excluidos casi todo el siglo**
-💬 *Retroalimentación:* El derecho a voto se amplió por etapas: primero se eliminaron los requisitos de renta para los hombres, mientras que las mujeres y otros grupos siguieron excluidos por mucho tiempo. Por eso fue gradual y desigual.
+*Retroalimentación:* El derecho a voto se amplió por etapas: primero se eliminaron los requisitos de renta para los hombres, mientras que las mujeres y otros grupos siguieron excluidos por mucho tiempo. Por eso fue gradual y desigual.
 
 ---
 
@@ -203,7 +203,7 @@ c) Porque el republicanismo rechazaba toda forma de participación ciudadana y c
 d) Porque el liberalismo enfatizaba las libertades individuales y económicas, incluso frente a las mayorías, y el republicanismo la soberanía popular y la participación, lo que generaba debates sobre el rol del Estado o la extensión del voto
 
 ✅ Respuesta correcta: **d) Porque el liberalismo enfatizaba las libertades individuales y económicas, incluso frente a las mayorías, y el republicanismo la soberanía popular y la participación, lo que generaba debates sobre el rol del Estado o la extensión del voto**
-💬 *Retroalimentación:* Ambos rechazaban el poder absoluto, pero el liberalismo ponía en primer lugar las libertades individuales y económicas, incluso frente a la mayoría, y el republicanismo, la soberanía popular y la participación. Esas prioridades podían chocar.
+*Retroalimentación:* Ambos rechazaban el poder absoluto, pero el liberalismo ponía en primer lugar las libertades individuales y económicas, incluso frente a la mayoría, y el republicanismo, la soberanía popular y la participación. Esas prioridades podían chocar.
 
 ---
 
@@ -298,7 +298,7 @@ un sentido de pertenencia común
 
 ✅ Respuesta correcta: **d) La unificación de un territorio y de tradiciones culturales bajo un
 principio de soberanía y un sentido de pertenencia común**
-💬 *Retroalimentación:* El Estado-nación combina un componente político (soberanía sobre un
+*Retroalimentación:* El Estado-nación combina un componente político (soberanía sobre un
 territorio) y un componente cultural (lengua, historia, identidad compartida) que genera
 pertenencia a una comunidad política.
 
@@ -308,7 +308,7 @@ pertenencia a una comunidad política.
 del siglo XIX, sin pasar por procesos de fragmentación previa.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Tanto Italia como Alemania estaban, a comienzos del siglo XIX, divididas
+*Retroalimentación:* Tanto Italia como Alemania estaban, a comienzos del siglo XIX, divididas
 en múltiples Estados; su unificación política ocurrió recién entre 1861-1870 (Italia) y en 1871
 (Alemania).
 
@@ -321,7 +321,7 @@ c) 2 → 3 → 4 → 1
 d) 2 → 3 → 1 → 4
 
 ✅ Respuesta correcta: **c) 2 → 3 → 4 → 1**
-💬 *Retroalimentación:* Independencias (primeras décadas del XIX), disolución de la Gran Colombia (1830), unificación de Italia (1861-1870) y de Alemania (1871).
+*Retroalimentación:* Independencias (primeras décadas del XIX), disolución de la Gran Colombia (1830), unificación de Italia (1861-1870) y de Alemania (1871).
 
 ---
 
@@ -332,7 +332,7 @@ c) La expansión del Imperio español en América, que incorporó nuevos virrein
 d) La formación de la Unión Europea, que reunió a varios países en una sola organización política
 
 ✅ Respuesta correcta: **a) La reorganización de la geografía política americana, mediante la disolución de una unión mayor en Estados-nación más pequeños**
-💬 *Retroalimentación:* En el mapa, la Gran Colombia se disolvió en tres países (Venezuela, Nueva Granada y Ecuador): una unión mayor se fragmentó en Estados-nación más pequeños, reorganizando la geografía política de América.
+*Retroalimentación:* En el mapa, la Gran Colombia se disolvió en tres países (Venezuela, Nueva Granada y Ecuador): una unión mayor se fragmentó en Estados-nación más pequeños, reorganizando la geografía política de América.
 
 ---
 
@@ -343,7 +343,7 @@ c) Qué idioma extranjero debía enseñarse en las escuelas de cada provincia de
 d) Cuánto poder debía concentrar el gobierno central y cuánta autonomía debían conservar las regiones o provincias
 
 ✅ Respuesta correcta: **d) Cuánto poder debía concentrar el gobierno central y cuánta autonomía debían conservar las regiones o provincias**
-💬 *Retroalimentación:* Los centralistas defendían un poder central fuerte y los federalistas una mayor autonomía regional.
+*Retroalimentación:* Los centralistas defendían un poder central fuerte y los federalistas una mayor autonomía regional.
 
 ---
 
@@ -354,7 +354,7 @@ c) Porque así se eliminaban todas las regiones
 d) Porque las tradiciones culturales impedían la formación de Estados, y por eso los gobiernos debían eliminarlas y reemplazarlas por una sola cultura oficial importada de Europa
 
 ✅ Respuesta correcta: **b) Porque un Estado-nación necesita que la población sienta pertenecer a una misma comunidad política, y la lengua, la historia y los símbolos generan identidad y cohesión**
-💬 *Retroalimentación:* Muchas personas se identificaban antes con su región o localidad de origen.
+*Retroalimentación:* Muchas personas se identificaban antes con su región o localidad de origen.
 
 ---
 
@@ -452,7 +452,7 @@ d) El Concilio de Trento y las guerras de religión
 
 ✅ Respuesta correcta: **a) El imperialismo y la competencia por colonias entre potencias
 europeas**
-💬 *Retroalimentación:* Junto con el armamentismo y la formación de alianzas rivales, el
+*Retroalimentación:* Junto con el armamentismo y la formación de alianzas rivales, el
 imperialismo generó las tensiones estructurales que hicieron posible el estallido de la guerra.
 
 ---
@@ -461,7 +461,7 @@ imperialismo generó las tensiones estructurales que hicieron posible el estalli
 el progreso científico y técnico conduciría, casi automáticamente, a un mundo mejor.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Todo lo contrario: la magnitud destructiva de la guerra —posible gracias
+*Retroalimentación:* Todo lo contrario: la magnitud destructiva de la guerra —posible gracias
 a nuevas tecnologías militares— generó una profunda crisis en la idea de progreso propia del
 siglo XIX.
 
@@ -480,7 +480,7 @@ c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Estas consecuencias muestran cómo la guerra reconfiguró el orden geopolítico mundial.
+*Retroalimentación:* Estas consecuencias muestran cómo la guerra reconfiguró el orden geopolítico mundial.
 
 ---
 
@@ -491,7 +491,7 @@ c) El fin de la producción industrial
 d) La obtención inmediata del voto femenino en todo el mundo como premio por su trabajo
 
 ✅ Respuesta correcta: **a) La entrada masiva de la mujer al mundo laboral, ocupando puestos de los hombres movilizados**
-💬 *Retroalimentación:* La propaganda es evidencia directa de cómo la guerra transformó los roles sociales de la mujer.
+*Retroalimentación:* La propaganda es evidencia directa de cómo la guerra transformó los roles sociales de la mujer.
 
 ---
 
@@ -502,7 +502,7 @@ c) Porque duró solo unos días
 d) Por su escala planetaria, sus nuevas tecnologías destructivas (ametralladoras, gas, tanques, aviación) y la movilización de toda la sociedad civil
 
 ✅ Respuesta correcta: **d) Por su escala planetaria, sus nuevas tecnologías destructivas (ametralladoras, gas, tanques, aviación) y la movilización de toda la sociedad civil**
-💬 *Retroalimentación:* La guerra fue mundial, usó nuevas armas muy destructivas (ametralladoras, gas, tanques y aviones) y movilizó a toda la sociedad civil, no solo a los ejércitos. Por eso cambió la forma de hacer la guerra y cómo se la percibía.
+*Retroalimentación:* La guerra fue mundial, usó nuevas armas muy destructivas (ametralladoras, gas, tanques y aviones) y movilizó a toda la sociedad civil, no solo a los ejércitos. Por eso cambió la forma de hacer la guerra y cómo se la percibía.
 
 ---
 
@@ -513,7 +513,7 @@ c) Porque restauró las monarquías absolutas en Europa y en Rusia, y puso fin a
 d) Porque entraron en crisis certezas como la confianza en el progreso y el predominio europeo, dando paso a un nuevo orden con la URSS y la influencia de EE.UU.
 
 ✅ Respuesta correcta: **d) Porque entraron en crisis certezas como la confianza en el progreso y el predominio europeo, dando paso a un nuevo orden con la URSS y la influencia de EE.UU**
-💬 *Retroalimentación:* La guerra hizo dudar de la confianza en el progreso y terminó con el predominio europeo; surgieron la URSS y la influencia de Estados Unidos. Ese cambio de época marca el fin del largo siglo XIX.
+*Retroalimentación:* La guerra hizo dudar de la confianza en el progreso y terminó con el predominio europeo; surgieron la URSS y la influencia de Estados Unidos. Ese cambio de época marca el fin del largo siglo XIX.
 
 ---
 
@@ -599,7 +599,7 @@ c) La batalla de Lircay (1830)
 d) El Parlamento de Quilín
 
 ✅ Respuesta correcta: **c) La batalla de Lircay (1830)**
-💬 *Retroalimentación:* En la batalla de Lircay, las fuerzas conservadoras derrotaron a las
+*Retroalimentación:* En la batalla de Lircay, las fuerzas conservadoras derrotaron a las
 liberales-federalistas, lo que permitió al sector conservador redactar e imponer la Constitución
 de 1833.
 
@@ -609,7 +609,7 @@ de 1833.
 que permitía votar a toda la población adulta sin distinción de renta, sexo o alfabetización.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La Constitución de 1833 estableció una ciudadanía restringida: solo
+*Retroalimentación:* La Constitución de 1833 estableció una ciudadanía restringida: solo
 podían votar hombres que cumplieran requisitos de renta y alfabetización, excluyendo a la gran
 mayoría de la población, incluidas todas las mujeres.
 
@@ -628,7 +628,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Reconocer a los actores y su tendencia ayuda a comprender el enfrentamiento de visiones en los primeros años de la República.
+*Retroalimentación:* Reconocer a los actores y su tendencia ayuda a comprender el enfrentamiento de visiones en los primeros años de la República.
 
 ---
 
@@ -639,7 +639,7 @@ c) Con el anarquismo, que rechazaba toda autoridad
 d) Con el movimiento obrero organizado en sindicatos
 
 ✅ Respuesta correcta: **a) Con el conservador (pelucones y estanqueros)**
-💬 *Retroalimentación:* El sector conservador defendía un ejecutivo fuerte y centralizado como condición de estabilidad.
+*Retroalimentación:* El sector conservador defendía un ejecutivo fuerte y centralizado como condición de estabilidad.
 
 ---
 
@@ -650,7 +650,7 @@ c) Porque Chile seguía siendo colonia española
 d) Porque Chile debió construir un orden político desde cero, con sucesivas constituciones y gobiernos breves en medio del choque entre liberales-federalistas y conservadores
 
 ✅ Respuesta correcta: **d) Porque Chile debió construir un orden político desde cero, con sucesivas constituciones y gobiernos breves en medio del choque entre liberales-federalistas y conservadores**
-💬 *Retroalimentación:* El conflicto se resolvió, al menos temporalmente, tras Lircay y la Constitución de 1833.
+*Retroalimentación:* El conflicto se resolvió, al menos temporalmente, tras Lircay y la Constitución de 1833.
 
 ---
 
@@ -661,7 +661,7 @@ c) Porque eliminó al Poder Ejecutivo y entregó el gobierno al Congreso, lo que
 d) Porque entregó el poder a las regiones mediante un sistema federal, lo que dio estabilidad, pero excluyó a la elite de Santiago
 
 ✅ Respuesta correcta: **b) Porque concentró el poder en un Ejecutivo fuerte y restringió la participación a hombres con renta y alfabetizados, dejando fuera a mujeres y sectores populares**
-💬 *Retroalimentación:* El orden se logró a costa de una participación política muy restringida.
+*Retroalimentación:* El orden se logró a costa de una participación política muy restringida.
 
 ---
 
@@ -748,7 +748,7 @@ c) El vino
 d) El carbón
 
 ✅ Respuesta correcta: **b) El salitre**
-💬 *Retroalimentación:* Hacia fines del siglo XIX, el salitre —usado como fertilizante y en la
+*Retroalimentación:* Hacia fines del siglo XIX, el salitre —usado como fertilizante y en la
 fabricación de explosivos— se convirtió en el principal producto de exportación chileno, con gran
 importancia a nivel mundial.
 
@@ -759,7 +759,7 @@ recibía un salario en dinero a cambio de trabajar en la hacienda, sin relación
 personal con el hacendado.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El inquilinaje se basaba en un intercambio de trabajo por vivienda y una
+*Retroalimentación:* El inquilinaje se basaba en un intercambio de trabajo por vivienda y una
 pequeña parcela para uso propio, no en un salario monetario, y establecía una relación de fuerte
 dependencia personal hacia el hacendado.
 
@@ -778,7 +778,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Cada producto estuvo asociado a un contexto específico que explica su auge en distintos momentos del siglo XIX.
+*Retroalimentación:* Cada producto estuvo asociado a un contexto específico que explica su auge en distintos momentos del siglo XIX.
 
 ---
 
@@ -789,7 +789,7 @@ c) El aumento de la importancia del trigo sobre el salitre, gracias a la apertur
 d) La desaparición de la minería en Chile
 
 ✅ Respuesta correcta: **a) El desplazamiento del trigo por el salitre como principal exportación, en el marco de la inserción de Chile en los mercados internacionales**
-💬 *Retroalimentación:* Las series de datos permiten visualizar los cambios en los ciclos exportadores.
+*Retroalimentación:* Las series de datos permiten visualizar los cambios en los ciclos exportadores.
 
 ---
 
@@ -800,7 +800,7 @@ c) Porque el salitre se producía en haciendas del valle central con inquilinos,
 d) Porque la minería y el salitre se conectaban con mercados internacionales mediante capital y tecnología, mientras gran parte del campo seguía organizado en torno a la hacienda y el inquilinaje
 
 ✅ Respuesta correcta: **d) Porque la minería y el salitre se conectaban con mercados internacionales mediante capital y tecnología, mientras gran parte del campo seguía organizado en torno a la hacienda y el inquilinaje**
-💬 *Retroalimentación:* La hacienda tenía escasa tecnología y relaciones de trabajo tradicionales.
+*Retroalimentación:* La hacienda tenía escasa tecnología y relaciones de trabajo tradicionales.
 
 ---
 
@@ -811,7 +811,7 @@ c) Porque el salitre no generaba ganancias
 d) Porque las condiciones de trabajo eran las mejores del país, y las dificultades solo aparecían en las pulperías, que no dependían de las oficinas
 
 ✅ Respuesta correcta: **b) Porque la riqueza beneficiaba principalmente al Estado (impuestos) y a los inversionistas, mientras los obreros vivían aislados y dependientes de las pulperías**
-💬 *Retroalimentación:* La riqueza del salitre quedaba sobre todo en el Estado, por los impuestos, y en los inversionistas; los obreros vivían aislados en las oficinas y dependían de las pulperías. Esas condiciones alimentaron después la «cuestión social».
+*Retroalimentación:* La riqueza del salitre quedaba sobre todo en el Estado, por los impuestos, y en los inversionistas; los obreros vivían aislados en las oficinas y dependían de las pulperías. Esas condiciones alimentaron después la «cuestión social».
 
 ---
 
@@ -897,7 +897,7 @@ d) Tratados diplomáticos firmados entre el Estado y los mapuches para reconocer
 
 ✅ Respuesta correcta: **b) Porciones de tierra, generalmente pequeñas, asignadas por el Estado a
 las comunidades mapuches tras la ocupación**
-💬 *Retroalimentación:* Las reducciones confinaron a la población mapuche en una fracción muy
+*Retroalimentación:* Las reducciones confinaron a la población mapuche en una fracción muy
 menor de su territorio ancestral, transformando radicalmente su forma de vida.
 
 ---
@@ -906,7 +906,7 @@ menor de su territorio ancestral, transformando radicalmente su forma de vida.
 planificación estatal, resultado de la migración individual de colonos hacia el sur.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La ocupación de la Araucanía fue una política de Estado deliberada, que
+*Retroalimentación:* La ocupación de la Araucanía fue una política de Estado deliberada, que
 combinó acción militar, fundación de ciudades, ferrocarril y repartición de tierras.
 
 ---
@@ -924,7 +924,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Estos instrumentos actuaron de manera combinada para consolidar el control estatal sobre la Araucanía.
+*Retroalimentación:* Estos instrumentos actuaron de manera combinada para consolidar el control estatal sobre la Araucanía.
 
 ---
 
@@ -935,7 +935,7 @@ c) La fundación de una ciudad en el sector X, con lotes para los colonos y para
 d) La construcción del ferrocarril al sur, que requería expropiar las tierras de las comunidades
 
 ✅ Respuesta correcta: **a) La repartición de tierras y el confinamiento de las comunidades mapuches en reducciones, entregando el resto a particulares**
-💬 *Retroalimentación:* Evidencia el mecanismo legal-administrativo mediante el cual se despojó a las comunidades de gran parte de su territorio.
+*Retroalimentación:* Evidencia el mecanismo legal-administrativo mediante el cual se despojó a las comunidades de gran parte de su territorio.
 
 ---
 
@@ -946,7 +946,7 @@ c) El ferrocarril aisló la Araucanía del resto del país, y las ciudades se fu
 d) Las ciudades, como Temuco, establecieron presencia estatal y recibieron colonos; el ferrocarril trasladó tropas, colonos y mercancías, integrando el territorio
 
 ✅ Respuesta correcta: **d) Las ciudades, como Temuco, establecieron presencia estatal y recibieron colonos; el ferrocarril trasladó tropas, colonos y mercancías, integrando el territorio**
-💬 *Retroalimentación:* Estos instrumentos integraron económica y militarmente el territorio ocupado.
+*Retroalimentación:* Estos instrumentos integraron económica y militarmente el territorio ocupado.
 
 ---
 
@@ -957,7 +957,7 @@ c) Porque mejoró la autonomía de las comunidades mapuches, que recibieron más
 d) Porque solo afectó a los colonos europeos
 
 ✅ Respuesta correcta: **b) Porque la pérdida de la mayor parte del territorio ancestral generó empobrecimiento, pérdida de autonomía y cambios forzados de vida, que explican demandas territoriales vigentes**
-💬 *Retroalimentación:* El pueblo mapuche perdió la mayor parte de su territorio ancestral, lo que trajo empobrecimiento, pérdida de autonomía y cambios forzados en su forma de vida. Esas consecuencias explican demandas territoriales que siguen vigentes.
+*Retroalimentación:* El pueblo mapuche perdió la mayor parte de su territorio ancestral, lo que trajo empobrecimiento, pérdida de autonomía y cambios forzados en su forma de vida. Esas consecuencias explican demandas territoriales que siguen vigentes.
 
 ---
 
@@ -1040,7 +1040,7 @@ c) El trigo
 d) La plata
 
 ✅ Respuesta correcta: **b) El salitre**
-💬 *Retroalimentación:* La disputa por el control de la explotación salitrera del desierto de
+*Retroalimentación:* La disputa por el control de la explotación salitrera del desierto de
 Atacama, entonces bajo soberanía boliviana y peruana, fue el principal factor económico detrás
 del conflicto.
 
@@ -1050,7 +1050,7 @@ del conflicto.
 mar, mientras que Chile incorporó a su territorio las regiones de Tarapacá y Antofagasta.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* El triunfo militar chileno significó la incorporación del Norte Grande al
+*Retroalimentación:* El triunfo militar chileno significó la incorporación del Norte Grande al
 territorio nacional y la pérdida del litoral boliviano, una situación que ha proyectado tensiones
 diplomáticas hasta el presente.
 
@@ -1069,7 +1069,7 @@ c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **c) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Estos elementos conectan la causa económica del conflicto con sus consecuencias de largo plazo.
+*Retroalimentación:* Estos elementos conectan la causa económica del conflicto con sus consecuencias de largo plazo.
 
 ---
 
@@ -1080,7 +1080,7 @@ c) Que Chile perdió las regiones salitreras
 d) Que el salitre dejó de exportarse tras la guerra y los ingresos fiscales del Estado disminuyeron
 
 ✅ Respuesta correcta: **a) Una consecuencia económica central del triunfo militar: el control del salitre aumentó fuertemente los ingresos del Estado**
-💬 *Retroalimentación:* Los datos posteriores a la guerra muestran la centralidad del factor económico.
+*Retroalimentación:* Los datos posteriores a la guerra muestran la centralidad del factor económico.
 
 ---
 
@@ -1091,7 +1091,7 @@ c) Porque el conflicto fue exclusivamente religioso
 d) Porque las tensiones previas se vinculaban al control y tributación del salitre en territorio boliviano, y el triunfo incorporó las ricas regiones salitreras
 
 ✅ Respuesta correcta: **d) Porque las tensiones previas se vinculaban al control y tributación del salitre en territorio boliviano, y el triunfo incorporó las ricas regiones salitreras**
-💬 *Retroalimentación:* Chile pasó a ser el principal productor mundial de salitre durante varias décadas.
+*Retroalimentación:* Chile pasó a ser el principal productor mundial de salitre durante varias décadas.
 
 ---
 
@@ -1102,7 +1102,7 @@ c) Porque Bolivia recuperó su litoral en 1900 mediante un tratado, y desde ento
 d) Porque no hubo cambios territoriales
 
 ✅ Respuesta correcta: **b) Porque los cambios territoriales, en especial la pérdida del acceso soberano al mar de Bolivia, no fueron aceptados de la misma manera por todos, manteniendo un tema sensible**
-💬 *Retroalimentación:* Tras la guerra, Bolivia perdió su acceso soberano al mar y Perú perdió territorios; esos cambios no fueron aceptados igual por todos los países, y por eso el tema sigue presente en sus relaciones.
+*Retroalimentación:* Tras la guerra, Bolivia perdió su acceso soberano al mar y Perú perdió territorios; esos cambios no fueron aceptados igual por todos los países, y por eso el tema sigue presente en sus relaciones.
 
 ---
 
@@ -1191,7 +1191,7 @@ d) La abundancia de vivienda de buena calidad para los obreros
 
 ✅ Respuesta correcta: **b) El hacinamiento y la carencia de servicios básicos en los sectores
 populares**
-💬 *Retroalimentación:* Junto con la ausencia de legislación laboral y las malas condiciones
+*Retroalimentación:* Junto con la ausencia de legislación laboral y las malas condiciones
 salariales, el hacinamiento y la falta de servicios básicos fueron factores centrales que
 originaron la cuestión social.
 
@@ -1202,7 +1202,7 @@ huelgas y la organización de mutuales y sindicatos, que muchas veces enfrentaro
 estatal.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Un ejemplo de esta represión es la matanza de la Escuela Santa María de
+*Retroalimentación:* Un ejemplo de esta represión es la matanza de la Escuela Santa María de
 Iquique en 1907, ocurrida durante una huelga de trabajadores del salitre.
 
 ---
@@ -1220,7 +1220,7 @@ c) 1-C, 2-A, 3-B
 d) 1-C, 2-B, 3-A
 
 ✅ Respuesta correcta: **c) 1-C, 2-A, 3-B**
-💬 *Retroalimentación:* El cambio de siglo estuvo marcado por la emergencia de nuevos actores y demandas sociales.
+*Retroalimentación:* El cambio de siglo estuvo marcado por la emergencia de nuevos actores y demandas sociales.
 
 ---
 
@@ -1231,7 +1231,7 @@ c) La modernización completa de las ciudades, con agua potable y alcantarillado
 d) La ausencia de problemas sanitarios
 
 ✅ Respuesta correcta: **a) El hacinamiento y la falta de servicios básicos de los sectores populares urbanos, junto con la propagación de enfermedades**
-💬 *Retroalimentación:* El reportaje describe familias en una sola pieza de conventillo, sin agua potable y con epidemias: muestra el hacinamiento y la falta de servicios básicos de los sectores populares urbanos, parte central de la cuestión social.
+*Retroalimentación:* El reportaje describe familias en una sola pieza de conventillo, sin agua potable y con epidemias: muestra el hacinamiento y la falta de servicios básicos de los sectores populares urbanos, parte central de la cuestión social.
 
 ---
 
@@ -1242,7 +1242,7 @@ c) No tuvo relación con la cuestión social
 d) Sin leyes sobre jornada, seguridad o edad mínima, los empleadores imponían condiciones muy desfavorables, generando malestar que se expresó en huelgas y organización obrera
 
 ✅ Respuesta correcta: **d) Sin leyes sobre jornada, seguridad o edad mínima, los empleadores imponían condiciones muy desfavorables, generando malestar que se expresó en huelgas y organización obrera**
-💬 *Retroalimentación:* A ello se sumaban el hacinamiento y las malas condiciones de vida.
+*Retroalimentación:* A ello se sumaban el hacinamiento y las malas condiciones de vida.
 
 ---
 
@@ -1253,7 +1253,7 @@ c) Cambio: desaparecieron todas las desigualdades salariales y de vivienda. Cont
 d) Cambio: hoy hay más conventillos que en 1905, porque las ciudades crecieron sin planificación. Continuidad: la legislación laboral de 1900 sigue vigente sin cambios
 
 ✅ Respuesta correcta: **b) Cambio: hoy existe legislación laboral y negociación colectiva. Continuidad: persisten desigualdades salariales o de acceso a vivienda digna en ciertos sectores**
-💬 *Retroalimentación:* Un cambio es que hoy existen leyes laborales y negociación colectiva, que a comienzos del siglo XX no existían; una continuidad es que todavía hay desigualdades de salario o de acceso a una vivienda digna.
+*Retroalimentación:* Un cambio es que hoy existen leyes laborales y negociación colectiva, que a comienzos del siglo XX no existían; una continuidad es que todavía hay desigualdades de salario o de acceso a una vivienda digna.
 
 ---
 
@@ -1360,7 +1360,7 @@ c) El Parlamento de Quilín
 d) La Sociedad de Igualdad
 
 ✅ Respuesta correcta: **b) La Universidad de Chile**
-💬 *Retroalimentación:* Fundada en 1842, la Universidad de Chile jugó un rol central en la
+*Retroalimentación:* Fundada en 1842, la Universidad de Chile jugó un rol central en la
 formación de profesionales y en la producción de conocimiento científico sobre el territorio
 nacional durante el siglo XIX.
 
@@ -1370,7 +1370,7 @@ nacional durante el siglo XIX.
 se dedicó principalmente al estudio de la mineralogía y la geología del país.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Domeyko, científico de origen polaco, contribuyó de manera decisiva al
+*Retroalimentación:* Domeyko, científico de origen polaco, contribuyó de manera decisiva al
 conocimiento geológico y mineralógico de Chile, además de aportar a la formación científica en el
 país.
 
@@ -1389,7 +1389,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Estos instrumentos actuaron de forma complementaria para conocer, organizar y administrar el territorio.
+*Retroalimentación:* Estos instrumentos actuaron de forma complementaria para conocer, organizar y administrar el territorio.
 
 ---
 
@@ -1400,7 +1400,7 @@ c) La renuncia del Estado a administrar las regiones alejadas, que quedaron en m
 d) La anexión de Chile a Argentina después de la Independencia, que permitió compartir la administración del territorio y ampliar sus límites hacia la Patagonia
 
 ✅ Respuesta correcta: **a) La exploración y reconocimiento del territorio mediante misiones científicas, censos, la Universidad de Chile y la expansión de la burocracia y las redes de transporte**
-💬 *Retroalimentación:* El conocimiento científico y la acción administrativa ampliaron el control efectivo.
+*Retroalimentación:* El conocimiento científico y la acción administrativa ampliaron el control efectivo.
 
 ---
 
@@ -1411,7 +1411,7 @@ c) Porque impidieron delimitar las fronteras del país, ya que los científicos 
 d) Porque el Estado necesitaba conocer con precisión su geografía, recursos y población antes de administrarlos, y las misiones como las de Gay y Domeyko y la Universidad de Chile produjeron ese conocimiento
 
 ✅ Respuesta correcta: **d) Porque el Estado necesitaba conocer con precisión su geografía, recursos y población antes de administrarlos, y las misiones como las de Gay y Domeyko y la Universidad de Chile produjeron ese conocimiento**
-💬 *Retroalimentación:* Además, la universidad formó a los profesionales necesarios para esta tarea.
+*Retroalimentación:* Además, la universidad formó a los profesionales necesarios para esta tarea.
 
 ---
 
@@ -1422,7 +1422,7 @@ c) Porque los censos no producían información útil para el Estado, y la buroc
 d) Porque la burocracia impedía aplicar políticas públicas, y por eso el Estado debía reducirla antes de usar los censos
 
 ✅ Respuesta correcta: **b) Porque reunir información no bastaba: se requerían funcionarios y oficinas que la procesaran, aplicaran políticas y ejercieran presencia estatal**
-💬 *Retroalimentación:* Los censos y las misiones científicas reunían información, pero hacían falta funcionarios y oficinas para procesarla, aplicar políticas y hacer presente al Estado en el territorio. Sin burocracia, los datos no se convertían en administración.
+*Retroalimentación:* Los censos y las misiones científicas reunían información, pero hacían falta funcionarios y oficinas para procesarla, aplicar políticas y hacer presente al Estado en el territorio. Sin burocracia, los datos no se convertían en administración.
 
 ---
 
@@ -1522,7 +1522,7 @@ c) Permanece siempre igual
 d) Desaparece del mercado
 
 ✅ Respuesta correcta: **b) Tiende a subir**
-💬 *Retroalimentación:* Cuando la demanda de un bien crece y la oferta disponible no aumenta en la
+*Retroalimentación:* Cuando la demanda de un bien crece y la oferta disponible no aumenta en la
 misma proporción, el precio del bien tiende a subir, según la relación básica entre oferta y
 demanda.
 
@@ -1532,7 +1532,7 @@ demanda.
 sí, sin ningún tipo de acuerdo sobre precios.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La colusión es precisamente lo contrario: un acuerdo entre empresas que
+*Retroalimentación:* La colusión es precisamente lo contrario: un acuerdo entre empresas que
 deberían competir para fijar precios o repartirse el mercado, eliminando la competencia de forma
 artificial.
 
@@ -1551,7 +1551,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Estos conceptos son ejemplos de factores que pueden alterar el funcionamiento de un mercado competitivo.
+*Retroalimentación:* Estos conceptos son ejemplos de factores que pueden alterar el funcionamiento de un mercado competitivo.
 
 ---
 
@@ -1562,7 +1562,7 @@ c) La deflación
 d) El libre mercado
 
 ✅ Respuesta correcta: **a) La colusión**
-💬 *Retroalimentación:* La colusión perjudica a los consumidores al mantener precios más altos que en un mercado competitivo.
+*Retroalimentación:* La colusión perjudica a los consumidores al mantener precios más altos que en un mercado competitivo.
 
 ---
 
@@ -1573,7 +1573,7 @@ c) Inflación: aumento sostenido del empleo, que mejora los sueldos. Deflación:
 d) Inflación: alza sostenida de precios que reduce el poder adquisitivo. Deflación: caída sostenida de precios que puede desincentivar producción y consumo
 
 ✅ Respuesta correcta: **d) Inflación: alza sostenida de precios que reduce el poder adquisitivo. Deflación: caída sostenida de precios que puede desincentivar producción y consumo**
-💬 *Retroalimentación:* En la deflación, empresas y personas postergan gastos porque anticipan que los precios seguirán bajando.
+*Retroalimentación:* En la deflación, empresas y personas postergan gastos porque anticipan que los precios seguirán bajando.
 
 ---
 
@@ -1584,7 +1584,7 @@ c) Para proteger a los consumidores de precios excesivos en bienes esenciales
 d) Para proteger a productores nacionales frente a la competencia extranjera
 
 ✅ Respuesta correcta: **a, c y d**
-💬 *Retroalimentación:* La interacción libre entre oferta y demanda no siempre produce resultados socialmente deseables; eliminar el comercio no es un objetivo de estas intervenciones.
+*Retroalimentación:* La interacción libre entre oferta y demanda no siempre produce resultados socialmente deseables; eliminar el comercio no es un objetivo de estas intervenciones.
 
 ---
 
@@ -1670,7 +1670,7 @@ c) El comunismo
 d) El conservadurismo
 
 ✅ Respuesta correcta: **c) El comunismo**
-💬 *Retroalimentación:* A diferencia del socialismo, que buscaba mayor control estatal de la
+*Retroalimentación:* A diferencia del socialismo, que buscaba mayor control estatal de la
 economía, el comunismo planteaba de forma más radical la abolición de la propiedad privada
 mediante un proceso revolucionario.
 
@@ -1680,7 +1680,7 @@ mediante un proceso revolucionario.
 para resolver los problemas de la cuestión social.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El anarquismo rechazaba tanto al capitalismo como al Estado, proponiendo
+*Retroalimentación:* El anarquismo rechazaba tanto al capitalismo como al Estado, proponiendo
 una organización social sin autoridad centralizada, basada en la cooperación voluntaria entre los
 trabajadores.
 
@@ -1699,7 +1699,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **b) 1-A, 2-C, 3-B**
-💬 *Retroalimentación:* Estas corrientes fueron distintas respuestas frente a la cuestión social.
+*Retroalimentación:* Estas corrientes fueron distintas respuestas frente a la cuestión social.
 
 ---
 
@@ -1710,7 +1710,7 @@ c) Anarquismo
 d) Conservadurismo
 
 ✅ Respuesta correcta: **c) Anarquismo**
-💬 *Retroalimentación:* El anarquismo rechazaba tanto al capitalismo como al Estado, proponiendo una organización horizontal y voluntaria.
+*Retroalimentación:* El anarquismo rechazaba tanto al capitalismo como al Estado, proponiendo una organización horizontal y voluntaria.
 
 ---
 
@@ -1721,7 +1721,7 @@ c) Ambos rechazaban cualquier intervención del Estado: el liberalismo confiaba 
 d) El socialismo proponía volver a la monarquía
 
 ✅ Respuesta correcta: **a) El liberalismo aceptaba cierta intervención estatal manteniendo el mercado y la propiedad privada; el socialismo proponía el control estatal o social de los medios de producción**
-💬 *Retroalimentación:* El objetivo socialista era una distribución más igualitaria de la riqueza.
+*Retroalimentación:* El objetivo socialista era una distribución más igualitaria de la riqueza.
 
 ---
 
@@ -1732,7 +1732,7 @@ c) Las problemáticas actuales no admiten debate político, ya que su solución 
 d) Distintos actores proponen respuestas diferentes (por ejemplo, confiar más en el mercado o en mayor intervención estatal) según su diagnóstico de las causas
 
 ✅ Respuesta correcta: **d) Distintos actores proponen respuestas diferentes (por ejemplo, confiar más en el mercado o en mayor intervención estatal) según su diagnóstico de las causas**
-💬 *Retroalimentación:* Las diferencias reflejan distintos diagnósticos sobre las causas del problema, como ocurrió con la cuestión social.
+*Retroalimentación:* Las diferencias reflejan distintos diagnósticos sobre las causas del problema, como ocurrió con la cuestión social.
 
 ---
 
@@ -1817,7 +1817,7 @@ c) Kawéskar
 d) Rapa Nui
 
 ✅ Respuesta correcta: **c) Kawéskar**
-💬 *Retroalimentación:* El pueblo Kawéskar, junto con el pueblo Yagán, habita tradicionalmente la
+*Retroalimentación:* El pueblo Kawéskar, junto con el pueblo Yagán, habita tradicionalmente la
 zona del extremo austral de Chile, distinta de la del pueblo Aymará (norte andino), Diaguita
 (Norte Chico) o Rapa Nui (Isla de Pascua).
 
@@ -1828,7 +1828,7 @@ largo de la historia se han caracterizado exclusivamente por el conflicto, sin n
 convivencia o reconocimiento.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Aunque han existido episodios de conflicto importantes, también han
+*Retroalimentación:* Aunque han existido episodios de conflicto importantes, también han
 existido formas de convivencia, comercio e intercambio cultural, así como avances legales de
 reconocimiento en el presente, aunque persisten demandas no resueltas.
 
@@ -1847,7 +1847,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **b) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Ubicar geográficamente a los pueblos indígenas ayuda a comprender la diversidad cultural y territorial del país.
+*Retroalimentación:* Ubicar geográficamente a los pueblos indígenas ayuda a comprender la diversidad cultural y territorial del país.
 
 ---
 
@@ -1858,7 +1858,7 @@ c) Una relación de conflicto, con restricciones importantes a la movilidad y la
 d) Ninguna relación entre el Estado y el pueblo Rapa Nui, porque la isla siguió siendo independiente
 
 ✅ Respuesta correcta: **c) Una relación de conflicto, con restricciones importantes a la movilidad y la propiedad del pueblo Rapa Nui**
-💬 *Retroalimentación:* Las fuentes de la época permiten evaluar el carácter de las relaciones entre el Estado y los pueblos indígenas.
+*Retroalimentación:* Las fuentes de la época permiten evaluar el carácter de las relaciones entre el Estado y los pueblos indígenas.
 
 ---
 
@@ -1869,7 +1869,7 @@ c) Porque el Estado nunca se relacionó con los pueblos indígenas: cada pueblo 
 d) Porque solo existió un pueblo indígena en Chile
 
 ✅ Respuesta correcta: **a) Porque distintos pueblos vivieron procesos diferentes, con distintos grados de conflicto (Araucanía, Isla de Pascua) y de convivencia o negociación (comercio, parlamentos)**
-💬 *Retroalimentación:* No es posible describir esta relación de una sola manera para todos los pueblos y períodos.
+*Retroalimentación:* No es posible describir esta relación de una sola manera para todos los pueblos y períodos.
 
 ---
 
@@ -1880,7 +1880,7 @@ c) Porque Chile tiene una sola tradición cultural
 d) Porque permite entender el origen de demandas actuales y reconocer que la identidad chilena está compuesta por múltiples tradiciones que enriquecen a la sociedad
 
 ✅ Respuesta correcta: **d) Porque permite entender el origen de demandas actuales y reconocer que la identidad chilena está compuesta por múltiples tradiciones que enriquecen a la sociedad**
-💬 *Retroalimentación:* La diversidad enriquece a la sociedad en su conjunto.
+*Retroalimentación:* La diversidad enriquece a la sociedad en su conjunto.
 
 ---
 
@@ -1963,7 +1963,7 @@ d) La disminución del consumo de combustibles fósiles como el carbón y el pet
 
 ✅ Respuesta correcta: **b) El calentamiento global, por la emisión de gases de efecto
 invernadero**
-💬 *Retroalimentación:* La quema masiva de combustibles fósiles para alimentar la industria y el
+*Retroalimentación:* La quema masiva de combustibles fósiles para alimentar la industria y el
 transporte durante los siglos XIX y XX es una de las principales causas históricas del
 calentamiento global actual.
 
@@ -1974,7 +1974,7 @@ que satisfaga las necesidades del presente sin comprometer la capacidad de las f
 generaciones de satisfacer las suyas propias.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Esta es la definición clásica de desarrollo sostenible, que busca
+*Retroalimentación:* Esta es la definición clásica de desarrollo sostenible, que busca
 equilibrar crecimiento económico, equidad social y cuidado del medio ambiente.
 
 ---
@@ -1992,7 +1992,7 @@ c) 1-B, 2-C, 3-A
 d) 1-C, 2-B, 3-A
 
 ✅ Respuesta correcta: **b) 1-C, 2-A, 3-B**
-💬 *Retroalimentación:* La lluvia ácida es precipitación contaminada que daña suelos, bosques y aguas (1-C); la desertificación es la pérdida de fertilidad del suelo por sobreexplotación (2-A), y el desarrollo sostenible equilibra crecimiento, equidad y cuidado ambiental (3-B).
+*Retroalimentación:* La lluvia ácida es precipitación contaminada que daña suelos, bosques y aguas (1-C); la desertificación es la pérdida de fertilidad del suelo por sobreexplotación (2-A), y el desarrollo sostenible equilibra crecimiento, equidad y cuidado ambiental (3-B).
 
 ---
 
@@ -2003,7 +2003,7 @@ c) La industrialización, con una quema masiva y creciente de combustibles fósi
 d) La disminución de la población mundial por las guerras y las epidemias del siglo XIX
 
 ✅ Respuesta correcta: **c) La industrialización, con una quema masiva y creciente de combustibles fósiles**
-💬 *Retroalimentación:* El aumento empieza en el siglo XIX, cuando la industrialización comenzó a quemar carbón y luego petróleo en enormes cantidades. Por eso el gráfico se explica mejor por la industrialización.
+*Retroalimentación:* El aumento empieza en el siglo XIX, cuando la industrialización comenzó a quemar carbón y luego petróleo en enormes cantidades. Por eso el gráfico se explica mejor por la industrialización.
 
 ---
 
@@ -2014,7 +2014,7 @@ c) No existe ningún vínculo entre ambos
 d) El calentamiento global se debe solo a erupciones volcánicas recientes, que liberan más gases que toda la actividad industrial; la industrialización no influyó en el clima porque sus emisiones se absorbieron
 
 ✅ Respuesta correcta: **a) La quema de carbón y petróleo liberó durante más de un siglo grandes cantidades de gases de efecto invernadero, cuya acumulación es una de las principales causas del calentamiento global**
-💬 *Retroalimentación:* La acumulación histórica de emisiones explica en buena medida el problema actual.
+*Retroalimentación:* La acumulación histórica de emisiones explica en buena medida el problema actual.
 
 ---
 
@@ -2025,7 +2025,7 @@ c) Porque la equidad social no importa para el desarrollo
 d) Porque priorizar solo el crecimiento puede causar daños ambientales graves, y priorizar solo lo ambiental sin equidad puede perjudicar a los más pobres; las tres dimensiones están interrelacionadas
 
 ✅ Respuesta correcta: **d) Porque priorizar solo el crecimiento puede causar daños ambientales graves, y priorizar solo lo ambiental sin equidad puede perjudicar a los más pobres; las tres dimensiones están interrelacionadas**
-💬 *Retroalimentación:* El desarrollo sostenible busca una solución conjunta para las tres dimensiones.
+*Retroalimentación:* El desarrollo sostenible busca una solución conjunta para las tres dimensiones.
 
 ---
 

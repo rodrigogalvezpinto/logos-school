@@ -20,7 +20,9 @@ describe('MarkdownPipe - marcadores visuales para 1° básico', () => {
   it('::dibujo:: muestra el dibujo sin rótulo que delate la palabra', () => {
     const salida = html('::dibujo::☀️:: ¿Cuál es la palabra bien escrita?');
     expect(salida).toContain('class="dibujo"');
-    expect(salida).not.toContain('sol');
+    // Se dibuja como imagen (2026-11-17); ni el texto visible ni el alternativo dicen «sol».
+    expect(salida).toContain('<img class="pictograma"');
+    expect(salida.replace(/src="[^"]*"/g, '')).not.toContain('sol');
   });
 
   it('::fraccion:: dibuja las partes sin escribir el número', () => {
@@ -47,7 +49,7 @@ describe('MarkdownPipe - marcadores visuales para 1° básico', () => {
   it('::fila:: dibuja los elementos de izquierda a derecha en orden', () => {
     const salida = html('::fila::🌳::🪑::🎠::');
     expect((salida.match(/fila-dibujo__item/g) || []).length).toBe(3);
-    expect(salida.indexOf('🌳')).toBeLessThan(salida.indexOf('🎠'));
+    expect(salida.indexOf('arbol.png')).toBeLessThan(salida.indexOf('carrusel.svg'));
     expect(salida).not.toContain('::');
   });
 
@@ -123,7 +125,7 @@ describe('MarkdownPipe - marcadores visuales para 1° básico', () => {
   });
 
   it('::mapa:: de Chile admite íconos, marcas vacías y zonas naturales', () => {
-    expect(html('::mapa::chile::🛶@-52,-73.5::')).toContain('🛶');
+    expect(html('::mapa::chile::🛶@-52,-73.5::')).toContain('canoa.svg');
     // Coordenadas con decimales: marked las convertía en enlaces mailto.
     const conDecimales = html('::mapa::america::1@-34.6,-58.4;Santiago@-33.45,-70.66::');
     expect(conDecimales).toContain('<svg');

@@ -128,7 +128,7 @@ c) La superioridad de un partido político sobre los demás
 d) La dignidad de la persona como base de los derechos
 
 ✅ Respuesta correcta: **c) La superioridad de un partido político sobre los demás**
-💬 *Retroalimentación:* La democracia se funda en la soberanía popular, el respeto a los
+*Retroalimentación:* La democracia se funda en la soberanía popular, el respeto a los
 Derechos Humanos y la dignidad de la persona; la idea de que un partido sea superior a otros
 contradice el pluralismo político que la democracia exige.
 
@@ -138,7 +138,7 @@ contradice el pluralismo político que la democracia exige.
 decidir qué temas se discuten públicamente.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Es justo al revés: el control de la agenda es un atributo democrático
+*Retroalimentación:* Es justo al revés: el control de la agenda es un atributo democrático
 que asegura que la ciudadanía —no solo el gobierno— pueda instalar temas en la discusión
 pública.
 
@@ -157,7 +157,7 @@ c) 1-B, 2-C, 3-A
 d) 1-C, 2-B, 3-A
 
 ✅ Respuesta correcta: **a) 1-C, 2-A, 3-B**
-💬 *Retroalimentación:* Cada atributo describe una condición distinta y verificable de una democracia que funciona.
+*Retroalimentación:* Cada atributo describe una condición distinta y verificable de una democracia que funciona.
 
 ---
 
@@ -168,7 +168,7 @@ c) No, porque en una democracia no pueden existir medios de comunicación críti
 d) No plenamente: aunque hay elecciones, se violan las libertades fundamentales (prensa) y el Estado de Derecho (detenciones sin orden judicial)
 
 ✅ Respuesta correcta: **d) No plenamente: aunque hay elecciones, se violan las libertades fundamentales (prensa) y el Estado de Derecho (detenciones sin orden judicial)**
-💬 *Retroalimentación:* Las elecciones son necesarias, pero no suficientes: una democracia requiere todos sus atributos a la vez.
+*Retroalimentación:* Las elecciones son necesarias, pero no suficientes: una democracia requiere todos sus atributos a la vez.
 
 ---
 
@@ -179,7 +179,7 @@ c) Porque permite que el Estado decida quién tiene derechos según su aporte a 
 d) Porque de ella se derivan derechos y deberes concretos que el Estado debe garantizar (debido proceso, no discriminación), que hacen posible participar libremente en la vida pública
 
 ✅ Respuesta correcta: **d) Porque de ella se derivan derechos y deberes concretos que el Estado debe garantizar (debido proceso, no discriminación), que hacen posible participar libremente en la vida pública**
-💬 *Retroalimentación:* De la dignidad de cada persona se derivan derechos y deberes concretos que el Estado debe garantizar, como el debido proceso y la no discriminación; esos derechos permiten participar libremente en la democracia.
+*Retroalimentación:* De la dignidad de cada persona se derivan derechos y deberes concretos que el Estado debe garantizar, como el debido proceso y la no discriminación; esos derechos permiten participar libremente en la democracia.
 
 ---
 
@@ -192,7 +192,7 @@ c) Solo los intereses de la mayoría que ganó la última elección
 d) Un principio base de la democracia y la ciudadanía
 
 ✅ Respuesta correcta: **d) Un principio base de la democracia y la ciudadanía**
-💬 *Retroalimentación:* Las libertades fundamentales (expresión, reunión, asociación, entre
+*Retroalimentación:* Las libertades fundamentales (expresión, reunión, asociación, entre
 otras) son un principio de la democracia, no un favor del gobierno de turno ni algo condicionado
 a lo que decida una mayoría.
 
@@ -202,7 +202,7 @@ a lo que decida una mayoría.
 ciudadanas son dos caras de la misma protección a las libertades fundamentales.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* El Estado tiene el deber de garantizar condiciones (por ejemplo,
+*Retroalimentación:* El Estado tiene el deber de garantizar condiciones (por ejemplo,
 elecciones libres); la ciudadanía tiene derechos (votar, expresarse) y responsabilidades
 (informarse, respetar los derechos de otros) que hacen funcionar esas condiciones en la
 práctica.
@@ -218,7 +218,7 @@ c) La soberanía popular
 d) La participación efectiva
 
 ✅ Respuesta correcta: **d) La participación efectiva**
-💬 *Retroalimentación:* La participación efectiva es un atributo observable de un sistema
+*Retroalimentación:* La participación efectiva es un atributo observable de un sistema
 democrático (se puede constatar si la ciudadanía influye antes de que se tomen las
 decisiones), mientras que la dignidad, la soberanía popular y el respeto a los DD. HH. son
 fundamentos.
@@ -229,7 +229,7 @@ fundamentos.
 pueblo, y no de un monarca, una casta o un partido único.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Es exactamente la definición de este fundamento: el poder no reside en
+*Retroalimentación:* Es exactamente la definición de este fundamento: el poder no reside en
 una persona o grupo por herencia o imposición, sino que proviene de la ciudadanía.
 
 ---
@@ -241,7 +241,7 @@ c) La soberanía popular, porque la ciudadanía no puede optar entre alternativa
 d) El Estado de Derecho, porque hay demasiados partidos que quieren postular candidatos
 
 ✅ Respuesta correcta: **c) La soberanía popular, porque la ciudadanía no puede optar entre alternativas reales**
-💬 *Retroalimentación:* Elecciones sin pluralismo político no expresan genuinamente la voluntad popular.
+*Retroalimentación:* Elecciones sin pluralismo político no expresan genuinamente la voluntad popular.
 
 ---
 
@@ -252,7 +252,7 @@ c) Opinar en redes sociales después de que la decisión ya se tomó en el barri
 d) No participar de ninguna instancia
 
 ✅ Respuesta correcta: **a) Una consulta ciudadana previa a la aprobación de una ley que afecta a un barrio**
-💬 *Retroalimentación:* La clave está en el momento: influir antes de que se decida.
+*Retroalimentación:* La clave está en el momento: influir antes de que se decida.
 
 ---
 
@@ -266,7 +266,7 @@ c) Control de la agenda
 d) Participación efectiva
 
 ✅ Respuesta correcta: **a) Estado de Derecho**
-💬 *Retroalimentación:* El Estado de Derecho exige que todo poder, incluido el de la máxima
+*Retroalimentación:* El Estado de Derecho exige que todo poder, incluido el de la máxima
 autoridad, se ejerza dentro de los límites que fija la ley, sin excepciones.
 
 ---
@@ -275,7 +275,7 @@ autoridad, se ejerza dentro de los límites que fija la ley, sin excepciones.
 nivel educacional o patrimonio pese más que el de otra persona.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La igualdad de voto establece justamente lo contrario: cada voto pesa
+*Retroalimentación:* La igualdad de voto establece justamente lo contrario: cada voto pesa
 lo mismo, sin importar el patrimonio o el nivel de estudios de quien lo emite.
 
 ---
@@ -287,7 +287,7 @@ c) La división de poderes
 d) El control de la agenda
 
 ✅ Respuesta correcta: **d) El control de la agenda**
-💬 *Retroalimentación:* El control de la agenda reconoce la capacidad ciudadana de instalar temas, no depende de que el gobierno lo permita.
+*Retroalimentación:* El control de la agenda reconoce la capacidad ciudadana de instalar temas, no depende de que el gobierno lo permita.
 
 ---
 
@@ -298,7 +298,7 @@ c) Las responsabilidades ciudadanas no tienen relación con la democracia
 d) Una ciudadanía informada puede participar efectivamente y fiscalizar el Estado de Derecho
 
 ✅ Respuesta correcta: **a, b y d**
-💬 *Retroalimentación:* Los fundamentos y atributos de la democracia no se sostienen solos.
+*Retroalimentación:* Los fundamentos y atributos de la democracia no se sostienen solos.
 
 ---
 
@@ -372,7 +372,7 @@ c) La Corporación de Asistencia Judicial
 d) El Ministerio Público (Fiscalía)
 
 ✅ Respuesta correcta: **d) El Ministerio Público (Fiscalía)**
-💬 *Retroalimentación:* El Ministerio Público investiga los delitos y ejerce la acción penal;
+*Retroalimentación:* El Ministerio Público investiga los delitos y ejerce la acción penal;
 la Defensoría Penal Pública, en cambio, defiende a quien es acusado.
 
 ---
@@ -381,7 +381,7 @@ la Defensoría Penal Pública, en cambio, defiende a quien es acusado.
 gratuita principalmente en materia penal.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La CAJ actúa sobre todo en materias no penales (familia, laboral,
+*Retroalimentación:* La CAJ actúa sobre todo en materias no penales (familia, laboral,
 civil); la defensa gratuita en materia penal corresponde a la Defensoría Penal Pública.
 
 ---
@@ -399,7 +399,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **a) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Cada institución cubre una etapa o materia distinta del acceso a la justicia.
+*Retroalimentación:* Cada institución cubre una etapa o materia distinta del acceso a la justicia.
 
 ---
 
@@ -410,7 +410,7 @@ c) A la Corporación de Asistencia Judicial, que representa gratuitamente en mat
 d) A ninguna, porque el acceso a la justicia laboral requiere siempre pagar un abogado particular
 
 ✅ Respuesta correcta: **c) A la Corporación de Asistencia Judicial, que representa gratuitamente en materias no penales como las laborales**
-💬 *Retroalimentación:* Reconocer que un conflicto laboral es una materia no penal es la clave.
+*Retroalimentación:* Reconocer que un conflicto laboral es una materia no penal es la clave.
 
 ---
 
@@ -421,7 +421,7 @@ c) Porque eliminan la necesidad de jueces y abogados, de modo que cada persona p
 d) Porque solo benefician a las empresas
 
 ✅ Respuesta correcta: **a) Porque sin ellos solo quienes tienen recursos podrían ejercer sus derechos ante tribunales, generando una justicia desigual según el patrimonio**
-💬 *Retroalimentación:* La igualdad ante la ley pierde sentido si el acceso real depende del dinero.
+*Retroalimentación:* La igualdad ante la ley pierde sentido si el acceso real depende del dinero.
 
 ---
 
@@ -432,7 +432,7 @@ c) La Fiscalía investigando un delito y la Defensoría Penal defendiendo al imp
 d) La CAJ representando gratuitamente en una causa de familia
 
 ✅ Respuesta correcta: **b, c y d**
-💬 *Retroalimentación:* Lo importante es nombrar correctamente la institución y su función específica; el SII no dicta sentencias.
+*Retroalimentación:* Lo importante es nombrar correctamente la institución y su función específica; el SII no dicta sentencias.
 
 ---
 
@@ -445,7 +445,7 @@ c) Entregar defensa penal gratuita a los imputados
 d) Revisar las decisiones de tribunales inferiores
 
 ✅ Respuesta correcta: **d) Revisar las decisiones de tribunales inferiores**
-💬 *Retroalimentación:* Las Cortes de Apelaciones son instancias superiores que revisan fallos
+*Retroalimentación:* Las Cortes de Apelaciones son instancias superiores que revisan fallos
 de juzgados y tribunales, garantizando un sistema de segunda instancia.
 
 ---
@@ -459,7 +459,7 @@ c) El Ministerio Público
 d) La Corte Suprema
 
 ✅ Respuesta correcta: **a) La Defensoría Penal Pública**
-💬 *Retroalimentación:* La Defensoría Penal Pública existe específicamente para garantizar que
+*Retroalimentación:* La Defensoría Penal Pública existe específicamente para garantizar que
 toda persona acusada de un delito tenga defensa legal, tenga o no recursos para pagarla.
 
 ---
@@ -468,7 +468,7 @@ toda persona acusada de un delito tenga defensa legal, tenga o no recursos para 
 únicamente causas penales.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Resuelven también causas civiles, laborales, de familia y de otras
+*Retroalimentación:* Resuelven también causas civiles, laborales, de familia y de otras
 materias; lo penal es solo uno de los ámbitos que atienden.
 
 ---
@@ -480,7 +480,7 @@ c) A ninguna institución pública, porque las pensiones de alimentos son un asu
 d) A la Corporación de Asistencia Judicial, porque es una materia de familia y la Defensoría Penal solo defiende en causas penales
 
 ✅ Respuesta correcta: **d) A la Corporación de Asistencia Judicial, porque es una materia de familia y la Defensoría Penal solo defiende en causas penales**
-💬 *Retroalimentación:* Distinguir la materia del conflicto (penal o no penal) es clave.
+*Retroalimentación:* Distinguir la materia del conflicto (penal o no penal) es clave.
 
 ---
 
@@ -491,7 +491,7 @@ c) Las Cortes resuelven solo causas menores, como multas y conflictos vecinales,
 d) Los juzgados revisan los fallos de la Corte Suprema cuando una parte no está conforme; las Cortes resuelven en primera instancia todas las causas del país
 
 ✅ Respuesta correcta: **b) Los juzgados resuelven en primera instancia; las Cortes (de Apelaciones y Suprema) revisan esas decisiones cuando una parte no está conforme**
-💬 *Retroalimentación:* El sistema judicial tiene distintos niveles o instancias.
+*Retroalimentación:* El sistema judicial tiene distintos niveles o instancias.
 
 ---
 
@@ -504,7 +504,7 @@ c) La Corte Suprema
 d) El Ministerio Público
 
 ✅ Respuesta correcta: **c) La Corte Suprema**
-💬 *Retroalimentación:* La Corte Suprema es la instancia superior del sistema judicial
+*Retroalimentación:* La Corte Suprema es la instancia superior del sistema judicial
 chileno, por sobre las Cortes de Apelaciones y los tribunales de primera instancia.
 
 ---
@@ -513,7 +513,7 @@ chileno, por sobre las Cortes de Apelaciones y los tribunales de primera instanc
 personas acusadas de un delito.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El Ministerio Público investiga los delitos y ejerce la acción penal en
+*Retroalimentación:* El Ministerio Público investiga los delitos y ejerce la acción penal en
 representación de la sociedad; quien defiende a la persona acusada es la Defensoría Penal
 Pública.
 
@@ -526,7 +526,7 @@ c) Que no basta con que los mecanismos existan legalmente: la ciudadanía debe c
 d) Que las personas de escasos recursos no tienen derechos que puedan reclamar ante los tribunales
 
 ✅ Respuesta correcta: **c) Que no basta con que los mecanismos existan legalmente: la ciudadanía debe conocerlos y poder usarlos efectivamente**
-💬 *Retroalimentación:* Un derecho que existe solo "en el papel" no se traduce en acceso real.
+*Retroalimentación:* Un derecho que existe solo "en el papel" no se traduce en acceso real.
 
 ---
 
@@ -537,7 +537,7 @@ c) Que las comunidades rurales no tienen derecho al agua, porque los cursos de a
 d) Que la justicia solo atiende causas penales
 
 ✅ Respuesta correcta: **a) El mismo principio de la CAJ: sin representación gratuita, comunidades sin recursos no podrían ejercer sus derechos ante la justicia**
-💬 *Retroalimentación:* Lo relevante es la igualdad de acceso a la justicia, independiente del patrimonio.
+*Retroalimentación:* Lo relevante es la igualdad de acceso a la justicia, independiente del patrimonio.
 
 ---
 
@@ -613,7 +613,7 @@ c) Estabilizadora de la economía del país
 d) Redistribuidora del ingreso nacional
 
 ✅ Respuesta correcta: **b) Proveedora de bienes y servicios**
-💬 *Retroalimentación:* La función proveedora se activa cuando el Estado entrega directamente
+*Retroalimentación:* La función proveedora se activa cuando el Estado entrega directamente
 bienes o servicios que el mercado no ofrece de forma adecuada o suficiente para todos.
 
 ---
@@ -622,7 +622,7 @@ bienes o servicios que el mercado no ofrece de forma adecuada o suficiente para 
 válida, aceptada por todas las corrientes económicas.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Es uno de los temas con mayor debate legítimo entre distintas
+*Retroalimentación:* Es uno de los temas con mayor debate legítimo entre distintas
 perspectivas económicas y políticas; no existe un consenso único sobre el nivel "correcto" de
 impuestos.
 
@@ -641,7 +641,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **d) 1-B, 2-A, 3-C**
-💬 *Retroalimentación:* Fiscalizar es verificar normas; estabilizar, moderar los ciclos; redistribuir, transferir recursos para reducir desigualdad.
+*Retroalimentación:* Fiscalizar es verificar normas; estabilizar, moderar los ciclos; redistribuir, transferir recursos para reducir desigualdad.
 
 ---
 
@@ -652,7 +652,7 @@ c) Que una carga baja limita la capacidad del Estado para financiar servicios y 
 d) Que el dato demuestra que Chile no cobra ningún impuesto
 
 ✅ Respuesta correcta: **b y c**
-💬 *Retroalimentación:* El mismo dato admite lecturas distintas: para unos, una carga baja incentiva la inversión, el empleo y el crecimiento; para otros, limita los recursos del Estado para financiar servicios y políticas sociales.
+*Retroalimentación:* El mismo dato admite lecturas distintas: para unos, una carga baja incentiva la inversión, el empleo y el crecimiento; para otros, limita los recursos del Estado para financiar servicios y políticas sociales.
 
 ---
 
@@ -663,7 +663,7 @@ c) Mantener en secreto las decisiones públicas para que el mercado no reaccione
 d) Ganar el mayor sueldo posible en el cargo
 
 ✅ Respuesta correcta: **b) Actuar con honestidad y transparencia, anteponiendo el bien común; sin ella se debilita la confianza en el Estado que regula y fiscaliza el mercado**
-💬 *Retroalimentación:* La probidad se conecta con el rol regulador y fiscalizador del Estado.
+*Retroalimentación:* La probidad se conecta con el rol regulador y fiscalizador del Estado.
 
 ---
 
@@ -672,7 +672,7 @@ forma más equitativa a productores —especialmente pequeños productores— fr
 o grandes compradores.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* El comercio justo es un enfoque que busca mejores condiciones de precio
+*Retroalimentación:* El comercio justo es un enfoque que busca mejores condiciones de precio
 y trato para productores, muchas veces pequeños agricultores o artesanos, dentro de las cadenas
 comerciales.
 
@@ -685,7 +685,7 @@ c) Desarrollo sustentable
 d) Centralismo de las decisiones
 
 ✅ Respuesta correcta: **c) Desarrollo sustentable**
-💬 *Retroalimentación:* El desarrollo sustentable busca crecer sin comprometer el medioambiente ni el bienestar de futuras generaciones.
+*Retroalimentación:* El desarrollo sustentable busca crecer sin comprometer el medioambiente ni el bienestar de futuras generaciones.
 
 ---
 
@@ -698,7 +698,7 @@ c) Redistribuidora
 d) Proveedora de bienes y servicios
 
 ✅ Respuesta correcta: **a) Reguladora**
-💬 *Retroalimentación:* La función reguladora consiste en establecer las reglas del juego
+*Retroalimentación:* La función reguladora consiste en establecer las reglas del juego
 económico, como las normas de competencia o de protección al consumidor.
 
 ---
@@ -707,7 +707,7 @@ económico, como las normas de competencia o de protección al consumidor.
 económica mediante impuestos y gasto social.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Eso corresponde a la función **redistribuidora**; la función
+*Retroalimentación:* Eso corresponde a la función **redistribuidora**; la función
 estabilizadora usa herramientas de política fiscal y monetaria para moderar los ciclos de auge
 y crisis económica.
 
@@ -720,7 +720,7 @@ c) Fiscalizadora
 d) Asignadora de derechos de propiedad
 
 ✅ Respuesta correcta: **a) Estabilizadora**
-💬 *Retroalimentación:* El objetivo es moderar el ciclo económico.
+*Retroalimentación:* El objetivo es moderar el ciclo económico.
 
 ---
 
@@ -731,7 +731,7 @@ c) Porque solo el gobierno puede opinar sobre sueldos
 d) Porque algunas lo asocian a lo que determina el mercado según productividad y otras a un mínimo que garantice una vida digna; ambas son posturas legítimas
 
 ✅ Respuesta correcta: **d) Porque algunas lo asocian a lo que determina el mercado según productividad y otras a un mínimo que garantice una vida digna; ambas son posturas legítimas**
-💬 *Retroalimentación:* Unas perspectivas consideran justo el sueldo que fija el mercado según la productividad; otras, uno que garantice como mínimo una vida digna. Como dependen de valores distintos, ambas son posturas legítimas en el debate.
+*Retroalimentación:* Unas perspectivas consideran justo el sueldo que fija el mercado según la productividad; otras, uno que garantice como mínimo una vida digna. Como dependen de valores distintos, ambas son posturas legítimas en el debate.
 
 ---
 
@@ -744,7 +744,7 @@ c) Regulación de los precios de mercado de los bienes básicos
 d) Definición de la carga tributaria
 
 ✅ Respuesta correcta: **b) Probidad y fiscalización del uso de los recursos públicos**
-💬 *Retroalimentación:* Instituciones como la Contraloría existen para fiscalizar que
+*Retroalimentación:* Instituciones como la Contraloría existen para fiscalizar que
 funcionarios y autoridades actúen con probidad en el manejo de los recursos del Estado.
 
 ---
@@ -753,7 +753,7 @@ funcionarios y autoridades actúen con probidad en el manejo de los recursos del
 políticas y económicas, sobre cuánto debería intervenir el Estado en el mercado.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El grado de intervención estatal es uno de los debates más permanentes
+*Retroalimentación:* El grado de intervención estatal es uno de los debates más permanentes
 y legítimos de la vida democrática; conviven distintas posturas razonables al respecto.
 
 ---
@@ -765,7 +765,7 @@ c) La división de poderes del Estado frente al principio del Estado de Derecho
 d) Nada: ambas posturas buscan lo mismo
 
 ✅ Respuesta correcta: **b) Las condiciones para la inversión privada frente a la función redistribuidora del Estado**
-💬 *Retroalimentación:* Ambas posturas responden a lógicas válidas sobre la relación entre Estado y mercado.
+*Retroalimentación:* Ambas posturas responden a lógicas válidas sobre la relación entre Estado y mercado.
 
 ---
 
@@ -776,7 +776,7 @@ c) El comercio justo; el Estado podría intervenir con su función reguladora o 
 d) La soberanía popular; se debe convocar un plebiscito para fijar los precios que paga la empresa
 
 ✅ Respuesta correcta: **c) El comercio justo; el Estado podría intervenir con su función reguladora o fiscalizadora**
-💬 *Retroalimentación:* El comercio justo se conecta con funciones concretas del Estado frente al mercado.
+*Retroalimentación:* El comercio justo se conecta con funciones concretas del Estado frente al mercado.
 
 ---
 
@@ -852,7 +852,7 @@ c) Inalienabilidad
 d) Igualdad
 
 ✅ Respuesta correcta: **c) Inalienabilidad**
-💬 *Retroalimentación:* La inalienabilidad significa que los Derechos Humanos no se pueden
+*Retroalimentación:* La inalienabilidad significa que los Derechos Humanos no se pueden
 transferir ni renunciar, ni siquiera por decisión propia de la persona titular.
 
 ---
@@ -861,7 +861,7 @@ transferir ni renunciar, ni siquiera por decisión propia de la persona titular.
 políticos son más importantes que los derechos económicos, sociales y culturales.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* La indivisibilidad establece exactamente lo contrario: ningún grupo de
+*Retroalimentación:* La indivisibilidad establece exactamente lo contrario: ningún grupo de
 derechos tiene mayor jerarquía que otro; todos deben respetarse y garantizarse por igual.
 
 ---
@@ -879,7 +879,7 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **a) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* La universalidad significa que los derechos corresponden a todas las personas (1-B); la no discriminación, que no se puede excluir a nadie por su origen, sexo u otra condición (2-C), y la inalienabilidad, que no pueden transferirse ni renunciarse (3-A).
+*Retroalimentación:* La universalidad significa que los derechos corresponden a todas las personas (1-B); la no discriminación, que no se puede excluir a nadie por su origen, sexo u otra condición (2-C), y la inalienabilidad, que no pueden transferirse ni renunciarse (3-A).
 
 ---
 
@@ -890,7 +890,7 @@ c) Universalidad
 d) No discriminación
 
 ✅ Respuesta correcta: **c y d**
-💬 *Retroalimentación:* La titularidad de los Derechos Humanos no depende de la condición migratoria de la persona.
+*Retroalimentación:* La titularidad de los Derechos Humanos no depende de la condición migratoria de la persona.
 
 ---
 
@@ -901,7 +901,7 @@ c) Respetar: censurar la prensa cuando conviene. Proteger: discriminar a quienes
 d) Respetar: no censurar la prensa. Proteger: sancionar a empresas que discriminan. Garantizar: construir escuelas y financiar becas
 
 ✅ Respuesta correcta: **d) Respetar: no censurar la prensa. Proteger: sancionar a empresas que discriminan. Garantizar: construir escuelas y financiar becas**
-💬 *Retroalimentación:* Proteger los Derechos Humanos no es solo "no hacer daño", sino actuar activamente.
+*Retroalimentación:* Proteger los Derechos Humanos no es solo "no hacer daño", sino actuar activamente.
 
 ---
 
@@ -910,7 +910,7 @@ las violaciones sistemáticas a los Derechos Humanos no se justifican bajo ning�
 ideología.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Este es uno de los consensos más amplios del sistema democrático
+*Retroalimentación:* Este es uno de los consensos más amplios del sistema democrático
 internacional actual, independiente de las diferencias políticas legítimas que puedan existir
 sobre otros temas.
 
@@ -923,7 +923,7 @@ c) Un plebiscito con alta participación: violación de la universalidad
 d) Discriminación laboral por discapacidad: igualdad y no discriminación
 
 ✅ Respuesta correcta: **a, b y d**
-💬 *Retroalimentación:* Discriminar a alguien por su discapacidad vulnera la igualdad y no discriminación; desplazar a una comunidad afecta a la vez su vivienda, su trabajo y su salud, lo que muestra la indivisibilidad de los derechos.
+*Retroalimentación:* Discriminar a alguien por su discapacidad vulnera la igualdad y no discriminación; desplazar a una comunidad afecta a la vez su vivienda, su trabajo y su salud, lo que muestra la indivisibilidad de los derechos.
 
 ---
 
@@ -937,7 +937,7 @@ c) 1976
 d) 1990
 
 ✅ Respuesta correcta: **b) 1948**
-💬 *Retroalimentación:* La Declaración Universal de los Derechos Humanos fue proclamada por la
+*Retroalimentación:* La Declaración Universal de los Derechos Humanos fue proclamada por la
 Asamblea General de las Naciones Unidas en 1948, tras la Segunda Guerra Mundial.
 
 ---
@@ -949,7 +949,7 @@ c) Los derechos de quienes cumplen la ley, que se pierden al cometer cualquier d
 d) Los derechos que se compran con los impuestos que paga cada persona durante su vida
 
 ✅ Respuesta correcta: **b) Los derechos que corresponden a toda persona por el solo hecho de ser humana, sin distinción de ninguna condición**
-💬 *Retroalimentación:* Su base es la condición humana común a todas las personas.
+*Retroalimentación:* Su base es la condición humana común a todas las personas.
 
 ---
 
@@ -958,7 +958,7 @@ trate de forma distinta a las personas siempre que exista alguna diferencia entr
 esa diferencia no tenga ninguna justificación razonable.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El principio prohíbe la discriminación **arbitraria**, es decir, sin
+*Retroalimentación:* El principio prohíbe la discriminación **arbitraria**, es decir, sin
 justificación razonable; no cualquier trato distinto es discriminación, pero uno sin fundamento
 válido sí lo es.
 
@@ -971,7 +971,7 @@ c) El deber de proteger
 d) Ningún deber, porque no es el Estado quien impide la reunión
 
 ✅ Respuesta correcta: **c) El deber de proteger**
-💬 *Retroalimentación:* Respetar no basta: el Estado también debe proteger frente a vulneraciones cometidas por terceros.
+*Retroalimentación:* Respetar no basta: el Estado también debe proteger frente a vulneraciones cometidas por terceros.
 
 ---
 
@@ -984,7 +984,7 @@ c) Proporcionalidad
 d) Inalienabilidad
 
 ✅ Respuesta correcta: **c) Proporcionalidad**
-💬 *Retroalimentación:* Los cinco principios estudiados son universalidad, indivisibilidad,
+*Retroalimentación:* Los cinco principios estudiados son universalidad, indivisibilidad,
 inalienabilidad, igualdad y no discriminación; la proporcionalidad no forma parte de este
 conjunto.
 
@@ -997,7 +997,7 @@ c) Soberanía popular
 d) Inalienabilidad del voto
 
 ✅ Respuesta correcta: **a) Indivisibilidad**
-💬 *Retroalimentación:* Los derechos económicos, sociales y culturales tienen la misma jerarquía que los civiles y políticos.
+*Retroalimentación:* Los derechos económicos, sociales y culturales tienen la misma jerarquía que los civiles y políticos.
 
 ---
 
@@ -1008,7 +1008,7 @@ c) Porque dependen de la voluntad del gobierno de turno, que decide si los incor
 d) Porque corresponden a toda persona por el solo hecho de ser humana, y siguen siendo un estándar exigible aunque un país no los reconozca
 
 ✅ Respuesta correcta: **d) Porque corresponden a toda persona por el solo hecho de ser humana, y siguen siendo un estándar exigible aunque un país no los reconozca**
-💬 *Retroalimentación:* La universalidad hace de los Derechos Humanos un estándar anterior y superior a la legislación de cualquier país.
+*Retroalimentación:* La universalidad hace de los Derechos Humanos un estándar anterior y superior a la legislación de cualquier país.
 
 ---
 
@@ -1019,7 +1019,7 @@ c) Proteger: castigar a las personas con discapacidad que reclaman por sus derec
 d) Ninguno: la accesibilidad no es un derecho, sino una cortesía
 
 ✅ Respuesta correcta: **b) Garantizar: crear condiciones activas para el ejercicio efectivo del derecho**
-💬 *Retroalimentación:* Garantizar significa crear condiciones activas para que el derecho se ejerza; la accesibilidad universal exige que el Estado adapte los espacios públicos, no solo que se abstenga de discriminar.
+*Retroalimentación:* Garantizar significa crear condiciones activas para que el derecho se ejerza; la accesibilidad universal exige que el Estado adapte los espacios públicos, no solo que se abstenga de discriminar.
 
 ---
 
@@ -1096,7 +1096,7 @@ c) Comunitarismo
 d) Totalitarismo
 
 ✅ Respuesta correcta: **b) Liberalismo**
-💬 *Retroalimentación:* El liberalismo prioriza la libertad individual y el rol del Estado en
+*Retroalimentación:* El liberalismo prioriza la libertad individual y el rol del Estado en
 garantizarla, de modo que cada persona pueda definir y perseguir su propio proyecto de vida.
 
 ---
@@ -1105,7 +1105,7 @@ garantizarla, de modo que cada persona pueda definir y perseguir su propio proye
 suma de las preferencias individuales de cada persona.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El comunitarismo sostiene lo contrario: el bien común incluye valores,
+*Retroalimentación:* El comunitarismo sostiene lo contrario: el bien común incluye valores,
 identidades y lazos compartidos por la comunidad, que no se reducen a la simple suma de
 intereses individuales.
 
@@ -1124,7 +1124,7 @@ c) 1-C, 2-A, 3-B
 d) 1-C, 2-B, 3-A
 
 ✅ Respuesta correcta: **c) 1-C, 2-A, 3-B**
-💬 *Retroalimentación:* Cada corriente ofrece un fundamento distinto para pensar el bien común.
+*Retroalimentación:* Cada corriente ofrece un fundamento distinto para pensar el bien común.
 
 ---
 
@@ -1135,7 +1135,7 @@ c) Comunitarismo
 d) Ninguna perspectiva
 
 ✅ Respuesta correcta: **a) Republicanismo**
-💬 *Retroalimentación:* Participar por deber cívico se acerca al republicanismo; por intereses propios, al liberalismo; por identidad con el grupo, al comunitarismo.
+*Retroalimentación:* Participar por deber cívico se acerca al republicanismo; por intereses propios, al liberalismo; por identidad con el grupo, al comunitarismo.
 
 ---
 
@@ -1146,7 +1146,7 @@ c) Informarse y emitir juicios y opiniones para generar conciencia pública
 d) Ejercer un cargo de elección popular
 
 ✅ Respuesta correcta: **b y c**
-💬 *Retroalimentación:* Limpiar playas y ríos con otros jóvenes es participar en una organización comunitaria; además, al hacerlo visible, se informa y se genera conciencia pública. El mismo fenómeno combina ambas formas.
+*Retroalimentación:* Limpiar playas y ríos con otros jóvenes es participar en una organización comunitaria; además, al hacerlo visible, se informa y se genera conciencia pública. El mismo fenómeno combina ambas formas.
 
 ---
 
@@ -1154,7 +1154,7 @@ d) Ejercer un cargo de elección popular
 reconocida para el fortalecimiento del bien común.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El sufragio es una forma importante, pero existen muchas otras:
+*Retroalimentación:* El sufragio es una forma importante, pero existen muchas otras:
 organizaciones comunitarias, partidos políticos, e informarse y emitir opiniones fundadas sobre
 asuntos públicos, entre otras.
 
@@ -1167,7 +1167,7 @@ c) El republicanismo rechaza los derechos individuales y el liberalismo rechaza 
 d) El republicanismo enfatiza la participación activa y la virtud cívica; el liberalismo, garantizar la libertad individual para que cada persona persiga su proyecto de vida
 
 ✅ Respuesta correcta: **d) El republicanismo enfatiza la participación activa y la virtud cívica; el liberalismo, garantizar la libertad individual para que cada persona persiga su proyecto de vida**
-💬 *Retroalimentación:* El republicanismo pone el acento en la participación activa y la virtud cívica de los ciudadanos; el liberalismo, en asegurar la libertad de cada persona para seguir su propio proyecto de vida.
+*Retroalimentación:* El republicanismo pone el acento en la participación activa y la virtud cívica de los ciudadanos; el liberalismo, en asegurar la libertad de cada persona para seguir su propio proyecto de vida.
 
 ---
 
@@ -1181,7 +1181,7 @@ c) Republicanismo
 d) Ninguna de las anteriores
 
 ✅ Respuesta correcta: **b) Comunitarismo**
-💬 *Retroalimentación:* El comunitarismo sostiene que las personas se forman dentro de
+*Retroalimentación:* El comunitarismo sostiene que las personas se forman dentro de
 comunidades con valores, tradiciones e identidades compartidas, y que el bien común incluye
 esos lazos, y no solo la suma de preferencias individuales.
 
@@ -1192,7 +1192,7 @@ Estado garantice la libertad de cada individuo, sin que se espere un mayor invol
 las personas en los asuntos públicos.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Esa descripción corresponde al liberalismo; el republicanismo, en
+*Retroalimentación:* Esa descripción corresponde al liberalismo; el republicanismo, en
 cambio, valora especialmente la participación cívica activa como parte de la virtud ciudadana.
 
 ---
@@ -1206,7 +1206,7 @@ c) Organizaciones comunitarias y locales
 d) Evadir el pago de impuestos
 
 ✅ Respuesta correcta: **d) Evadir el pago de impuestos**
-💬 *Retroalimentación:* Las formas de participación estudiadas —sufragio, organizaciones
+*Retroalimentación:* Las formas de participación estudiadas —sufragio, organizaciones
 comunitarias, partidos políticos, informarse y opinar— buscan fortalecer el bien común; evadir
 impuestos no corresponde a ninguna de ellas.
 
@@ -1219,7 +1219,7 @@ c) Votar en el plebiscito
 d) Ninguna, porque difundir información en redes no es participación
 
 ✅ Respuesta correcta: **b) Informarse y emitir juicios y opiniones fundadas sobre asuntos públicos**
-💬 *Retroalimentación:* Ayudar a acceder a información verificada aporta al bien común aunque no implique votar.
+*Retroalimentación:* Ayudar a acceder a información verificada aporta al bien común aunque no implique votar.
 
 ---
 
@@ -1230,7 +1230,7 @@ c) Ambos valoran lo colectivo; el republicanismo enfatiza la participación cív
 d) El comunitarismo exige participación política obligatoria y el republicanismo la rechaza; ambos comparten la defensa de las tradiciones
 
 ✅ Respuesta correcta: **c) Ambos valoran lo colectivo; el republicanismo enfatiza la participación cívica activa y el comunitarismo, los lazos y tradiciones compartidas**
-💬 *Retroalimentación:* Ambos valoran lo colectivo, pero el republicanismo enfatiza la participación cívica activa y el comunitarismo, los lazos y las tradiciones que comparte una comunidad.
+*Retroalimentación:* Ambos valoran lo colectivo, pero el republicanismo enfatiza la participación cívica activa y el comunitarismo, los lazos y las tradiciones que comparte una comunidad.
 
 ---
 
@@ -1238,7 +1238,7 @@ d) El comunitarismo exige participación política obligatoria y el republicanis
 una de las formas de participación reconocidas para el fortalecimiento del bien común.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Los partidos políticos y las agrupaciones ciudadanas son una de las
+*Retroalimentación:* Los partidos políticos y las agrupaciones ciudadanas son una de las
 formas de participación mencionadas junto al sufragio, las organizaciones comunitarias y el
 informarse y opinar.
 
@@ -1251,7 +1251,7 @@ c) Con el comunitarismo, porque prioriza los lazos de la comunidad y las tradici
 d) Con ninguna perspectiva, porque no participar no tiene relación con el bien común
 
 ✅ Respuesta correcta: **a) Con el liberalismo llevado a un extremo; no representa al republicanismo, que valora la participación activa**
-💬 *Retroalimentación:* Un argumento puede "sonar" a una corriente sin representarla fielmente si se lleva a un extremo.
+*Retroalimentación:* Un argumento puede "sonar" a una corriente sin representarla fielmente si se lleva a un extremo.
 
 ---
 
@@ -1262,7 +1262,7 @@ c) El activismo digital de una comunidad indígena analizado como expresión de 
 d) El voluntariado analizado como prohibición de participar, desde el republicanismo
 
 ✅ Respuesta correcta: **b y c**
-💬 *Retroalimentación:* Un movimiento estudiantil es participación cívica activa, lo que calza con el republicanismo; el activismo digital de una comunidad indígena que defiende sus tradiciones calza con el comunitarismo. Cada análisis es coherente con su perspectiva.
+*Retroalimentación:* Un movimiento estudiantil es participación cívica activa, lo que calza con el republicanismo; el activismo digital de una comunidad indígena que defiende sus tradiciones calza con el comunitarismo. Cada análisis es coherente con su perspectiva.
 
 ---
 
@@ -1341,7 +1341,7 @@ c) El Gobernador o Gobernadora Regional
 d) El Ministro del Interior
 
 ✅ Respuesta correcta: **b) El alcalde o alcaldesa**
-💬 *Retroalimentación:* El alcalde o alcaldesa, junto al concejo municipal, encabeza la
+*Retroalimentación:* El alcalde o alcaldesa, junto al concejo municipal, encabeza la
 administración de la comuna, ambos elegidos por votación popular.
 
 ---
@@ -1350,7 +1350,7 @@ administración de la comuna, ambos elegidos por votación popular.
 Presidencial Regional cumplen exactamente el mismo rol en una región.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* El Gobernador Regional es una autoridad electa por votación popular,
+*Retroalimentación:* El Gobernador Regional es una autoridad electa por votación popular,
 mientras que el Delegado Presidencial Regional es designado por el gobierno central para
 representarlo en la región; sus funciones y su origen son distintos.
 
@@ -1369,7 +1369,7 @@ c) 1-B, 2-A, 3-C
 d) 1-B, 2-C, 3-A
 
 ✅ Respuesta correcta: **d) 1-B, 2-C, 3-A**
-💬 *Retroalimentación:* Cada escala tiene autoridades propias con distintas funciones y formas de elección.
+*Retroalimentación:* Cada escala tiene autoridades propias con distintas funciones y formas de elección.
 
 ---
 
@@ -1380,7 +1380,7 @@ c) Los vecinos quieren construir edificios de lujo en la franja costera y el mun
 d) El municipio no tiene ninguna responsabilidad en el uso del suelo, que deciden las inmobiliarias
 
 ✅ Respuesta correcta: **b) El acceso a un bien valioso (el borde costero) quedaría restringido a quienes puedan pagar, excluyendo el acceso público**
-💬 *Retroalimentación:* Si la franja costera se reserva para proyectos de alto valor sin áreas públicas, el acceso al borde costero quedaría limitado a quienes pueden pagar. Las decisiones de uso de suelo del municipio no son neutras.
+*Retroalimentación:* Si la franja costera se reserva para proyectos de alto valor sin áreas públicas, el acceso al borde costero quedaría limitado a quienes pueden pagar. Las decisiones de uso de suelo del municipio no son neutras.
 
 ---
 
@@ -1391,7 +1391,7 @@ c) Entrega información sobre cuántas personas viven en cada territorio y sus n
 d) Fija los sueldos de cada región
 
 ✅ Respuesta correcta: **c) Entrega información sobre cuántas personas viven en cada territorio y sus necesidades, para planificar escuelas, hospitales, vivienda y obras**
-💬 *Retroalimentación:* El censo es una herramienta de diagnóstico que orienta las políticas públicas territoriales.
+*Retroalimentación:* El censo es una herramienta de diagnóstico que orienta las políticas públicas territoriales.
 
 ---
 
@@ -1399,7 +1399,7 @@ d) Fija los sueldos de cada región
 efectos negativos de un proyecto sobre el territorio y sus comunidades antes de que se ejecute.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* El Sistema de Evaluación de Impacto Ambiental busca anticipar y mitigar
+*Retroalimentación:* El Sistema de Evaluación de Impacto Ambiental busca anticipar y mitigar
 los efectos de un proyecto —por ejemplo, industrial o de infraestructura— sobre el medioambiente
 y las comunidades del territorio donde se emplaza.
 
@@ -1412,7 +1412,7 @@ c) Organizar a los vecinos para solicitar formalmente una modificación del plan
 d) Participar en una instancia de consulta ciudadana municipal
 
 ✅ Respuesta correcta: **a, c y d**
-💬 *Retroalimentación:* Organizar a los vecinos para pedir una modificación del plan regulador, participar en una consulta municipal o presentar propuestas son acciones concretas que usan los mecanismos territoriales existentes.
+*Retroalimentación:* Organizar a los vecinos para pedir una modificación del plan regulador, participar en una consulta municipal o presentar propuestas son acciones concretas que usan los mecanismos territoriales existentes.
 
 ---
 
@@ -1425,7 +1425,7 @@ c) El Gobernador o Gobernadora Regional electo
 d) El concejo municipal
 
 ✅ Respuesta correcta: **b) El Delegado o Delegada Presidencial Provincial**
-💬 *Retroalimentación:* Cada provincia —subdivisión de una región— está encabezada por un
+*Retroalimentación:* Cada provincia —subdivisión de una región— está encabezada por un
 Delegado o Delegada Presidencial Provincial, designado por el gobierno central.
 
 ---
@@ -1435,7 +1435,7 @@ ningún rol reconocido en la configuración del territorio, ya que esa función 
 exclusivamente a las autoridades formales.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Las juntas de vecinos y otras organizaciones locales son actores
+*Retroalimentación:* Las juntas de vecinos y otras organizaciones locales son actores
 relevantes en la configuración del territorio: canalizan las necesidades e intereses de la
 comunidad ante el municipio y otras autoridades.
 
@@ -1448,7 +1448,7 @@ c) Comercio justo entre comunas vecinas
 d) Participación efectiva de los vecinos
 
 ✅ Respuesta correcta: **a) Zona de sacrificio, un ejemplo de falta de justicia ambiental**
-💬 *Retroalimentación:* La justicia ambiental pregunta quién carga con la contaminación dentro del territorio.
+*Retroalimentación:* La justicia ambiental pregunta quién carga con la contaminación dentro del territorio.
 
 ---
 
@@ -1459,7 +1459,7 @@ c) El presupuesto anual del municipio, que define cuánto se gasta en cada servi
 d) El instrumento que define los usos del suelo de la comuna; determina qué se puede edificar y dónde, afectando densidad, acceso a servicios y calidad del entorno
 
 ✅ Respuesta correcta: **d) El instrumento que define los usos del suelo de la comuna; determina qué se puede edificar y dónde, afectando densidad, acceso a servicios y calidad del entorno**
-💬 *Retroalimentación:* Un buen análisis conecta la definición técnica con consecuencias concretas.
+*Retroalimentación:* Un buen análisis conecta la definición técnica con consecuencias concretas.
 
 ---
 
@@ -1472,7 +1472,7 @@ c) Realiza únicamente el análisis de impacto ambiental
 d) Reemplaza las funciones del municipio
 
 ✅ Respuesta correcta: **b) Interviene y configura el territorio**
-💬 *Retroalimentación:* Junto con el censo y el análisis de impacto ambiental, la construcción
+*Retroalimentación:* Junto con el censo y el análisis de impacto ambiental, la construcción
 de obras públicas es una de las formas en que el Estado interviene y da forma al territorio.
 
 ---
@@ -1481,7 +1481,7 @@ de obras públicas es una de las formas en que el Estado interviene y da forma a
 organización política del territorio.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* El Congreso Nacional, junto al gobierno central, corresponde a la
+*Retroalimentación:* El Congreso Nacional, junto al gobierno central, corresponde a la
 escala nacional, la más amplia de las escalas territoriales estudiadas.
 
 ---
@@ -1493,7 +1493,7 @@ c) Estado de Derecho
 d) Soberanía popular
 
 ✅ Respuesta correcta: **b) Justicia social y ambiental**
-💬 *Retroalimentación:* El dato muestra que el acceso a áreas verdes depende de los ingresos de cada comuna; la justicia social y ambiental permite analizar críticamente esa distribución desigual.
+*Retroalimentación:* El dato muestra que el acceso a áreas verdes depende de los ingresos de cada comuna; la justicia social y ambiental permite analizar críticamente esa distribución desigual.
 
 ---
 
@@ -1504,7 +1504,7 @@ c) Que no basta con que exista un mecanismo de participación: su baja difusión
 d) Que el municipio cumplió plenamente con la participación ciudadana, porque lo importante es que el mecanismo exista
 
 ✅ Respuesta correcta: **c) Que no basta con que exista un mecanismo de participación: su baja difusión limita la incidencia real de la comunidad**
-💬 *Retroalimentación:* Hay que distinguir la existencia formal de una instancia de su efectividad real.
+*Retroalimentación:* Hay que distinguir la existencia formal de una instancia de su efectividad real.
 
 ---
 

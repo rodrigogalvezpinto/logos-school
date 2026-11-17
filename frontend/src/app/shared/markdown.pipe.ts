@@ -1,6 +1,7 @@
 import { RE_GRAFICO, htmlGrafico } from './graficos';
 import { RE_MAPA, htmlMapa } from './mapas';
 import { RE_PLANO, htmlPlano } from './plano';
+import { imgPictograma, reemplazarPictogramas } from './pictogramas';
 import { Pipe, PipeTransform, inject } from '@angular/core';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { marked } from 'marked';
@@ -268,7 +269,8 @@ function realzarGuia(html: string): string {
   resultado = resultado.replace(RE_FILA, (_m, lista) => htmlFila(lista));
   resultado = resultado.replace(RE_CONTAR, (_m, emoji, cantidad) => htmlContar(emoji, cantidad));
   resultado = resultado.replace(RE_FRACCION_VISUAL, (_m, n, d) => htmlFraccion(n, d));
-  resultado = resultado.replace(RE_DIBUJO, (_m, emoji) => `<span class="dibujo" role="img" aria-label="dibujo">${emoji}</span>`);
+  // El texto alternativo es «dibujo»: el nombre del objeto delataría la palabra que se pide escribir.
+  resultado = resultado.replace(RE_DIBUJO, (_m, emoji) => `<span class="dibujo" role="img" aria-label="dibujo">${imgPictograma(emoji, 'dibujo') ?? emoji}</span>`);
 
   // Procesar emoji: ::emoji::🦋::descripcion:: -> HTML visual
   resultado = resultado.replace(RE_EMOJI, (match, emoji, descripcion) => {
@@ -338,6 +340,6 @@ export class MarkdownPipe implements PipeTransform {
       .replace(RE_PLANO, (_m, d) => htmlPlano(d));
     const conMatematica = renderizarMatematica(conDibujos);
     const html = marked.parse(conMatematica, { async: false }) as string;
-    return this.sanitizer.bypassSecurityTrustHtml(realzarGuia(html));
+    return this.sanitizer.bypassSecurityTrustHtml(reemplazarPictogramas(realzarGuia(html)));
   }
 }

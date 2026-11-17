@@ -125,7 +125,7 @@ c) Islas del Caribe
 d) Cordillera de los Andes
 
 ✅ Respuesta correcta: **d) Cordillera de los Andes**
-💬 *Retroalimentación:* Los incas se desarrollaron en el espacio andino, a lo largo de la
+*Retroalimentación:* Los incas se desarrollaron en el espacio andino, a lo largo de la
 cordillera de los Andes, desde el sur de Colombia hasta la zona central de Chile (río Maule) y el noroeste de Argentina.
 
 ---
@@ -134,7 +134,7 @@ cordillera de los Andes, desde el sur de Colombia hasta la zona central de Chile
 decir, creían en un solo dios.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Eran politeístas: creían en varios dioses, muchos de ellos
+*Retroalimentación:* Eran politeístas: creían en varios dioses, muchos de ellos
 relacionados con fuerzas de la naturaleza como el sol, la lluvia o la tierra.
 
 ---
@@ -147,7 +147,7 @@ c) Gobierno encabezado por un líder supremo (monarquía)
 d) Uso de electricidad para su vida diaria
 
 ✅ Respuesta correcta: **d) Uso de electricidad para su vida diaria**
-💬 *Retroalimentación:* La electricidad no existía en esa época. Las tres civilizaciones sí
+*Retroalimentación:* La electricidad no existía en esa época. Las tres civilizaciones sí
 compartían una sociedad jerárquica, un gobierno monárquico y una economía agrícola.
 
 ---
@@ -159,7 +159,7 @@ c) Semejanza: ambas tenían como capital la ciudad de Cusco. Diferencia: solo lo
 d) Semejanza: ambas cultivaban en chinampas sobre los lagos. Diferencia: los incas vivían en México y los aztecas en la zona andina
 
 ✅ Respuesta correcta: **a) Semejanza: ambas eran monarquías politeístas de economía agrícola. Diferencia: los aztecas se desarrollaron en Mesoamérica (México) y los incas en la zona andina**
-💬 *Retroalimentación:* También es válido mencionar diferencias como la ciudad capital (Tenochtitlán sobre un lago vs. Cusco en la cordillera) o la forma de cultivar (chinampas vs. terrazas de cultivo).
+*Retroalimentación:* También es válido mencionar diferencias como la ciudad capital (Tenochtitlán sobre un lago vs. Cusco en la cordillera) o la forma de cultivar (chinampas vs. terrazas de cultivo).
 
 ---
 
@@ -173,7 +173,7 @@ c) Las dos zonas corresponden a los incas, que ocuparon primero México y luego 
 d) Zona A: mayas y aztecas (espacio mesoamericano); Zona B: incas (espacio andino)
 
 ✅ Respuesta correcta: **d) Zona A: mayas y aztecas (espacio mesoamericano); Zona B: incas (espacio andino)**
-💬 *Retroalimentación:* La zona A, en México y Centroamérica, es el espacio mesoamericano, donde vivieron mayas y aztecas; la zona B, en la cordillera de los Andes, es el espacio andino de los incas. Cada civilización se adaptó a su territorio.
+*Retroalimentación:* La zona A, en México y Centroamérica, es el espacio mesoamericano, donde vivieron mayas y aztecas; la zona B, en la cordillera de los Andes, es el espacio andino de los incas. Cada civilización se adaptó a su territorio.
 
 ---
 
@@ -184,7 +184,7 @@ c) Que era muy extenso y bien organizado, capaz de conectar territorios muy alej
 d) Que los incas vivían solo en Chile y desde ahí viajaban a otros territorios de América
 
 ✅ Respuesta correcta: **c) Que era muy extenso y bien organizado, capaz de conectar territorios muy alejados con una red de caminos**
-💬 *Retroalimentación:* El imperio inca abarcó varios países actuales y construyó caminos que cruzaban incluso un desierto. Esto también explica por qué encontramos huellas incas en el norte de nuestro país.
+*Retroalimentación:* El imperio inca abarcó varios países actuales y construyó caminos que cruzaban incluso un desierto. Esto también explica por qué encontramos huellas incas en el norte de nuestro país.
 
 ---
 
@@ -251,7 +251,7 @@ c) Tropical
 d) Mediterráneo
 
 ✅ Respuesta correcta: **c) Tropical**
-💬 *Retroalimentación:* El clima tropical se caracteriza por altas temperaturas y lluvias
+*Retroalimentación:* El clima tropical se caracteriza por altas temperaturas y lluvias
 abundantes durante todo el año, condiciones ideales para una selva tan densa como la
 amazónica.
 
@@ -261,7 +261,7 @@ amazónica.
 de los lugares más secos del mundo.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Efectivamente, el desierto de Atacama tiene zonas donde casi no llueve
+*Retroalimentación:* Efectivamente, el desierto de Atacama tiene zonas donde casi no llueve
 nunca, lo que lo convierte en uno de los desiertos más áridos del planeta.
 
 ---
@@ -274,7 +274,7 @@ c) Polar
 d) Desértico
 
 ✅ Respuesta correcta: **a) Mediterráneo**
-💬 *Retroalimentación:* El clima mediterráneo, presente en la zona central de Chile, tiene
+*Retroalimentación:* El clima mediterráneo, presente en la zona central de Chile, tiene
 veranos calurosos y secos, e inviernos más fríos y lluviosos.
 
 ---
@@ -288,7 +288,7 @@ c) (1) Amazonas — (2) Mississippi — (3) Biobío
 d) (1) Amazonas — (2) Biobío — (3) Mississippi
 
 ✅ Respuesta correcta: **c) (1) Amazonas — (2) Mississippi — (3) Biobío**
-💬 *Retroalimentación:* El Biobío es uno de los ríos más importantes de Chile y desemboca cerca de Concepción; el Amazonas es el más caudaloso del mundo y cruza Brasil; el Mississippi es uno de los ríos más largos de Estados Unidos.
+*Retroalimentación:* El Biobío es uno de los ríos más importantes de Chile y desemboca cerca de Concepción; el Amazonas es el más caudaloso del mundo y cruza Brasil; el Mississippi es uno de los ríos más largos de Estados Unidos.
 
 ---
 
@@ -299,7 +299,7 @@ c) Ciudad de México está junto al océano Pacífico, en una llanura costera co
 d) Lima está en medio de la selva amazónica, tiene clima frío de montaña y está junto al Río de la Plata
 
 ✅ Respuesta correcta: **a) Buenos Aires está en una zona de llanuras (relieve plano), tiene clima templado y está junto al Río de la Plata**
-💬 *Retroalimentación:* Una buena descripción nombra la ciudad y usa vocabulario geográfico correcto (clima, relieve, río, población). Las otras opciones usan los términos, pero con datos falsos.
+*Retroalimentación:* Una buena descripción nombra la ciudad y usa vocabulario geográfico correcto (clima, relieve, río, población). Las otras opciones usan los términos, pero con datos falsos.
 
 ---
 
@@ -310,7 +310,7 @@ c) Porque la selva y el desierto están en continentes distintos, aunque en el m
 d) Porque América es muy extensa, recorre distintas latitudes y tiene relieves muy diferentes, lo que genera climas y paisajes distintos
 
 ✅ Respuesta correcta: **d) Porque América es muy extensa, recorre distintas latitudes y tiene relieves muy diferentes, lo que genera climas y paisajes distintos**
-💬 *Retroalimentación:* América va desde zonas polares hasta el Ecuador y tiene cordillera, costa y llanuras; por eso cambian el clima y el paisaje en distancias que en un mapa parecen cortas.
+*Retroalimentación:* América va desde zonas polares hasta el Ecuador y tiene cordillera, costa y llanuras; por eso cambian el clima y el paisaje en distancias que en un mapa parecen cortas.
 
 ---
 
@@ -374,7 +374,7 @@ c) Los bosques
 d) El cobre
 
 ✅ Respuesta correcta: **d) El cobre**
-💬 *Retroalimentación:* El cobre es un mineral: una vez extraído de la mina, no se regenera.
+*Retroalimentación:* El cobre es un mineral: una vez extraído de la mina, no se regenera.
 Por eso se considera un recurso no renovable.
 
 ---
@@ -382,7 +382,7 @@ Por eso se considera un recurso no renovable.
 **2. (Verdadero o Falso)** Los recursos naturales son infinitos y nunca se pueden agotar.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Muchos recursos, especialmente los no renovables como los minerales,
+*Retroalimentación:* Muchos recursos, especialmente los no renovables como los minerales,
 se pueden agotar si se explotan sin cuidado. Incluso los renovables pueden agotarse si se
 usan más rápido de lo que la naturaleza los regenera.
 
@@ -397,7 +397,7 @@ c) Cada símbolo marca el recurso natural más característico de esa zona, seg�
 d) Los símbolos indican dónde viven más personas y cuáles son las ciudades más grandes de cada país
 
 ✅ Respuesta correcta: **c) Cada símbolo marca el recurso natural más característico de esa zona, según su clima, relieve y condiciones naturales**
-💬 *Retroalimentación:* Minería (cobre) en el norte de Chile, café en Colombia, pesca en la costa de Perú y Chile por la Corriente de Humboldt y recursos forestales/hídricos en Brasil por la selva amazónica: la distribución de los recursos no es al azar.
+*Retroalimentación:* Minería (cobre) en el norte de Chile, café en Colombia, pesca en la costa de Perú y Chile por la Corriente de Humboldt y recursos forestales/hídricos en Brasil por la selva amazónica: la distribución de los recursos no es al azar.
 
 ---
 
@@ -409,7 +409,7 @@ c) Corriente del Niño
 d) Corriente Antártica Circumpolar
 
 ✅ Respuesta correcta: **b) Corriente de Humboldt**
-💬 *Retroalimentación:* La Corriente de Humboldt trae aguas frías ricas en nutrientes desde
+*Retroalimentación:* La Corriente de Humboldt trae aguas frías ricas en nutrientes desde
 el sur, lo que favorece una gran cantidad de vida marina frente a las costas de Chile y Perú.
 
 ---
@@ -421,7 +421,7 @@ c) Para que sigan existiendo para las generaciones futuras, por ejemplo, no sobr
 d) Para que solo algunas personas puedan usarlos y las demás no, y así los recursos duren un poco más
 
 ✅ Respuesta correcta: **c) Para que sigan existiendo para las generaciones futuras, por ejemplo, no sobreexplotando la pesca**
-💬 *Retroalimentación:* Cuidar el agua, no sobreexplotar la pesca, reforestar bosques o usar el cobre de forma responsable permite que los recursos sigan existiendo en el futuro.
+*Retroalimentación:* Cuidar el agua, no sobreexplotar la pesca, reforestar bosques o usar el cobre de forma responsable permite que los recursos sigan existiendo en el futuro.
 
 ---
 
@@ -432,7 +432,7 @@ c) Permite pescar más durante esos meses, porque hay menos pescadores en el mar
 d) Sirve para que los pescadores descansen, sin efecto en los peces
 
 ✅ Respuesta correcta: **a) Da tiempo a que la especie se reproduzca y su población se recupere, para que no se agote**
-💬 *Retroalimentación:* Un recurso renovable como los peces puede agotarse si se sobreexplota; la veda permite que siga existiendo en el futuro.
+*Retroalimentación:* Un recurso renovable como los peces puede agotarse si se sobreexplota; la veda permite que siga existiendo en el futuro.
 
 ---
 
@@ -505,7 +505,7 @@ c) Usar trineos para transportarse sobre el hielo y la nieve
 d) Construir diques para contener grandes ríos caudalosos
 
 ✅ Respuesta correcta: **a) Construir atrapanieblas para obtener agua de la neblina**
-💬 *Retroalimentación:* Los atrapanieblas son una forma de adaptarse a la escasez de agua en
+*Retroalimentación:* Los atrapanieblas son una forma de adaptarse a la escasez de agua en
 zonas desérticas como el norte de Chile, aprovechando la neblina costera para obtener agua.
 
 ---
@@ -514,7 +514,7 @@ zonas desérticas como el norte de Chile, aprovechando la neblina costera para o
 transforman.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Las personas también transforman el paisaje: construyen canales,
+*Retroalimentación:* Las personas también transforman el paisaje: construyen canales,
 caminos, ciudades y tranques que cambian el entorno natural original.
 
 ---
@@ -526,7 +526,7 @@ c) Cercanía al mar → terrazas para cultivar en la nieve
 d) Mucha lluvia en el sur → techos inclinados para que escurra el agua
 
 ✅ Respuesta correcta: **d) Mucha lluvia en el sur → techos inclinados para que escurra el agua**
-💬 *Retroalimentación:* Una buena respuesta identifica una característica real del paisaje (lluvia en el sur, sequía en el norte, cordillera o mar) y una adaptación coherente, como los techos inclinados en zonas lluviosas o el riego en zonas secas. Piensa en cómo es el paisaje de tu región.
+*Retroalimentación:* Una buena respuesta identifica una característica real del paisaje (lluvia en el sur, sequía en el norte, cordillera o mar) y una adaptación coherente, como los techos inclinados en zonas lluviosas o el riego en zonas secas. Piensa en cómo es el paisaje de tu región.
 
 ---
 
@@ -537,7 +537,7 @@ c) Invernaderos de vidrio, que protegen los cultivos del frío intenso y las hel
 d) Canales de regadío, que llevan agua desde los ríos hacia una llanura extensa donde se siembra en grandes campos
 
 ✅ Respuesta correcta: **b) Terrazas de cultivo, que permiten sembrar en pendiente sin que el suelo y el agua se pierdan cuesta abajo**
-💬 *Retroalimentación:* Las terrazas son una solución ingeniosa que muestra cómo distintos pueblos americanos, incluyendo comunidades andinas en Chile, han adaptado técnicas agrícolas a un relieve difícil.
+*Retroalimentación:* Las terrazas son una solución ingeniosa que muestra cómo distintos pueblos americanos, incluyendo comunidades andinas en Chile, han adaptado técnicas agrícolas a un relieve difícil.
 
 ---
 
@@ -550,7 +550,7 @@ d) Zona central de Chile — ganadería ovina como principal adaptación al frí
 
 ✅ Respuesta correcta: **b) Desierto de Atacama — atrapanieblas para captar agua de la
 neblina**
-💬 *Retroalimentación:* Cada paisaje exige una adaptación distinta: en el desierto, el
+*Retroalimentación:* Cada paisaje exige una adaptación distinta: en el desierto, el
 desafío es la falta de agua; los atrapanieblas son una solución ingeniosa a ese problema
 específico.
 
@@ -563,7 +563,7 @@ c) Ambas buscan satisfacer necesidades humanas, pero en la ciudad se construyen 
 d) El campo construye rascacielos y autopistas para la cosecha, y la ciudad construye canales de riego y tranques para sus edificios
 
 ✅ Respuesta correcta: **c) Ambas buscan satisfacer necesidades humanas, pero en la ciudad se construyen edificios, calles y puentes, y en el campo canales de riego, tranques y terrenos cultivados**
-💬 *Retroalimentación:* Se parecen en su propósito (vivienda y transporte en la ciudad; producción de alimentos en el campo) y se diferencian en el tipo de construcción.
+*Retroalimentación:* Se parecen en su propósito (vivienda y transporte en la ciudad; producción de alimentos en el campo) y se diferencian en el tipo de construcción.
 
 ---
 
@@ -636,7 +636,7 @@ c) El alcalde o alcaldesa
 d) Un ministro
 
 ✅ Respuesta correcta: **c) El alcalde o alcaldesa**
-💬 *Retroalimentación:* El alcalde o alcaldesa es la autoridad máxima de una municipalidad y
+*Retroalimentación:* El alcalde o alcaldesa es la autoridad máxima de una municipalidad y
 es elegido por votación popular en cada comuna.
 
 ---
@@ -645,7 +645,7 @@ es elegido por votación popular en cada comuna.
 igual que los diputados.
 
 ✅ Respuesta correcta: **Falso**
-💬 *Retroalimentación:* Los ministros son nombrados por el Presidente de la República, no son
+*Retroalimentación:* Los ministros son nombrados por el Presidente de la República, no son
 elegidos por votación. En cambio, los diputados sí son elegidos por votación popular.
 
 ---
@@ -663,7 +663,7 @@ c) 1-B, 2-A, 3-C
 d) 1-C, 2-B, 3-A
 
 ✅ Respuesta correcta: **a) 1-C, 2-A, 3-B**
-💬 *Retroalimentación:* Cada autoridad ejerce su función en una institución distinta: el senador en el Congreso Nacional, el alcalde en la municipalidad, y el Presidente al mando del Gobierno.
+*Retroalimentación:* Cada autoridad ejerce su función en una institución distinta: el senador en el Congreso Nacional, el alcalde en la municipalidad, y el Presidente al mando del Gobierno.
 
 ---
 
@@ -675,7 +675,7 @@ c) El Gobierno Regional de cada región
 d) Los tribunales de justicia del país
 
 ✅ Respuesta correcta: **b) El Congreso Nacional (Parlamento)**
-💬 *Retroalimentación:* El Congreso Nacional, compuesto por senadores y diputados, es el
+*Retroalimentación:* El Congreso Nacional, compuesto por senadores y diputados, es el
 encargado de discutir, elaborar y aprobar las leyes del país.
 
 ---
@@ -687,7 +687,7 @@ c) No hay diferencia: los dos dirigen la municipalidad de una comuna, ambos son 
 d) Ambos son elegidos por votación, pero el diputado integra el Congreso y trabaja a nivel nacional (crear leyes), y el alcalde dirige una municipalidad en una comuna
 
 ✅ Respuesta correcta: **d) Ambos son elegidos por votación, pero el diputado integra el Congreso y trabaja a nivel nacional (crear leyes), y el alcalde dirige una municipalidad en una comuna**
-💬 *Retroalimentación:* Distinguir el nivel nacional (Congreso, leyes) del nivel comunal (municipalidad) es clave para entender quién resuelve cada tema.
+*Retroalimentación:* Distinguir el nivel nacional (Congreso, leyes) del nivel comunal (municipalidad) es clave para entender quién resuelve cada tema.
 
 ---
 
@@ -698,7 +698,7 @@ c) A los senadores del Congreso Nacional, porque ellos crean las leyes sobre pla
 d) A los jueces de los tribunales, porque deciden quién debe arreglar la plaza
 
 ✅ Respuesta correcta: **b) Al alcalde o alcaldesa y la municipalidad, porque la infraestructura local es responsabilidad municipal**
-💬 *Retroalimentación:* Los temas de infraestructura local, como plazas y calles de la comuna, son responsabilidad municipal, y no del Gobierno central ni del Congreso Nacional.
+*Retroalimentación:* Los temas de infraestructura local, como plazas y calles de la comuna, son responsabilidad municipal, y no del Gobierno central ni del Congreso Nacional.
 
 ---
 
@@ -764,7 +764,7 @@ c) No poder ir nunca al médico
 d) No poder opinar sobre decisiones que le afectan
 
 ✅ Respuesta correcta: **b) Recibir educación**
-💬 *Retroalimentación:* La educación es uno de los derechos fundamentales de todo niño y
+*Retroalimentación:* La educación es uno de los derechos fundamentales de todo niño y
 niña, reconocido tanto en Chile como internacionalmente.
 
 ---
@@ -773,7 +773,7 @@ niña, reconocido tanto en Chile como internacionalmente.
 escuchados.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* El derecho a expresarse es uno de los derechos reconocidos: los niños
+*Retroalimentación:* El derecho a expresarse es uno de los derechos reconocidos: los niños
 y niñas pueden dar su opinión, por ejemplo en su familia o en su escuela, y merecen ser
 escuchados.
 
@@ -786,7 +786,7 @@ c) Ejerzo mi derecho a la educación cuando voy todos los días a mi escuela a a
 d) Ejerzo mi derecho a la expresión cuando insulto a un compañero
 
 ✅ Respuesta correcta: **c) Ejerzo mi derecho a la educación cuando voy todos los días a mi escuela a aprender**
-💬 *Retroalimentación:* Los derechos (educación, recreación, alimentación, salud, expresión) se ejercen en situaciones cotidianas concretas, y siempre respetando los derechos de los demás.
+*Retroalimentación:* Los derechos (educación, recreación, alimentación, salud, expresión) se ejercen en situaciones cotidianas concretas, y siempre respetando los derechos de los demás.
 
 ---
 
@@ -799,7 +799,7 @@ c) Ningún derecho: es normal que los niños ayuden en las tareas del hogar
 d) Únicamente el derecho a la alimentación
 
 ✅ Respuesta correcta: **b) El derecho a la educación y el derecho al juego y al descanso**
-💬 *Retroalimentación:* Trabajar en condiciones que impiden estudiar y jugar afecta tanto el
+*Retroalimentación:* Trabajar en condiciones que impiden estudiar y jugar afecta tanto el
 derecho a la educación como el derecho al juego y al descanso. Además, se relaciona con el
 derecho a no trabajar antes de la edad apropiada.
 
@@ -809,7 +809,7 @@ derecho a no trabajar antes de la edad apropiada.
 básicos, sin importar el país donde vivan.
 
 ✅ Respuesta correcta: **Verdadero**
-💬 *Retroalimentación:* Los derechos de los niños y niñas —como la educación, la salud, la
+*Retroalimentación:* Los derechos de los niños y niñas —como la educación, la salud, la
 protección y la recreación— son reconocidos como derechos universales, es decir, valen para
 todos los niños y niñas del mundo, independiente de dónde vivan.
 
@@ -822,7 +822,7 @@ c) Resolverlo solo, peleando con quien no respeta sus derechos para defenderlo
 d) Esperar a que se solucione sola, sin contarle a nadie lo que vi en el colegio
 
 ✅ Respuesta correcta: **a) Contarle a un adulto de confianza (profesor, familiar o directivo) para pedir ayuda**
-💬 *Retroalimentación:* Reconocer el problema y buscar ayuda de un adulto de confianza es una forma de proteger los derechos propios y de los demás.
+*Retroalimentación:* Reconocer el problema y buscar ayuda de un adulto de confianza es una forma de proteger los derechos propios y de los demás.
 
 ---
 

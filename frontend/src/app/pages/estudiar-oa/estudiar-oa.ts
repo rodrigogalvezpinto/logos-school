@@ -1,7 +1,6 @@
 import { Component, Input, inject, signal } from '@angular/core';
 import { Location } from '@angular/common';
 import { RouterLink } from '@angular/router';
-import { environment } from '../../../environments/environment';
 import { CalificacionesService } from '../../core/calificaciones.service';
 import { ContenidoService, ObjetivoRespuesta } from '../../core/contenido.service';
 import { OnboardingService } from '../../core/onboarding.service';
@@ -29,7 +28,7 @@ export function esNombreIngles(nombre: string): boolean {
 
       <div class="acciones-guia">
         <app-boton-escuchar class="boton-guia" [texto]="oa.contenido_guia" />
-        <a [href]="urlPdf(oa.id)" target="_blank" rel="noopener" class="descargar-pdf">⬇ Descargar guía en PDF</a>
+        <button type="button" class="descargar-pdf" (click)="imprimirGuia(oa.codigo_oficial, oa.descripcion)">⬇ Descargar guía en PDF</button>
       </div>
       @if (esIngles()) {
         <app-pronunciacion-ingles />
@@ -98,6 +97,11 @@ export function esNombreIngles(nombre: string): boolean {
         display: block;
       }
       .descargar-pdf {
+        background: none;
+        border: 0;
+        padding: 0;
+        cursor: pointer;
+        font-family: inherit;
         font-size: 0.85rem;
         color: var(--color-primario);
         text-decoration: none;
@@ -353,8 +357,36 @@ export class EstudiarOa {
     this.location.back();
   }
 
-  urlPdf(oaId: number): string {
-    return `${environment.apiUrl}/contenido/objetivos/${oaId}/guia.pdf`;
+  /** PDF fiel a la pantalla (2026-11-17): abre la guía ya dibujada (fotos, pictogramas, mapas, gráficos, fórmulas)
+   * en una ventana limpia con los estilos de la app y abre «Imprimir», donde se elige «Guardar como PDF». El PDF del
+   * servidor (fpdf2, fuente latin-1) descartaba emoji, mapas, gráficos, tablas e imágenes. */
+  imprimirGuia(codigo: string, descripcion: string): void {
+    const contenido = document.querySelector('.contenido-guia')?.innerHTML ?? '';
+    const w = window.open('', '_blank');
+    if (!w) return;
+    const esc = (t: string) => t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    const estilos = Array.from(document.querySelectorAll('style, link[rel="stylesheet"]')).map((n) => n.outerHTML).join('');
+    w.document.write(
+      `<!doctype html><html lang="es"><head><meta charset="utf-8"><title>${esc(codigo)} — Logos School</title>` +
+        `<base href="${location.origin}/">${estilos}<style>` +
+        `body{background:#fff;margin:0;padding:18mm 16mm;color:#111827}` +
+        `.encabezado-impresion{display:flex;justify-content:space-between;align-items:baseline;border-bottom:2px solid #5B4FE9;margin-bottom:1rem}` +
+        `.encabezado-impresion strong{color:#5B4FE9;font-family:Poppins,sans-serif}` +
+        `.contenido-guia{box-shadow:none;border:0;padding:0}` +
+        `img,svg,table,.grafico,.callout{break-inside:avoid}@page{margin:12mm}` +
+        `</style></head><body><div class="encabezado-impresion"><strong>Logos School</strong><span>${esc(codigo)}</span></div>` +
+        `<h1>${esc(descripcion)}</h1><div class="contenido-guia">${contenido}</div></body></html>`,
+    );
+    w.document.close();
+    let impreso = false;
+    const imprimir = () => {
+      if (impreso) return;
+      impreso = true;
+      w.focus();
+      w.print();
+    };
+    w.onload = imprimir;
+    setTimeout(imprimir, 1500);
   }
 
   calificar(estrellas: number) {
