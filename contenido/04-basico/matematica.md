@@ -67,6 +67,23 @@ La comuna A tiene 4.560 habitantes y la comuna B tiene 4.650 habitantes. ¿Cuál
 
 Comparamos dígito por dígito, de izquierda a derecha: ambas tienen un 4 en las unidades de mil, así que miramos las centenas: la comuna A tiene 5 centenas y la comuna B tiene 6 centenas. Como 6 > 5, la comuna B tiene más habitantes: **4.650 > 4.560**.
 
+**Ejemplo 4 — Escribir números en palabras y en cifras**
+
+| En cifras | En palabras |
+|---|---|
+| 3.407 | tres mil cuatrocientos siete |
+| 9.050 | nueve mil cincuenta |
+| 6.218 | seis mil doscientos dieciocho |
+| 10.000 | diez mil |
+
+*Al revés:* «cinco mil seiscientos treinta» → **5.630**. Fíjate en el cero: no hay unidades, por eso se escribe 0 en ese lugar.
+
+Atención a las palabras especiales: 500 = **quinientos**, 700 = **setecientos**, 900 = **novecientos**.
+
+**Ejemplo 5 — Ordenar números**
+
+Ordena de menor a mayor: 4.312, 4.123, 3.999, 4.321. Se compara primero la unidad de mil: 3.999 es el menor. Entre los que empiezan con 4, se compara la centena: 4.123 < 4.312 < 4.321. Orden: **3.999 < 4.123 < 4.312 < 4.321**.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿En qué posición se ubica el dígito 7 en el número 7.352?
@@ -271,6 +288,26 @@ Estima el resultado de 189 × 4, redondeando 189 a la centena más cercana.
 
 189 se redondea a 200. Entonces 200 × 4 = **800** (una buena aproximación; el resultado exacto es 756).
 
+**Ejemplo 4 — El algoritmo vertical, paso a paso**
+
+Calcula 234 × 3 escribiendo en columna:
+
+```
+    1 1
+    2 3 4
+  ×     3
+  -------
+    7 0 2
+```
+
+1. **Unidades:** 4 × 3 = 12. Se escribe 2 y se **reserva** 1 (arriba de las decenas).
+2. **Decenas:** 3 × 3 = 9, más 1 de reserva = 10. Se escribe 0 y se reserva 1.
+3. **Centenas:** 2 × 3 = 6, más 1 de reserva = 7. Se escribe 7.
+
+Resultado: **234 × 3 = 702**.
+
+*Problema:* un bus lleva 128 pasajeros por día. ¿Cuántos lleva en 5 días? 128 × 5: 8 × 5 = 40 (escribo 0, reservo 4); 2 × 5 = 10 + 4 = 14 (escribo 4, reservo 1); 1 × 5 = 5 + 1 = 6. **640 pasajeros**.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Calcula 214 × 3 = ?
@@ -355,6 +392,18 @@ Esta relación te ayuda a comprobar tus divisiones: si sabes tus tablas de multi
 Se van a repartir 72 alfajores en partes iguales en 6 cajas. ¿Cuántos alfajores va en cada caja?
 
 72 ÷ 6 = **12 alfajores por caja**
+
+**Ejemplo 4 — La división paso a paso**
+
+Calcula 84 ÷ 4 repartiendo primero las decenas y luego las unidades:
+
+1. **Decenas:** 8 decenas ÷ 4 = 2 decenas (20).
+2. **Unidades:** 4 unidades ÷ 4 = 1 unidad.
+3. Resultado: 20 + 1 = **21**. Comprobación: 21 × 4 = 84 ✓.
+
+*Con resto:* 57 ÷ 4. Decenas: 5 ÷ 4 = 1 decena, sobra 1 decena (10). Unidades: 10 + 7 = 17; 17 ÷ 4 = 4, sobra 1. Resultado: **14, resto 1**. Comprobación: 14 × 4 + 1 = 57 ✓.
+
+*Problema:* se reparten 96 lápices en 3 cajas iguales. ¿Cuántos van en cada caja? 9 decenas ÷ 3 = 3 decenas; 6 ÷ 3 = 2. **32 lápices por caja**.
 
 #### Preguntas de autoevaluación
 
@@ -518,6 +567,16 @@ De las 12 canicas totales (denominador), 4 son rojas (numerador): **[frac: 4/12]
 ¿Qué fracción es mayor, [frac: 1/4] o [frac: 1/2], si ambas se refieren al mismo entero (por ejemplo, la misma torta)?
 
 Si divides una torta en 2 partes, cada parte es más grande que si la divides en 4 partes (mientras más partes iguales tenga el mismo entero, más pequeña es cada parte). Por lo tanto, **[frac: 1/2] > [frac: 1/4]**.
+
+**Ejemplo 4 — Fracciones en figuras**
+
+::fraccion::1::4::
+
+El rectángulo está dividido en **4 partes iguales** y hay **1 pintada**: representa **un cuarto** (1/4).
+
+::fraccion::3::4::
+
+Aquí hay **3 de 4 partes** pintadas: **tres cuartos** (3/4). Recuerda: las partes tienen que ser **iguales** para que sea una fracción. El número de abajo (denominador) dice en cuántas partes iguales se dividió el entero; el de arriba (numerador), cuántas se toman.
 
 #### Preguntas de autoevaluación
 

@@ -901,6 +901,21 @@ planetas gaseosos como Júpiter y Saturno).
    lejano, demora aproximadamente 165 años terrestres en completar una órbita, lo que
    ilustra que el período orbital aumenta con la distancia al Sol.
 
+4. **Comparar la Tierra con los demás planetas.** Los valores están expresados en relación con la Tierra (Tierra = 1):
+
+   | Planeta | Radio | Periodo orbital | Atmósfera principal | Gravedad superficial |
+   |---|---|---|---|---|
+   | Mercurio | 0,38 | 88 días | Casi sin atmósfera | 0,38 |
+   | Venus | 0,95 | 225 días | Dióxido de carbono, muy densa | 0,91 |
+   | Tierra | 1 | 365 días | Nitrógeno y oxígeno | 1 |
+   | Marte | 0,53 | 687 días | Dióxido de carbono, muy tenue | 0,38 |
+   | Júpiter | 11,2 | 11,9 años | Hidrógeno y helio | 2,5 |
+   | Saturno | 9,4 | 29,5 años | Hidrógeno y helio | 1,1 |
+   | Urano | 4,0 | 84 años | Hidrógeno, helio y metano | 0,9 |
+   | Neptuno | 3,9 | 165 años | Hidrógeno, helio y metano | 1,1 |
+
+   Lectura: mientras más lejos del Sol está un planeta, **más largo es su periodo orbital** (su «año»). Los planetas interiores (Mercurio a Marte) son **rocosos** y pequeños; los exteriores (Júpiter a Neptuno) son **gigantes gaseosos**. Una persona que pesa 50 kg en la Tierra «pesaría» como 19 kg en Marte (50 × 0,38) y como 125 kg en Júpiter (50 × 2,5). La Tierra es el único con una atmósfera rica en oxígeno y con agua líquida en su superficie.
+
 **Banco de preguntas de autoevaluación**
 
 1. *(Alternativas)* ¿Cuál es la causa principal de las estaciones climáticas en la

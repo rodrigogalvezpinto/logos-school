@@ -586,6 +586,21 @@ conectores más complejos (*although, so that, both...and, and last*).
    arte. Necesitas llegar temprano para conseguir asiento, pero no hace
    falta que compres entrada — es gratis.)
 
+**Vocabulario temático del año (temario oficial)**
+
+El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
+
+| Tema | Inglés = español |
+|---|---|
+| Trabajo y ocupaciones | engineer = ingeniero; accountant = contador; cook = cocinero; electrician = electricista; tourist guide = guía turístico; translator = traductor; technician = técnico; part-time / full-time = media jornada / jornada completa; savings = ahorros; account = cuenta; payment = pago; tiring = agotador; good at / keen on = bueno para / entusiasta de; apply to = postular a; quit = renunciar; get fired = ser despedido; CV = currículum; salesman = vendedor; lifeguard = salvavidas; bodyguard = guardaespaldas |
+| Educación y estudios | lifelong learning = aprendizaje durante toda la vida; drop out = abandonar los estudios; pass / fail = aprobar / reprobar; exam / examination = examen; certificate = certificado; scholarship = beca; degree = título; course = curso; e-learning = educación en línea; reliable = confiable; perseverance = perseverancia; give up = rendirse; make an effort = esforzarse; study hard = estudiar duro; textbook = libro de texto |
+| Las artes | composer = compositor; writer = escritor; painting = pintura; sculptor = escultor; watercolor = acuarela; wind/percussion/string instruments = instrumentos de viento/percusión/cuerda; drums = batería; harp = arpa; orchestra = orquesta; conductor = director; stage = escenario; backstage = tras bastidores; novel = novela; poem = poema; work of art = obra de arte; script / scriptwriter = guion / guionista; publisher = editorial; fond of = aficionado a |
+| Tradiciones y fiestas | belief = creencia; saint = santo; crowded = lleno de gente; festivity = festividad; colorful / cheerful = colorido / alegre; lanterns = faroles; fasting = ayuno; harvest = cosecha; mask = máscara; carnival = carnaval; handcraft / handmade = artesanía / hecho a mano; greetings = saludos; bow = reverencia; handshake = apretón de manos; hug = abrazo; inheritance = herencia; immigrants = inmigrantes |
+| Conectores del nivel | so that = para que; both… and = tanto… como; later = más tarde; last = por último; although = aunque; until = hasta que; first of all = antes que nada |
+| Duración | How long…? = ¿cuánto tiempo…?; for two years = por dos años; since 2015 = desde 2015; once / twice a week = una / dos veces a la semana |
+
+*Ejemplo:* *"Although she failed her first exam, she didn't give up. She studied hard, got a scholarship and now works full-time as a translator."* (Aunque reprobó su primer examen, no se rindió. Estudió duro, consiguió una beca y ahora trabaja jornada completa como traductora.)
+
 **Banco de autoevaluación**
 
 1. *(Alternativas — Completar)* Complete: *"There are ___ people living in that city."*

@@ -532,6 +532,22 @@ adverbios y conectores (*never/always/sometimes*; *first/next/then*).
    ¿Cuándo es tu viaje? — Es en diciembre, el día 20. Llegaré al aeropuerto a
    las 8 y luego entraré al terminal.)
 
+**Vocabulario temático del año (temario oficial)**
+
+El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
+
+| Tema | Inglés = español |
+|---|---|
+| Tecnologías de la información | social network = red social; website / site = sitio web; application = aplicación; learning tool = herramienta de aprendizaje; mass media = medios masivos; broadcast = transmitir; download/upload = descargar/subir; copy/paste = copiar/pegar; click on = hacer clic en; post messages = publicar mensajes; send/receive emails = enviar/recibir correos; text messaging = mensajes de texto; digital natives = nativos digitales; it belongs to = pertenece a |
+| Países y nacionalidades | United Kingdom-British; Chile-Chilean; Argentina-Argentinian; Peru-Peruvian; Brazil-Brazilian; China-Chinese; Singapore-Singaporean; United States-American; Italy-Italian; Spain-Spanish; Germany-German |
+| Culturas y costumbres | typical food = comida típica; landmark = lugar emblemático; monument = monumento; festival; tradition = tradición; custom = costumbre; symbol = símbolo; global village = aldea global; cultural diversity = diversidad cultural; amazing facts = datos asombrosos |
+| Vacaciones y viajes | catch a bus/train = tomar un bus/tren; arrive at (un lugar puntual) / in (ciudad o país); go on holidays = ir de vacaciones; eat out = comer fuera; buy souvenirs = comprar recuerdos; stay in a hotel / at a campsite / in a youth hostel = alojarse en…; by ferry/coach = en transbordador/bus interurbano; sightseeing = turismo; sunbathing = tomar sol; try local food = probar comida local; travel agent = agente de viajes |
+| Lugares | castle = castillo; cathedral = catedral; department store = tienda por departamentos; theatre = teatro; railway station = estación de tren; island = isla; seaside = costa; city centre = centro; market = mercado; underground = metro |
+| Temas del futuro | clean / renewable energy = energía limpia / renovable; solar/wind energy = energía solar/eólica; energy efficient = eficiente; smart cars = autos inteligentes; run out of = agotarse; artificial intelligence = inteligencia artificial; I suppose/guess/believe = supongo/creo; I'll probably… = probablemente…; I don't think I'll… = no creo que… |
+| Condiciones (if… will…) | *If I buy a car, it will be a solar car.* = Si compro un auto, será solar. La condición va en presente; el resultado, con *will*. |
+
+*Ejemplo:* *"If we use renewable energy, we won't run out of resources. I think smart cars will be common in the future."* (Si usamos energía renovable, no se nos agotarán los recursos. Creo que los autos inteligentes serán comunes en el futuro.)
+
 **Banco de autoevaluación**
 
 1. *(Alternativas — Completar)* Complete: *"There are ___ people at the concert tonight."*

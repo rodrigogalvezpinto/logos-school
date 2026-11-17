@@ -493,6 +493,21 @@ to*).
    melting!"* (Un helado se derrite si lo dejas al sol. —¿Comiste tu helado
    rápido? —Sí, porque se estaba derritiendo.)
 
+**Vocabulario temático del año (temario oficial)**
+
+El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
+
+| Tema | Inglés = español |
+|---|---|
+| Sentimientos y personalidad | angry = enojado; tired = cansado; excited = entusiasmado; nervous = nervioso; annoyed = molesto; bored = aburrido; upset = afligido; glad = contento; kind = amable; friendly = simpático |
+| Expresiones | afraid of = miedo de; make friends/plans/a mistake = hacer amigos/planes/cometer un error; give advice = dar consejos; I'm fed up with = estoy harto de; I'm sorry to hear that = lamento oír eso; I'm fond of = me gusta mucho; I feel… because… |
+| Actividades y tiempo libre | hang out = juntarse; go out = salir; surf/browse the net = navegar en internet; chat on the phone = conversar por teléfono; play board games = juegos de mesa; collect = coleccionar; go swimming/skating/dancing/camping |
+| Comida | grape = uva; lemon = limón; cabbage = repollo; carrot = zanahoria; biscuit = galleta; butter = mantequilla; cake = torta; a bottle of / a piece of / a glass of = una botella de / un trozo de / un vaso de; hungry = con hambre; thirsty = con sed; healthy food = comida sana; junk food = comida chatarra |
+| Deporte | referee = árbitro; spectators = espectadores; winner/loser = ganador/perdedor; team = equipo; court = cancha (tenis, básquetbol); pitch = cancha (fútbol); stadium = estadio; track = pista; pool = piscina; helmet = casco; bat = bate; sneakers = zapatillas; climbing = escalada |
+| Medio ambiente | pollution = contaminación; waste/garbage/trash/litter = desechos/basura; wildfire = incendio forestal; earthquake = terremoto; factory = fábrica; natural resources = recursos naturales; cut down = talar; destroy = destruir; pollute = contaminar; protect/save = proteger/salvar; plant trees = plantar árboles; second hand = de segunda mano |
+
+*Ejemplo:* *"I'm fed up with litter in the park. We should protect nature: let's plant trees and recycle plastic and glass."* (Estoy harto de la basura en el parque. Deberíamos proteger la naturaleza: plantemos árboles y reciclemos plástico y vidrio.)
+
 **Banco de autoevaluación**
 
 1. *(Alternativas — Completar)* Complete: *"There ___ too much noise in the classroom today."*

@@ -391,6 +391,14 @@ Restamos por separado: decenas con decenas (70-20=50) y unidades con unidades (8
 
 Para resolver 9+7, no necesitas contar de a uno: como ya sabes de memoria que 9+7=16, puedes usar ese resultado directamente y ahorrar tiempo. Estos hechos que aprendiste en 1° básico (sumas y restas hasta el 20) te ayudan a resolver problemas más grandes con mayor rapidez.
 
+**Ejemplo 4 — Crear tu propio problema y resolverlo**
+
+Para inventar un problema: 1) elige una situación; 2) usa dos números hasta 100 y una acción (juntar o agregar = sumar; quitar, gastar o comparar = restar); 3) termina con una pregunta.
+
+*Problema inventado:* «En el bus van 34 personas. En el paradero suben 25 más. ¿Cuántas personas van ahora en el bus?» → 34 + 25 = **59 personas**.
+
+*Otro, con resta:* «Tenía 80 láminas y regalé 35. ¿Cuántas me quedan?» → 80 − 35 = **45 láminas**.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Calcula: 34 + 52 = ?
@@ -588,6 +596,16 @@ Cada número disminuye en 10 respecto al anterior. La regla es **"restar 10"**. 
 Completa la secuencia: 22, 24, 26, ___, 30.
 
 La regla es "sumar 2" (22+2=24, 24+2=26). Entonces, el número que falta es 26+2=**28**.
+
+**Ejemplo 4 — Crear tu propio patrón**
+
+Para crear un patrón: 1) elige un **número de inicio**; 2) elige una **regla** (sumar o restar siempre lo mismo); 3) escribe al menos 5 números.
+
+*Patrón creciente creado:* inicio 4, regla «sumar 5» → 4, 9, 14, 19, 24, 29.
+
+*Patrón decreciente creado:* inicio 50, regla «restar 10» → 50, 40, 30, 20, 10, 0.
+
+Para comprobar tu patrón, revisa que entre cada número y el siguiente haya siempre la misma diferencia.
 
 #### Preguntas de autoevaluación
 
@@ -803,7 +821,7 @@ d) 6 palitos iguales: 3 arriba y 3 abajo
 
 ---
 
-### OA 16 — Figuras 3D: cubos, paralelepípedos, esferas y conos
+### OA 16 — Figuras 3D: cubos, paralelepípedos, esferas, conos, pirámides y cilindros
 
 Vas a describir y comparar las características de figuras 3D (con volumen): **cubos**, **paralelepípedos** (como una caja de zapatos), **esferas** (como una pelota) y **conos** (como un cucurucho de helado), usando material concreto. Vas a fijarte en sus caras, vértices y si tienen superficies curvas.
 
@@ -828,6 +846,16 @@ El **cono** tiene 1 cara circular (la base) y 1 vértice en la punta, con una su
 ::emoji::🎲::un dado (cubo) y una caja de zapatos (paralelepípedo)::
 
 Ambas figuras tienen 6 caras, 8 vértices y 12 aristas (los bordes donde se juntan dos caras). La diferencia es que en el cubo las 6 caras son cuadradas e iguales entre sí, mientras que en el paralelepípedo las caras son rectangulares, y no todas del mismo tamaño.
+
+**Ejemplo 4 — La pirámide y el cilindro**
+
+::emoji::🔺::una pirámide y una lata (cilindro)::
+
+La **pirámide** tiene una base plana (puede ser un cuadrado) y caras con forma de **triángulo** que se juntan en un vértice en la punta. Una pirámide de base cuadrada tiene 5 caras (1 cuadrado y 4 triángulos) y 5 vértices.
+
+El **cilindro** tiene **2 caras circulares** iguales (arriba y abajo) unidas por una superficie curva, como una lata de bebida o un tubo de papel. No tiene vértices, y por eso puede **rodar**.
+
+Para comparar: el cono tiene 1 cara circular y el cilindro tiene 2; la pirámide tiene caras planas y el cono tiene una superficie curva.
 
 #### Preguntas de autoevaluación
 

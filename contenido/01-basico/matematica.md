@@ -444,6 +444,14 @@ En una fiesta de cumpleaños hay 12 globos, y la mamá de Vicente infla 6 globos
 
 12 + 6 = **18 globos** en total.
 
+**Ejemplo 4 — Crear tu propio problema y resolverlo**
+
+Para inventar un problema, sigue tres pasos: 1) elige una **situación** (por ejemplo, frutas en una canasta); 2) pon **dos números** y una **acción** (llegan más = sumar; se van o se comen = restar); 3) termina con una **pregunta**.
+
+*Problema inventado:* «En la canasta hay 9 manzanas. Mamá trae 6 más. ¿Cuántas manzanas hay ahora?»
+
+Se resuelve: 9 + 6 = **15 manzanas**. Ahora inventa uno tú con la acción de restar: «Tengo 12 globos y se revientan 4. ¿Cuántos me quedan?» → 12 − 4 = **8 globos**.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** Calcula: 4 + 3 = ?

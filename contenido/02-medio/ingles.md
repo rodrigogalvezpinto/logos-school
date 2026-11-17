@@ -589,6 +589,21 @@ more people if he spoke English*).
    podría ser difícil. A menos que hables con ella pronto, el problema
    empeorará, y ninguno de los dos se sentirá cómodo en el colegio.)
 
+**Vocabulario temático del año (temario oficial)**
+
+El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
+
+| Tema | Inglés = español |
+|---|---|
+| Globalización y comunicación | globalization = globalización; go global = expandirse al mundo; think globally = pensar globalmente; global issues = problemas mundiales; global warming = calentamiento global; water/food shortage = escasez de agua/alimentos; threat / threaten = amenaza / amenazar; growth = crecimiento; stereotype = estereotipo; goods = bienes; wealthy = rico; dependence = dependencia; abroad = en el extranjero; brands = marcas; ageing = envejecimiento; lately / recently = últimamente / recientemente |
+| La tecnología y sus efectos | benefits = beneficios; dependency = dependencia; out of date / up to date = obsoleto / actualizado; convenient = práctico; long lasting = duradero; skills = habilidades; search engine = buscador; advantage / disadvantage = ventaja / desventaja; privacy = privacidad; cloud = nube; streaming = transmisión en línea; social media = redes sociales; device = dispositivo; online shopping = compras en línea; allow = permitir |
+| Líderes y personajes destacados | role model = modelo a seguir; leader / lead / follow = líder / liderar / seguir; admire = admirar; brave / courageous = valiente; perseverant = perseverante; hardworking = trabajador; outgoing = extrovertido; thoughtful = considerado; achieve = lograr; make decisions = tomar decisiones; influential = influyente; contribution = aporte; quotation = cita; I'd rather = preferiría |
+| Desarrollo sustentable | sustainable = sustentable; environmentally friendly = amigable con el medio ambiente; carbon footprint = huella de carbono; polluted = contaminado; solar panel = panel solar; windmill = molino de viento; oil = petróleo; ozone layer = capa de ozono; greenhouse effect / gases = efecto / gases invernadero; alternative energy = energía alternativa; urbanization = urbanización; greed = codicia; look after = cuidar; look for = buscar |
+| Acuerdo y desacuerdo | I agree with… = estoy de acuerdo con…; I disagree with… = no estoy de acuerdo con…; That's true / false = es verdad / falso; What if…? = ¿qué pasaría si…? |
+| Cantidades | little / a little (incontable) = poco / un poco; few / a few (contable) = pocos / unos pocos. *There is little communication; there are a few girls.* |
+
+*Ejemplo:* *"I agree that social media has advantages, but it can also create dependency. In my opinion, a good role model uses technology to raise awareness about global warming."* (Estoy de acuerdo en que las redes sociales tienen ventajas, pero también pueden crear dependencia. En mi opinión, un buen modelo a seguir usa la tecnología para crear conciencia sobre el calentamiento global.)
+
 **Banco de autoevaluación**
 
 1. *(Alternativas — Completar)* Complete: *"There is ___ time left before the exam, so let's hurry."*

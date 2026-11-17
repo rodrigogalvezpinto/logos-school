@@ -1121,6 +1121,21 @@ El área de un trapecio se calcula con la fórmula: **Área = ((base mayor + bas
 
 Un trapecio tiene base mayor de 10 cm, base menor de 6 cm y altura de 4 cm. Su área es: ((10+6) × 4) ÷ 2 = (16 × 4) ÷ 2 = 64 ÷ 2 = **32 cm²**
 
+**Ejemplo 4 — Estimar el área de una figura irregular con cuadrícula**
+
+Una mancha de pintura se dibuja sobre una cuadrícula de cuadrados de 1 cm × 1 cm. Se cuentan los cuadrados **completos** que cubre y los cuadrados **parciales** (cubiertos más o menos a la mitad):
+
+| Tipo de cuadrado | Cantidad | Equivale a |
+|---|---|---|
+| Completos ■ | 14 | 14 cm² |
+| Parciales ◩ (cada uno ≈ medio) | 8 | 8 ÷ 2 = 4 cm² |
+
+Área estimada: 14 + 4 = **18 cm²** (aproximadamente).
+
+Otras dos estrategias:
+- **Comparar con un rectángulo:** si la mancha cabe en un rectángulo de 6 cm × 4 cm = 24 cm², su área es **menor que 24 cm²**.
+- **Completar por traslación:** si un trozo que sobresale de un lado calza en un hueco del otro lado, se «mueve» mentalmente ese trozo hasta formar una figura conocida (un rectángulo) y se calcula su área con la fórmula.
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas).** ¿Cuál es el área de un triángulo con base 10 cm y altura 6 cm?

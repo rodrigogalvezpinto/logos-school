@@ -147,6 +147,20 @@ uniformadas, con el lema "un pueblo, un partido, un líder". *Paso a paso:* iden
 fuente dos rasgos típicos del totalitarismo: el liderazgo único y la idea de un pueblo
 homogéneo sin espacio para el disenso o el pluralismo político.
 
+**Ejemplo 4 — Comparando tres populismos latinoamericanos con criterios**
+
+| Criterio | Argentina: Juan Domingo Perón (1946-1955) | Brasil: Getúlio Vargas (1930-1945 y 1951-1954) | México: Lázaro Cárdenas (1934-1940) |
+|---|---|---|---|
+| Origen | Militar; llega al poder por elecciones con apoyo obrero | Llega con la Revolución de 1930; desde 1937 gobierna con el autoritario *Estado Novo* | Elegido por el Partido Nacional Revolucionario, heredero de la Revolución mexicana |
+| Base de apoyo | Trabajadores urbanos y sindicatos («descamisados») | Trabajadores urbanos, con sindicatos controlados por el Estado | Campesinos y obreros organizados |
+| Discurso | Justicia social, soberanía económica, nacionalismo | Nacionalismo, «padre de los pobres» | Nacionalismo y cumplimiento de la Revolución |
+| Políticas | Derechos laborales, industrialización, nacionalización de ferrocarriles | Leyes del trabajo, salario mínimo, industria estatal (acero, petróleo) | Reforma agraria (reparto de tierras) y **nacionalización del petróleo (1938)** |
+
+*Paso a paso:* comparamos con los mismos cuatro criterios. Los tres comparten un líder carismático, el apoyo de las masas
+populares, el nacionalismo económico y un Estado que impulsa la industria y los derechos sociales. Se diferencian en su
+relación con la democracia: Vargas gobernó como dictador en el *Estado Novo*, mientras Perón y Cárdenas llegaron por
+elecciones (aunque Perón restringió a la prensa y a la oposición).
+
 #### Autoevaluación — OA 2
 
 **1. (Alternativas)** ¿Qué acontecimiento se reconoce como el principal detonante de la crisis

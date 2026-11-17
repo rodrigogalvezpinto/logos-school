@@ -475,6 +475,23 @@ this?*, *Where is the cat?*, *Is this your book? Yes, it is. / No, it isn't.*).
 3. **Pregunta y respuesta:** *"Is this your book? Yes, it is."* / *"Is he your
    father? No, he isn't, he is my uncle."*
 
+**Vocabulario temático del año (temario oficial)**
+
+El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
+
+| Tema | Inglés = español |
+|---|---|
+| La escuela | pencil case = estuche; eraser = goma; ruler = regla; sharpener = sacapuntas; board = pizarra; desk = escritorio; classroom = sala; playground = patio; library = biblioteca; Math, Science, Art, Music, History, P.E. = Matemática, Ciencias, Arte, Música, Historia, Ed. Física |
+| La familia | father/dad = papá; mother/mom = mamá; brother = hermano; sister = hermana; grandfather = abuelo; grandmother = abuela; baby = bebé |
+| Días | Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday = lunes a domingo |
+| La casa | bedroom = dormitorio; kitchen = cocina; living room = living; dining room = comedor; garden = jardín; wall = muralla; lamp = lámpara; bed = cama; sofa/armchair = sofá/sillón; shower = ducha; cup/glass/dish = taza/vaso/plato |
+| La comida | breakfast = desayuno; lunch = almuerzo; dinner = cena; bread = pan; cheese = queso; eggs = huevos; ham = jamón; meat = carne; chicken = pollo; fish = pescado; rice = arroz; potatoes = papas; lettuce = lechuga; pear = pera; juice = jugo; milk = leche; tea = té |
+| La ropa | t-shirt = polera; pants = pantalón; shorts = pantalón corto; skirt = falda; dress = vestido; shirt/blouse = camisa/blusa; sweater = chaleco; coat = abrigo; socks = calcetines; shoes/boots/sandals = zapatos/botas/sandalias; wear / put on = usar / ponerse |
+| El clima y las estaciones | sunny = soleado; cloudy = nublado; rainy = lluvioso; windy = ventoso; warm = templado; cold = frío; summer = verano; fall = otoño; winter = invierno; spring = primavera |
+| Opuestos y expresiones | big-small; new-old; quiet-noisy; fast-slow; happy-sad; tall-short; open-shut; hurry up = apúrate; I'm fine = estoy bien; Happy birthday; Merry Christmas |
+
+*Ejemplo:* *"It's cold and rainy today, so I put on my coat and boots. For breakfast I have bread, cheese and milk."* (Hoy hace frío y llueve, así que me pongo el abrigo y las botas. De desayuno como pan, queso y leche.)
+
 **Banco de autoevaluación**
 
 1. *(Alternativas — completar)* Complete: *"___ is a ball on the chair."*

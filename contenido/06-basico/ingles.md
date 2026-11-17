@@ -507,6 +507,22 @@ expresar **posesión** (*it is his/her/our car; this is Pedro's pet*) y formular
    many sheep and two geese. I felt happy."* (Ayer visité la granja de mi abuela.
    Había muchas ovejas y dos gansos. Me sentí feliz.)
 
+**Vocabulario temático del año (temario oficial)**
+
+El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
+
+| Tema | Inglés = español |
+|---|---|
+| Comida y salud | Here you are = aquí tienes; You're welcome = de nada; Can I have the salad, please? = ¿me da la ensalada?; How much is it? = ¿cuánto cuesta?; What's the matter? = ¿qué te pasa?; I feel sick = me siento mal; I have a cold / a headache / a stomachache / a cough = estoy resfriado / me duele la cabeza / el estómago / tengo tos; empty-full = vacío-lleno |
+| Ocupaciones | vet = veterinario; mechanic = mecánico; driver = conductor; mail carrier = cartero; police officer = carabinero; firefighter = bombero; nurse = enfermera; farmer = agricultor; dentist = dentista; builder = constructor; waiter/waitress = mesero/a; What does he do? He is a teacher = ¿en qué trabaja? Es profesor |
+| Lugares de la ciudad | police station = comisaría; mall = centro comercial; bus/train/subway station = terminal de buses / estación de tren / de metro; bank = banco; church = iglesia; traffic light = semáforo; zebra crossing = paso de cebra; stop sign = señal pare; footbridge = pasarela; sidewalk = vereda; How can I get to…? = ¿cómo llego a…? |
+| Ubicación | next to = al lado de; in front of = frente a; behind = detrás de; between = entre; across from = al frente; on the corner = en la esquina. *The bank is next to the hotel.* |
+| Animales y hábitats | forest = bosque; jungle = selva; desert = desierto; lake/river/sea = lago/río/mar; fox = zorro; snake = serpiente; goat = cabra; parrot = loro; whale = ballena; shark = tiburón; wolf = lobo; hen = gallina; frog = rana; bear = oso; bee = abeja; seal = foca; duck = pato |
+| Plurales irregulares | child-children; sheep-sheep; fish-fish; goose-geese |
+| Viajes y transporte | travel by bus/train/car/ship/boat/bicycle/airplane = viajar en…; beach = playa; countryside = campo; farm = granja; woods = bosque; camping; have fun = pasarlo bien; vacations / holiday = vacaciones / feriado; bored = aburrido; tired = cansado; boring/noisy/fun/nice = aburrido/ruidoso/entretenido/agradable |
+
+*Ejemplo:* *"Last summer we traveled by bus to the countryside. The farm was quiet and fun, but I was tired."* (El verano pasado viajamos en bus al campo. La granja era tranquila y entretenida, pero yo estaba cansado.)
+
 **Banco de autoevaluación**
 
 1. *(Alternativas — completar)* Complete with the present continuous: *"Look! The children ___ in the park right now."*

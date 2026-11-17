@@ -401,6 +401,23 @@ Para calcular 7×8, podemos separar el 7 en 5+2, y usar tablas que ya conocemos:
 
 Sin hacer cálculos largos, ¿cuánto es 9×6? Como ya conoces la tabla del 9, sabes de memoria que 9×6=**54**.
 
+**Ejemplo 4 — De la imagen al número: grupos iguales**
+
+::emoji::🍪::4 platos, cada uno con 3 galletas::
+
+Hay **4 grupos** de **3 galletas**. Se puede contar sumando 3 + 3 + 3 + 3 = 12, o escribir la multiplicación: **4 × 3 = 12**.
+
+También se puede dibujar como una **matriz** (filas y columnas):
+
+| | | |
+|---|---|---|
+| 🍪 | 🍪 | 🍪 |
+| 🍪 | 🍪 | 🍪 |
+| 🍪 | 🍪 | 🍪 |
+| 🍪 | 🍪 | 🍪 |
+
+4 filas de 3 = **4 × 3 = 12**. Si la giras, son 3 filas de 4: 3 × 4 = 12 (el orden no cambia el resultado).
+
 #### Preguntas de autoevaluación
 
 **Pregunta 1 (alternativas — completar).** La suma 8+8+8+8 tiene 4 sumandos iguales a 8. ¿Cómo se escribe como multiplicación?
@@ -760,6 +777,14 @@ Cada número disminuye en 10 respecto al anterior. La regla es **"restar 10"**. 
 Completa la secuencia: 108, 116, 124, ___, 140.
 
 La regla es "sumar 8" (108+8=116, 116+8=124). Entonces, el número que falta es 124+8=**132**.
+
+**Ejemplo 4 — Crear un patrón en la tabla del 100**
+
+Para crear un patrón: elige un número de inicio y una regla, y marca los números en la tabla del 100.
+
+*Patrón creado:* inicio 7, regla «sumar 11» → 7, 18, 29, 40, 51, 62. En la tabla del 100 estos números forman una **diagonal**, porque sumar 11 es bajar una fila (+10) y avanzar una columna (+1).
+
+*Otro patrón:* inicio 95, regla «restar 15» → 95, 80, 65, 50, 35, 20.
 
 #### Preguntas de autoevaluación
 
