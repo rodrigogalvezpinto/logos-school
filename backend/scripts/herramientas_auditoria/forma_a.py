@@ -77,7 +77,7 @@ def sesgos(preguntas: list[P]) -> list[int]:
 
 
 def armar(ruta_b: Path, ruta_a: Path, preguntas: list[P], fila, reemplazos: dict[str, str] | None = None,
-          inicio_preguntas: str | None = None, separador_pauta: str = r"^\|[-| ]+\|$", nota_varias=None) -> None:
+          inicio_preguntas: str | None = None, separador_pauta: str = r"^\|[-|: ]+\|$", nota_varias=None) -> None:
     b = ruta_b.read_text(encoding="utf-8")
     corte = b.index(inicio_preguntas) if inicio_preguntas else re.search(r"^## ", b[b.index("\n---\n", 5) + 5:], re.M).start() + b.index("\n---\n", 5) + 5
     cabeza = b[:corte]
