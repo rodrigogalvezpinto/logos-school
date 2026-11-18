@@ -83,6 +83,7 @@ RUTAS_PUBLICAS_A_PROPOSITO = {
     ("GET", "/contenido/objetivos/{oa_id}"): "temario oficial — contenido de exploración libre",
     ("GET", "/contenido/objetivos/{oa_id}/guia.pdf"): "mismo contenido de estudio público que /contenido/objetivos/{oa_id}, exportado a PDF (Fase 1, ítem 2.5)",
     ("GET", "/evaluaciones/autoevaluacion/{oa_id}"): "banco de práctica — sin datos personales de un alumno",
+    ("GET", "/evaluaciones/juego/asignatura/{asignatura_id}"): "juegos de práctica: el mismo banco de autoevaluación de la asignatura — sin datos personales de un alumno",
     ("GET", "/evaluaciones/conjuntos/{conjunto_id}"): "preguntas sin respuesta_correcta — sin datos personales",
     ("GET", "/plan-lector/nivel/{nivel_id}"): "lista curada de libros por nivel — contenido de exploración libre, igual que /contenido/niveles",
     ("GET", "/utiles-escolares/nivel/{nivel_id}"): "lista de útiles escolares por nivel — contenido de exploración libre, igual que /contenido/niveles",

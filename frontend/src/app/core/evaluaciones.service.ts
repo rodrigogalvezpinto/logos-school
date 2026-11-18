@@ -65,6 +65,13 @@ export class EvaluacionesService {
     return this.http.get<PreguntaAutoevaluacion[]>(`${this.base}/evaluaciones/autoevaluacion/${oaId}`);
   }
 
+  /** Juegos de práctica: preguntas cerradas al azar del banco de autoevaluación de toda la asignatura. */
+  obtenerPreguntasJuego(asignaturaId: number, cantidad = 40): Observable<PreguntaAutoevaluacion[]> {
+    return this.http.get<PreguntaAutoevaluacion[]>(`${this.base}/evaluaciones/juego/asignatura/${asignaturaId}`, {
+      params: { cantidad },
+    });
+  }
+
   listarConjuntosDeAsignatura(asignaturaId: number, perfilAlumnoId?: number): Observable<ConjuntoResumen[]> {
     return this.http.get<ConjuntoResumen[]>(`${this.base}/evaluaciones/conjuntos/asignatura/${asignaturaId}`, {
       params: perfilAlumnoId ? { perfil_alumno_id: perfilAlumnoId } : {},

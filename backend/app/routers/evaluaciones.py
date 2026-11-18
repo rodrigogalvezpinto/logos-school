@@ -14,7 +14,9 @@ responder, entregar) pasan por casos de uso que orquestan el agregado de dominio
 
 from datetime import datetime
 
-from fastapi import APIRouter, Depends, HTTPException, Request
+import re
+
+from fastapi import APIRouter, Depends, HTTPException, Query, Request
 from pydantic import BaseModel, Field
 
 from app.application.evaluaciones.casos_de_uso import (
@@ -106,6 +108,36 @@ def obtener_autoevaluacion(oa_id: int, repositorio: RepositorioPreguntas = Depen
     # Al azar en cada llamada: no hay un intento que retomar que proteger, y que la
     # práctica se sienta distinta cada vez es justamente el objetivo.
     return mezclar_orden_al_azar(repositorio.buscar_por_oa(oa_id))
+
+
+TIPOS_JUEGO = ("alternativas", "verdadero_falso", "varias_correctas")
+# En el juego la pregunta aparece sola, fuera de su guía: se excluyen las que remiten a un texto, tabla o ejemplo de la
+# guía («Según el cuento…», «la tabla del Ejemplo 1») sin traerlo citado. Heurística: no detecta todos los casos.
+_REMITE_A_TEXTO = re.compile(
+    r"\b(el|del|al|este|ese|la|esta|esa)\s+(texto|fragmento|relato|cuento|poema|columna|noticia|reportaje|mito|leyenda|"
+    r"afiche|aviso|art[ií]culo|di[aá]logo|estrofa|verso|lectura|narraci[oó]n|obra|carta|caso|nota)\b"
+    r"|\bseg[uú]n\s+(el|la)\b|\b(Texto|Fuente)\s+[A-Z1-9]\b|\bEjemplo\s+\d",
+    re.IGNORECASE,
+)
+_TRAE_CITA = re.compile(r"[\"«“]|^>|Read:|\|.*\|", re.MULTILINE)
+
+
+def sirve_para_juego(p) -> bool:
+    return p.tipo in TIPOS_JUEGO and not (_REMITE_A_TEXTO.search(p.enunciado) and not _TRAE_CITA.search(p.enunciado))
+
+
+@router.get("/juego/asignatura/{asignatura_id}", response_model=list[PreguntaAutoevaluacion])
+def obtener_preguntas_juego(
+    asignatura_id: int,
+    cantidad: int = Query(40, ge=5, le=100),
+    repositorio: RepositorioPreguntas = Depends(get_repositorio_preguntas),
+):
+    """Juegos de práctica (Fase 2, 2026-11-18): preguntas al azar del banco de autoevaluación de toda la asignatura,
+    mezclando sus OA. Solo tipos cerrados que se corrigen al instante. Sin intento ni nota: es práctica."""
+    preguntas = [p for p in repositorio.buscar_banco_por_asignatura(asignatura_id) if sirve_para_juego(p)]
+    if not preguntas:
+        raise HTTPException(status_code=404, detail="La asignatura no tiene preguntas de práctica")
+    return mezclar_orden_al_azar(preguntas)[:cantidad]
 
 
 class ConjuntoRespuesta(BaseModel):

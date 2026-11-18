@@ -29,6 +29,26 @@ class RepositorioPreguntasSQLModel:
         }
         return [self._a_lectura(f) for f in filas if f.id not in ids_evaluaciones]
 
+    def buscar_banco_por_asignatura(self, asignatura_id: int) -> list[PreguntaLectura]:
+        """Preguntas del banco de autoevaluación de todos los OA de una asignatura (juegos de práctica, 2026-11-18).
+        Excluye las de pruebas y simulacros, igual que `buscar_por_oa`."""
+        oa_ids = list(self._session.exec(
+            select(ObjetivoAprendizajeORM.id).where(ObjetivoAprendizajeORM.asignatura_id == asignatura_id)
+        ).all())
+        if not oa_ids:
+            return []
+        filas = self._session.exec(select(PreguntaORM).where(PreguntaORM.oa_id.in_(oa_ids))).all()
+        ids_evaluaciones = {
+            pregunta_id
+            for ids in self._session.exec(
+                select(ConjuntoEvaluacion.pregunta_ids).where(
+                    ConjuntoEvaluacion.tipo.in_(("prueba_unidad", "examen_simulacro"))
+                )
+            ).all()
+            for pregunta_id in ids
+        }
+        return [self._a_lectura(f) for f in filas if f.id not in ids_evaluaciones]
+
     def listar_por_ids(self, ids: list[int]) -> list[PreguntaLectura]:
         filas = [self._session.get(PreguntaORM, pid) for pid in ids]
         return [self._a_lectura(f) for f in filas if f]

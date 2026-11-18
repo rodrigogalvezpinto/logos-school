@@ -22,7 +22,7 @@ const SIDEBAR_ALUMNO: ItemSidebar[] = [
   // Fuera de alcance de esta etapa a propósito (ver planificacion/27-plan-incorporacion-hallazgos-brincus.md)
   // — marcadores de roadmap, no funcionalidad rota ni oculta sin avisar.
   { etiqueta: 'Profesor IA', icono: '🤖', ruta: '/alumno/proximamente/profesor-ia', proximamente: true },
-  { etiqueta: 'Juegos', icono: '🎮', ruta: '/alumno/proximamente/juegos', proximamente: true },
+  { etiqueta: 'Juegos', icono: '🎮', ruta: '/alumno/juegos' },
   { etiqueta: 'Videos', icono: '🎬', ruta: '/alumno/proximamente/videos', proximamente: true },
 ];
 

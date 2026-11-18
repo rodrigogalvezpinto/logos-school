@@ -142,3 +142,33 @@ def test_busqueda_por_ids_conserva_preguntas_de_evaluaciones(banco_y_conjuntos_e
     repositorio = RepositorioPreguntasSQLModel(banco_y_conjuntos_en_memoria)
     assert [p.id for p in repositorio.listar_por_ids([2, 3, 999])] == [2, 3]
     assert [p.id for p in repositorio.listar_para_correccion([2, 3, 999])] == [2, 3]
+
+
+def test_juego_entrega_preguntas_cerradas_del_banco_de_la_asignatura(client, session):
+    _nivel, asignatura, _oa = _crear_nivel_con_pregunta(session)
+    r = client.get(f"/evaluaciones/juego/asignatura/{asignatura.id}")
+    assert r.status_code == 200
+    datos = r.json()
+    assert [p["enunciado"] for p in datos] == ["¿Cuánto es 2+2?"]
+    assert datos[0]["respuesta_correcta"] == "4"
+
+
+def test_juego_de_asignatura_sin_preguntas_da_404(client, session):
+    assert client.get("/evaluaciones/juego/asignatura/999").status_code == 404
+
+
+def test_banco_por_asignatura_excluye_pruebas_y_simulacros(banco_y_conjuntos_en_memoria):
+    repositorio = RepositorioPreguntasSQLModel(banco_y_conjuntos_en_memoria)
+    # 2 y 3 están en conjuntos; 1, 4 (OA 1) y 5 (OA 2) son banco de la asignatura 1.
+    assert {p.id for p in repositorio.buscar_banco_por_asignatura(1)} == {1, 4, 5}
+    assert repositorio.buscar_banco_por_asignatura(999) == []
+
+
+def test_juego_descarta_preguntas_que_remiten_a_un_texto_que_no_traen():
+    from types import SimpleNamespace as P
+    from app.routers.evaluaciones import sirve_para_juego
+    assert not sirve_para_juego(P(tipo="alternativas", enunciado="¿Cómo se llama el gato al final del cuento?"))
+    assert not sirve_para_juego(P(tipo="alternativas", enunciado="Según la tabla del Ejemplo 1, ¿cuántos niños prefieren el gato?"))
+    assert sirve_para_juego(P(tipo="alternativas", enunciado='En el fragmento "Pedro le prestó su chaqueta", ¿qué problema hay?'))
+    assert sirve_para_juego(P(tipo="verdadero_falso", enunciado="El agua hierve a 100 °C a nivel del mar."))
+    assert not sirve_para_juego(P(tipo="desarrollo_breve", enunciado="Explica la fotosíntesis."))

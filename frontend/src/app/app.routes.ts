@@ -98,6 +98,10 @@ export const routes: Routes = [
         loadComponent: () => import('./pages/logros/logros').then((m) => m.Logros),
       },
       {
+        path: 'juegos',
+        loadComponent: () => import('./pages/juegos/juegos').then((m) => m.Juegos),
+      },
+      {
         path: 'plan-lector',
         loadComponent: () => import('./pages/plan-lector/plan-lector').then((m) => m.PlanLector),
       },
