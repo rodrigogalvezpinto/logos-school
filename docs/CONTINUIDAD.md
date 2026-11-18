@@ -18,7 +18,7 @@ El dueño decidió continuar el proyecto con Devin. Resumen del estado en que se
   con axe en las pantallas del alumno corregida (tarea 10); simulacros **Forma A** del régimen B/C listos para
   **5.°, 6.°, 7.° y 8.° básico** (20 de 42 archivos; §6.7). Corpus: **6.681 preguntas, 0 sin OA**; pytest de
   contenido 145/145; validación en la app de 5.° a 8.° básico en verde.
-- **Siguiente tarea concreta:** Formas A de **4.° medio** (6 archivos; 1.° a 3.° medio listos el 2026-11-17). Ojo con Filosofía: su pauta es una tabla solo de selección múltiple más párrafos para las de mayor puntaje (ver `formas_a/f3m.py`). Procedimiento en §6.7; herramienta
+- **Tarea 8 completa (2026-11-17):** todos los simulacros Forma A de 5.° básico a 4.° medio están listos. Siguiente: tareas 13 a 15 de `docs/auditorias/COLA-TRABAJO-AUTONOMO.md`, que dependen de cuentas y claves del dueño, más la revisión de un profesor real. Procedimiento en §6.7; herramienta
   `backend/scripts/herramientas_auditoria/forma_a.py` y ejemplos en `formas_a/` (un script por asignatura y curso).
 - **Después:** tareas 13–15 de `docs/auditorias/COLA-TRABAJO-AUTONOMO.md` (juegos de práctica, tutor IA y
   pasarela de pago, cada una en su rama `feature/*`, sin unir a `main`).
@@ -260,9 +260,8 @@ Ver la tabla de tareas de `docs/auditorias/COLA-TRABAJO-AUTONOMO.md` (accesibili
 tutor IA detrás de variable de entorno, pasarela de pago detrás de variable de entorno) y `docs/PENDIENTES-USUARIO.md`
 (cuentas y claves que debe crear el dueño).
 
-### 6.7 Tarea 8 — simulacros Forma A del régimen B/C (en curso)
-Estado: 5.° a 8.° básico y **1.° a 3.° medio** listos (los de media el 2026-11-17, scripts `formas_a/*1m.py`, `*2m.py`, `*3m.py`). Falta 4.° medio:
-6 archivos (`<asignatura>-examen-forma-a.md`, mismas asignaturas que la Forma B de cada curso).
+### 6.7 ✅ Tarea 8 — simulacros Forma A del régimen B/C (completa el 2026-11-17)
+Estado: **completa**. Los 42 archivos de 5.° básico a 4.° medio tienen Forma A; los 22 de media se hicieron el 2026-11-17, con los scripts `formas_a/*1m.py` a `*4m.py`. Corpus: 7.278 preguntas, 0 sin OA. Validación en la app de 1.° a 4.° medio: 29, 29, 31 y 29 de 29, 29, 31 y 29. Se conservan abajo el procedimiento y las notas para regenerar (`<asignatura>-examen-forma-a.md`, mismas asignaturas que la Forma B de cada curso).
 
 Procedimiento por archivo (el importador ya reconoce `forma-a` y crea «Examen <asignatura> Forma A»):
 1. Leer la Forma B: secciones, OA por pregunta, puntajes, tipos (alternativas, varias correctas, V/F) y formato de la pauta.

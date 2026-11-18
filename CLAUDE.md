@@ -42,8 +42,7 @@ cierre integral sobre la versión actual. Existen **58 guías, 156 pruebas de un
 50 simulacros** para los 12 cursos. La lectura disciplinar inicial alcanzó 264/264 recursos,
 pero aparecieron errores educativos, de importación y navegador: no están todos aprobados.
 Las cifras actuales, correcciones y pruebas ejecutadas se mantienen en los dos registros
-canónicos, evitando duplicarlas aquí. **Formas:** 1°-4° básico tienen A y B integradas;
-desde 5° básico existe solo Forma B por asignatura; Forma A de los regímenes B/C está pendiente.
+canónicos, evitando duplicarlas aquí. **Formas:** todos los cursos tienen simulacros Forma A y Forma B. En 1.° a 4.° básico son integrados; desde 5.° básico van por asignatura. La Forma A de media se completó el 2026-11-17.
 
 > **Actualización 2026-10-28:** la auditoría maestra
 > (`docs/auditorias/AUDITORIA_MAESTRA.md`) quedó integrada en `main` por el PR #8. Los 50
