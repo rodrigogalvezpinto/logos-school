@@ -151,7 +151,7 @@ def test_importacion_completa_en_memoria_conserva_banco_y_asociaciones(capsys):
     else:
         print(resumen)
     assert total_banco == 3165  # 2026-11-17: +8 (ecuaciones, cuadrática) y +11 de Inglés por análisis de cobertura
-    assert total_evaluaciones == 3813  # 2026-11-17: +500 simulacros Forma A 5.°–8.°; +28 práctica Matemática 1.°–6.° básico; +250 Formas A 1.° y 2.° medio
+    assert total_evaluaciones == 3963  # 2026-11-17: +500 simulacros Forma A 5.°–8.°; +28 práctica Matemática 1.°–6.° básico; +400 Formas A 1.° a 3.° medio
     assert total_vinculadas_unidad == 1853
     assert all(total == vinculadas for conteos in resumen.values() for total, vinculadas in conteos.values()), resumen
 
@@ -371,4 +371,4 @@ def test_snapshot_corpus_actual_con_pautas_y_claves_completas():
     print({"examenes_sin_oa": sin_oa_examen})
     assert (totales["guias"], totales["oa"], totales["banco"]) == (58, 410, 3165)
     assert (totales["pruebas"], totales["preguntas_pruebas"]) == (156, 1853)
-    assert (totales["examenes"], totales["preguntas_examenes"]) == (80, 1960)  # 2026-11-17: +20 simulacros Forma A (5.°–8.° básico)
+    assert (totales["examenes"], totales["preguntas_examenes"]) == (86, 2110)  # 2026-11-17: +20 simulacros Forma A (5.°–8.° básico)
