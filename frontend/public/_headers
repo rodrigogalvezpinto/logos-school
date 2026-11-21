@@ -6,10 +6,10 @@
 # Permissions-Policy en cada respuesta (ver app/core/security_headers.py) — esto es lo
 # mismo, pero para el frontend Angular, que es quien sirve HTML/JS al navegador.
 #
-# IMPORTANTE al desplegar: verificar el Content-Security-Policy contra el build real de
-# producción antes de confirmar que todo sigue funcionando — un CSP mal calibrado puede
-# romper la app en silencio (un script bloqueado no siempre es obvio en pantalla). No se
-# pudo verificar acá porque el proyecto todavía no está desplegado.
+# Verificado el 2026-11-21 contra la compilación real de producción (ensayo local con este mismo CSP,
+# e2e/ensayo-produccion.spec.ts): por eso las fuentes van alojadas en el sitio (Fontsource) y la
+# compilación no usa inlineCritical (agregaba un onload inline). scripts/desplegar/frontend.sh cambia
+# api.logos.cl por la URL real del backend y agrega Google Identity Services si hay Client ID.
 /*
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff

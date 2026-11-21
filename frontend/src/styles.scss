@@ -1,4 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Inter:wght@400;500;600&display=swap');
+// Fuentes alojadas en el propio sitio (Fontsource, licencia OFL), no en Google Fonts: el CSP de producción solo
+// permite fuentes de 'self' y así el navegador del alumno no le pide archivos a terceros (2026-11-21).
+// Solo el subconjunto latino (cubre á, é, ñ, ¿, ¡…).
+@import '@fontsource/poppins/latin-500.css';
+@import '@fontsource/poppins/latin-600.css';
+@import '@fontsource/poppins/latin-700.css';
+@import '@fontsource/inter/latin-400.css';
+@import '@fontsource/inter/latin-500.css';
+@import '@fontsource/inter/latin-600.css';
 @import 'katex/dist/katex.min.css';
 
 :root {

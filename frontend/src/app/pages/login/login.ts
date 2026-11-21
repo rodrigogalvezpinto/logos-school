@@ -33,6 +33,7 @@ import { environment } from '../../../environments/environment';
         <div class="campo">
           <label>Contraseña</label>
           <input type="password" [(ngModel)]="password" name="password" placeholder="••••••••" />
+          <a routerLink="/recuperar" class="enlace-olvido">¿Olvidaste tu contraseña?</a>
         </div>
         @if (error()) {
           <p class="error">{{ error() }}</p>
@@ -82,6 +83,13 @@ import { environment } from '../../../environments/environment';
         font-weight: 600;
         cursor: pointer;
         align-self: center;
+      }
+      .enlace-olvido {
+        display: inline-block;
+        margin-top: 0.4rem;
+        font-size: 0.85rem;
+        color: var(--color-primario);
+        text-decoration: none;
       }
       .error {
         color: var(--color-error-texto);

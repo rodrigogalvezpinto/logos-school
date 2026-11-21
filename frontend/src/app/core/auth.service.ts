@@ -58,6 +58,14 @@ export class AuthService {
     return this.http.post<TokenRespuesta>(`${this.base}/auth/registro`, { email, password, nombre });
   }
 
+  recuperarPassword(email: string): Observable<{ mensaje: string }> {
+    return this.http.post<{ mensaje: string }>(`${this.base}/auth/recuperar-password`, { email });
+  }
+
+  restablecerPassword(token: string, password: string): Observable<void> {
+    return this.http.post<void>(`${this.base}/auth/restablecer-password`, { token, password });
+  }
+
   login(email: string, password: string): Observable<TokenRespuesta> {
     return this.http.post<TokenRespuesta>(`${this.base}/auth/login`, { email, password });
   }

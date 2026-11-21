@@ -14,6 +14,8 @@ from app.application.auth.casos_de_uso import (
     IniciarSesionConGoogle,
     ListarPerfilesAlumno,
     RegistrarApoderado,
+    RestablecerPassword,
+    SolicitarRecuperacionPassword,
 )
 from app.application.evaluaciones.casos_de_uso import (
     EntregarIntento,
@@ -137,6 +139,21 @@ def get_iniciar_sesion_uc(
     servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
 ) -> IniciarSesion:
     return IniciarSesion(repositorio, hasheador, servicio_token)
+
+
+def get_solicitar_recuperacion_uc(
+    repositorio: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
+    servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
+) -> SolicitarRecuperacionPassword:
+    return SolicitarRecuperacionPassword(repositorio, servicio_token)
+
+
+def get_restablecer_password_uc(
+    repositorio: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
+    hasheador: HasheadorPasswordBcrypt = Depends(get_hasheador_password),
+    servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
+) -> RestablecerPassword:
+    return RestablecerPassword(repositorio, hasheador, servicio_token)
 
 
 def get_cerrar_sesion_uc(

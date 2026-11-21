@@ -26,3 +26,7 @@ class RutYaRegistrado(ErrorDominioAuth):
 
 class NivelNoEncontrado(ErrorDominioAuth):
     pass
+
+
+class EnlaceRecuperacionInvalido(Exception):
+    """El enlace para restablecer la contraseña venció, ya se usó o fue alterado."""

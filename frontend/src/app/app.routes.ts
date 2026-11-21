@@ -34,6 +34,14 @@ export const routes: Routes = [
     loadComponent: () => import('./pages/login/login').then((m) => m.Login),
   },
   {
+    path: 'recuperar',
+    loadComponent: () => import('./pages/recuperar-password/recuperar-password').then((m) => m.RecuperarPassword),
+  },
+  {
+    path: 'restablecer',
+    loadComponent: () => import('./pages/restablecer-password/restablecer-password').then((m) => m.RestablecerPassword),
+  },
+  {
     path: 'registro',
     loadComponent: () => import('./pages/registro/registro').then((m) => m.Registro),
   },

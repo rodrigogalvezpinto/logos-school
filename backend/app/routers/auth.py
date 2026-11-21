@@ -11,6 +11,8 @@ from app.application.auth.casos_de_uso import (
     IniciarSesionConGoogle,
     ListarPerfilesAlumno,
     RegistrarApoderado,
+    RestablecerPassword,
+    SolicitarRecuperacionPassword,
 )
 from app.application.comercial.casos_de_uso import IniciarPruebaGratis
 from app.application.comercial.consultas import ObtenerSuscripcionDeAlumno
@@ -29,6 +31,8 @@ from app.core.deps import (
     get_obtener_perfil_gamificacion_uc,
     get_obtener_suscripcion_de_alumno_uc,
     get_registrar_apoderado_uc,
+    get_restablecer_password_uc,
+    get_solicitar_recuperacion_uc,
     get_repositorio_contenido,
     get_repositorio_perfiles_alumno,
     get_repositorio_planes,
@@ -38,7 +42,7 @@ from app.domain.contenido.ports import RepositorioContenido
 from app.domain.auth.ports import RepositorioPerfilesAlumno
 from app.domain.gamificacion.entities import CATALOGO_LOGROS
 from app.infrastructure.pdf.generador_certificado import generar_pdf_certificado
-from app.services.correo import enviar_bienvenida, enviar_confirmacion_plan
+from app.services.correo import enviar_bienvenida, enviar_confirmacion_plan, enviar_recuperacion_password
 from app.infrastructure.pdf.generador_informe_avance import generar_pdf_informe_avance
 from app.core.config import settings
 from app.core.limiter import limiter
@@ -46,6 +50,7 @@ from app.domain.auth.entities import Cuenta
 from app.domain.auth.exceptions import (
     CorreoYaRegistrado,
     CredencialesInvalidas,
+    EnlaceRecuperacionInvalido,
     GoogleLoginNoConfigurado,
     NivelNoEncontrado,
     RutYaRegistrado,
@@ -132,6 +137,44 @@ def login(request: Request, datos: LoginApoderado, uc: IniciarSesion = Depends(g
     except CredencialesInvalidas:
         raise HTTPException(status_code=401, detail="Correo o contraseña incorrectos")
     return TokenRespuesta(access_token=token)
+
+
+class SolicitudRecuperacion(BaseModel):
+    email: EmailStr
+
+
+class NuevoPassword(BaseModel):
+    token: str = Field(min_length=10, max_length=2000)
+    password: str = Field(min_length=8, max_length=128)
+
+
+@router.post("/recuperar-password", status_code=status.HTTP_202_ACCEPTED)
+@limiter.limit(f"{settings.limite_recuperar_password_por_minuto}/minute")
+def recuperar_password(
+    request: Request,
+    datos: SolicitudRecuperacion,
+    uc: SolicitarRecuperacionPassword = Depends(get_solicitar_recuperacion_uc),
+):
+    """Siempre responde lo mismo, exista o no el correo (no revela qué cuentas están registradas)."""
+    resultado = uc.ejecutar(datos.email)
+    if resultado:
+        cuenta, token = resultado
+        enviar_recuperacion_password(cuenta.email, cuenta.nombre, f"{settings.url_publica_frontend}/restablecer?token={token}")
+    return {"mensaje": "Si el correo está registrado, te enviamos un enlace para crear una contraseña nueva."}
+
+
+@router.post("/restablecer-password", status_code=status.HTTP_204_NO_CONTENT)
+@limiter.limit(f"{settings.limite_recuperar_password_por_minuto}/minute")
+def restablecer_password(
+    request: Request,
+    datos: NuevoPassword,
+    uc: RestablecerPassword = Depends(get_restablecer_password_uc),
+):
+    try:
+        uc.ejecutar(datos.token, datos.password)
+    except EnlaceRecuperacionInvalido:
+        raise HTTPException(status_code=400, detail="El enlace venció o ya se usó. Pide uno nuevo.")
+    return Response(status_code=status.HTTP_204_NO_CONTENT)
 
 
 @router.post("/login-google", response_model=TokenRespuesta)

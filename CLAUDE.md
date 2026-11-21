@@ -2,6 +2,8 @@
 
 > **Traspaso (2026-11-17): el proyecto continúa con Devin.** Estado, hallazgos y pendientes en `docs/CONTINUIDAD.md` §0.
 >
+> **Producción (2026-11-21): técnicamente lista para la primera salida.** Ver `docs/SALIDA-A-PRODUCCION.md` (variables, cuentas y la decisión de cobro pendiente).
+>
 > **Continuidad entre herramientas (2026-11-15):** el estado vigente, los comandos y los pendientes paso a paso están en
 > [`docs/CONTINUIDAD.md`](docs/CONTINUIDAD.md) (también enlazado desde `AGENTS.md` para Devin u otros agentes).
 > Mantenerlo al día en cada commit de avance.

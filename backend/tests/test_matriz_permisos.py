@@ -73,6 +73,8 @@ RUTAS_PUBLICAS_A_PROPOSITO = {
     ("GET", "/salud"): "healthcheck de infraestructura",
     ("POST", "/auth/registro"): "trámite de registro — todavía no hay sesión",
     ("POST", "/auth/login"): "login — todavía no hay sesión",
+    ("POST", "/auth/recuperar-password"): "olvidé mi contraseña — todavía no hay sesión",
+    ("POST", "/auth/restablecer-password"): "el enlace del correo es la credencial",
     ("POST", "/auth/login-google"): "login — todavía no hay sesión",
     ("POST", "/profesor/auth/registro"): "trámite de registro — todavía no hay sesión",
     ("POST", "/profesor/auth/login"): "login — todavía no hay sesión",

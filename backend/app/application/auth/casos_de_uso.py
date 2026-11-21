@@ -4,7 +4,13 @@ solo de los puertos que necesita (ISP), nunca de un adaptador concreto (DIP)."""
 from datetime import date
 
 from app.domain.auth.entities import Cuenta, PerfilAlumno
-from app.domain.auth.exceptions import CorreoYaRegistrado, CredencialesInvalidas, NivelNoEncontrado, RutYaRegistrado
+from app.domain.auth.exceptions import (
+    CorreoYaRegistrado,
+    CredencialesInvalidas,
+    EnlaceRecuperacionInvalido,
+    NivelNoEncontrado,
+    RutYaRegistrado,
+)
 from app.domain.auth.ports import (
     HasheadorPassword,
     RepositorioCuentas,
@@ -181,3 +187,37 @@ class EliminarAlumno:
 
     def ejecutar(self, perfil_alumno_id: int) -> None:
         self._repositorio_perfiles.eliminar_en_cascada(perfil_alumno_id)
+
+
+class SolicitarRecuperacionPassword:
+    """Genera el enlace de recuperación si el correo existe. Devuelve None si no existe: el endpoint responde
+    igual en ambos casos para no revelar qué correos están registrados."""
+
+    def __init__(self, repositorio_cuentas: RepositorioCuentas, servicio_token: ServicioToken):
+        self._repositorio_cuentas = repositorio_cuentas
+        self._servicio_token = servicio_token
+
+    def ejecutar(self, email: str) -> tuple[Cuenta, str] | None:
+        cuenta = self._repositorio_cuentas.buscar_por_email(email.strip().lower())
+        if cuenta is None or cuenta.id is None:
+            return None
+        return cuenta, self._servicio_token.generar_recuperacion(cuenta.id, cuenta.sesion_version)
+
+
+class RestablecerPassword:
+    """Cambia la contraseña con un enlace válido y cierra todas las sesiones abiertas (lo que además deja el
+    enlace inutilizable: un solo uso)."""
+
+    def __init__(self, repositorio_cuentas: RepositorioCuentas, hasheador: HasheadorPassword, servicio_token: ServicioToken):
+        self._repositorio_cuentas = repositorio_cuentas
+        self._hasheador = hasheador
+        self._servicio_token = servicio_token
+
+    def ejecutar(self, token: str, password_nuevo: str) -> None:
+        datos = self._servicio_token.decodificar_recuperacion(token)
+        cuenta = self._repositorio_cuentas.buscar_por_id(datos[0]) if datos else None
+        if cuenta is None or datos[1] != cuenta.sesion_version:
+            raise EnlaceRecuperacionInvalido()
+        cuenta.password_hash = self._hasheador.hashear(password_nuevo)
+        cuenta.cerrar_todas_las_sesiones()
+        self._repositorio_cuentas.guardar(cuenta)

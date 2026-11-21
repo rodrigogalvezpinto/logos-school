@@ -39,8 +39,16 @@ class ServicioTokenJWT:
         resultado = self._decodificar(token, tipo_esperado="profesor")
         return resultado[0] if resultado else None
 
-    def _generar(self, cuenta_id: int, tipo: str | None = None, sesion_version: int = 0) -> str:
-        expira = datetime.now(timezone.utc) + timedelta(minutes=settings.jwt_expiracion_minutos)
+    def generar_recuperacion(self, cuenta_id: int, sesion_version: int) -> str:
+        """Enlace de «¿Olvidaste tu contraseña?» (2026-11-21): vence en 1 hora y es de un solo uso,
+        porque al cambiar la contraseña se incrementa `sesion_version` y el token deja de calzar."""
+        return self._generar(cuenta_id, tipo="recuperar", sesion_version=sesion_version, minutos=60)
+
+    def decodificar_recuperacion(self, token: str) -> tuple[int, int] | None:
+        return self._decodificar(token, tipo_esperado="recuperar")
+
+    def _generar(self, cuenta_id: int, tipo: str | None = None, sesion_version: int = 0, minutos: int | None = None) -> str:
+        expira = datetime.now(timezone.utc) + timedelta(minutes=minutos or settings.jwt_expiracion_minutos)
         payload = {"sub": str(cuenta_id), "exp": expira, "ver": sesion_version}
         if tipo is not None:
             payload["tipo"] = tipo

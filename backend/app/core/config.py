@@ -43,6 +43,7 @@ class Settings(BaseSettings):
     limite_agregar_alumno_por_minuto: int = 10
     limite_sugerencia_por_minuto: int = 5
     limite_reportar_error_por_minuto: int = 10
+    limite_recuperar_password_por_minuto: int = 3
     limite_comunicado_por_minuto: int = 10
 
     jwt_secret: str = _JWT_SECRET_INSEGURO
@@ -53,6 +54,9 @@ class Settings(BaseSettings):
     # "https://logosschool.cl,https://www.logosschool.cl". Sin definir, solo se aceptan los de
     # desarrollo local (sin esto la app desplegada no podía llamar a la API).
     cors_origenes: str = ""
+    # Dirección pública del sitio, para los enlaces de los correos (p. ej. restablecer contraseña). Sin definir,
+    # se usa el primer origen de CORS_ORIGENES, y en desarrollo local, http://localhost:4200.
+    url_frontend: str = ""
 
     # Profesor IA (tarea 14, 2026-11-18): desactivado salvo que se habilite Y haya clave. La clave va solo en `.env`.
     logos_ia_habilitada: bool = False
@@ -62,7 +66,7 @@ class Settings(BaseSettings):
 
     google_client_id: str = ""
     resend_api_key: str = ""
-    resend_remitente: str = "Logos <no-responder@logos.cl>"
+    resend_remitente: str = "Logos School <no-responder@logos.cl>"
 
     @model_validator(mode="after")
     def _no_arrancar_produccion_con_jwt_secret_inseguro(self) -> "Settings":
@@ -86,6 +90,13 @@ class Settings(BaseSettings):
         extra = [o.strip().rstrip("/") for o in self.cors_origenes.split(",") if o.strip()]
         # En Producción solo el dominio real: los orígenes locales no tienen nada que hacer ahí.
         return extra if self.entorno == "produccion" and extra else locales + extra
+
+    @property
+    def url_publica_frontend(self) -> str:
+        if self.url_frontend.strip():
+            return self.url_frontend.strip().rstrip("/")
+        extra = [o.strip().rstrip("/") for o in self.cors_origenes.split(",") if o.strip()]
+        return extra[0] if extra else "http://localhost:4200"
 
 
 settings = Settings()

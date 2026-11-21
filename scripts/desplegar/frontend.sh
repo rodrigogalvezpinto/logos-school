@@ -16,4 +16,12 @@ SALIDA=dist/frontend/browser
 # El CSP de _headers trae el dominio de ejemplo: se reemplaza por el real del backend.
 sed -i '' "s#https://api.logos.cl#$ORIGEN_API#g" $SALIDA/_headers
 grep -q "$ORIGEN_API" $SALIDA/_headers && echo "CSP connect-src → $ORIGEN_API"
+# Con login de Google, el CSP debe permitir su script, su botón (iframe) y su hoja de estilos
+# (lista oficial de Google Identity Services). Sin Client ID el CSP queda cerrado a 'self'.
+if [[ -n ${LOGOS_GOOGLE_CLIENT_ID:-} ]]; then
+  GSI=https://accounts.google.com/gsi/
+  sed -i '' -E "s#script-src 'self'#script-src 'self' ${GSI}client#; s#style-src 'self'#style-src 'self' ${GSI}style#; s#(connect-src [^;]*)#\1 $GSI#; s#frame-ancestors#frame-src $GSI; frame-ancestors#" $SALIDA/_headers
+  echo "CSP: se agregó Google Identity Services"
+fi
+grep "Content-Security-Policy" $SALIDA/_headers
 npx wrangler pages deploy $SALIDA --project-name "$PROYECTO" --branch main

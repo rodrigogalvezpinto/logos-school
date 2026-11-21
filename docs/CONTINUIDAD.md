@@ -12,6 +12,11 @@ sección 6 (pendientes) de este archivo **en el mismo commit**.
 
 ## 0. Traspaso a Devin (2026-11-17) — leer primero
 
+> **2026-11-21 — Primera salida a producción: técnicamente lista.** Estado, ensayo en modo producción, variables y
+> decisión de cobro pendiente en [`docs/SALIDA-A-PRODUCCION.md`](SALIDA-A-PRODUCCION.md). Juegos (tarea 13) y
+> Profesor IA (tarea 14, apagado sin clave) ya están en `main`. Nuevo: «¿Olvidaste tu contraseña?», `/salud`,
+> fuentes alojadas en el sitio y CSP verificado contra la compilación real.
+
 El dueño decidió continuar el proyecto con Devin. Resumen del estado en que se deja:
 
 - **Hecho en la última etapa:** Fase 1 del material cerrada en todo lo que no depende del dueño (§5); accesibilidad
