@@ -28,6 +28,7 @@ from app.routers import (
     prediccion,
     profesor_auth,
     progreso,
+    salud,
     sugerencias,
     tutor_ia,
     utiles_escolares,
@@ -35,10 +36,16 @@ from app.routers import (
 
 configurar_logging()
 
+_EN_PRODUCCION = settings.entorno == "produccion"
 app = FastAPI(
     title="Logos API",
     description="Backend de la plataforma de preparación para Exámenes Libres (Mineduc, Chile).",
     version="0.1.0",
+    # En Producción no se publica la documentación interactiva de la API (2026-11-21): no la necesita nadie y
+    # expone el mapa completo de endpoints. El chequeo de salud es /salud.
+    docs_url=None if _EN_PRODUCCION else "/docs",
+    redoc_url=None if _EN_PRODUCCION else "/redoc",
+    openapi_url=None if _EN_PRODUCCION else "/openapi.json",
 )
 
 app.state.limiter = limiter
@@ -60,6 +67,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+app.include_router(salud.router)
 app.include_router(auth.router)
 app.include_router(apoderado.router)
 app.include_router(contenido.router)

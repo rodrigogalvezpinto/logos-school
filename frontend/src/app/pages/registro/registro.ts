@@ -12,6 +12,7 @@ import { SesionService } from '../../core/sesion.service';
   imports: [RouterLink, FormsModule, AuthLayout],
   template: `
     <app-auth-layout titulo="Crea tu cuenta" subtitulo="Es gratis crear tu cuenta y agregar a tu familia.">
+      @if (googleAuth.estaConfigurado) {
       <button
         type="button"
         class="btn-google"
@@ -22,6 +23,7 @@ import { SesionService } from '../../core/sesion.service';
         Continuar con Google
       </button>
       <div class="divisor-o">o con tu correo</div>
+      }
       <form (submit)="$event.preventDefault(); continuar()">
         <div class="campo">
           <label>Nombre</label>

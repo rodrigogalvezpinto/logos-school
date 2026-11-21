@@ -13,6 +13,7 @@ import { environment } from '../../../environments/environment';
   imports: [RouterLink, FormsModule, AuthLayout],
   template: `
     <app-auth-layout titulo="Bienvenido de nuevo" subtitulo="Ingresa para seguir estudiando.">
+      @if (googleAuth.estaConfigurado) {
       <button
         type="button"
         class="btn-google"
@@ -23,6 +24,7 @@ import { environment } from '../../../environments/environment';
         Continuar con Google
       </button>
       <div class="divisor-o">o con tu correo</div>
+      }
       <form (submit)="$event.preventDefault(); continuar()">
         <div class="campo">
           <label>Correo electrónico</label>

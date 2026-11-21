@@ -21,3 +21,8 @@ def test_desarrollo_sin_jwt_secret_propio_arranca_igual():
     Producción, donde el riesgo real (tokens forjables por cualquiera) existe."""
     settings = Settings(_env_file=None, entorno="desarrollo")
     assert settings.jwt_secret  # no vacío, aunque sea el valor por defecto
+
+
+def test_salud_responde_ok(client):
+    r = client.get("/salud")
+    assert r.status_code == 200 and r.json() == {"estado": "ok"}

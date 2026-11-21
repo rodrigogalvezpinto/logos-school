@@ -34,7 +34,7 @@
    1. Entrar a New → Blueprint, elegir el repositorio y aceptar `render.yaml`.
    2. Completar en cada servicio `DATABASE_URL`, `CORS_ORIGENES` (por ejemplo,
       `https://logosschool.cl,https://www.logosschool.cl`), `GOOGLE_CLIENT_ID` y `RESEND_API_KEY`.
-   3. Probar que `https://<servicio>.onrender.com/docs` responda.
+   3. Probar que `https://<servicio>.onrender.com/salud` responda `{"estado":"ok"}` (en producción `/docs` está apagado a propósito: devuelve 404).
 4. **Frontend (Cloudflare Pages)**, desde este Mac:
    ```bash
    npx wrangler login                       # una sola vez
@@ -46,7 +46,7 @@
    paso 4 con `LOGOS_API_URL=https://api.<dominio>`.
 6. **Correo y Google.** Verificar el dominio en Resend y agregar el dominio a los orígenes
    autorizados del *Client ID* de Google.
-7. **Monitoreo.** Crear un monitor en UptimeRobot sobre `https://api.<dominio>/docs`. Sentry y
+7. **Monitoreo.** Crear un monitor en UptimeRobot sobre `https://api.<dominio>/salud`. Sentry y
    Turnstile se integran cuando existan sus claves; ver `docs/PENDIENTES-USUARIO.md`.
 
 ## Verificación después de publicar
