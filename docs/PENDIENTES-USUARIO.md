@@ -82,8 +82,8 @@ Las funcionalidades nuevas quedan en ramas aparte, sin mezclar con `main`, para 
 
 | Rama | Contenido | Estado |
 |---|---|---|
-| `feature/juegos-practica` | Juegos de práctica con el banco de preguntas | Por construir (tarea 13) |
-| `feature/profesor-ia` | Tutor con IA, desactivado sin clave | Por construir (tarea 14) |
+| `feature/juegos-practica` | Juegos de práctica con el banco de preguntas | Integrada en `main` (2026-11-21) |
+| `feature/profesor-ia` | Tutor con IA, desactivado sin clave | Construido (2026-11-18); falta crear la clave `ANTHROPIC_API_KEY` y activarlo en `.env` (ver `planificacion/30-profesor-ia.md`) |
 | `feature/pasarela-pago` | Adaptador de pagos con modo de prueba | Por construir (tarea 15) |
 
 La guía completa de despliegue, ya preparada, está en `docs/DESPLIEGUE.md`.
