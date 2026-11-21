@@ -7,6 +7,7 @@ import { OnboardingService } from '../../core/onboarding.service';
 import { ProgresoService } from '../../core/progreso.service';
 import { SesionService } from '../../core/sesion.service';
 import { BotonEscuchar } from '../../shared/boton-escuchar/boton-escuchar';
+import { TutorIa } from '../../shared/tutor-ia/tutor-ia';
 import { MarkdownPipe } from '../../shared/markdown.pipe';
 import { PronunciacionIngles } from '../../shared/pronunciacion-ingles/pronunciacion-ingles';
 import { PasosAprendizaje } from '../../shared/pasos-aprendizaje/pasos-aprendizaje';
@@ -18,7 +19,7 @@ export function esNombreIngles(nombre: string): boolean {
 @Component({
   selector: 'app-estudiar-oa',
   standalone: true,
-  imports: [RouterLink, BotonEscuchar, MarkdownPipe, PasosAprendizaje, PronunciacionIngles],
+  imports: [TutorIa, RouterLink, BotonEscuchar, MarkdownPipe, PasosAprendizaje, PronunciacionIngles],
   template: `
     @if (objetivo(); as oa) {
       <a href="#" (click)="volver($event)" class="volver">← Volver</a>
@@ -34,6 +35,7 @@ export function esNombreIngles(nombre: string): boolean {
         <app-pronunciacion-ingles />
       }
       <div class="tarjeta bloque contenido-guia" [innerHTML]="oa.contenido_guia | markdown"></div>
+      <app-tutor-ia [oaId]="oa.id" />
 
       <div class="tarjeta bloque calificar-guia">
         <p class="calificar-guia__pregunta">¿Qué te pareció esta guía?</p>

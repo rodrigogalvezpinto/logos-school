@@ -29,6 +29,7 @@ from app.routers import (
     profesor_auth,
     progreso,
     sugerencias,
+    tutor_ia,
     utiles_escolares,
 )
 
@@ -80,6 +81,7 @@ app.include_router(notificaciones.router)
 app.include_router(sugerencias.router)
 app.include_router(calificaciones.router)
 app.include_router(prediccion.router)
+app.include_router(tutor_ia.router)
 
 
 @app.get("/salud")

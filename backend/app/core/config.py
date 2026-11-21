@@ -54,6 +54,12 @@ class Settings(BaseSettings):
     # desarrollo local (sin esto la app desplegada no podía llamar a la API).
     cors_origenes: str = ""
 
+    # Profesor IA (tarea 14, 2026-11-18): desactivado salvo que se habilite Y haya clave. La clave va solo en `.env`.
+    logos_ia_habilitada: bool = False
+    anthropic_api_key: str = ""
+    logos_ia_modelo: str = "claude-opus-5-5"
+    logos_ia_limite_diario: int = 30
+
     google_client_id: str = ""
     resend_api_key: str = ""
     resend_remitente: str = "Logos <no-responder@logos.cl>"
