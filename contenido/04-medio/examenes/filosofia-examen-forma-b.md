@@ -47,17 +47,17 @@ d) Liberarnos de prejuicios heredados sin examen y desarrollar conceptos para ev
 
 **Pregunta 2.** *(Selección múltiple)* El primer concejal sostiene que "discutir sobre la justicia no cambia nada en la práctica, así que no sirve de nada". ¿Cuál de las siguientes identifica mejor un límite genuino —y no una exageración injustificada— del quehacer filosófico?
 
-a) La filosofía no puede aportar nada a decisiones concretas, porque sus preguntas no tienen relación alguna con la vida práctica de las personas.
-b) La filosofía no puede argumentar con rigor sobre la justicia, porque en ese tema todas las opiniones valen lo mismo y, a diferencia de las ciencias, no existe ningún criterio para preferir unas razones por sobre otras.
-c) La filosofía nunca ha influido en leyes ni políticas públicas, porque sus ideas se quedan en los libros y no llegan a quienes toman decisiones.
+a) La filosofía no puede aportar a decisiones concretas, porque sus preguntas pertenecen a un plano teórico que no tiene relación con la vida práctica de las personas ni con sus problemas.
+b) La filosofía no puede argumentar con rigor sobre la justicia, porque en ese tema las opiniones dependen de cada cultura y, a diferencia de las ciencias, no hay criterios compartidos para preferir unas razones.
+c) La filosofía dejó de influir en leyes y políticas públicas desde que existen las ciencias sociales, que hoy hacen ese trabajo con datos y encuestas.
 d) La filosofía generalmente no produce, por sí sola, un procedimiento técnico verificable que resuelva de inmediato un problema práctico, aunque sí aporte los criterios para decidir entre alternativas.
 
 **Pregunta 3.** *(Selección múltiple)* ¿Qué característica de la relación entre filosofía y derecho contradice mejor la afirmación del segundo concejal ("la filosofía no tiene ninguna relación con las leyes")?
 
 a) La filosofía del derecho examina precisamente los conceptos de justicia y legitimidad en que se apoyan las leyes, aunque sean los abogados quienes las redacten y apliquen.
-b) Ninguna: la afirmación es correcta, porque las leyes dependen solo de la votación del Congreso y no de conceptos que haya que examinar.
-c) El derecho reemplaza a la filosofía al definir lo justo: una vez promulgada una ley, preguntarse si es justa deja de tener sentido.
-d) Los abogados nunca necesitan justificar si una ley está bien fundamentada, porque su trabajo consiste solo en aplicar lo que dice el texto.
+b) La afirmación es correcta, porque las leyes dependen de la votación del Congreso y de la Constitución, no de conceptos que los filósofos tengan que examinar.
+c) El derecho reemplaza a la filosofía al definir lo justo: una vez promulgada una ley por el Congreso, preguntarse si esa ley es justa deja de tener sentido.
+d) Los abogados no necesitan preguntarse si una ley está bien fundamentada, porque su trabajo consiste en aplicar lo que dice el texto tal como fue votado.
 
 **Pregunta 4.** *(Alternativas — 3 pts)* Sobre el debate del consejo escolar (reducir horas de Filosofía para aumentar las de Programación), ¿qué par presenta un argumento razonable **a favor** y uno **en contra**, sin inclinarse por ninguno?
 
@@ -68,9 +68,9 @@ d) A favor: reducir Filosofía es lo correcto, porque así lo decidió la mayor�
 
 **Pregunta 5.** *(Selección múltiple)* El centro de estudiantes debe repartir un fondo limitado entre los talleres extraprogramáticos (deporte, arte, robótica, debate), sin que exista una fórmula técnica que satisfaga a todos por igual. ¿Qué finalidad del quehacer filosófico ilustra mejor esta situación?
 
-a) Desarrollar conceptos completamente nuevos, sin relación con la tradición, porque los criterios de justicia anteriores ya no sirven.
+a) Desarrollar conceptos nuevos y alejados de la tradición, porque los criterios de justicia anteriores ya no sirven hoy.
 b) Superar la ignorancia sobre los datos contables del fondo, porque bastaría con conocer los montos exactos para repartirlo bien.
-c) Ninguna: es un problema exclusivamente administrativo que se resuelve aplicando una fórmula matemática de reparto igualitario.
+c) Resolver un problema administrativo, que se zanja aplicando una fórmula matemática de reparto igualitario entre talleres.
 d) Enfrentar problemas complejos que no admiten una solución meramente técnica y exigen deliberar sobre criterios de justicia.
 
 **Pregunta 6.** *(Varias correctas — 5 pts)* Un concejal dice: "Si la filosofía realmente sirviera para algo, ya habría resuelto los grandes problemas éticos de la humanidad de una vez por todas, tal como la medicina ha logrado erradicar muchas enfermedades." ¿Qué evaluaciones son correctas? Marca **todas** las correctas.
@@ -96,23 +96,23 @@ d) Reflexionar críticamente sobre lo que está bien o mal hacer y las razones q
 **Pregunta 8.** *(Selección múltiple)* La postura de otorgar los cupos "estrictamente a quienes obtuvieron el mejor puntaje PAES, sin excepción" corresponde principalmente a:
 
 a) Justicia según mérito, porque distribuye el beneficio en función del desempeño medido, sin considerar las condiciones de partida.
-b) Justicia según igualdad estricta, porque todos son evaluados con el mismo instrumento sin excepciones.
-c) Justicia según necesidad, porque prioriza a quienes más requieren el beneficio para salir adelante.
+b) Justicia según igualdad estricta, porque los postulantes son evaluados con el mismo instrumento y bajo las mismas reglas de admisión.
+c) Justicia según necesidad, porque prioriza a quienes más requieren el beneficio para salir adelante en sus estudios.
 d) Justicia como compensación, porque corrige las desventajas de origen de los postulantes antes de seleccionar.
 
 **Pregunta 9.** *(Selección múltiple)* La postura de reservar cupos para postulantes de liceos vulnerables se fundamenta mejor en:
 
 a) Igualdad sustantiva o de oportunidades reales: busca compensar desventajas de origen para que la competencia sea genuinamente equitativa.
-b) Igualdad formal: aplica a todos los postulantes exactamente la misma regla, sin considerar su punto de partida.
-c) Justicia según mérito estricto: premia solo el desempeño medido en la prueba, igual que el criterio de puntaje.
-d) Consecuencialismo: busca maximizar el prestigio promedio de ingreso de la universidad por sobre cualquier otro criterio.
+b) Igualdad formal: aplica a los postulantes la misma regla de admisión, sin considerar el punto de partida de cada uno.
+c) Justicia según mérito estricto: premia el desempeño medido en la prueba, del mismo modo que lo hace el criterio de puntaje.
+d) Consecuencialismo: busca maximizar el prestigio promedio de ingreso de la universidad por sobre otros criterios de admisión.
 
 **Pregunta 10.** *(Selección múltiple)* El razonamiento del rector, que justifica el criterio de puntaje estricto porque "maximiza el prestigio promedio de ingreso de la universidad", corresponde principalmente a:
 
-a) La ética deontológica, porque considera correcto cumplir un principio universal (el puntaje) sin importar las consecuencias.
-b) El escepticismo epistemológico, porque duda de que el puntaje permita conocer realmente las capacidades de un postulante.
+a) La ética deontológica, porque considera correcto cumplir un principio universal (el puntaje) sin importar las consecuencias que produzca.
+b) El escepticismo epistemológico, porque duda de que el puntaje permita conocer realmente las capacidades y el potencial de un postulante.
 c) El consecuencialismo/utilitarismo, porque evalúa la corrección de la política según el resultado agregado —el prestigio promedio— que produce.
-d) La ética de la virtud, porque evalúa la política según si forma estudiantes de buen carácter y hábitos admirables.
+d) La ética de la virtud, porque evalúa la política según si forma estudiantes de buen carácter, con hábitos y disposiciones admirables.
 
 **Pregunta 11.** *(Selección múltiple)* La observación del estudiante sobre la práctica profesional no remunerada ("en teoría puedo postular, pero en la práctica no tengo ninguna posibilidad real de aceptar esa práctica") apela a:
 
@@ -123,9 +123,9 @@ d) La libertad de la empresa para contratar sin restricciones legales: ofrecer p
 
 **Pregunta 12.** *(Alternativas — 3 pts)* Formalmente nadie impide a un egresado postular a la práctica profesional no remunerada, pero no cuenta con recursos ni tiempo para trabajar sin sueldo. ¿Qué describe correctamente el caso?
 
-a) Su libertad positiva está garantizada, porque puede postular, pero su libertad negativa está vulnerada por la falta de sueldo
-b) Ambas libertades están garantizadas: nadie se lo prohíbe y la decisión de no postular depende solo de su esfuerzo personal
-c) Ninguna de las dos nociones se aplica, porque la libertad se refiere solo a derechos políticos y no a decisiones laborales
+a) Su libertad positiva está garantizada, porque puede postular cuando quiera, pero su libertad negativa está vulnerada por la falta de un sueldo
+b) Ambas libertades están garantizadas: nadie se lo prohíbe y la decisión de no postular depende de su propio esfuerzo y de sus prioridades personales
+c) La situación no involucra la libertad, porque la libertad se refiere a los derechos políticos de las personas y no a sus decisiones laborales
 d) Su libertad negativa (no interferencia) no se vulnera directamente, pero su libertad positiva (capacidad efectiva de ejercer la opción) está limitada
 
 **Pregunta 13.** *(Varias correctas — 5 pts)* Sobre el reparto de los cupos universitarios adicionales, ¿qué afirmaciones aplican correctamente ambos marcos sin resolver el dilema de forma dogmática? Marca **todas** las correctas.
@@ -164,17 +164,17 @@ d) Ninguna: es una inferencia lógicamente necesaria, porque si no se prohíben 
 
 **Pregunta 17.** *(Selección múltiple)* La premisa inicial del autor ("los celulares distraen la atención de los estudiantes en clases") se apoya, tal como está formulada en el texto, principalmente en un referente:
 
-a) Empírico sólido, porque se respalda en un estudio con muestra representativa y metodología descrita en el propio texto.
-b) Teórico, porque se apoya en una teoría filosófica reconocida sobre la atención, citada explícitamente por el autor.
+a) Empírico sólido, porque se respalda en un estudio con muestra representativa y una metodología descrita en el propio texto del autor.
+b) Teórico, porque se apoya en una teoría filosófica reconocida sobre la atención, que el autor cita de manera explícita en el texto.
 c) De sentido común presentado sin evidencia empírica explícita que lo respalde, lo que lo deja como un referente débil tal como está formulado.
-d) Ninguno: no es un referente, sino una falacia en sí misma, por lo que no puede evaluarse si está bien o mal apoyado.
+d) Histórico, porque se apoya en lo que ocurría en los colegios antes de que existieran los celulares, según relata el propio autor.
 
 **Pregunta 18.** *(Alternativas — 3 pts)* El autor concluye que los celulares deben prohibirse **totalmente** en los colegios. ¿Qué supuesto no explícito da por sentado, y por qué importa hacerlo explícito?
 
-a) Que los celulares existen y se usan en clases; hacerlo explícito no aporta nada, porque es un dato que nadie discute
+a) Que los celulares existen y se usan en clases; hacerlo explícito no aporta al debate, porque es un dato evidente que nadie discute y que no cambia la evaluación del argumento
 b) Que la prohibición total es la única forma efectiva de mejorar la concentración, descartando sin argumentar alternativas intermedias; hacerlo explícito permite evaluar si es razonable o si hay medidas menos extremas
 c) Que la concentración no tiene importancia para aprender; hacerlo explícito muestra que el autor contradice su propia tesis
-d) Que todos los estudiantes del país tienen celular propio; hacerlo explícito invalida automáticamente la tesis, porque basta con encontrar un supuesto dudoso en un argumento para concluir que su conclusión es falsa y descartarla por completo
+d) Que los estudiantes del país tienen celular propio; hacerlo explícito invalida la tesis, porque basta con encontrar un supuesto dudoso en un argumento para concluir que su conclusión es falsa y descartarla
 
 **Pregunta 19.** *(Varias correctas — 5 pts)* Sobre el texto completo del autor acerca de los celulares, ¿qué afirmaciones son correctas? Marca **todas** las correctas.
 
@@ -206,17 +206,17 @@ d) Relativismo: considerar que el resultado del algoritmo es tan válido como cu
 
 **Pregunta 22.** *(Selección múltiple)* Usar el algoritmo de reincidencia para fijar una condena plantea principalmente una pregunta:
 
-a) Puramente técnica sobre cómo funciona el algoritmo, porque si el cálculo es correcto la condena queda bien fundamentada y no hay nada más que discutir.
-b) Sin relevancia filosófica, porque los tribunales ya usan muchas herramientas técnicas y esta es solo una más, igual que un registro de antecedentes.
+a) Técnica sobre cómo funciona el algoritmo, porque si el cálculo estadístico es correcto la condena queda bien fundamentada y no queda otra cuestión relevante que discutir.
+b) Administrativa, porque los tribunales ya usan muchas herramientas técnicas y esta es una más, comparable a un registro de antecedentes que ayuda a decidir más rápido.
 c) Ética sobre si es correcto tratar a una persona como un caso estadístico y no como un individuo con circunstancias propias al decidir su condena, y quién es responsable de esa decisión.
-d) De gustos personales sobre la tecnología: algunos jueces prefieren los algoritmos y otros no, y ninguna de esas preferencias puede evaluarse con razones.
+d) De gustos personales sobre la tecnología: algunos jueces prefieren los algoritmos y otros no, y esas preferencias no pueden evaluarse con razones ni argumentos.
 
 **Pregunta 23.** *(Alternativas — 3 pts)* El sistema de reconocimiento facial comete más errores con personas de tez oscura. ¿Qué conexión con conceptos de evaluación de argumentos o de epistemología es correcta?
 
-a) El sistema es objetivo por ser una máquina: si comete más errores con un grupo, eso refleja diferencias reales entre las personas, no un sesgo
-b) El error se explica por una falacia ad hominem del sistema, que descalifica a ciertas personas por su apariencia en vez de evaluar sus datos
+a) El sistema es objetivo por ser una máquina: si comete más errores con un grupo, eso refleja diferencias reales entre las personas y no un sesgo de quienes lo diseñaron
+b) El error se explica por una falacia ad hominem del sistema, que descalifica a ciertas personas por su apariencia en vez de evaluar los datos que entrega cada una
 c) Los datos de entrenamiento probablemente subrepresentaron a personas de tez oscura: un referente empírico insuficiente o sesgado lleva a generalizar de forma distorsionada
-d) No hay relación con el conocimiento: es solo un problema de calidad de las cámaras, que se resolvería con mejor iluminación en los lugares públicos
+d) Es un problema de calidad de las cámaras, más que de conocimiento: se resolvería instalando equipos con mejor iluminación y resolución en los lugares públicos
 
 **Pregunta 24.** *(Varias correctas — 3 pts)* ¿Qué conexiones entre el uso del algoritmo de reincidencia para fijar condenas y los conceptos éticos estudiados son pertinentes? Marca **todas** las correctas.
 
