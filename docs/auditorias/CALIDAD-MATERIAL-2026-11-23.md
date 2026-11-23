@@ -151,8 +151,42 @@ diferencia no es una pista visible, pero conviene seguir emparejando largos al e
 **Guarda nueva C.8** (`test_pruebas_y_simulacros_no_se_pueden_adivinar_por_la_forma`): falla si algún curso supera
 el 35 % (medida justa).
 
-**Pendiente:**
-- Las guías (bancos de autoevaluación) no se tocaron: la herramienta trabaja sobre pruebas y simulacros.
-- La simplificación de la lectura de las guías de 2.° y 3.° básico (punto 3).
-- Reimportar la base de desarrollo `logos_qa` (con respaldo previo) para ver los cambios en `localhost:4200`. La base
-  E2E ya está reimportada.
+**Punto 2b (pistas de forma), bancos de autoevaluación de las guías:** unas 600 preguntas más, con el mismo criterio
+(`pistas.distractores_guia`, que también verifica con el parser que la clave, el tipo, el OA y el módulo no cambien).
+
+| Curso | Antes | Después |
+|---|---|---|
+| 1.° básico | 31 % | 31 % |
+| 2.° básico | 33 % | 33 % |
+| 3.° básico | 31 % | 31 % |
+| 4.° básico | 42 % | 33 % |
+| 5.° básico | 38 % | 33 % |
+| 6.° básico | 44 % | 32 % |
+| 7.° básico | 44 % | 32 % |
+| 8.° básico | 46 % | 34 % |
+| 1.° medio | 42 % | 35 % |
+| 2.° medio | 44 % | 35 % |
+| 3.° medio | 45 % | 33 % |
+| 4.° medio | 50 % | 32 % |
+
+(Medida justa de `pistas.prob_acierto`.) La guarda C.8 ahora también cubre las guías
+(`test_guias_no_se_pueden_adivinar_por_la_forma`).
+
+**Punto 3 (lectura de 2.° y 3.° básico):** explicaciones e introducciones reescritas con oraciones cortas, sin tocar
+preguntas ni claves (`scripts/herramientas_auditoria/lectura.py` lo verifica con el parser).
+
+| Guía | Antes | Después (palabras por oración) |
+|---|---|---|
+| Ciencias Naturales 2.° básico | ~21 | ~11 |
+| Ciencias Naturales 3.° básico | ~24 | ~10 |
+| Historia 2.° básico | ~28 | ~13 (explicaciones ~8) |
+| Historia 3.° básico | ~28 | ~13 (explicaciones ~9) |
+| Lenguaje 2.° básico | ~21 | ~19 (lo largo restante está en los ejemplos de ortografía y el glosario) |
+| Lenguaje 3.° básico | ~23 | ~15 |
+
+Matemática 2.° y 3.° ya estaba en ~15. Los ejemplos resueltos y los textos de práctica (cuentos, poemas) no se
+acortaron: son lecturas pensadas para el nivel.
+
+**Bases:** `logos_qa` se reimportó con respaldo previo en `~/Documents/Logos-respaldos/`; la base E2E también.
+
+**Queda para el dueño:** revisión del material por un profesor real (sigue pendiente desde la Fase 1).

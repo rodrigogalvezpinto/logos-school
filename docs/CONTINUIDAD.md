@@ -17,6 +17,14 @@ sección 6 (pendientes) de este archivo **en el mismo commit**.
 > Profesor IA (tarea 14, apagado sin clave) ya están en `main`. Nuevo: «¿Olvidaste tu contraseña?», `/salud`,
 > fuentes alojadas en el sitio y CSP verificado contra la compilación real.
 
+> **2026-11-24 — Calidad del material corregida.** Informe y resultados en
+> [`docs/auditorias/CALIDAD-MATERIAL-2026-11-23.md`](auditorias/CALIDAD-MATERIAL-2026-11-23.md) §6. Un alumno que
+> adivina por la forma (descartar absolutos y marcar la más larga) ya no supera el 35 % en ningún curso, ni en guías ni
+> en pruebas y simulacros: lo exige la guarda **C.8** (`test_parser_prueba_examen.py`). Al escribir distractores,
+> usar errores plausibles del mismo largo que la clave y sin «siempre/nunca/solo/todos». Herramientas:
+> `backend/scripts/herramientas_auditoria/pistas.py` (distractores) y `lectura.py` (explicaciones en lenguaje simple,
+> 2.°–3.° básico ya en ~10–15 palabras por oración).
+
 El dueño decidió continuar el proyecto con Devin. Resumen del estado en que se deja:
 
 - **Hecho en la última etapa:** Fase 1 del material cerrada en todo lo que no depende del dueño (§5); accesibilidad
