@@ -127,8 +127,8 @@ de manera similar en distintos continentes.
 **1. (Alternativas)** ¿Qué se entiende por "Revolución neolítica"?
 
 a) La invención de la escritura y de los primeros registros contables en Mesopotamia
-b) El desarrollo de las primeras ciudades europeas durante la Edad Media, en torno al comercio
-c) La formación del primer imperio de la historia mediante la conquista de pueblos vecinos
+b) El desarrollo de las primeras ciudades europeas durante la Edad Media, en torno al comercio y a los mercados
+c) La formación del primer imperio de la historia mediante la conquista de los pueblos vecinos de Mesopotamia
 d) El proceso mediante el cual los seres humanos comenzaron a domesticar plantas y animales y
 a hacerse sedentarios
 
@@ -327,10 +327,10 @@ d) La democracia directa de los ciudadanos
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué la organización en torno a ciudades fue clave para el desarrollo de los demás rasgos de las primeras civilizaciones?
-a) Porque en las ciudades todas las personas realizaban exactamente la misma tarea, lo que permitía producir más alimento y construir templos sin necesidad de una administración central
+a) Porque en las ciudades las personas realizaban la misma tarea agrícola, lo que permitía producir más alimento y construir templos sin necesidad de organizarse ni de tener gobernantes
 b) Porque las ciudades eliminaron la necesidad de producir alimentos, ya que sus habitantes vivían del comercio con pueblos lejanos y no requerían registros ni autoridades
 c) Porque las ciudades concentraron población, recursos y poder, lo que facilitó la administración centralizada, la diferenciación de roles, la construcción de templos y el registro de información
-d) Porque las ciudades se trasladaban constantemente de un lugar a otro
+d) Porque las ciudades se trasladaban de un lugar a otro siguiendo las crecidas de los ríos, lo que permitía controlar nuevos territorios y registrar cada cosecha
 
 ✅ Respuesta correcta: **c) Porque las ciudades concentraron población, recursos y poder, lo que facilitó la administración centralizada, la diferenciación de roles, la construcción de templos y el registro de información**
 *Retroalimentación:* La concentración urbana hizo necesaria y posible una organización más compleja de la sociedad.
@@ -444,9 +444,9 @@ d) 1-B, 2-C, 3-A
 ---
 
 **4. (Alternativas)** ¿Qué afirmación describe correctamente la democracia ateniense?
-a) Fue innovadora porque todos los habitantes de Atenas, sin excepción, podían votar, incluidas las mujeres, los esclavos y los extranjeros residentes
+a) Fue innovadora porque los habitantes de Atenas podían votar, incluidas las mujeres, los esclavos y los extranjeros que vivían en la ciudad desde hacía años
 b) No fue innovadora, porque funcionaba igual que una monarquía: los ciudadanos solo ratificaban las decisiones que tomaba un rey hereditario
-c) Fue una forma de gobierno en que un solo rey tomaba todas las decisiones
+c) Fue una forma de gobierno en que un rey tomaba las decisiones importantes y los ciudadanos las aprobaban en una asamblea cada año
 d) Fue innovadora porque los ciudadanos participaban directamente en las decisiones, pero excluía a la mayoría de la población: mujeres, esclavos y extranjeros
 
 ✅ Respuesta correcta: **d) Fue innovadora porque los ciudadanos participaban directamente en las decisiones, pero excluía a la mayoría de la población: mujeres, esclavos y extranjeros**
@@ -592,9 +592,9 @@ d) Porque permitió tanto conquistar nuevos territorios (expansión) como proteg
 ---
 
 **5. (Alternativas — análisis de mapa)** Observa el mapa: los países pintados ocupan hoy parte del territorio que llegó a controlar el Imperio romano en su máxima extensión, alrededor del mar Mediterráneo, y la R marca la ciudad de Roma. Los romanos unieron esos territorios con una extensa red de caminos de piedra. ::mapa::mediterraneo::R@41.9,12.5::pintar=Italia/España/Francia/Grecia/Turquía/Egipto/Túnez/Siria;rosa=si:: ¿Qué nos permite comprender esta información?
-a) Que el imperio romano era un territorio pequeño y aislado, y que los caminos servían solo para comunicar los barrios de la ciudad de Roma
+a) Que el imperio romano era un territorio pequeño y aislado, y que los caminos servían sobre todo para comunicar los barrios de la ciudad de Roma
 b) Que Roma logró administrar un territorio muy extenso gracias a una infraestructura que facilitaba la comunicación, el comercio y el movimiento de tropas
-c) Que Roma no tenía contacto con sus provincias
+c) Que Roma tenía poco contacto con sus provincias, que se gobernaban por su cuenta con sus propias leyes y monedas
 d) Que los caminos se construyeron solo para fines religiosos, para que los peregrinos llegaran a los templos de Roma, sin uso comercial ni militar
 
 ✅ Respuesta correcta: **b) Que Roma logró administrar un territorio muy extenso gracias a una infraestructura que facilitaba la comunicación, el comercio y el movimiento de tropas**
@@ -603,10 +603,10 @@ d) Que los caminos se construyeron solo para fines religiosos, para que los pere
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué la difusión del cristianismo, primero perseguido y luego establecido como culto oficial, fue importante para la historia posterior de Europa?
-a) Porque desapareció completamente tras la caída de Roma y fue reemplazado por las religiones de los pueblos germanos, que dominaron toda la Europa medieval
+a) Porque desapareció tras la caída de Roma y fue reemplazado por las religiones de los pueblos germanos, que dominaron Europa durante la Edad Media
 b) Porque fue prohibido para siempre en Europa por los emperadores romanos, y solo sobrevivió en las provincias más lejanas del norte de África
 c) Porque, al ser culto oficial, se difundió por todo el territorio romano y sobrevivió a la caída del imperio, transformándose en un elemento central de la Europa medieval
-d) Porque solo se practicó en la ciudad de Atenas
+d) Porque se practicó sobre todo en la ciudad de Atenas, donde influyó en la filosofía griega, sin difundirse mucho al resto del imperio
 
 ✅ Respuesta correcta: **c) Porque, al ser culto oficial, se difundió por todo el territorio romano y sobrevivió a la caída del imperio, transformándose en un elemento central de la Europa medieval**
 *Retroalimentación:* El cristianismo se transformó en uno de los elementos que darían forma a la civilización europea medieval.
@@ -737,10 +737,10 @@ d) El de legitimar el poder político de los gobernantes
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué se dice que la civilización europea es una "síntesis" de tradiciones y no una continuación directa de la cultura romana?
-a) Porque la cultura romana desapareció sin dejar ningún rastro, y Europa se formó solo a partir de las costumbres de los pueblos germanos
+a) Porque la cultura romana desapareció sin dejar rastros importantes, y Europa se formó a partir de las costumbres de los pueblos germanos
 b) Porque los elementos romanos se combinaron con elementos judeocristianos y con las costumbres de los pueblos germanos, dando origen a algo nuevo
-c) Porque Europa copió exactamente la organización de Roma sin cambios, y la palabra síntesis se refiere solo al resumen de esa herencia
-d) Porque solo los pueblos germanos aportaron a su formación
+c) Porque Europa copió la organización de Roma sin cambios, y la palabra síntesis se refiere al resumen de esa herencia romana
+d) Porque los pueblos germanos aportaron casi todo a su formación, y la herencia romana y cristiana fue menor
 
 ✅ Respuesta correcta: **b) Porque los elementos romanos se combinaron con elementos judeocristianos y con las costumbres de los pueblos germanos, dando origen a algo nuevo**
 *Retroalimentación:* Derecho, lengua y cultura clásica se combinaron con la religión judeocristiana y las formas de organización germanas.
@@ -868,9 +868,9 @@ d) No tuvieron ninguna relación con el crecimiento de las ciudades, que crecier
 ---
 
 **5. (Alternativas)** ¿Qué cambio demográfico vivió Europa entre los siglos XIII y XV?
-a) Una población que se mantuvo exactamente igual durante tres siglos, porque las epidemias y las mejoras agrícolas se compensaron entre sí
-b) Un crecimiento constante, sin ninguna crisis, gracias a que las ciudades medievales no sufrieron epidemias ni guerras importantes en ese período
-c) La desaparición total de la población urbana
+a) Una población que se mantuvo casi igual durante tres siglos, porque las epidemias y las mejoras agrícolas se compensaron entre sí
+b) Un crecimiento constante, sin crisis importantes, gracias a que las ciudades medievales sufrieron pocas epidemias y guerras
+c) La desaparición de gran parte de la población urbana, que volvió a vivir en el campo durante toda la Edad Media
 d) Un crecimiento de la población durante buena parte del período, seguido de fuertes caídas por crisis como las epidemias de mediados del siglo XIV
 
 ✅ Respuesta correcta: **d) Un crecimiento de la población durante buena parte del período, seguido de fuertes caídas por crisis como las epidemias de mediados del siglo XIV**
@@ -1017,28 +1017,28 @@ d) Permitió expandir el territorio controlado, someter a otros pueblos que deb�
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué tecnologías como las chinampas o los canales fueron tan importantes para las civilizaciones maya y azteca?
-a) Porque servían solo como decoración en los templos y en los palacios de los gobernantes, sin uso agrícola
+a) Porque servían sobre todo como decoración en los templos y en los palacios de los gobernantes, con poco uso agrícola
 b) Porque permitieron adaptar entornos desafiantes (selva, lago) para producir suficiente alimento y sostener poblaciones numerosas en ciudades
-c) Porque permitieron abandonar por completo la agricultura y dedicarse solo al comercio con otros pueblos de la región y de la costa
-d) Porque se usaron para navegar hasta Europa
+c) Porque permitieron abandonar la agricultura y dedicarse al comercio con otros pueblos de la región y de la costa
+d) Porque se usaron para navegar por los lagos y los ríos y llegar a otras ciudades lejanas de la región
 
 ✅ Respuesta correcta: **b) Porque permitieron adaptar entornos desafiantes (selva, lago) para producir suficiente alimento y sostener poblaciones numerosas en ciudades**
 *Retroalimentación:* Estas tecnologías fueron la base material que permitió el desarrollo de sociedades complejas.
 
 **7. (Alternativas)** ¿Qué importancia tuvo la **red comercial** en Mesoamérica para mayas y aztecas?
 a) Permitió intercambiar productos de distintas zonas, como cacao, obsidiana, plumas y sal, en grandes mercados como el de Tlatelolco
-b) No existía comercio: cada ciudad producía todo lo que necesitaba
-c) Solo comerciaban con los incas a través de la cordillera de los Andes, sin ningún otro intercambio con pueblos de Mesoamérica ni del Caribe
-d) Usaban monedas de oro acuñadas por el emperador, igual que en Europa
+b) Había poco comercio: cada ciudad producía casi todo lo que necesitaba su población
+c) Comerciaban sobre todo con los incas a través de la cordillera de los Andes, con poco intercambio con otros pueblos de Mesoamérica
+d) Usaban monedas de oro acuñadas por el emperador, igual que en las ciudades de Europa
 
 ✅ Respuesta correcta: **a) Permitió intercambiar productos de distintas zonas, como cacao, obsidiana, plumas y sal, en grandes mercados como el de Tlatelolco**
 *Retroalimentación:* El comercio unía regiones con recursos distintos; el cacao llegó a usarse como medio de intercambio. Los mercaderes aztecas (*pochtecas*) recorrían largas distancias y también informaban al Estado.
 
 **8. (Alternativas)** ¿Qué función social tenía la **cosmología** (la explicación del universo) entre mayas y aztecas?
-a) Ninguna: era solo un pasatiempo de los sacerdotes
+a) Tenía poca importancia: era un pasatiempo de los sacerdotes y de algunos nobles
 b) Organizaba el calendario agrícola y religioso, daba sentido a los rituales y legitimaba el poder de gobernantes y sacerdotes
-c) Servía únicamente para navegar por el océano Pacífico
-d) Prohibía cualquier ceremonia religiosa en las ciudades, para que los sacerdotes no tuvieran poder sobre los gobernantes
+c) Servía sobre todo para navegar por el océano Pacífico y orientarse de noche
+d) Prohibía las ceremonias religiosas en las ciudades, para que los sacerdotes no tuvieran poder sobre los gobernantes
 
 ✅ Respuesta correcta: **b) Organizaba el calendario agrícola y religioso, daba sentido a los rituales y legitimaba el poder de gobernantes y sacerdotes**
 *Retroalimentación:* Mayas y aztecas observaban el cielo y crearon calendarios muy precisos; creían que los dioses mantenían el orden del universo y que los rituales eran necesarios para que el mundo siguiera funcionando.
@@ -1307,9 +1307,9 @@ d) La preferencia por las altas cumbres nevadas, desde donde nacen los grandes r
 
 **6. (Alternativas — desafiante)** ¿Por qué es importante identificar la "fragilidad del medio ante la acción humana" al estudiar el asentamiento de las sociedades?
 a) Porque algunos entornos pueden dañarse de forma severa o irreversible, y comprenderlo permite tomar decisiones más responsables sobre cómo habitar el territorio
-b) Porque el medio natural nunca se ve afectado por la acción humana, y estudiarlo permite demostrar que las sociedades pueden habitar cualquier entorno
+b) Porque el medio natural se ve poco afectado por la acción humana, y estudiarlo permite demostrar que las sociedades pueden habitar los distintos lugares
 c) Porque así se justifica explotar los recursos sin límites mientras duren, ya que los entornos frágiles se recuperan solos en pocos años
-d) Porque solo importa para entender el pasado: las sociedades actuales cuentan con tecnología suficiente para evitar cualquier daño grave al medio
+d) Porque importa sobre todo para entender el pasado: las sociedades actuales cuentan con tecnología suficiente para evitar los daños al ambiente
 
 ✅ Respuesta correcta: **a) Porque algunos entornos pueden dañarse de forma severa o irreversible, y comprenderlo permite tomar decisiones más responsables sobre cómo habitar el territorio**
 *Retroalimentación:* Comprender la fragilidad del medio ayuda a habitar y transformar el territorio de forma responsable, en el pasado y hoy.
@@ -1410,9 +1410,9 @@ d) 1: escala local; 2: escala global
 ---
 
 **4. (Alternativas)** Un embalse construido para regar cultivos es una medida de intervención en el medio. ¿Qué afirmación describe mejor sus efectos?
-a) Solo tiene ventajas: aporta agua para los cultivos y la población, sin ninguna desventaja para los ecosistemas ni para otras comunidades
+a) Tiene sobre todo ventajas: aporta agua para los cultivos y la población, con pocas desventajas para los ecosistemas o para otras comunidades
 b) Puede aportar más agua para cultivar o abastecer a la población, pero también alterar ecosistemas o la disponibilidad de agua para otras poblaciones
-c) Solo tiene desventajas: altera los ecosistemas y la disponibilidad de agua, sin ninguna ventaja para los cultivos ni para la población
+c) Tiene sobre todo desventajas: altera los ecosistemas y la disponibilidad de agua, con pocas ventajas para los cultivos o para la población
 d) No tiene ningún efecto sobre el entorno, porque el agua del embalse vuelve al río sin cambios después de regar los cultivos del valle
 
 ✅ Respuesta correcta: **b) Puede aportar más agua para cultivar o abastecer a la población, pero también alterar ecosistemas o la disponibilidad de agua para otras poblaciones**
@@ -1421,10 +1421,10 @@ d) No tiene ningún efecto sobre el entorno, porque el agua del embalse vuelve a
 ---
 
 **5. (Alternativas — análisis de fuente)** Imagina un informe que compara la deforestación de comunidades neolíticas para cultivar pequeñas parcelas con la deforestación actual de grandes extensiones de selva para agricultura industrial. ¿Qué continuidad y qué cambio se identifican?
-a) Continuidad: la tecnología usada para talar es la misma que en el Neolítico. Cambio: hoy ya no se cultiva, sino que solo se extrae madera
-b) Continuidad: ninguna, porque son procesos sin relación. Cambio: en el Neolítico no se talaban bosques, ya que las comunidades vivían solo de la caza
+a) Continuidad: la tecnología usada para talar es la misma que en el Neolítico. Cambio: hoy ya no se cultiva, sino que se extrae madera
+b) Continuidad: escasa, porque son procesos sin relación. Cambio: en el Neolítico no se talaban bosques, ya que las comunidades cazaban
 c) Continuidad: en ambos casos se transforma el medio con fines agrícolas. Cambio: la escala del impacto y la tecnología son mucho mayores hoy
-d) Continuidad: la escala del impacto es idéntica, porque en ambos casos se tala la misma superficie. Cambio: ninguno, salvo el tipo de cultivo
+d) Continuidad: la escala del impacto es idéntica, porque en ambos casos se tala la misma superficie. Cambio: el tipo de cultivo
 
 ✅ Respuesta correcta: **c) Continuidad: en ambos casos se transforma el medio con fines agrícolas. Cambio: la escala del impacto y la tecnología son mucho mayores hoy**
 *Retroalimentación:* Aunque algunas dinámicas se repiten, la magnitud de los impactos ambientales puede cambiar radicalmente con el tiempo.
