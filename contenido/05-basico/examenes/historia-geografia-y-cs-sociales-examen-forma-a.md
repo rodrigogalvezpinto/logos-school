@@ -57,17 +57,17 @@ d) Francisco Pizarro, porque prefirió quedarse a vivir en Santiago
 Según la fuente, ¿qué intención tenía Valdivia respecto del territorio de Chile?
 
 a) Quedarse a vivir en él y poblarlo de forma permanente
-b) Volver pronto a España con el oro que encontrara
+b) Volver pronto a España con el oro y la plata que encontrara
 c) Entregar el territorio a las autoridades del Imperio inca
-d) Recorrerlo como explorador sin fundar ninguna ciudad
+d) Recorrerlo como explorador, sin quedarse a vivir en ese lugar
 
 ---
 
 **Pregunta 3.** (1 punto)
 ¿Qué ocurrió en 1598 en la batalla de Curalaba?
 
-a) Pedro de Valdivia fundó Santiago a los pies del cerro Huelén
-b) Diego de Almagro llegó al valle de Copiapó en su primera expedición
+a) Pedro de Valdivia fundó Santiago a los pies del cerro Huelén, junto al río
+b) Diego de Almagro llegó al valle de Copiapó en su primera expedición al sur
 c) Los mapuches vencieron y los españoles dejaron las ciudades al sur del Biobío
 d) Españoles y mapuches firmaron su primer acuerdo de paz y comercio en la frontera
 
@@ -77,8 +77,8 @@ d) Españoles y mapuches firmaron su primer acuerdo de paz y comercio en la fron
 Un grupo de soldados españoles cruzó el desierto y la cordillera con pocos alimentos y, al llegar a los valles, fue atacado por pueblos que defendían sus tierras. ¿Qué dificultades de la conquista de Chile muestra esta situación?
 
 a) El desinterés de la Corona española y el clima tropical de los valles
-b) La presencia de ejércitos de otros países europeos en el territorio
-c) La ausencia de pueblos que habitaran el territorio antes de su llegada
+b) La presencia de ejércitos de otros países europeos que defendían el territorio
+c) La ausencia de pueblos que habitaran el territorio antes de la llegada española
 d) La geografía difícil del territorio y la resistencia de los pueblos originarios
 
 ---
@@ -99,9 +99,9 @@ d) El tomate
 Enfermedades como la viruela y el sarampión causaron la muerte de muchísimos indígenas después de la conquista. ¿Por qué los afectaron tanto?
 
 a) Porque no tenían defensas contra enfermedades que no existían en América
-b) Porque no conocían ninguna hierba medicinal para curarse
-c) Porque esas enfermedades las transmitían los animales americanos
-d) Porque en América no había agua suficiente para lavarse
+b) Porque no conocían las hierbas medicinales que usaban los españoles
+c) Porque esas enfermedades las transmitían los animales americanos, como la llama
+d) Porque en América no había agua suficiente para lavarse y cocinar
 
 ---
 
@@ -110,8 +110,8 @@ d) Porque en América no había agua suficiente para lavarse
 
 a) La disminución de su población por las enfermedades que llegaron desde América
 b) La llegada de oro y plata americanos y de alimentos nuevos, como la papa y el maíz
-c) La pérdida de todos los territorios que España tenía dentro de Europa
-d) El abandono de la religión católica por parte de los reyes españoles
+c) La pérdida de los territorios que España tenía en Italia y en los Países Bajos
+d) El abandono de la religión católica por parte de los reyes españoles de la época
 
 ---
 
@@ -121,8 +121,8 @@ d) El abandono de la religión católica por parte de los reyes españoles
 En la sociedad colonial de Chile, ¿qué grupo ocupaba los cargos más altos del gobierno, como el de gobernador?
 
 a) Los criollos, hijos de españoles nacidos en América
-b) Los mestizos que trabajaban en las haciendas
-c) Los esclavos traídos desde África
+b) Los mestizos que trabajaban en las haciendas del valle
+c) Los esclavos traídos desde África para trabajar en las minas
 d) Los españoles nacidos en España, llamados peninsulares
 
 ---
@@ -140,10 +140,10 @@ d) El turismo de visitantes que llegaban de Europa
 **Pregunta 10.** (2 puntos)
 En las haciendas coloniales vivían inquilinos. ¿Qué relación tenían con el dueño de la hacienda?
 
-a) Eran dueños de la hacienda y le arrendaban una casa al hacendado
-b) Trabajaban en la ciudad y solo visitaban la hacienda en las fiestas
+a) Eran dueños de la hacienda y le arrendaban una casa al hacendado para que viviera
+b) Trabajaban en la ciudad y visitaban la hacienda en las fiestas religiosas del año
 c) Recibían un terreno para vivir y cultivar, y a cambio trabajaban para el hacendado
-d) Eran funcionarios del rey que cobraban impuestos al hacendado
+d) Eran funcionarios del rey que cobraban impuestos al hacendado por sus tierras
 
 ---
 
@@ -153,8 +153,8 @@ d) Eran funcionarios del rey que cobraban impuestos al hacendado
 ¿Qué fue la Guerra de Arauco?
 
 a) Un largo conflicto entre españoles y mapuches por el control del territorio del sur
-b) Una guerra entre España y Portugal por las tierras del norte de Chile
-c) Una rebelión de los criollos para separarse de la Corona española
+b) Una guerra entre España y Portugal por las tierras y las minas del norte de Chile
+c) Una rebelión de los criollos para separarse de la Corona española y formar una república
 d) Un enfrentamiento entre incas y diaguitas antes de la llegada de los españoles
 
 ---
@@ -163,8 +163,8 @@ d) Un enfrentamiento entre incas y diaguitas antes de la llegada de los español
 ¿Qué eran los parlamentos durante la Colonia?
 
 a) Tribunales del rey que juzgaban los delitos cometidos en las ciudades coloniales
-b) Escuelas fundadas por la Iglesia para enseñar a leer a los criollos
-c) Ejércitos formados por mapuches y españoles para defender la costa
+b) Escuelas fundadas por la Iglesia para enseñar a leer y escribir a los hijos de los criollos
+c) Ejércitos formados por mapuches y españoles para defender la costa de los piratas
 d) Reuniones de autoridades españolas con lonkos mapuches para acordar paz y límites
 
 ---
@@ -175,10 +175,10 @@ d) Reuniones de autoridades españolas con lonkos mapuches para acordar paz y l�
 
 ¿Cómo se llamó esta propuesta y qué buscaba?
 
-a) La encomienda: entregar a los mapuches a un español para que trabajaran para él
-b) La fundación de ciudades: poblar el sur con españoles para ocuparlo por completo
+a) La encomienda: entregar a los mapuches a un español para que trabajaran para él en sus tierras
+b) La fundación de ciudades: poblar el sur con españoles para ocupar el territorio mapuche
 c) La guerra defensiva: terminar los ataques españoles y evangelizar a los mapuches de forma pacífica
-d) El comercio libre: permitir que los mapuches vendieran sus productos a otros países
+d) El comercio libre: permitir que los mapuches vendieran sus productos a otros países de Europa
 
 ---
 
@@ -219,8 +219,8 @@ d) Punta Arenas
 **Pregunta 17.** (2 puntos)
 ¿Por qué la Zona Austral es la zona menos poblada de Chile?
 
-a) Porque es un desierto muy seco donde casi nunca llueve y no hay agua suficiente para beber
-b) Porque allí está prohibido vivir, ya que todo su territorio es un parque nacional
+a) Porque es un desierto muy seco donde casi no llueve y hay poca agua para beber y cultivar
+b) Porque allí está prohibido vivir, ya que la mayor parte de su territorio es un parque nacional
 c) Porque su clima es caluroso todo el año y no permite cultivar alimentos ni criar animales
 d) Porque su clima frío y lluvioso y sus fiordos y canales dificultan la vida y las comunicaciones
 
@@ -231,10 +231,10 @@ d) Porque su clima frío y lluvioso y sus fiordos y canales dificultan la vida y
 **Pregunta 18.** (1 punto)
 ¿Cuál de los siguientes es un recurso natural **renovable**?
 
-a) El cobre
-b) El petróleo
+a) El cobre de las minas
+b) El petróleo de los pozos
 c) La energía del sol
-d) El carbón
+d) El carbón de las minas
 
 ---
 
@@ -243,8 +243,8 @@ d) El carbón
 
 a) Usarlo para cubrir las necesidades de hoy sin agotarlo para las generaciones futuras
 b) Usarlo lo más rápido posible para obtener la mayor ganancia en el menor tiempo
-c) Dejar de usar todos los recursos naturales para que nunca se agoten
-d) Usarlo solo en las ciudades y prohibir su uso en el campo
+c) Dejar de usar los recursos naturales para que no se agoten nunca más
+d) Usarlo en las ciudades y prohibir que se use en el campo para cuidarlo
 
 ---
 
@@ -252,8 +252,8 @@ d) Usarlo solo en las ciudades y prohibir su uso en el campo
 Si se pescara la merluza durante todo el año, incluso en la época en que se reproduce, ¿qué podría pasar y qué medida ayudaría a evitarlo?
 
 a) Aumentaría su cantidad, porque al pescarla quedan más espacios libres en el mar
-b) No pasaría nada, porque los peces del mar se reproducen tan rápido que nunca se agotan
-c) Cambiaría de color; ayuda pescarla solo de noche para no asustarla
+b) Se mantendría igual, porque los peces del mar se reproducen muy rápido y vuelven a aumentar solos
+c) Cambiaría de color; ayuda pescarla de noche, para no asustarla mientras se reproduce
 d) Disminuiría hasta agotarse; ayuda la veda, que prohíbe pescarla en su reproducción
 
 ---
@@ -286,9 +286,9 @@ d) Conducir un automóvil
 ¿Quién tiene el deber principal de garantizar y proteger los derechos de las personas en un país?
 
 a) El Estado, a través de sus leyes e instituciones
-b) Solo las familias de cada persona
+b) Las familias de cada persona, con sus propios recursos
 c) Las empresas que dan trabajo a las personas
-d) Cada persona, sin ayuda de ninguna institución
+d) Cada persona, con su propio esfuerzo y sus ahorros
 
 ---
 
@@ -297,8 +297,8 @@ d) Cada persona, sin ayuda de ninguna institución
 **Pregunta 24.** (1 punto)
 ¿Qué deber se relaciona con el derecho a la educación de un estudiante?
 
-a) Elegir qué días ir al colegio según el clima
-b) Pedir que sus compañeros hagan sus tareas
+a) Elegir qué días ir al colegio según el clima y el horario
+b) Pedir que sus compañeros le ayuden a hacer sus tareas
 c) Exigir que el colegio no le haga pruebas ni evaluaciones
 d) Asistir a clases y respetar a sus compañeros y profesores
 
