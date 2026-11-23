@@ -171,7 +171,7 @@ d) 1 → 2 → 3 → 4
 
 **4. (Alternativas)** ¿Qué dificultad enfrentó Pedro de Valdivia poco después de fundar
 Santiago?
-a) Un terremoto destruyó completamente la ciudad recién fundada
+a) Un terremoto destruyó gran parte de la ciudad recién fundada
 b) Los incas reconquistaron la zona central de Chile y la ciudad
 c) La Corona española ordenó abandonar el territorio y la ciudad
 d) Michimalonco atacó y destruyó gran parte de la ciudad recién fundada
@@ -196,9 +196,9 @@ d) Porque permitía a los españoles establecerse de forma permanente, controlar
 ---
 
 **6. (Alternativas — análisis de fuente histórica)** Lee este registro de fundaciones: Santiago (1541, punto de referencia), La Serena (1544, al norte de Santiago), Concepción (1550, al sur de Santiago) y Valdivia (1552, al sur de Santiago). ¿Qué tendencia general muestra sobre el avance de la conquista española en Chile?
-a) Todas las ciudades se fundaron el mismo año, en una sola expedición que recorrió el país
+a) Las ciudades se fundaron el mismo año, en una sola expedición que recorrió el país
 b) Avanzó progresivamente desde el centro hacia el norte y el sur, fundando ciudades a lo largo de los años
-c) La conquista avanzó solo hacia el norte, porque el sur ya estaba ocupado por otras potencias
+c) La conquista avanzó hacia el norte, porque el sur ya estaba ocupado por otras potencias
 d) Las ciudades se fundaron de sur a norte, empezando por Valdivia y terminando en Santiago
 
 ✅ Respuesta correcta: **b) Avanzó progresivamente desde el centro hacia el norte y el sur, fundando ciudades a lo largo de los años**
@@ -207,10 +207,10 @@ d) Las ciudades se fundaron de sur a norte, empezando por Valdivia y terminando 
 ---
 
 **7. (Alternativas — desafiante)** ¿Por qué se dice que del proceso de conquista "surgió una nueva sociedad"?
-a) Porque todos los habitantes pasaron a ser españoles y adoptaron por completo las costumbres de España
-b) Porque los pueblos originarios desaparecieron sin dejar rastro, y la sociedad colonial fue solo española
+a) Porque los habitantes pasaron a ser españoles y adoptaron la mayoría de las costumbres de España
+b) Porque los pueblos originarios desaparecieron sin dejar rastro, y la sociedad colonial fue española
 c) Porque la sociedad que surgió no era ni completamente española ni completamente indígena: su elemento central fue el mestizaje
-d) Porque no hubo ningún cambio en la forma de vivir: indígenas y españoles siguieron completamente separados
+d) Porque hubo pocos cambios en la forma de vivir: indígenas y españoles siguieron separados en sus territorios
 
 ✅ Respuesta correcta: **c) Porque la sociedad que surgió no era ni completamente española ni completamente indígena: su elemento central fue el mestizaje**
 *Retroalimentación:* También son elementos de esa nueva sociedad las ciudades fundadas y los conflictos bélicos que marcaron esta nueva etapa.
@@ -411,10 +411,10 @@ indígena/originario) que se mezclan en una misma celebración: eso es sincretis
 #### Autoevaluación — OA 6
 
 **1. (Alternativas)** ¿Qué significa que Chile "dependía de la metrópoli" durante la Colonia?
-a) Que Chile gobernaba sus propios territorios sin ninguna influencia externa
-b) Que Chile era un país completamente independiente desde 1541
+a) Que Chile gobernaba sus propios territorios sin influencia externa
+b) Que Chile era un país independiente desde 1541
 c) Que Chile estaba controlado política y económicamente por España
-d) Que Chile no tenía ninguna relación con el Virreinato del Perú
+d) Que Chile tenía poca relación con el Virreinato del Perú
 
 ✅ Respuesta correcta: **c) Que Chile estaba controlado política y económicamente por
 España**
@@ -462,7 +462,7 @@ d) La evangelización de la población indígena y mestiza
 a) La encomienda, porque los jinetes trabajan para la Iglesia sin recibir pago a cambio
 b) El sincretismo, porque combina una tradición católica con elementos de la cultura campesina chilena
 c) La independencia, porque es una fiesta patria que se celebra con jinetes y banderas
-d) El monopolio comercial, porque en la fiesta se vende comunión y solo la vende la Iglesia
+d) El monopolio comercial, porque en la fiesta se venden objetos religiosos que vende la Iglesia
 
 ✅ Respuesta correcta: **b) El sincretismo, porque combina una tradición católica con elementos de la cultura campesina chilena**
 *Retroalimentación:* Muchas celebraciones actuales en Chile son ejemplos vivos de sincretismo: mezclan elementos religiosos traídos por los españoles con tradiciones y formas de vida propias del territorio.
@@ -483,7 +483,7 @@ compartidos —idioma, religión, tradiciones— en gran parte de Latinoamérica
 a) Porque España le regalaba todo lo que necesitaba, y por eso Chile no necesitaba comerciar con nadie más
 b) Porque Chile no tenía ningún producto que vender, así que no le servía comerciar con otros países
 c) Porque Chile no podía comerciar libremente con otros países: su comercio debía orientarse principalmente hacia España
-d) Porque la colonia comerciaba solo con Asia, y España no le permitía venderle nada a Europa
+d) Porque la colonia comerciaba sobre todo con Asia, y España no le permitía venderle a Europa
 
 ✅ Respuesta correcta: **c) Porque Chile no podía comerciar libremente con otros países: su comercio debía orientarse principalmente hacia España**
 *Retroalimentación:* Al depender de la metrópoli, Chile no podía tomar decisiones económicas propias, lo que restringía sus posibilidades de crecimiento independiente.
@@ -629,8 +629,8 @@ d) La vida fronteriza, con intercambio en torno al Biobío
 ---
 
 **6. (Alternativas — análisis de fuente histórica)** Imagina un documento colonial que describe un intercambio comercial de ganado y textiles entre comerciantes españoles y mapuches, cerca del río Biobío, en tiempos en que no había guerra activa. ¿Qué forma de relación ilustra mejor este documento?
-a) La encomienda, con trabajo obligatorio en la zona de frontera
-b) La Guerra de Arauco, con batallas continuas y sin ningún contacto
+a) La encomienda, con trabajo obligatorio de los mapuches en la zona de frontera
+b) La Guerra de Arauco, con batallas continuas y sin contacto entre los dos pueblos
 c) La evangelización, con misiones religiosas en todo el territorio mapuche
 d) La vida fronteriza, con intercambio comercial y convivencia en la zona de frontera
 
@@ -791,11 +791,11 @@ d) Norte Chico
 ---
 
 **5. (Alternativas)** ¿Qué macroformas de relieve se presentan con mayor claridad en la Zona Central de Chile?
-a) Solo el altiplano, con volcanes, salares y lagunas en altura
+a) El altiplano, con volcanes, salares y lagunas en altura, y nada más
 b) Cordillera de los Andes, Depresión Intermedia, cordillera de la Costa y planicies
 litorales
-c) Solo fiordos y canales, con islas, glaciares y campos de hielo
-d) Solo el desierto costero, con dunas, quebradas y oasis en el interior, sin cordilleras ni valles
+c) Los fiordos y canales, con islas, glaciares y campos de hielo del sur
+d) El desierto costero, con dunas, quebradas y oasis en el interior, sin cordilleras ni valles
 
 ✅ Respuesta correcta: **b) Cordillera de los Andes, Depresión Intermedia, cordillera de la
 Costa y planicies litorales**
@@ -817,7 +817,7 @@ d) El Norte Grande tiene clima desértico y su recurso principal es la minería;
 **7. (Alternativas — desafiante)** ¿Por qué la población de Chile no se distribuye de manera uniforme entre las cinco zonas naturales?
 a) Porque la ley prohíbe vivir en el norte y en el sur, salvo a quienes trabajan en la minería o en la pesca
 b) Porque la Zona Central tiene un clima más favorable (mediterráneo), tierras agrícolas y actividad económica, mientras que el desierto o el frío extremo dificultan la vida
-c) Porque todas las zonas tienen la misma cantidad de habitantes, y la Zona Central solo parece más poblada en los mapas porque sus ciudades están dibujadas más grandes y con más color
+c) Porque las zonas tienen una cantidad parecida de habitantes, y la Zona Central parece más poblada en los mapas porque es más pequeña que las demás zonas del país y se dibuja con más ciudades
 d) Porque la Zona Austral tiene el mejor clima del país, pero sus habitantes prefieren trabajar en la Zona Central
 
 ✅ Respuesta correcta: **b) Porque la Zona Central tiene un clima más favorable (mediterráneo), tierras agrícolas y actividad económica, mientras que el desierto o el frío extremo dificultan la vida**
@@ -915,10 +915,10 @@ extraídos, no se regeneran en una escala de tiempo humana.
 
 ::mapa::chile::🌲@-40.3,-72.6;🐟@-29,-73.4;⛏️@-23.5,-69.2::
 
-a) Los símbolos se ubicaron al azar en el mapa, porque todos los recursos se encuentran por igual en cualquier zona del país, sin depender del clima ni del relieve
-b) Todos los recursos están en la Zona Central, porque allí vive la mayor parte de la población, y los símbolos solo muestran dónde se venden los productos
+a) Los símbolos se ubicaron al azar en el mapa, porque los recursos se encuentran por igual en las distintas zonas del país
+b) La mayoría de los recursos está en la Zona Central, porque allí vive la mayor parte de la población, y los símbolos muestran esa zona
 c) Cada recurso depende de las condiciones naturales de su zona: bosques por el clima lluvioso del sur, pesca por el mar y la Corriente de Humboldt, minerales por la geología del norte
-d) La pesca se concentra en el desierto del Norte Grande, los bosques en la costa y la minería en el sur, porque así se reparten los recursos en Chile
+d) La pesca se concentra en el desierto del Norte Grande, los bosques en la costa y la minería en el sur, porque así se reparten los recursos entre las regiones del país de forma más justa
 
 ✅ Respuesta correcta: **c) Cada recurso depende de las condiciones naturales de su zona: bosques por el clima lluvioso del sur, pesca por el mar y la Corriente de Humboldt, minerales por la geología del norte**
 *Retroalimentación:* La distribución de los recursos naturales no es aleatoria: depende del clima, el relieve y otras condiciones geográficas propias de cada zona del país.
@@ -954,7 +954,7 @@ d) Hierro
 a) Porque los no renovables, una vez agotados, no vuelven a existir, y los renovables pueden mantenerse si se gestionan sin sobreexplotarlos
 b) Porque los renovables se acaban más rápido que los no renovables, y por eso deben usarse primero antes de que desaparezcan
 c) Porque los no renovables se pueden usar sin límite, ya que la naturaleza los vuelve a producir cada año
-d) No es importante: todos los recursos son iguales y ninguno se agota si se usa con frecuencia
+d) Es poco importante: los recursos son parecidos y casi no se agotan aunque se usen con frecuencia
 
 ✅ Respuesta correcta: **a) Porque los no renovables, una vez agotados, no vuelven a existir, y los renovables pueden mantenerse si se gestionan sin sobreexplotarlos**
 *Retroalimentación:* Un recurso no renovable, como el cobre o el petróleo, se agota para siempre; uno renovable, como el bosque o los peces, puede durar si se usa sin sobreexplotarlo. Por eso cada uno requiere un cuidado distinto.
@@ -1103,10 +1103,10 @@ posee.
 ---
 
 **7. (Alternativas — desafiante)** ¿Qué pasaría si los derechos dependieran de características como la etnia, el sexo o el lugar de nacimiento?
-a) Todas las personas tendrían exactamente los mismos derechos, porque la ley ya no podría hacer diferencias entre ellas
-b) La sociedad sería más justa, porque cada grupo recibiría la protección que le corresponde según sus características
+a) Las personas tendrían los mismos derechos, porque la ley ya no podría hacer diferencias entre ellas
+b) La sociedad sería más justa, porque cada grupo recibiría la protección que le corresponde según sus características, su origen y su lugar en la comunidad
 c) Se generaría una sociedad desigual y discriminatoria, donde algunas personas tendrían más protección que otras por características que no eligieron
-d) No cambiaría nada, porque los derechos humanos dependen solo de las leyes de cada país y no de la universalidad
+d) Cambiaría poco, porque los derechos humanos dependen de las leyes de cada país y no de la universalidad
 
 ✅ Respuesta correcta: **c) Se generaría una sociedad desigual y discriminatoria, donde algunas personas tendrían más protección que otras por características que no eligieron**
 *Retroalimentación:* Por eso es importante que los derechos sean universales: hacerlos depender de esas características sería profundamente injusto.
@@ -1255,7 +1255,7 @@ d) Libertad de expresión → expresarse respetando la opinión y los derechos d
 a) El derecho a voto; permite elegir al alcalde y a los concejales que ayudan a las familias de la comuna
 b) El derecho a formar organizaciones de participación social; permite organizarse libremente para resolver problemas comunes
 c) El derecho a la salud; permite atenderse en el hospital y recibir medicamentos sin costo para las familias
-d) Ninguno; formar fundaciones está prohibido para los vecinos y solo puede hacerlo la municipalidad
+d) El derecho de propiedad; permite que los vecinos compren un terreno para la sede de la fundación
 
 ✅ Respuesta correcta: **b) El derecho a formar organizaciones de participación social; permite organizarse libremente para resolver problemas comunes**
 *Retroalimentación:* La participación social organizada, como fundaciones o juntas de vecinos, es una herramienta poderosa para mejorar el entorno, más allá de solo votar, y depende de que el Estado la garantice.
@@ -1264,9 +1264,9 @@ d) Ninguno; formar fundaciones está prohibido para los vecinos y solo puede hac
 
 **7. (Alternativas — desafiante)** ¿Qué podría pasar si las personas solo exigieran derechos, sin cumplir ningún deber?
 a) La convivencia sería más ordenada, porque cada persona haría lo que quiere sin que nadie la moleste
-b) Todos los derechos se cumplirían mejor, porque nadie tendría que preocuparse por los derechos de los demás
+b) Los derechos se cumplirían mejor, porque cada persona se preocuparía de los suyos sin pensar en los demás ni en las reglas de la comunidad
 c) La convivencia se volvería desordenada e injusta, porque el ejercicio del derecho de una persona pasaría a llevar los derechos de otra
-d) No pasaría nada, porque los derechos de cada persona son independientes y nunca se cruzan con los de otra
+d) Pasaría poco, porque los derechos de cada persona son independientes y rara vez se cruzan con los de otra
 
 ✅ Respuesta correcta: **c) La convivencia se volvería desordenada e injusta, porque el ejercicio del derecho de una persona pasaría a llevar los derechos de otra**
 *Retroalimentación:* Por eso es importante el equilibrio entre derechos y deberes, como respetar las leyes y los derechos de los demás.
