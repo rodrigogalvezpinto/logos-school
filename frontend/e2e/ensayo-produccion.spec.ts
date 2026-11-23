@@ -130,4 +130,15 @@ test.describe.serial('Ensayo de producción', () => {
     await expect(page.getByRole('status')).toContainText('te llegará un correo');
     expect(errores).toEqual([]);
   });
+
+  test('Plan Lector y Útiles Escolares existen para 3.° básico (no solo 4.°)', async ({ page }) => {
+    const errores = capturarErroresConsola(page);
+    await entrarComoAlumno(page);
+    await page.goto('/alumno/plan-lector');
+    await expect(page.locator('.libro-card')).toHaveCount(4);
+    await expect(page.getByText('La porota')).toBeVisible();
+    await page.goto('/alumno/utiles-escolares');
+    await expect(page.getByText('Atlas escolar de Chile y el mundo')).toBeVisible();
+    expect(errores).toEqual([]);
+  });
 });

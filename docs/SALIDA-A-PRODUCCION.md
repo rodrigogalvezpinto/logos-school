@@ -91,6 +91,10 @@ registra, pero al vencer el alumno sigue estudiando y nadie le cobra. Opciones p
 - Sentry en backend y frontend, sin datos personales: sin cuerpos, parámetros de URL, usuario ni migas.
   El SDK del navegador solo se descarga si hay DSN.
 - Menú del alumno sin marcadores «pronto»; textos de prueba gratis y pagos sin promesas que la app no cumple.
+- Plan Lector (48 libros) y Útiles Escolares (132 ítems) para los 12 cursos; antes solo había para 4.° básico.
+  Se cargan con los mismos `seed_plan_lector.py` y `seed_utiles_escolares.py` del paso 2 de `DESPLIEGUE.md`.
+- **Cobro:** se trabaja con la opción A (beta gratuita), la recomendada (2026-11-22). Asumida, no confirmada
+  expresamente por el dueño: si elige B o C, lo siguiente es el bloqueo por plan.
 - **Vacío conocido para el bloqueo por plan:** hoy la prueba gratis se puede reactivar sin límite. No importa
   mientras nada se bloquee, pero hay que cerrarlo al construir el bloqueo.
 
