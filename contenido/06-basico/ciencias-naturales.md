@@ -198,11 +198,11 @@ ecosistema puede verse afectado.
 
 1. *(Alternativas)* ¿Por qué se dice que los productores son la base de los flujos de
    materia y energía en un ecosistema?
-   a) Porque son los organismos más grandes y más abundantes de todos los ecosistemas
+   a) Porque son los organismos más grandes y más abundantes de los ecosistemas del planeta
    b) Porque son los únicos capaces de producir su propio alimento a partir de la
       energía solar
-   c) Porque no necesitan agua para vivir y pueden crecer en cualquier lugar del planeta
-   d) Porque son los que se alimentan de todos los demás seres vivos del ecosistema
+   c) Porque necesitan poca agua para vivir y pueden crecer en la mayoría de los lugares del planeta
+   d) Porque se alimentan de los consumidores y de los descomponedores que viven en el ecosistema
    **Respuesta correcta:** b) Porque son los únicos capaces de producir su propio
    alimento a partir de la energía solar.
    **Retroalimentación:** Sin productores no habría alimento disponible para ningún
@@ -241,7 +241,7 @@ ecosistema puede verse afectado.
 6. *(Alternativas — consecuencias)* Si una plaga destruye gran parte del fitoplancton de una zona costera chilena, ¿qué consecuencia se puede predecir?
    a) Aumentaría la cantidad de lobos marinos, porque tendrían más espacio libre en el mar para cazar
    b) Disminuiría el alimento del krill y de los peces pequeños, y después también de los consumidores superiores
-   c) Solo se afectaría el fitoplancton, porque los demás organismos del mar no dependen de él
+   c) Se afectaría sobre todo el fitoplancton, porque los demás organismos del mar dependen poco de él para alimentarse
    d) Los tiburones empezarían a hacer fotosíntesis para reemplazar al fitoplancton que desapareció
    **Respuesta correcta:** b) Disminuiría el alimento del krill y de los peces pequeños, y después también de los consumidores superiores.
    **Retroalimentación:** Alterar la base de la red alimentaria (los productores) genera efectos en cadena sobre todos los niveles tróficos superiores.
@@ -333,9 +333,9 @@ esa variación es completamente normal.
 
 6. *(Alternativas — actitud)* ¿Por qué es importante comprender que la pubertad es una etapa normal y que cada persona la vive a su propio ritmo?
    a) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional
-   b) Porque así todos cambian al mismo tiempo y a la misma edad, sin diferencias entre compañeros
+   b) Porque así los compañeros cambian al mismo tiempo y a la misma edad, sin grandes diferencias entre ellos
    c) Porque permite saltarse la pubertad si se practica deporte y se come sano desde la infancia
-   d) No es importante, porque la pubertad es igual para todos y no influye en cómo se sienten
+   d) Es poco importante, porque la pubertad es parecida para todos y casi no influye en cómo se sienten las personas
    **Respuesta correcta:** a) Porque ayuda a evitar la vergüenza, la burla o la comparación negativa, y favorece el bienestar emocional.
    **Retroalimentación:** Los cambios de la pubertad llegan a distintas edades; saber que es normal evita sentir vergüenza, burlarse o compararse con los demás, y ayuda a sentirse bien con uno mismo.
 
@@ -410,7 +410,7 @@ por hongos o bacterias, mal olor persistente o agravamiento del acné.
 4. *(Alternativas)* ¿Por qué los cambios de la pubertad hacen necesario un aseo diferente al de años anteriores?
    a) Porque la piel deja de sudar en la pubertad y se reseca, por lo que hay que ducharse con menos frecuencia
    b) Porque el cabello deja de crecer y se cae, y por eso hay que lavarlo con productos especiales cada día
-   c) Porque ya no es necesario ducharse a diario: las glándulas de la piel dejan de producir grasa y olor
+   c) Porque ya no es necesario ducharse a diario: las glándulas de la piel dejan de producir grasa y olor durante la pubertad
    d) Porque aumenta la actividad de las glándulas sudoríparas y sebáceas: hay más sudor, cambios de olor y tendencia al acné
    **Respuesta correcta:** d) Porque aumenta la actividad de las glándulas sudoríparas y sebáceas: hay más sudor, cambios de olor y tendencia al acné.
    **Retroalimentación:** El punto clave es relacionar el cambio fisiológico (más sudor y grasa) con la necesidad higiénica correspondiente.
@@ -424,10 +424,10 @@ por hongos o bacterias, mal olor persistente o agravamiento del acné.
    **Retroalimentación:** En la pubertad la piel produce más grasa; si no se lava el rostro, los poros se tapan con grasa y células muertas, lo que agrava el acné y puede causar infecciones.
 
 6. *(Alternativas — aplicación)* ¿Qué rutina semanal combina **al menos dos momentos de actividad física y dos hábitos de higiene**?
-   a) Ver televisión todas las tardes, jugar videojuegos el fin de semana y ducharse una vez por semana, sin lavarse el rostro
-   b) Entrenar todos los días de la semana, dos horas cada vez, sin ducharse ni lavarse el rostro para ahorrar tiempo y agua
+   a) Ver televisión cada tarde, jugar videojuegos el fin de semana y ducharse una vez por semana, sin lavarse el rostro ni las manos después de jugar
+   b) Entrenar cada día de la semana, dos horas cada vez, sin ducharse ni lavarse el rostro para ahorrar tiempo y agua en la casa
    c) Entrenar fútbol dos veces por semana y trotar otro día; ducharse a diario, sobre todo después del deporte, y lavarse el rostro mañana y noche
-   d) Lavarse el rostro una vez al mes, ducharse solo cuando hace calor y no hacer deporte durante la semana para no sudar
+   d) Lavarse el rostro una vez al mes, ducharse cuando hace calor y evitar el deporte durante la semana para no sudar ni cansarse
    **Respuesta correcta:** c) Entrenar fútbol dos veces por semana y trotar otro día; ducharse a diario, sobre todo después del deporte, y lavarse el rostro mañana y noche.
    **Retroalimentación:** Esa rutina tiene tres momentos de actividad física (fútbol dos veces y trote un día) y dos hábitos de higiene (ducharse a diario y lavarse el rostro), así que cumple lo pedido.
 
@@ -487,7 +487,7 @@ partir de restos de seres vivos que alguna vez capturaron energía solar).
    directa del Sol?
    a) El petróleo extraído del subsuelo
    b) La energía captada por paneles solares
-   c) El carbón de las minas del sur
+   c) El carbón de las minas del sur de Chile
    d) Los alimentos que comemos cada día
    **Respuesta correcta:** b) La energía captada por paneles solares.
    **Retroalimentación:** Los paneles solares capturan directamente la energía
@@ -519,8 +519,8 @@ partir de restos de seres vivos que alguna vez capturaron energía solar).
 5. *(Alternativas — análisis)* ¿Qué ejemplo explica correctamente por qué un ser vivo necesita energía para sus procesos vitales?
    a) Un pez no necesita energía porque vive en el agua, que lo mantiene flotando y lo mueve de un lugar a otro sin esfuerzo
    b) Un pez necesita energía, obtenida del alimento, para nadar, bombear sangre y mantener sus funciones; sin ella esos procesos se detendrían
-   c) Las plantas no realizan procesos vitales, porque no se mueven; por eso solo los animales necesitan energía para vivir
-   d) La energía solo sirve para que los seres vivos duerman y descansen; nadar o bombear sangre no requiere energía
+   c) Las plantas realizan pocos procesos vitales, porque no se mueven; por eso los animales necesitan más energía para vivir que ellas
+   d) La energía sirve sobre todo para que los seres vivos duerman y descansen; nadar o bombear sangre requiere muy poca energía
    **Respuesta correcta:** b) Un pez necesita energía, obtenida del alimento, para nadar, bombear sangre y mantener sus funciones; sin ella esos procesos se detendrían.
    **Retroalimentación:** Cualquier proceso vital (respiración, movimiento, digestión, crecimiento) requiere energía obtenida del alimento.
 
@@ -718,7 +718,7 @@ inverso: las partículas se acercan y ordenan progresivamente.
 
 6. *(Alternativas — predicción)* Si colocas un trozo de hielo seco en un recipiente a temperatura ambiente, ¿qué observarías?
    a) Pasa directamente de sólido a gas, sin que aparezca líquido; la "niebla" es vapor de agua del aire que se condensa por el frío
-   b) Se derrite y forma un charco de agua, igual que el hielo común, y la "niebla" es humo que sale del charco
+   b) Se derrite y forma un charco de agua, igual que el hielo común, y la "niebla" es humo que sale del charco cuando se calienta
    c) Se convierte en hielo de agua común al tocar el aire, y la "niebla" es el frío que sale del recipiente
    d) No cambia nada: el hielo seco se mantiene sólido a temperatura ambiente, y la "niebla" es polvo del aire
    **Respuesta correcta:** a) Pasa directamente de sólido a gas, sin que aparezca líquido; la "niebla" es vapor de agua del aire que se condensa por el frío.
@@ -811,7 +811,7 @@ vertido de desechos para proteger la hidrósfera.
 5. *(Alternativas — análisis)* ¿Qué opción explica cómo la contaminación del aire en ciudades chilenas afecta la atmósfera y propone una medida coherente?
    a) Los árboles de las plazas liberan gases contaminantes al hacer fotosíntesis; una medida es talarlos y reemplazarlos por áreas pavimentadas
    b) El aire contaminado mejora la salud porque contiene más oxígeno; no hay que hacer nada, porque la atmósfera se limpia sola cada invierno
-   c) La contaminación viene principalmente del océano y de las algas; una medida es secar parte del mar cercano a las ciudades de la costa
+   c) La contaminación viene principalmente del océano y de las algas; una medida es secar parte del mar cercano a las ciudades para evitarla
    d) La quema de combustibles en autos e industrias libera gases contaminantes; una medida es fomentar el transporte público, la bicicleta o los vehículos eléctricos
    **Respuesta correcta:** d) La quema de combustibles en autos e industrias libera gases contaminantes; una medida es fomentar el transporte público, la bicicleta o los vehículos eléctricos.
    **Retroalimentación:** Una buena respuesta conecta la causa (fuente de contaminación) con una medida de protección coherente.
@@ -894,15 +894,15 @@ geológico, y en casos extremos, la desertificación de zonas antes productivas.
    a) Porque los árboles producen erosión cuando sus raíces rompen las rocas del suelo
    b) Porque sin árboles llueve menos y el suelo seco se vuelve más duro y resistente
    c) Porque las raíces sujetan el suelo; sin vegetación, el suelo queda expuesto al agua y al viento
-   d) Porque la deforestación endurece el suelo y el agua ya no puede entrar en la tierra
+   d) Porque la deforestación endurece el suelo y el agua de la lluvia ya no puede entrar en la tierra
    **Respuesta correcta:** c) Porque las raíces sujetan el suelo; sin vegetación, el suelo queda expuesto al agua y al viento.
    **Retroalimentación:** La clave es entender el rol protector de las raíces frente a los agentes erosivos naturales.
 
 5. *(Alternativas — análisis)* ¿Cómo puede la erosión del agua transformar el paisaje a lo largo del tiempo geológico?
    a) El río desgasta la roca de su cauce y transporta sedimentos durante miles o millones de años, formando valles o cañones, como el del río Loa
    b) El agua forma montañas en pocos días, cuando las lluvias intensas acumulan tierra y piedras en un mismo lugar del paisaje
-   c) El agua no puede desgastar las rocas, porque es más blanda que ellas; solo puede mover la arena suelta que hay sobre el suelo
-   d) Solo el viento transforma el paisaje, porque el agua de los ríos corre siempre por el mismo cauce sin cambiarlo durante millones de años
+   c) El agua desgasta poco las rocas, porque es más blanda que ellas; puede mover la arena suelta que hay sobre el suelo, pero no formar valles
+   d) El viento es el principal agente que transforma el paisaje, porque el agua de los ríos corre por el mismo cauce sin cambiarlo durante millones de años
    **Respuesta correcta:** a) El río desgasta la roca de su cauce y transporta sedimentos durante miles o millones de años, formando valles o cañones, como el del río Loa.
    **Retroalimentación:** El agua del río desgasta poco a poco la roca de su cauce y arrastra sedimentos; en miles o millones de años, ese trabajo excava valles y cañones, como el del río Loa.
 

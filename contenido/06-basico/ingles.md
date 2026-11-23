@@ -93,8 +93,8 @@ diferencian por un solo detalle (presente vs. pasado, *can* vs. *can't*).
 
 1. *(Alternativas)* Read: *"Pedro can swim very well, but he can't ride a bike."*
    What can't Pedro do?
-   a) Swim
-   b) Read
+   a) Swim in a pool
+   b) Read a book
    c) Run
    d) Ride a bike
    **Respuesta correcta:** d) Ride a bike.
@@ -134,8 +134,8 @@ diferencian por un solo detalle (presente vs. pasado, *can* vs. *can't*).
 6. *(Alternativas — desafiante)* Read: *"Turn right at the corner. The museum is
    between the bank and the hotel."* ¿Dónde está el museo?
    a) Entre el banco y el hotel
-   b) Frente al banco
-   c) Detrás del hotel
+   b) Frente al banco de la plaza
+   c) Detrás del hotel de la esquina
    d) Al lado de la escuela
    **Respuesta correcta:** a) Entre el banco y el hotel.
    **Retroalimentación:** *Between* significa "entre dos cosas"; el texto ubica el
@@ -253,10 +253,10 @@ porque aparece en muchos textos distintos.
    enfermedad; el correo explica el motivo con esas palabras clave.
 
 7. *(Alternativas — completar, desafiante)* Complete the dialogue: *"— What's the matter? — I ___ a headache."*
-   a) am
+   a) are
    b) has
    c) have
-   d) do
+   d) does
    **Respuesta correcta:** c) have.
    **Retroalimentación:** La estructura correcta para describir un malestar es *have + [síntoma]*: *I have a headache* (tengo dolor de cabeza). Con *I* no se usa *has*.
 
