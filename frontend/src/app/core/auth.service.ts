@@ -66,6 +66,17 @@ export class AuthService {
     return this.http.post<void>(`${this.base}/auth/restablecer-password`, { token, password });
   }
 
+  cambiarPassword(passwordActual: string, passwordNuevo: string): Observable<TokenRespuesta> {
+    return this.http.post<TokenRespuesta>(`${this.base}/auth/cambiar-password`, {
+      password_actual: passwordActual || null,
+      password_nuevo: passwordNuevo,
+    });
+  }
+
+  eliminarCuenta(confirmacion: { password?: string; confirmacion_email?: string }): Observable<void> {
+    return this.http.post<void>(`${this.base}/auth/eliminar-cuenta`, confirmacion);
+  }
+
   login(email: string, password: string): Observable<TokenRespuesta> {
     return this.http.post<TokenRespuesta>(`${this.base}/auth/login`, { email, password });
   }

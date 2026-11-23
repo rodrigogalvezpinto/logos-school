@@ -221,3 +221,55 @@ class RestablecerPassword:
         cuenta.password_hash = self._hasheador.hashear(password_nuevo)
         cuenta.cerrar_todas_las_sesiones()
         self._repositorio_cuentas.guardar(cuenta)
+
+
+class CambiarPassword:
+    """Cambio de contraseña con la sesión iniciada (2026-11-22). Cierra las demás sesiones y devuelve un token
+    nuevo para que quien la cambió siga conectado. Una cuenta creada solo con Google puede crear su primera
+    contraseña sin indicar una actual."""
+
+    def __init__(self, repositorio_cuentas: RepositorioCuentas, hasheador: HasheadorPassword, servicio_token: ServicioToken):
+        self._repositorio_cuentas = repositorio_cuentas
+        self._hasheador = hasheador
+        self._servicio_token = servicio_token
+
+    def ejecutar(self, cuenta_id: int, password_actual: str | None, password_nuevo: str) -> str:
+        cuenta = self._repositorio_cuentas.buscar_por_id(cuenta_id)
+        if cuenta is None:
+            raise CredencialesInvalidas()
+        if cuenta.password_hash and not self._hasheador.verificar(password_actual or "", cuenta.password_hash):
+            raise CredencialesInvalidas()
+        cuenta.password_hash = self._hasheador.hashear(password_nuevo)
+        cuenta.cerrar_todas_las_sesiones()
+        cuenta = self._repositorio_cuentas.guardar(cuenta)
+        return self._servicio_token.generar(cuenta.id, cuenta.sesion_version)
+
+
+class EliminarCuenta:
+    """Derecho de eliminación (Ley 21.719, 2026-11-22): borra la cuenta del apoderado y, en cascada, cada alumno con
+    todo su historial. Irreversible. Se confirma con la contraseña o, si la cuenta es solo de Google, escribiendo
+    el correo de la cuenta."""
+
+    def __init__(
+        self,
+        repositorio_cuentas: RepositorioCuentas,
+        repositorio_perfiles: RepositorioPerfilesAlumno,
+        hasheador: HasheadorPassword,
+    ):
+        self._repositorio_cuentas = repositorio_cuentas
+        self._repositorio_perfiles = repositorio_perfiles
+        self._hasheador = hasheador
+
+    def ejecutar(self, cuenta_id: int, password: str | None, confirmacion_email: str | None) -> None:
+        cuenta = self._repositorio_cuentas.buscar_por_id(cuenta_id)
+        if cuenta is None:
+            raise CredencialesInvalidas()
+        if cuenta.password_hash:
+            valido = self._hasheador.verificar(password or "", cuenta.password_hash)
+        else:
+            valido = (confirmacion_email or "").strip().lower() == cuenta.email
+        if not valido:
+            raise CredencialesInvalidas()
+        for perfil in self._repositorio_perfiles.listar_por_cuenta(cuenta_id):
+            self._repositorio_perfiles.eliminar_en_cascada(perfil.id)
+        self._repositorio_cuentas.eliminar(cuenta_id)

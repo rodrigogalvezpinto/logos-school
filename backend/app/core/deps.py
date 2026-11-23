@@ -8,7 +8,9 @@ from sqlmodel import Session
 
 from app.application.auth.casos_de_uso import (
     AgregarPerfilAlumno,
+    CambiarPassword,
     CerrarSesion,
+    EliminarCuenta,
     EliminarAlumno,
     IniciarSesion,
     IniciarSesionConGoogle,
@@ -198,6 +200,22 @@ def get_listar_perfiles_alumno_uc(
     repositorio: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
 ) -> ListarPerfilesAlumno:
     return ListarPerfilesAlumno(repositorio)
+
+
+def get_cambiar_password_uc(
+    repositorio: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
+    hasheador: HasheadorPasswordBcrypt = Depends(get_hasheador_password),
+    servicio_token: ServicioTokenJWT = Depends(get_servicio_token),
+) -> CambiarPassword:
+    return CambiarPassword(repositorio, hasheador, servicio_token)
+
+
+def get_eliminar_cuenta_uc(
+    repositorio: RepositorioCuentasSQLModel = Depends(get_repositorio_cuentas),
+    perfiles: RepositorioPerfilesAlumnoSQLModel = Depends(get_repositorio_perfiles_alumno),
+    hasheador: HasheadorPasswordBcrypt = Depends(get_hasheador_password),
+) -> EliminarCuenta:
+    return EliminarCuenta(repositorio, perfiles, hasheador)
 
 
 def get_eliminar_alumno_uc(
