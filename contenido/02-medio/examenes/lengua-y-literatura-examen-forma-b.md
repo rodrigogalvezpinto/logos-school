@@ -93,9 +93,9 @@ d) Hace que el narrador sea omnisciente y conozca desde el principio lo que ocur
 
 **6. (Alternativas)** ¿Cuál es el conflicto central de "El manzano de don Segundo"?
 
-a) La rivalidad entre Paulina y la empresa forestal, que discuten el precio que se pagará por el terreno familiar
-b) La disputa legal entre Paulina y su padre por quién heredará la tierra cuando don Segundo ya no pueda trabajarla
-c) La decisión de don Segundo de mudarse a la ciudad de Talca para vivir cerca de sus nietos y del hospital
+a) La rivalidad entre Paulina y la empresa forestal, que discuten el precio que se pagará por el terreno familiar de los Muñoz
+b) La disputa legal entre Paulina y su padre por quién heredará la tierra cuando don Segundo ya no pueda trabajarla con sus manos
+c) La decisión de don Segundo de mudarse a la ciudad de Talca para vivir cerca de sus nietos, del hospital y de sus controles médicos
 d) La tensión entre vender parte del terreno familiar por razones prácticas de salud y conservarlo como símbolo del esfuerzo de la familia
 
 **7. (Alternativas)** ¿Qué elemento funciona principalmente como símbolo de la memoria familiar y el esfuerzo de varias generaciones en la escena?
@@ -110,7 +110,7 @@ d) El techo de la casa
 a) Indica que llegó la noche en el campo y que la familia debe entrar a la casa, sin otro sentido que marcar el paso de las horas en la escena
 b) Anuncia una celebración familiar que ocurrirá en la escena siguiente, junto al árbol
 c) Concentra la atención en el fruto del esfuerzo familiar justo cuando la oferta forestal amenaza con hacerlo desaparecer, reforzando la sensación de pérdida
-d) No produce ningún efecto dramático: es solo una indicación técnica para el encargado de luces, que debe apagar el escenario antes del cambio de escena
+d) Produce un efecto menor: es una indicación técnica para el encargado de luces, que debe apagar el escenario antes de que comience el cambio de escena
 
 **9. (Alternativas)** ¿Qué creencia cuestiona don Segundo y por qué sigue siendo relevante?
 
@@ -166,10 +166,10 @@ d) Desde un punto de vista social, el relato muestra cómo quienes migraron a Te
 
 **14. (Alternativas)** ¿Cuál es la tesis principal del autor de la columna "El recreo que ya no es recreo"?
 
-a) El celular debe prohibirse completamente, dentro y fuera del colegio, porque cualquier uso de una pantalla aísla a los estudiantes
+a) El celular debe prohibirse dentro y fuera del colegio, porque el uso de las pantallas aísla a los estudiantes y les quita tiempo para conversar entre ellos
 b) El uso libre del celular durante el recreo debilita el vínculo presencial entre estudiantes, por lo que se deben promover espacios y actividades que no dependan de una pantalla
 c) Los profesores exageran el problema del uso del celular en los recreos, porque los estudiantes igual conversan y se mantienen en contacto a través de sus pantallas
-d) El celular es idéntico a un libro y no representa ningún riesgo para la convivencia escolar, por lo que no se necesita ninguna medida
+d) El celular cumple la misma función que un libro y representa un riesgo menor para la convivencia escolar, por lo que conviene esperar antes de tomar medidas
 
 **15. (Alternativas)** ¿Qué figura retórica corresponde a la expresión "es, sin exagerar, la muerte del recreo tal como lo conocimos"?
 
@@ -182,15 +182,15 @@ d) Antítesis
 
 a) Un argumento de autoridad bien fundamentado en estudios recientes
 b) Una pendiente resbaladiza: encadena consecuencias extremas sin evidencia
-c) Una analogía válida entre el celular y un libro
-d) No hay ninguna falla: cada paso se sigue del anterior
+c) Una analogía válida entre el celular y un libro de la biblioteca
+d) Un razonamiento deductivo válido: cada paso se sigue del anterior
 
 **17. (Alternativas)** ¿Por qué expresiones como "simplista" y "ya no hay vuelta atrás" pueden debilitar el texto ante un lector crítico?
 
-a) Porque siempre fortalecen cualquier argumento, ya que muestran al lector que el autor está completamente seguro de lo que dice
-b) Porque son datos estadísticos verificables que el lector puede comprobar en las fuentes citadas
+a) Porque fortalecen el argumento, ya que muestran al lector que el autor está seguro de lo que dice y conoce bien el tema que trata
+b) Porque son datos estadísticos verificables que el lector puede comprobar en las fuentes citadas al final de la columna
 c) Porque presentan juicios y certezas absolutas que pueden hacer parecer el texto parcial, generando desconfianza si reemplazan a la evidencia
-d) Porque no tienen ningún efecto en el lector: son expresiones comunes en cualquier texto de opinión
+d) Porque tienen un efecto menor en el lector: son expresiones comunes en los textos de opinión de los diarios y de las redes
 
 ---
 
@@ -210,30 +210,30 @@ d) Porque no tienen ningún efecto en el lector: son expresiones comunes en cual
 
 **18. (Alternativas)** ¿Qué evidencia entrega el Texto B que el Texto A no menciona?
 
-a) El nombre del nuevo recorrido de la línea 14 y la fecha exacta en que comenzó a funcionar en la comuna
+a) El nombre del nuevo recorrido de la línea 14 y la fecha exacta en que comenzó a funcionar en la comuna este año
 b) Que el intervalo real entre buses sería casi el doble del anunciado y que los buses han llegado completos varios días
-c) El sector de la comuna que conecta el nuevo recorrido con el centro, el hospital y los colegios
-d) El plan municipal en el que se enmarca la iniciativa y su presupuesto total
+c) El sector de la comuna que conecta el nuevo recorrido con el centro, el hospital, los colegios y el terminal de buses
+d) El plan municipal en el que se enmarca la iniciativa, su presupuesto total y el plazo para terminarla
 
 **19. (Alternativas)** ¿Qué evidencia principalmente la comparación entre el Texto A y el Texto B sobre el nuevo recorrido?
 
-a) Que la municipalidad miente completamente sobre la existencia del nuevo recorrido, porque los vecinos muestran capturas de pantalla que contradicen todo lo que informa el comunicado oficial
+a) Que la municipalidad miente sobre la existencia del nuevo recorrido, porque los vecinos muestran capturas de pantalla que contradicen lo que informa el comunicado oficial de la comuna
 b) Que la fuente desde la que se presenta un hecho influye en qué información se destaca y cuál se omite, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera
-c) Que las publicaciones vecinales siempre son más precisas que los comunicados oficiales, porque las escriben quienes usan el servicio cada día
-d) Que los recorridos nuevos nunca funcionan bien en su primera semana, por lo que no tiene sentido comparar ninguna de las dos fuentes
+c) Que las publicaciones vecinales tienden a ser más precisas que los comunicados oficiales, porque las escriben quienes usan el servicio cada día para ir a trabajar o estudiar
+d) Que los recorridos nuevos suelen funcionar mal en su primera semana, por lo que tiene poco sentido comparar las dos fuentes antes de que pase al menos un mes
 
 **20. (Alternativas)** ¿Qué efecto producen los recursos no lingüísticos de cada texto?
 
 a) La infografía verde con bus y flecha ascendente del Texto A transmite progreso y control; las capturas de la app del Texto B funcionan como evidencia cuantitativa verificable
-b) Ambos textos usan solo palabras, sin recursos visuales, para convencer a los vecinos de que el nuevo recorrido funciona como se anunció
+b) Ambos textos usan palabras, sin recursos visuales, para convencer a los vecinos de que el nuevo recorrido funciona tal como se anunció en el comunicado
 c) La infografía del Texto B muestra desorden y las capturas del Texto A transmiten control y progreso en la gestión del transporte municipal
-d) Ninguno produce algún efecto en el lector: las imágenes son decorativas y no influyen en cómo se interpreta la información de cada texto
+d) Los dos producen un efecto menor en el lector: las imágenes son decorativas y casi no influyen en cómo se interpreta la información de cada texto
 
 **21. (Alternativas)** ¿Qué fortalece y qué riesgo tiene el uso de datos cronometrados y capturas en el Texto B?
 
-a) Lo debilitan, porque los datos nunca persuaden al lector y un texto vecinal debería apelar solo a las emociones de quienes viajan cada día
-b) No tienen ningún riesgo, porque una semana de datos basta para evaluar cualquier servicio de transporte, incluso si todavía se están haciendo ajustes
-c) Lo convierten en un texto de ficción, porque las capturas de pantalla pueden editarse y, por eso, ninguna de ellas tiene valor como evidencia
+a) Lo debilitan, porque los datos persuaden poco al lector y un texto vecinal debería apelar a las emociones de quienes viajan cada día en la línea 14
+b) Tienen un riesgo menor, porque una semana de datos es suficiente para evaluar un servicio de transporte, aunque todavía se estén haciendo ajustes en él
+c) Lo convierten en un texto de ficción, porque las capturas de pantalla pueden editarse y, por eso, pierden su valor como evidencia frente al municipio
 d) Le dan un respaldo cuantitativo difícil de refutar; el riesgo es evaluar un servicio nuevo con solo una semana de datos, que puede no reflejar su desempeño tras los ajustes
 
 ---
