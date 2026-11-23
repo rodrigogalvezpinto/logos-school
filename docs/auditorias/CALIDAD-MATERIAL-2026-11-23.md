@@ -117,3 +117,42 @@ base antigua `logos_dev` y reporta preguntas abiertas que ya no existen.
 
 Corrección hecha en este análisis: `validar_evaluaciones_markdown.py` marcaba como discrepancia 4 claves idénticas a
 su alternativa cuando esta termina en un paréntesis («El Servicio Electoral (Servel)»). Ahora: 0 en 307 archivos.
+
+## 6. Corrección aplicada (2026-11-23/24)
+
+**Punto 1 (redacción):**
+- Retroalimentación con mayúscula inicial al importar (`capitalizar_retroalimentacion`; respeta «b) …» y la
+  notación matemática).
+- 70 frases sin «OA» (`scripts/qa/calidad/quitar_jerga_oa.py`); queda solo «el segmento OA», que es geometría.
+- Notas de autoría de 4.° medio Lengua reemplazadas.
+- «Estímulo» → «mapa/imagen» en 2.°–3.° básico.
+- Tres retroalimentaciones reescritas, más una explicación con un error de fondo en 4.° básico: decía que la piedra
+  era el único elemento no vivo, pero el alumno también observa agua y luz solar.
+
+**Punto 2 (pistas de forma), solo en pruebas y simulacros:** unas 480 preguntas con distractores reescritos.
+- Errores plausibles del largo de la clave y sin palabras absolutas.
+- En los resultados numéricos, la misma precisión que la clave (12,00 % en vez de 12 %).
+- Hecho con `scripts/herramientas_auditoria/pistas.py`, que verifica con el parser que la clave, el tipo y el OA no
+  cambien.
+- Se revisó que las explicaciones no comentaran los distractores cambiados.
+- Dos distractores que podían defenderse como correctos se cambiaron por otros claramente falsos: la diferencia
+  de sueldo por experiencia, que es legal en Chile, y «libertad de expresión».
+
+Medición sobre pruebas y simulacros:
+
+| Medida | Antes | Después |
+|---|---|---|
+| Justa: largos a menos de 10 % se consideran empate (`pistas.prob_acierto`) | 33–51 % | **29–35 %** |
+| Estricta: «la más larga» aunque gane por 1 carácter (`truco.py`) | 43–60 % | 37–46 % |
+
+La medida estricta sigue sobre 35 % porque en muchos ítems la clave quedó apenas más larga, dentro del 10 %. Esa
+diferencia no es una pista visible, pero conviene seguir emparejando largos al editar.
+
+**Guarda nueva C.8** (`test_pruebas_y_simulacros_no_se_pueden_adivinar_por_la_forma`): falla si algún curso supera
+el 35 % (medida justa).
+
+**Pendiente:**
+- Las guías (bancos de autoevaluación) no se tocaron: la herramienta trabaja sobre pruebas y simulacros.
+- La simplificación de la lectura de las guías de 2.° y 3.° básico (punto 3).
+- Reimportar la base de desarrollo `logos_qa` (con respaldo previo) para ver los cambios en `localhost:4200`. La base
+  E2E ya está reimportada.

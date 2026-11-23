@@ -1062,3 +1062,20 @@ def test_los_simulacros_no_repiten_las_pruebas_del_curso():
     for curso in sorted(p for p in CONTENIDO.iterdir() if p.is_dir() and (p / "examenes").exists()):
         hallazgos.update(simulacro_repite_prueba(curso))
     assert hallazgos == {}
+
+
+def test_pruebas_y_simulacros_no_se_pueden_adivinar_por_la_forma():
+    """C.8 (2026-11-23, docs/auditorias/CALIDAD-MATERIAL-2026-11-23.md): un alumno que no sabe la materia y descarta
+    las alternativas con palabras absolutas («nunca», «siempre», «solo»…) para marcar la más larga no debe acertar
+    más del 35 % en las pruebas y simulacros de ningún curso (al azar, 25 %). Antes de la corrección llegaba al 51 %.
+    Si falla, `scripts/herramientas_auditoria/pistas.py` lista las preguntas (`listar`) y corrige distractores."""
+    import contextlib
+    import io
+    sys.path.insert(0, str(Path(__file__).parent.parent / "scripts" / "herramientas_auditoria"))
+    from pistas import resumen
+
+    with contextlib.redirect_stdout(io.StringIO()):
+        por_curso = resumen()
+    excedidos = {c: round(100 * ok / n, 1) for c, (ok, n) in por_curso.items() if ok / n > 0.355}
+    assert len(por_curso) == 12
+    assert excedidos == {}, f"cursos donde la forma delata la respuesta: {excedidos}"
