@@ -78,10 +78,10 @@ Observa la siguiente información sobre dos civilizaciones americanas: los **may
 
 ¿Cuál de las siguientes fue una característica **común** a los mayas y los incas?
 
-a) Ambas usaban electricidad para iluminar sus ciudades
-b) Ambas eran monoteístas, es decir, creían en un solo dios
+a) Ambas usaban la rueda y caballos para transportar sus cosechas
+b) Ambas creían en un solo dios, al que le construían grandes templos
 c) Ambas tenían gobierno monárquico y economía basada en la agricultura
-d) Ambas se desarrollaron exclusivamente en zonas costeras
+d) Ambas se desarrollaron en zonas costeras, lejos de los cerros
 
 ---
 
@@ -110,8 +110,8 @@ d) "A la hora de la siesta se recuesta en los cerros"
 
 **6. (Ciencias Naturales)** La columna vertebral, formada por muchas vértebras, protege un órgano del sistema nervioso. ¿Cuál es?
 
-a) El corazón
-b) Los pulmones
+a) El corazón y la sangre
+b) Los pulmones y el aire
 c) La médula espinal
 d) El estómago
 
@@ -147,9 +147,9 @@ Lee el siguiente texto:
 
 ¿Cuál de las siguientes es información **implícita** del texto (es decir, no está escrita directamente, sino que se deduce)?
 
-a) El cóndor andino habita a lo largo de toda la cordillera de los Andes, desde Venezuela hasta la Patagonia.
-b) El cóndor se alimenta principalmente de animales que ya están muertos, en lugar de cazar presas vivas.
-c) El cóndor puede detectar un cadáver desde varios kilómetros de altura gracias a su excelente vista.
+a) El cóndor andino habita a lo largo de la cordillera de los Andes, desde Venezuela hasta la Patagonia, en lugares altos.
+b) El cóndor se alimenta principalmente de animales que ya están muertos, en lugar de cazar presas vivas en los cerros.
+c) El cóndor puede detectar un cadáver desde varios kilómetros de altura gracias a su excelente vista y a su vuelo alto.
 d) Al alimentarse de animales muertos, el cóndor cumple un rol importante para mantener limpios los ecosistemas de montaña.
 
 ---
@@ -169,10 +169,10 @@ d) Porque los ríos depositan tantos sedimentos en los valles que el peso de la 
 |---|---|---|---|---|
 | Sillas | 4 | 8 | 12 | 16 |
 
-a) Sumar 4
+a) Sumar 4 cada vez
 b) Multiplicar por 4
 c) Multiplicar por 3
-d) Restar 4
+d) Restar 4 cada vez
 
 ---
 
@@ -188,8 +188,8 @@ d) No poder ir al médico si no tiene la edad suficiente para pedirlo
 **13. (Lenguaje y Comunicación)** ¿Qué oración usa correctamente el conector "**por eso**" para unir estas dos ideas: "Caminamos varias horas por el sendero de la reserva" y "llegamos muy cansados a la cascada"?
 
 a) Caminamos varias horas por el sendero de la reserva, por eso llegamos muy cansados a la cascada.
-b) Por eso caminamos varias horas, llegamos muy cansados a la cascada por el sendero.
-c) Llegamos muy cansados a la cascada, por eso caminamos varias horas por el sendero.
+b) Por eso caminamos varias horas, llegamos muy cansados a la cascada por el sendero de la reserva.
+c) Llegamos muy cansados a la cascada, por eso caminamos varias horas por el sendero de la reserva.
 d) Caminamos varias horas por eso, por el sendero de la reserva llegamos.
 
 
@@ -201,9 +201,9 @@ d) Caminamos varias horas por eso, por el sendero de la reserva llegamos.
 
 ¿Cuál es la **mejor** forma de separarlo en dos párrafos, agrupando las ideas relacionadas?
 
-a) Párrafo 1: solo la primera palabra del texto. Párrafo 2: todo el resto del paseo, sin cambios
-b) Un párrafo distinto para cada palabra del texto, para que se lea más ordenado y separado
-c) Párrafo 1: el regreso a casa. Párrafo 2: el paseo y el almuerzo, aunque ocurrieron antes del regreso
+a) Párrafo 1: la primera oración del texto. Párrafo 2: el resto del paseo, sin cambiar nada del orden del texto
+b) Un párrafo distinto para cada oración del texto, para que se lea más ordenado y separado en la hoja
+c) Párrafo 1: el regreso a casa. Párrafo 2: el paseo y el almuerzo, aunque ocurrieron antes de volver a la casa
 d) Párrafo 1: el paseo hasta la cascada y las fotos. Párrafo 2: el almuerzo, el juego de cartas y el regreso a casa
 
 
@@ -211,9 +211,9 @@ d) Párrafo 1: el paseo hasta la cascada y las fotos. Párrafo 2: el almuerzo, e
 
 **15. (Ciencias Naturales)** Usando el modelo de un damasco (durazno) para representar las capas de la Tierra, ¿qué combinación representa bien cada capa y sus características?
 
-a) Cáscara = núcleo (el más interno); pulpa = corteza (la más rígida y externa); carozo = manto (intermedio y sólido)
+a) Cáscara = núcleo (el más interno); pulpa = corteza (la más rígida y externa); carozo = manto (intermedio y predominantemente sólido)
 b) Cáscara = corteza (la más rígida y externa); pulpa = manto (predominantemente sólido, intermedio); carozo = núcleo (el más interno y caliente)
-c) Cáscara = manto (la más caliente y externa); pulpa = núcleo (intermedio); carozo = corteza (la más rígida e interna)
+c) Cáscara = manto (la más caliente y externa); pulpa = núcleo (intermedio y líquido); carozo = corteza (la más rígida e interna de todas)
 d) Cáscara = corteza (la más caliente y externa); pulpa = manto (intermedio); carozo = núcleo (el más frío e interno)
 
 
@@ -241,8 +241,8 @@ d) En la costa no hay mar cerca, y por eso las personas no pescan ni construyen 
 **18. (Ciencias Naturales)** Tras un sismo de gran magnitud con epicentro bajo el océano, frente a las costas de Chile, las autoridades recomiendan alejarse de inmediato del borde costero y dirigirse a zonas altas. Usando el concepto de **tsunami**, ¿por qué se entrega esa recomendación?
 
 a) Porque un sismo bajo el océano puede desplazar una gran masa de agua y generar un tsunami, con olas que llegan a la costa
-b) Porque después de un sismo de gran magnitud siempre llueve fuerte en la costa, y las zonas altas no se inundan
-c) Porque el sismo hace que el mar se congele de inmediato, y el hielo puede romperse y golpear la costa
+b) Porque después de un sismo de gran magnitud suele llover fuerte en la costa, y las zonas altas no se inundan con la lluvia
+c) Porque el sismo hace que el mar se congele de inmediato, y el hielo puede romperse y golpear las casas de la costa
 d) Porque en las zonas altas no se sienten los sismos, de modo que allí no hay riesgo de que se repitan
 
 
@@ -263,9 +263,9 @@ Una noticia adaptada informa: *"Durante los meses de veda, estará prohibido ext
 
 A partir de la noticia, ¿cómo ayuda una medida como la veda pesquera al **desarrollo sostenible** de un recurso natural?
 
-a) Permite pescar más durante los meses de veda, porque hay menos pescadores en el mar
-b) Hace que la especie cambie de lugar para siempre y busque otras costas donde vivir
-c) Sirve solo para que suba el precio del pescado, sin ningún efecto en la especie
+a) Permite pescar más durante los meses de veda, porque hay menos pescadores en el mar y más peces
+b) Hace que la especie se vaya a otras costas lejanas, donde puede vivir tranquila y sin pescadores
+c) Sirve para que suba el precio del pescado en las ferias, pero no cambia nada para la especie
 d) Da tiempo a que la especie se reproduzca y su población se recupere, para que el recurso no se agote
 
 
