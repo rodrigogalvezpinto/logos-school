@@ -20,25 +20,21 @@ ultima_actualizacion: 2026-10-28
 
 ## Introducción para ti
 
-¡Hola de nuevo! Este año vamos a viajar mucho más atrás en el tiempo: vamos a conocer a los
-**pueblos originarios** que vivían en el territorio de Chile mucho antes de que llegaran los
-españoles, y vamos a entender cómo, con el paso de los siglos, se formó la sociedad chilena
-que conocemos hoy, hecha de mezclas y aportes de muchos pueblos distintos. Esto es el eje de
-**Historia**.
+¡Hola de nuevo! Este año vamos a viajar más atrás en el tiempo. Conocerás a los **pueblos
+originarios**. Ellos vivían en el territorio de Chile mucho antes de que llegaran los españoles.
+También verás cómo se formó la sociedad chilena de hoy, con aportes de muchos pueblos. Esto es el
+eje de **Historia**.
 
-Después vamos a aprender a ubicar Chile de forma más precisa, usando los **puntos
-cardinales** para describir dónde están nuestros países vecinos, y vamos a recorrer los
-paisajes tan distintos que existen entre el norte, el centro y el sur de nuestro país. Esto es
-el eje de **Geografía**.
+Después aprenderás a ubicar Chile con los **puntos cardinales**. Así podrás decir dónde están
+nuestros países vecinos. Y recorrerás los paisajes del norte, el centro y el sur. Esto es el eje
+de **Geografía**.
 
-Finalmente, vamos a profundizar en las normas que nos ayudan a cuidarnos, a cuidar a los
-demás y a cuidar nuestro entorno y patrimonio, y vamos a descubrir la importancia de
-servicios como el transporte, la comunicación y el comercio en nuestra comunidad. Esto es el
+Al final veremos normas que nos ayudan a cuidarnos, a cuidar a los demás y a cuidar nuestro
+entorno. También verás para qué sirven el transporte, la comunicación y el comercio. Esto es el
 eje de **Formación Ciudadana**.
 
-Un dato importante: la historia de un país no la cuenta una sola persona ni se ve desde un
-solo punto de vista. Por eso, en este documento vamos a conocer distintas miradas y distintos
-pueblos, para entender que la realidad social es algo que construimos entre todos.
+Un dato importante: la historia de un país no la cuenta una sola persona. Por eso conocerás
+distintas miradas y distintos pueblos. La sociedad la construimos entre todos.
 
 ¡Vamos a descubrir de dónde venimos y cómo se formó el Chile de hoy!
 
@@ -59,48 +55,46 @@ actividades, vivienda, costumbres, idioma, creencias, alimentación y fiestas, e
 
 #### Explicación
 
-**Precolombino** significa "antes de Colón", es decir, antes de que los españoles llegaran a
-América, hace más de 500 años. En esa época, en el territorio que hoy es Chile ya vivían
-distintos **pueblos originarios**, cada uno adaptado al lugar donde habitaba: el desierto, la
-cordillera, el valle, el bosque o el mar.
+**Precolombino** significa "antes de Colón". Es decir, antes de que los españoles llegaran a
+América, hace más de 500 años. En ese tiempo, en lo que hoy es Chile ya vivían distintos
+**pueblos originarios**. Cada uno se adaptó a su lugar: el desierto, la cordillera, el valle, el
+bosque o el mar.
 
 Un pueblo podía ser:
 
-- **Nómade**: se trasladaba de un lugar a otro, sin construir viviendas permanentes,
-  generalmente para cazar animales, pescar o recolectar alimentos según la temporada.
-- **Sedentario**: permanecía en un mismo lugar, cultivaba la tierra o criaba animales, y
-  construía viviendas más permanentes.
+- **Nómade**: se movía de un lugar a otro y no tenía casas fijas. Lo hacía para cazar, pescar o
+  recolectar alimentos según la temporada.
+- **Sedentario**: se quedaba en un mismo lugar. Cultivaba la tierra o criaba animales, y tenía
+  casas fijas.
 
-Algunos pueblos que habitaron nuestro territorio:
+Algunos pueblos que vivieron en nuestro territorio:
 
-- **Aymara**: vivían en el **altiplano** del norte de Chile, cerca de la Cordillera de los
-  Andes. Eran **sedentarios**: cultivaban papas y quínoa en terrazas, y criaban llamas y
-  alpacas. Hablaban aymara.
-- **Atacameños o Lickanantay**: vivían en los **oasis del desierto de Atacama** (como San
-  Pedro de Atacama). Eran **sedentarios** agricultores gracias al agua de los oasis, y también
-  pastores de llamas.
-- **Diaguitas**: vivían en los valles del Norte Chico (como los valles de Elqui y Limarí).
-  Eran **sedentarios** agricultores y destacados **ceramistas**, es decir, hacían vasijas de
-  greda pintadas con dibujos geométricos.
-- **Mapuche**: vivían entre el valle central y el sur de Chile. Eran **sedentarios**:
-  cultivaban la tierra, vivían en **rukas** (casas de madera y paja) y se organizaban en
-  familias lideradas por un **lonko**. Hablaban **mapudungun**.
-- **Pueblos canoeros australes** (chonos, kawésqar, yaganes): vivían en los canales e islas
-  del extremo sur. Eran **nómades del mar**: se trasladaban en canoas buscando peces, mariscos
-  y lobos marinos, y armaban toldos temporales.
+- **Aymara**: vivían en el **altiplano**, en el norte, cerca de la Cordillera de los Andes. Eran
+  **sedentarios**. Cultivaban papas y quínoa en terrazas, y criaban llamas y alpacas. Hablaban
+  aymara.
+- **Atacameños o Lickanantay**: vivían en los **oasis del desierto de Atacama**, como San Pedro
+  de Atacama. Eran **sedentarios**. Cultivaban gracias al agua de los oasis y criaban llamas.
+- **Diaguitas**: vivían en los valles del Norte Chico, como Elqui y Limarí. Eran
+  **sedentarios** y cultivaban la tierra. Eran grandes **ceramistas**: hacían vasijas de greda
+  con dibujos geométricos.
+- **Mapuche**: vivían entre el valle central y el sur. Eran **sedentarios** y cultivaban la
+  tierra. Vivían en **rukas**, casas de madera y paja. Cada familia tenía un jefe, el **lonko**.
+  Hablaban **mapudungun**.
+- **Pueblos canoeros australes** (chonos, kawésqar, yaganes): vivían en los canales e islas del
+  extremo sur. Eran **nómades del mar**. Viajaban en canoas buscando peces, mariscos y lobos
+  marinos. Armaban toldos por un tiempo.
 - **Selk'nam y aonikenk**: vivían en la Patagonia y Tierra del Fuego. Eran **nómades
-  terrestres**: cazaban guanacos y aves, siguiéndolos por la estepa, y armaban toldos de
-  cuero.
-- **Rapa Nui**: vivían en Isla de Pascua, en medio del océano Pacífico. Eran **sedentarios**,
-  hábiles navegantes llegados desde la Polinesia. Construyeron los famosos **moái**, grandes
-  estatuas de piedra.
+  terrestres**. Seguían a los guanacos y a las aves por la estepa para cazarlos. Armaban toldos
+  de cuero.
+- **Rapa Nui**: vivían en Isla de Pascua, en medio del océano Pacífico. Eran **sedentarios**.
+  Llegaron navegando desde la Polinesia. Construyeron los famosos **moái**, grandes estatuas de
+  piedra.
 
-En general, hombres y mujeres tenían **roles distintos pero complementarios**: por ejemplo,
-los hombres solían cazar, pescar o trabajar la tierra en tareas más pesadas, y las mujeres
-solían tejer, cocinar, recolectar alimentos y cuidar a los niños — aunque esto variaba según
-cada pueblo. Sus herramientas y tecnología dependían de su entorno: piedra y hueso para
-cazar, telares para tejer lana, arpones para pescar, y técnicas de cultivo en terrazas para
-aprovechar la tierra en la montaña.
+Hombres y mujeres solían tener **roles distintos pero complementarios**. Los hombres solían cazar,
+pescar o hacer las tareas más pesadas del campo. Las mujeres solían tejer, cocinar, recolectar
+alimentos y cuidar a los niños. Esto cambiaba según cada pueblo. Sus herramientas dependían de su
+entorno. Usaban piedra y hueso para cazar, telares para tejer y arpones para pescar. En la
+montaña cultivaban en terrazas.
 
 #### Ejemplos resueltos
 
@@ -363,32 +357,29 @@ los pueblos originarios (palabras, alimentos, tradiciones, cultura, etc.) y de l
 
 #### Explicación
 
-Cuando los españoles llegaron a América y se encontraron con los pueblos originarios, sus
-culturas se **mezclaron**. A esta mezcla la llamamos **mestizaje**, y por eso decimos que la
-sociedad chilena es una sociedad **mestiza**: nació de la unión entre los pueblos indígenas y
-los españoles.
+Los españoles llegaron a América y se encontraron con los pueblos originarios. Entonces sus
+culturas se **mezclaron**. A esta mezcla la llamamos **mestizaje**. Por eso decimos que la
+sociedad chilena es **mestiza**: nació de la unión entre pueblos indígenas y españoles.
 
 Aportes de los **pueblos originarios**:
 
-- **Palabras**: muchas palabras que usamos todos los días en Chile vienen de idiomas
-  indígenas, como *poncho*, *pololo/a* (enamorado/a), *cahuín* y *malón* (del
-  mapudungun), o *guagua* (bebé), *callampa* y *cocaví* (del quechua).
-- **Alimentos**: la papa, el choclo (maíz), la palta, la quínoa y el merkén son alimentos que
-  los pueblos originarios ya cultivaban o preparaban antes de la llegada de los españoles.
-- **Juegos**: el **palín** (o chueca), un juego mapuche parecido al hockey, es de origen
-  indígena.
+- **Palabras**: muchas palabras que usamos a diario vienen de idiomas indígenas. Del mapudungun
+  vienen *poncho*, *pololo/a*, *cahuín* y *malón*. Del quechua vienen *guagua*, *callampa* y
+  *cocaví*.
+- **Alimentos**: la papa, el choclo (maíz), la palta, la quínoa y el merkén. Los pueblos
+  originarios ya los cultivaban o preparaban antes de que llegaran los españoles.
+- **Juegos**: el **palín** (o chueca) es un juego mapuche parecido al hockey.
 
 Aportes de los **españoles**:
 
 - **Idioma**: el español, que hoy es el idioma oficial de Chile.
-- **Religión**: el catolicismo, traído por los españoles.
-- **Alimentos**: el trigo (para el pan), la vid (para las uvas y el vino) y animales como
+- **Religión**: el catolicismo.
+- **Alimentos**: el trigo para el pan y la vid para las uvas y el vino. También animales como
   vacas, ovejas y gallinas.
-- **Juegos**: la rayuela y el trompo llegaron con los españoles.
+- **Juegos**: la rayuela y el trompo.
 
-Muchas comidas típicas de Chile mezclan ingredientes de ambos orígenes: por ejemplo, la
-empanada de pino combina masa de trigo (aporte español) con ají y otros ingredientes
-americanos.
+Muchas comidas chilenas mezclan ambos orígenes. Por ejemplo, la empanada de pino. Su masa es de
+trigo, un aporte español. Y lleva ají y otros ingredientes americanos.
 
 #### Ejemplos resueltos
 
@@ -505,27 +496,25 @@ sociedad chilena, a lo largo de su historia.
 
 #### Explicación
 
-Además de la mezcla entre pueblos indígenas y españoles, Chile ha recibido a lo largo de su
-historia a personas **inmigrantes**, es decir, personas que llegaron desde otros países para
-vivir aquí, y que trajeron consigo su cultura, comidas, música y costumbres.
+Chile también ha recibido **inmigrantes**. Son personas que llegaron desde otros países para
+vivir aquí. Trajeron su cultura, sus comidas, su música y sus costumbres.
 
-- **Inmigrantes europeos**: por ejemplo, personas alemanas que se instalaron en el sur de
-  Chile (ciudades como Valdivia, Frutillar y Puerto Varas), dejando su huella en la
-  arquitectura de madera y en comidas como el kuchen; personas italianas, que trajeron las
-  pastas y el pan dulce navideño; y personas croatas, que se instalaron especialmente en la
-  región de Magallanes (Punta Arenas).
-- **Inmigrantes orientales**: personas de China y Corea, que trajeron comidas como el arroz
-  chaufán y establecieron negocios y restaurantes en distintas ciudades de Chile.
-- **Inmigrantes árabes**: especialmente personas de Palestina, que llegaron a Chile hace más
-  de cien años; hoy Chile tiene una de las comunidades palestinas más grandes fuera del mundo
-  árabe. Trajeron comidas como el pan árabe y dulces como el baklava.
-- **Inmigrantes latinoamericanos**: a lo largo de la historia y también en años recientes, han
-  llegado a Chile personas de Perú, Bolivia, Colombia, Haití, Venezuela y otros países de
-  América Latina, aportando su música, comidas y costumbres.
+- **Inmigrantes europeos**: personas alemanas llegaron al sur, a ciudades como Valdivia,
+  Frutillar y Puerto Varas. Dejaron casas de madera y comidas como el kuchen. Personas italianas
+  trajeron las pastas y el pan dulce de Navidad. Personas croatas se instalaron sobre todo en
+  Magallanes, en Punta Arenas.
+- **Inmigrantes orientales**: personas de China y Corea trajeron comidas como el arroz chaufán.
+  Abrieron negocios y restaurantes en muchas ciudades.
+- **Inmigrantes árabes**: sobre todo de Palestina, llegaron hace más de cien años. Hoy Chile
+  tiene una de las comunidades palestinas más grandes fuera del mundo árabe. Trajeron el pan
+  árabe y dulces como el baklava.
+- **Inmigrantes latinoamericanos**: han llegado personas de Perú, Bolivia, Colombia, Haití,
+  Venezuela y otros países. Llegaron antes y también en años recientes. Aportan su música, sus
+  comidas y sus costumbres.
 
-Un ejemplo histórico de aporte extranjero es **Andrés Bello**, un destacado educador y
-escritor nacido en Venezuela que llegó a Chile en el siglo XIX y ayudó a fundar la
-Universidad de Chile y a redactar el Código Civil chileno.
+Un ejemplo histórico es **Andrés Bello**. Fue un gran educador y escritor nacido en Venezuela.
+Llegó a Chile en el siglo XIX. Ayudó a fundar la Universidad de Chile y a escribir el Código
+Civil chileno.
 
 #### Ejemplos resueltos
 
@@ -653,24 +642,23 @@ países de América del Sur, utilizando los puntos cardinales.
 
 #### Explicación
 
-Los **puntos cardinales** son cuatro direcciones que nos ayudan a ubicarnos: **norte**,
-**sur**, **este** y **oeste**. Se usan en los mapas y en el **globo terráqueo** (una esfera
-que representa la Tierra) para describir dónde está un lugar en relación a otro.
+Los **puntos cardinales** son cuatro direcciones que nos ayudan a ubicarnos: **norte**, **sur**,
+**este** y **oeste**. Se usan en los mapas y en el **globo terráqueo**, una esfera que representa
+la Tierra. Sirven para decir dónde está un lugar respecto de otro.
 
-Chile está ubicado en América del Sur, y tiene como países **limítrofes** (vecinos, con los
-que comparte frontera):
+Chile está en América del Sur. Sus países **limítrofes** son los vecinos con los que comparte
+frontera:
 
-- **Perú**, ubicado al **norte** de Chile.
-- **Bolivia**, ubicada al **noreste** de Chile.
-- **Argentina**, ubicada al **este** de Chile (es la frontera más larga).
-- Al **oeste** de todo el territorio chileno está el **océano Pacífico**.
+- **Perú**, al **norte** de Chile.
+- **Bolivia**, al **noreste** de Chile.
+- **Argentina**, al **este** de Chile. Es la frontera más larga.
+- Al **oeste** de todo Chile está el **océano Pacífico**.
 
-Otros países de América del Sur, aunque no sean limítrofes con Chile, también se pueden
-ubicar usando los puntos cardinales, como Brasil, Uruguay, Paraguay, Ecuador, Colombia y
-Venezuela, entre otros.
+Con los puntos cardinales también ubicamos países que no son vecinos. Por ejemplo, Brasil,
+Uruguay, Paraguay, Ecuador, Colombia y Venezuela.
 
-También podemos ubicar Chile "hacia adentro": el país, nuestra **región**, la **capital
-regional** y **Santiago**, que es la capital de todo el país.
+También podemos ubicarnos "hacia adentro": el país, nuestra **región**, la **capital regional** y
+**Santiago**, la capital de todo el país.
 
 #### Ejemplos resueltos
 
@@ -791,26 +779,32 @@ otros).
 
 #### Explicación
 
-Chile es un país muy largo, por eso sus paisajes cambian mucho entre el norte y el sur.
-Podemos distinguir tres grandes zonas:
+Chile es un país muy largo. Por eso sus paisajes cambian mucho entre el norte y el sur. Podemos
+distinguir tres grandes zonas:
 
-- **Zona norte**: predomina el **desierto** (como el desierto de Atacama, uno de los más
-  secos del mundo), con **volcanes**, poca **vegetación** y fauna adaptada a la sequía, como
-  llamas, vicuñas y flamencos.
+- **Zona norte**: hay mucho **desierto**, como el de Atacama, uno de los más secos del mundo.
+  Hay **volcanes** y poca **vegetación**. Sus animales resisten la sequía, como llamas, vicuñas y
+  flamencos.
 - **Zona centro**: hay **valles** fértiles entre la **cordillera de los Andes** y la
-  **cordillera de la Costa**, con **ríos**, cultivos, viñedos y las ciudades más pobladas del
-  país, como Santiago y Valparaíso, junto a la **costa** del océano Pacífico.
-- **Zona sur**: predominan los bosques, **lagos**, volcanes, **fiordos** (entradas de mar
-  rodeadas de montañas), **archipiélagos** e **islas**, con abundante lluvia y ríos
-  caudalosos. Más al sur aún, en la Patagonia, hay glaciares y canales.
+  **cordillera de la Costa**. Hay **ríos**, cultivos y viñedos. Aquí están las ciudades más
+  pobladas, como Santiago y Valparaíso, junto a la **costa** del Pacífico.
+- **Zona sur**: hay bosques, **lagos**, volcanes, **fiordos**, **archipiélagos** e **islas**.
+  Llueve mucho y los ríos son caudalosos. Más al sur, en la Patagonia, hay glaciares y canales.
 
-Vocabulario geográfico importante: **océano** (gran masa de agua salada), **río** (corriente
-de agua dulce), **cordillera** (cadena de montañas), **desierto** (lugar muy seco), **valle**
-(terreno bajo entre montañas), **costa** (borde de tierra junto al mar), **volcán** (montaña
-que puede expulsar lava), **archipiélago** (conjunto de islas), **isla** (tierra rodeada de
-agua por todos lados), **fiordo** (entrada de mar entre montañas), **lago** (extensión de agua
-dulce rodeada de tierra), **ciudad** y **pueblo** (lugares donde vive la gente, de mayor a
-menor tamaño).
+Palabras importantes de geografía:
+
+- **Océano**: gran masa de agua salada.
+- **Río**: corriente de agua dulce.
+- **Lago**: agua dulce rodeada de tierra.
+- **Cordillera**: cadena de montañas.
+- **Volcán**: montaña que puede expulsar lava.
+- **Desierto**: lugar muy seco.
+- **Valle**: terreno bajo entre montañas.
+- **Costa**: borde de tierra junto al mar.
+- **Isla**: tierra rodeada de agua por todos lados.
+- **Archipiélago**: grupo de islas.
+- **Fiordo**: entrada de mar entre montañas.
+- **Ciudad** y **pueblo**: lugares donde vive la gente. La ciudad es más grande que el pueblo.
 
 #### Ejemplos resueltos
 
@@ -946,25 +940,21 @@ medioambiente.
 
 #### Explicación
 
-Existen normas para distintos propósitos, todas importantes para vivir mejor en comunidad:
+Hay normas para distintos propósitos. Todas nos ayudan a vivir mejor en comunidad:
 
-- **Seguridad vial**: normas para desplazarnos con seguridad, como mirar hacia ambos lados
-  antes de cruzar, respetar los semáforos y pasos de cebra, y usar cinturón de seguridad en
-  el auto.
-- **Vías de evacuación**: en Chile, por los terremotos y otras emergencias, es muy importante
-  conocer las rutas de escape y las zonas de seguridad en la escuela, en la casa y en lugares
-  públicos.
-- **Adaptaciones para personas con discapacidad**: como rampas para sillas de ruedas, asientos
-  preferenciales en el transporte público, y semáforos con sonido para personas con
-  discapacidad visual. Estas adaptaciones ayudan a que todas las personas puedan participar de
-  la vida en comunidad.
-- **Zonas de silencio**: lugares donde se pide hacer silencio, como cerca de un hospital, para
-  no molestar a las personas enfermas.
-- **Normas para un ambiente de aprendizaje acogedor**: como respetar los turnos para hablar,
-  cuidar los materiales y espacios comunes de la sala de clases, y cuidar también las
-  pertenencias de los compañeros.
-- **Cuidado del patrimonio y el medioambiente**: como no rayar monumentos ni edificios
-  históricos, no botar basura, reciclar, y cuidar plantas y animales.
+- **Seguridad vial**: nos ayudan a movernos seguros. Mira a ambos lados antes de cruzar. Respeta
+  los semáforos y los pasos de cebra. Usa cinturón de seguridad en el auto.
+- **Vías de evacuación**: en Chile hay terremotos y otras emergencias. Por eso hay que conocer las
+  rutas de escape y las zonas de seguridad. En la escuela, en la casa y en lugares públicos.
+- **Adaptaciones para personas con discapacidad**: rampas para sillas de ruedas, asientos
+  preferenciales en buses y metro, y semáforos con sonido para personas ciegas. Así todas las
+  personas pueden participar en la comunidad.
+- **Zonas de silencio**: lugares donde se pide silencio, como cerca de un hospital. Así no se
+  molesta a las personas enfermas.
+- **Normas para un ambiente de aprendizaje acogedor**: respetar los turnos para hablar. Cuidar
+  los materiales y los espacios de la sala. Cuidar las cosas de los compañeros.
+- **Cuidado del patrimonio y el medioambiente**: no rayar monumentos ni edificios históricos. No
+  botar basura y reciclar. Cuidar las plantas y los animales.
 
 #### Ejemplos resueltos
 
@@ -1090,22 +1080,19 @@ encargadas de proteger nuestro patrimonio cultural y natural.
 
 #### Explicación
 
-Además de instituciones como la escuela o el hospital, existen otros
-**servicios** muy importantes para la vida en comunidad:
+Además de la escuela o el hospital, hay otros **servicios** muy importantes para la comunidad:
 
-- **Medios de transporte**: como el bus, el metro, el tren, el avión y el barco, permiten
-  trasladar a las personas de un lugar a otro, y también trasladar productos, como alimentos
-  o materiales, desde donde se producen hasta donde se necesitan.
-- **Medios de comunicación**: como la televisión, la radio, el diario e internet, permiten
-  transmitir información importante a la comunidad, como noticias, el pronóstico del tiempo o
-  alertas de emergencia (por ejemplo, ante un sismo o una alerta de tsunami).
-- **El comercio o mercado**: como los almacenes, ferias, supermercados y locales de un pueblo
-  o ciudad, permiten que las personas consigan lo que necesitan para vivir, como alimentos y
-  ropa, y que quienes trabajan vendiendo esos productos puedan ganarse la vida.
-- **Instituciones que protegen el patrimonio cultural y natural**: como los museos, que
-  cuidan y muestran objetos históricos y culturales; y organismos como la **CONAF**
-  (Corporación Nacional Forestal), que cuida los parques nacionales, los bosques y la
-  naturaleza de Chile.
+- **Medios de transporte**: el bus, el metro, el tren, el avión y el barco. Llevan personas de un
+  lugar a otro. También llevan productos, como alimentos, desde donde se producen hasta donde se
+  necesitan.
+- **Medios de comunicación**: la televisión, la radio, el diario e internet. Nos dan información
+  importante, como noticias y el pronóstico del tiempo. También dan alertas de emergencia, por
+  ejemplo, ante un sismo o un tsunami.
+- **El comercio o mercado**: almacenes, ferias, supermercados y locales. Ahí las personas
+  consiguen lo que necesitan, como alimentos y ropa. Y quienes venden se ganan la vida.
+- **Instituciones que protegen el patrimonio cultural y natural**: los museos cuidan y muestran
+  objetos históricos. La **CONAF** (Corporación Nacional Forestal) cuida los parques nacionales,
+  los bosques y la naturaleza de Chile.
 
 #### Ejemplos resueltos
 

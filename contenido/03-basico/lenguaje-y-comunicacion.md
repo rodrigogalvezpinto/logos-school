@@ -13,12 +13,12 @@ ultima_actualizacion: 2026-10-28
 
 ## Ahora eres un lector o lectora más independiente
 
-En 2° básico aprendiste a leer cuentos, cartas y artículos informativos, fijándote en los personajes, el orden de los hechos y la información explícita e implícita. Este año vas a dar un paso más grande:
+En 2° básico leíste cuentos, cartas y artículos informativos. Te fijaste en los personajes, en el orden de los hechos y en la información explícita e implícita. Este año darás un paso más grande:
 
-1. Vas a leer narraciones más largas, fijándote también en el **ambiente** donde ocurre la historia y en las **consecuencias** de lo que hacen los personajes.
-2. Vas a leer **poemas** por primera vez, y vas a descubrir que a veces las palabras no significan exactamente lo que dicen: eso se llama **lenguaje figurado**.
-3. Vas a leer libros y artículos informativos usando herramientas que te ayudan a encontrar información rápido, como el **título**, los **subtítulos**, el **índice** y el **glosario**.
-4. Vas a escribir textos más largos, organizados en **párrafos**, usando **conectores** para unir tus ideas y cuidando que se entiendan con claridad.
+1. Leerás narraciones más largas. Te fijarás en el **ambiente** de la historia y en las **consecuencias** de lo que hacen los personajes.
+2. Leerás **poemas** por primera vez. Descubrirás que a veces las palabras no significan justo lo que dicen. Eso se llama **lenguaje figurado**.
+3. Leerás libros y artículos informativos. Usarás herramientas para encontrar información rápido: el **título**, los **subtítulos**, el **índice** y el **glosario**.
+4. Escribirás textos más largos, ordenados en **párrafos**. Usarás **conectores** para unir tus ideas, y cuidarás que se entiendan bien.
 
 Vamos a leer con más autonomía, pensar con más profundidad y escribir con más orden. ¡Empecemos!
 
@@ -28,14 +28,14 @@ Vamos a leer con más autonomía, pensar con más profundidad y escribir con má
 
 ### ¿Qué vamos a aprender?
 
-Ya sabías reconocer información explícita e implícita y ordenar la secuencia de un cuento. Ahora vamos a profundizar:
+Ya sabes reconocer información explícita e implícita. También sabes ordenar la secuencia de un cuento. Ahora iremos más profundo:
 
 - **Información explícita**: la que el texto dice directamente.
 - **Información implícita**: la que se deduce usando pistas del texto.
 - **Secuencia de las acciones**: el orden en que ocurren los hechos de la historia.
 - **Descripción de los personajes**: cómo son física y psicológicamente (su forma de ser).
-- **Descripción del ambiente**: dónde y cuándo ocurre la historia, y cómo es ese lugar (por ejemplo, si es de día o de noche, si hace frío o calor, si el lugar es alegre o tenebroso).
-- **Consecuencias de las acciones**: qué pasa *después* de que un personaje hace algo, como resultado de esa acción.
+- **Descripción del ambiente**: dónde y cuándo ocurre la historia, y cómo es ese lugar. Por ejemplo: ¿es de día o de noche? ¿Hace frío o calor? ¿El lugar es alegre o tenebroso?
+- **Consecuencias de las acciones**: qué pasa *después* de que un personaje hace algo, por causa de eso.
 - **Opinión sobre hechos y situaciones**: qué piensas tú sobre algo que ocurrió en la historia, explicando por qué.
 - **Opinión sobre los personajes**: qué piensas tú sobre cómo actuó un personaje, explicando por qué.
 
@@ -151,12 +151,12 @@ d) Porque el dinero no era de ella, devolverlo ayudó a otra persona y, aunque e
 
 ### ¿Qué vamos a aprender?
 
-Los poemas son textos literarios que se organizan en **versos** (cada línea) y **estrofas** (grupos de versos), y muchas veces usan un lenguaje distinto al que usamos todos los días. Vamos a aprender a:
+Los poemas son textos literarios. Se organizan en **versos** (cada línea) y **estrofas** (grupos de versos). Muchas veces usan un lenguaje distinto al de todos los días. Vamos a aprender a:
 
 - Extraer información **explícita** en un poema.
 - Extraer información **implícita** en un poema.
-- Reconocer el significado de expresiones de **lenguaje figurado**: frases que no se entienden "al pie de la letra" (de forma literal), sino que quieren decir algo distinto y más bonito o expresivo. Por ejemplo, decir que "el cielo llora" en vez de decir simplemente "está lloviendo".
-- **Explicar versos con tus propias palabras**, es decir, contar qué significa un verso usando un lenguaje distinto al del poema, pero manteniendo su sentido.
+- Reconocer el significado del **lenguaje figurado**. Son frases que no se entienden "al pie de la letra" (de forma literal). Quieren decir algo distinto, más bonito o expresivo. Por ejemplo, decir "el cielo llora" en vez de "está lloviendo".
+- **Explicar versos con tus propias palabras**. Es decir, contar qué significa un verso con otras palabras, sin cambiar su sentido.
 
 ### Poema de práctica: "El mar de mi abuelo"
 
@@ -259,10 +259,14 @@ d) Que el mar está enfermo del pecho y por eso hace tanto ruido
 
 ### ¿Qué vamos a aprender?
 
-Ahora vamos a leer textos no literarios más variados: cartas, biografías, relatos históricos, instrucciones, artículos informativos y noticias, para conocer más sobre el mundo y formarnos una opinión. Vamos a aprender a:
+Ahora leeremos textos no literarios más variados: cartas, biografías, relatos históricos, instrucciones, artículos informativos y noticias. Nos sirven para conocer el mundo y formarnos una opinión. Vamos a aprender a:
 
 - Extraer información **explícita** e **implícita**.
-- Usar los **organizadores de textos expositivos**: el **título** (dice de qué trata todo el texto), los **subtítulos** (dicen de qué trata cada parte), el **índice** (lista de los temas de un libro y en qué página están) y el **glosario** (lista de palabras difíciles con su significado, ordenadas alfabéticamente, generalmente al final del texto).
+- Usar los **organizadores de textos expositivos**:
+  - el **título** dice de qué trata todo el texto;
+  - los **subtítulos** dicen de qué trata cada parte;
+  - el **índice** es la lista de los temas de un libro y su página;
+  - el **glosario** es la lista de palabras difíciles con su significado. Va en orden alfabético, casi siempre al final.
 - Comprender la información que aportan las **ilustraciones, símbolos y pictogramas**.
 - Formular una **opinión** sobre algún aspecto de la lectura.
 - **Fundamentar** esa opinión con información del texto.
@@ -392,7 +396,7 @@ Este año vamos a escribir textos más largos y mejor organizados. Vamos a pract
 - Escribir un texto pensando en un **propósito** (para qué escribo) y un **destinatario** (para quién escribo).
 - Escribir **oraciones con sentido completo**, que se entiendan por sí solas.
 - Organizar las ideas en **párrafos**: un párrafo agrupa varias oraciones que hablan de una misma idea.
-- Usar el **punto aparte** para separar un párrafo de otro (a diferencia del punto seguido, que separa oraciones dentro de un mismo párrafo).
+- Usar el **punto aparte** para separar un párrafo de otro. El punto seguido, en cambio, separa oraciones dentro del mismo párrafo.
 - Usar **conectores** (como "y", "pero", "porque", "después", "finalmente") para relacionar las ideas entre sí.
 - Mantener la **concordancia** de género y número entre las palabras de una oración.
 - Escribir con **letra legible**, que se pueda leer con facilidad.

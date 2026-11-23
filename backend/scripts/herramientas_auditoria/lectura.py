@@ -50,3 +50,21 @@ def explicacion(archivo, n, nuevo, ancho=88):
     ruta.write_text(t2, encoding='utf-8')
     oraciones = [o for o in re.split(r'(?<=[.!?:;])\s+', ' '.join(nuevo.split())) if len(o.split()) > 2]
     print(f'ok {archivo} bloque {n}: {sum(len(o.split()) for o in oraciones) / len(oraciones):.0f} palabras por oración')
+
+
+def seccion(archivo, n, nuevo, inicio='#### Explicación\n\n'):
+    """Reemplaza el cuerpo de la n-ésima sección que empieza con `inicio` (1 = primera) hasta el
+    siguiente encabezado. `nuevo` va tal cual (con viñetas). Verifica que las preguntas no cambien."""
+    ruta = RAIZ / 'contenido' / archivo
+    texto = ruta.read_text()
+    pos = -1
+    for _ in range(n):
+        pos = texto.index(inicio, pos + 1)
+    a = pos + len(inicio)
+    m = re.compile(r'\n(?=#{1,4} |---\n)').search(texto, a)
+    b = m.start() if m else len(texto)
+    nuevo_texto = texto[:a] + nuevo.strip() + '\n' + texto[b:]
+    assert _firma(nuevo_texto) == _firma(texto), 'cambiaron las preguntas'
+    ruta.write_text(nuevo_texto)
+    ors = [o for o in re.split(r'(?<=[.!?:])\s+', ' '.join(nuevo.split())) if len(o.split()) > 2]
+    print(f'{archivo} §{n}: {sum(len(o.split()) for o in ors) / len(ors):.1f} palabras por oración')
