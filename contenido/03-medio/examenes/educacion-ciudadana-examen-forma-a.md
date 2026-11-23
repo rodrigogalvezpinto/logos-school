@@ -66,10 +66,10 @@ d) La descentralización administrativa
 
 **2.** (Alternativas — 6 puntos) ¿Por qué invocar una «emergencia» no justifica, en democracia, postergar indefinidamente las elecciones?
 
-a) Porque en democracia nunca pueden existir emergencias ni medidas excepcionales de ningún tipo, aunque ocurra un terremoto o una pandemia
-b) Porque las elecciones solo pueden suspenderse si lo decide el presidente junto con su gabinete, sin consultar a ningún otro poder del Estado
+a) Porque en democracia las emergencias se enfrentan con las leyes ordinarias, y las medidas excepcionales no están permitidas en la Constitución
+b) Porque las elecciones pueden suspenderse si lo decide el presidente junto con su gabinete, sin necesidad de consultar a otro poder del Estado
 c) Porque las medidas excepcionales tienen límites temporales y control de otros poderes, y sin elecciones periódicas desaparece el control ciudadano
-d) Porque la Constitución obliga a realizar elecciones presidenciales todos los meses del año, sin ninguna excepción ni postergación posible
+d) Porque la Constitución obliga a realizar elecciones presidenciales cada año, de modo que una postergación tendría que aprobarla un plebiscito
 
 ---
 
@@ -118,27 +118,27 @@ d) A la Contraloría General de la República
 **7.** (Alternativas — 6 puntos) Si Marta y su empleador no llegan a un acuerdo en la Inspección del Trabajo, ¿qué tribunal resuelve el conflicto?
 
 a) Un Juzgado de Letras del Trabajo
-b) Un Juzgado de Garantía
-c) El Tribunal Constitucional
-d) Un Juzgado de Policía Local
+b) Un Juzgado de Garantía de la comuna
+c) El Tribunal Constitucional de Chile
+d) Un Juzgado de Policía Local de la comuna
 
 ---
 
 **8.** (Selección múltiple — 4 puntos) ¿Qué órgano investiga los delitos y ejerce la acción penal pública en Chile?
 
-a) La Defensoría Penal Pública
-b) El Congreso Nacional
-c) La Corte Suprema
+a) La Defensoría Penal Pública del país
+b) El Congreso Nacional (Senado y Cámara)
+c) La Corte Suprema de Justicia
 d) El Ministerio Público (Fiscalía)
 
 ---
 
 **9.** (Selección múltiple — 4 puntos) ¿Qué ventaja tiene la mediación familiar gratuita para resolver conflictos como el régimen de visitas de un hijo?
 
-a) Que una de las partes gana siempre el conflicto y la otra debe pagar todos los costos del proceso judicial
+a) Que permite que el juez decida más rápido quién tiene la razón y quién debe pagar los costos del proceso judicial
 b) Que permite llegar a acuerdos con ayuda de un tercero imparcial, de forma más rápida y menos conflictiva que un juicio
-c) Que reemplaza a todos los tribunales del país y elimina por completo la necesidad de jueces en los conflictos familiares
-d) Que obliga a los padres a aceptar lo que decida el mediador, aunque ninguno de los dos esté de acuerdo con la solución propuesta
+c) Que reemplaza a los tribunales de familia del país, de modo que los jueces ya no intervienen en los conflictos familiares
+d) Que obliga a los padres a aceptar lo que decida el mediador, aunque los dos estén en desacuerdo con la solución propuesta
 
 ---
 
@@ -151,17 +151,17 @@ Un sector propone que el transporte público sea gratuito y se financie con impu
 **10.** (Selección múltiple — 4 puntos) ¿Con qué tema se relaciona principalmente el debate del estímulo?
 
 a) El rol del Estado y del mercado en la provisión de bienes y servicios
-b) La separación de poderes entre el Congreso y el presidente
-c) El derecho a voto de los extranjeros residentes en Chile
-d) La organización de los tribunales de justicia del país
+b) La separación de poderes entre el Congreso y el presidente de la República
+c) El derecho a voto de los extranjeros que residen en Chile hace años
+d) La organización de los tribunales de justicia en las regiones del país
 
 ---
 
 **11.** (Alternativas — 8 puntos) A partir del estímulo, ¿por qué la gratuidad del transporte público es un tema de debate político legítimo?
 
 a) Porque existe una única respuesta técnica correcta, calculada por expertos, que los ciudadanos deben aceptar sin discutir ni votar
-b) Porque es un tema que solo deben decidir las empresas de buses según sus ganancias, sin ninguna participación de la ciudadanía
-c) Porque el transporte público no tiene ninguna relación con los derechos ni con la vida cotidiana de las personas de la ciudad
+b) Porque es un tema que deciden las empresas de buses según sus costos y ganancias, con una participación menor de la ciudadanía de cada comuna
+c) Porque el transporte público afecta poco los derechos y la vida cotidiana de las personas, y por eso conviene dejarlo a los expertos
 d) Porque involucra valores distintos, como la equidad y la eficiencia, y decisiones colectivas sobre quién paga, que se resuelven democráticamente
 
 ---
@@ -177,10 +177,10 @@ d) Consumidor
 
 **13.** (Alternativas — 6 puntos) En una ciudad, una sola empresa entrega el agua potable y sube sus tarifas cada año. Se propone que un organismo público fiscalice las tarifas y la calidad del servicio. ¿Qué evaluación es más adecuada?
 
-a) Es innecesaria: el mercado corrige solo los precios, aunque haya una sola empresa
+a) Es innecesaria: el mercado corrige los precios con el tiempo, aunque haya una sola empresa
 b) Es pertinente: en un servicio esencial sin competencia, la regulación protege a los usuarios
-c) Es ilegal: el Estado no puede intervenir en ninguna empresa privada del país
-d) Es irrelevante: el agua potable no es un servicio esencial para la población
+c) Es ilegal: el Estado no puede intervenir en las tarifas que fija una empresa privada del país
+d) Es irrelevante: el agua potable no es un servicio esencial para la población urbana
 
 ---
 
@@ -201,8 +201,8 @@ d) La libertad de expresión
 
 **15.** (Alternativas — 6 puntos) ¿Por qué no basta con que un Estado garantice derechos sociales, como la salud y la educación, si restringe los derechos civiles y políticos?
 
-a) Porque los derechos sociales son menos importantes y pueden eliminarse sin problema siempre que exista libertad de prensa en el país
-b) Porque los derechos civiles y políticos solo importan en los países que realizan muchas elecciones cada año, como las grandes potencias
+a) Porque los derechos sociales son menos importantes y pueden reducirse sin problema mientras exista libertad de prensa y elecciones periódicas en el país
+b) Porque los derechos civiles y políticos importan sobre todo en los países que realizan muchas elecciones cada año, como las grandes potencias
 c) Porque los derechos humanos son interdependientes: sin libertad de expresión, la ciudadanía no puede reclamar ni controlar cómo se garantizan esos derechos sociales
 d) Porque los organismos internacionales prohíben expresamente que los Estados entreguen salud y educación gratuitas a su población
 
@@ -211,18 +211,18 @@ d) Porque los organismos internacionales prohíben expresamente que los Estados 
 **16.** (Selección múltiple — 4 puntos) ¿Qué tratado internacional, ratificado por Chile en 1990, protege especialmente los derechos de niños, niñas y adolescentes?
 
 a) La Convención sobre los Derechos del Niño
-b) El Tratado de Versalles
-c) La Carta de la OTAN
+b) El Tratado de Versalles de 1919
+c) La Carta de la OTAN sobre defensa
 d) El Acuerdo de París sobre cambio climático
 
 ---
 
 **17.** (Selección múltiple — 4 puntos) ¿Qué significa que los derechos humanos sean **exigibles**?
 
-a) Que solo pueden ejercerlos las personas mayores de edad que pagan impuestos
+a) Que pueden ejercerlos las personas mayores de edad que pagan impuestos en el país
 b) Que las personas pueden reclamarlos ante el Estado y los tribunales cuando no se respetan
 c) Que cada país decide libremente si los reconoce o no, sin ningún control externo
-d) Que solo se aplican en tiempos de paz y se suspenden por completo en las emergencias
+d) Que se aplican en tiempos de paz y pueden suspenderse por completo durante las emergencias
 
 ---
 
@@ -265,10 +265,10 @@ d) Votar en un plebiscito comunal
 
 **21.** (Alternativas — 6 puntos) ¿Qué caracteriza a la perspectiva republicana sobre la ciudadanía, a diferencia de la liberal?
 
-a) Que considera que el Estado no debe intervenir nunca en la vida de las personas
+a) Que considera que el Estado debe intervenir lo menos posible en la vida privada de las personas y de sus familias
 b) Que considera la participación activa en los asuntos públicos como un deber cívico y condición de la libertad
 c) Que considera que la identidad de la comunidad está por sobre los derechos de las personas
-d) Que considera que solo deben votar quienes tienen estudios universitarios completos
+d) Que considera que el voto debe reservarse a quienes tienen estudios universitarios completos y título
 
 ---
 
