@@ -167,7 +167,7 @@ d) Verdadero: los dos textos dicen lo mismo sobre el riego por goteo, aunque usa
 **13. (Alternativas)** ¿Qué opción identifica correctamente qué tienen en común el Texto A y el Texto B (más allá del tema general) y da una opinión fundamentada en ambos sobre usar el riego por goteo en otros valles secos de Chile?
 
 a) Tienen poco en común; el goteo no podría usarse en otros valles de Chile, porque cada lugar tiene un clima distinto y los textos hablan de Pica y de Israel en sus ejemplos
-b) Ambos dicen que el goteo sirve igual para los distintos cultivos y climas; por eso debería usarse en el país entero, incluso en las zonas más lluviosas del sur, sin excepciones
+b) Ambos dicen que el goteo sirve igual para los distintos cultivos y climas; por eso debería usarse en el país entero, incluso en las zonas más lluviosas del sur, sin excepciones ni ajustes
 c) Ambos destacan que el goteo usa menos agua y que es útil donde el agua escasea; podría aplicarse en otros valles secos, por su beneficio para las familias (Texto A) y su respaldo técnico (Texto B)
 d) Ambos hablan de los glaciares como fuente de agua; el goteo serviría en las zonas con hielo y nieve del sur de Chile
 
@@ -267,8 +267,8 @@ d) Para que el texto parezca más extenso e importante de lo que realmente es
 **24. (Alternativas)** ¿Por qué es importante desarrollar **una idea central por párrafo** (usando punto aparte) en un artículo informativo, y qué problema podría generar mezclar varias ideas distintas dentro de un mismo párrafo?
 
 a) Ayuda al lector a seguir el hilo y distinguir los aspectos del tema; mezclar ideas puede confundirlo y desordenar la información
-b) Así el artículo queda más largo y ordenado a la vista, aunque las ideas de cada párrafo se repitan varias veces
-c) Da lo mismo: se pueden mezclar las ideas en un mismo párrafo si el texto usa muchos conectores distintos y variados
+b) Así el artículo queda más largo y ordenado a la vista, aunque las ideas de cada párrafo se repitan varias veces entre sí
+c) Da lo mismo: se pueden mezclar las ideas en un mismo párrafo si el texto usa muchos conectores distintos y bien variados
 d) Para que cada párrafo tenga una sola oración, que es la extensión adecuada en un artículo informativo breve
 
 **25. (Varias correctas)** Imagina que debes escribir un artículo informativo breve sobre "la importancia de separar la basura en tu hogar". ¿Qué elementos debería incluir tu planificación?
