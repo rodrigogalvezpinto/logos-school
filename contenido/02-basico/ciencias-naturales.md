@@ -61,24 +61,31 @@ viven (su hábitat).
 
 **Explicación pedagógica**
 
-Todos los animales pasan por un **ciclo de vida**: un conjunto de etapas que se
-repiten generación tras generación, desde que nacen hasta que tienen sus propias
-crías. Pero ese ciclo no es igual en todos los animales. La gran mayoría de los **mamíferos** (como el
-guanaco o el zorro chilla) crecen **dentro** del cuerpo de la madre y nacen ya
-pareciéndose a sus padres, solo que más pequeños; luego crecen alimentándose de
-leche materna. Las **aves** (como el chincol o el queltehue) nacen de un **huevo**
-que la madre pone fuera de su cuerpo, dentro de un nido: primero es huevo, luego
-sale un **polluelo** que no puede volar, y después crece hasta ser un ave adulta que
-sí puede volar. Los **insectos**, como la mariposa, pasan por una
-**metamorfosis**: cambian tanto de forma que el animal joven no se parece en nada al
-adulto. La mariposa, por ejemplo, pasa por cuatro etapas: **huevo → oruga (larva) →
-crisálida (pupa) → mariposa adulta**. Los **anfibios**, como la rana, también
-cambian mucho: nacen de huevos puestos en el agua, de ahí sale un **renacuajo** que
-vive en el agua y respira por branquias (como un pez), y poco a poco le crecen
-patas, pierde la cola y se transforma en una rana adulta que puede vivir tanto en el
-agua como en tierra. Por eso decimos que el ciclo de vida de un animal está
-relacionado con su **hábitat**: la rana necesita agua para que sus huevos y sus
-renacuajos puedan desarrollarse, aunque de adulta pueda alejarse de ella.
+
+Todos los animales pasan por un **ciclo de vida**. Es un conjunto de etapas que se
+repiten, generación tras generación. Va desde que nacen hasta que tienen sus propias
+crías. Pero el ciclo no es igual en todos los animales.
+
+La mayoría de los **mamíferos**, como el guanaco o el zorro chilla, crecen **dentro**
+del cuerpo de la madre. Nacen parecidos a sus padres, pero más pequeños. Luego crecen
+tomando leche materna.
+
+Las **aves**, como el chincol o el queltehue, nacen de un **huevo**. La madre pone el
+huevo fuera de su cuerpo, en un nido. Del huevo sale un **polluelo** que no puede volar.
+Después crece y se convierte en un ave adulta que sí vuela.
+
+Los **insectos**, como la mariposa, pasan por una **metamorfosis**. Eso quiere decir que
+cambian tanto de forma que el joven no se parece en nada al adulto. La mariposa tiene
+cuatro etapas: **huevo → oruga (larva) → crisálida (pupa) → mariposa adulta**.
+
+Los **anfibios**, como la rana, también cambian mucho. Nacen de huevos puestos en el
+agua. Del huevo sale un **renacuajo**, que vive en el agua y respira por branquias, como
+un pez. Poco a poco le crecen patas y pierde la cola. Así se transforma en una rana
+adulta, que puede vivir en el agua y en la tierra.
+
+Por eso decimos que el ciclo de vida de un animal se relaciona con su **hábitat**. La
+rana necesita agua para que se desarrollen sus huevos y sus renacuajos. De adulta, en
+cambio, puede alejarse del agua.
 
 **Ejemplos resueltos**
 
@@ -181,25 +188,34 @@ hábitat), y proponer medidas para protegerlos.
 
 **Explicación pedagógica**
 
-Un animal está **en peligro de extinción** cuando quedan tan pocos ejemplares en la
-naturaleza que existe un riesgo real de que la especie desaparezca para siempre. En
-Chile hay varios animales **nativos** (que son propios de nuestro país o de esta
-parte del continente) que están en esta situación. En el **norte**, el **picaflor de
-Arica** es un pajarito muy pequeño que está en peligro crítico porque su hábitat —valles
-con flores nativas— se ha reducido mucho. En el **sur**, el **huemul** —un ciervo que aparece
-en el escudo de Chile, junto al cóndor— está en peligro porque se han talado los
-bosques donde vive y compite por alimento con animales introducidos, como el
-ganado. También en el sur, la **rana de Darwin** está en peligro porque los bosques
-nativos donde habita se han reducido y por la llegada de enfermedades. La
-**chinchilla chilena**, que antes vivía en gran parte del norte y centro del país,
-casi desapareció por la caza para obtener su piel, y hoy sobrevive en pocos
-lugares. Las principales causas de que estos animales estén en peligro son la
-**pérdida y el deterioro de su hábitat** (por ejemplo, cuando se destruyen bosques o
-humedales para construir), la **caza o captura ilegal**, y la llegada de especies
-que no son de Chile y que les hacen competencia o los atacan. Para protegerlos
-podemos: crear y cuidar **parques y reservas nacionales**, no comprar ni tener
-animales silvestres como mascotas, cumplir las leyes que los protegen, y cuidar los
-bosques, ríos y humedales donde viven.
+
+Un animal está **en peligro de extinción** cuando quedan muy pocos en la naturaleza.
+Entonces existe un riesgo real de que la especie desaparezca para siempre. En Chile hay
+varios animales **nativos** en esta situación. Nativo quiere decir que es propio de
+nuestro país o de esta parte del continente.
+
+En el **norte** está el **picaflor de Arica**, un pajarito muy pequeño. Está en peligro
+crítico porque su hábitat, los valles con flores nativas, se ha reducido mucho.
+
+En el **sur** vive el **huemul**, un ciervo que aparece en el escudo de Chile junto al
+cóndor. Está en peligro porque se han talado los bosques donde vive. Además, compite por
+alimento con animales traídos de afuera, como el ganado.
+
+También en el sur está la **rana de Darwin**. Está en peligro porque sus bosques nativos
+se han reducido y porque llegaron enfermedades nuevas.
+
+La **chinchilla chilena** antes vivía en gran parte del norte y del centro del país.
+Casi desapareció porque la cazaban para usar su piel. Hoy sobrevive en pocos lugares.
+
+¿Por qué estos animales están en peligro? Las causas principales son tres. La primera es
+la **pérdida y el deterioro de su hábitat**, por ejemplo, cuando se destruyen bosques o
+humedales para construir. La segunda es la **caza o captura ilegal**. La tercera es la
+llegada de especies de otros lugares, que les hacen competencia o los atacan.
+
+Para protegerlos podemos hacer varias cosas. Podemos crear y cuidar **parques y reservas
+nacionales**. No debemos comprar ni tener animales silvestres como mascotas. Hay que
+cumplir las leyes que los protegen. Y podemos cuidar los bosques, ríos y humedales donde
+viven.
 
 **Ejemplos resueltos**
 
@@ -299,23 +315,32 @@ para qué sirve cada uno.
 
 **Explicación pedagógica**
 
-Tu cuerpo tiene **órganos internos** que trabajan todo el tiempo, aunque tú no los
-veas ni pienses en ellos. El **corazón** está en el centro del pecho, un poco hacia
-el lado izquierdo, y su función es **bombear la sangre** a todo el cuerpo; por eso
-puedes sentir sus latidos si pones la mano en el pecho. Los **pulmones** están
-también en el pecho, uno a cada lado del corazón, y sirven para **respirar**: cuando
-inhalas, entra aire con oxígeno a los pulmones, y ese oxígeno pasa a la sangre para
-que el cuerpo lo use. El **estómago** está en la parte de arriba del abdomen (la
-guatita) y es el órgano donde se **digiere** la comida que masticaste,
-transformándola para que el cuerpo pueda aprovechar sus nutrientes. El
-**esqueleto** es el conjunto de todos los **huesos** de tu cuerpo: le da forma,
-sostiene todo el cuerpo (como el armazón de una casa) y protege órganos delicados,
-por ejemplo, las costillas protegen al corazón y a los pulmones, y el cráneo protege
-al cerebro. Los huesos se unen entre sí en puntos llamados **articulaciones**
-(como el codo, la rodilla o el hombro), que permiten que el cuerpo se doble y se
-mueva. Por último, los **músculos** son los órganos **activos** que están pegados a
-los huesos: cuando se contraen (se acortan), tiran de los huesos y así producen el
-**movimiento**, por ejemplo, al caminar, saltar o levantar un objeto.
+
+Tu cuerpo tiene **órganos internos** que trabajan todo el tiempo. Funcionan aunque no
+los veas ni pienses en ellos.
+
+El **corazón** está en el centro del pecho, un poco hacia la izquierda. Su función es
+**bombear la sangre** a todo el cuerpo. Por eso sientes sus latidos si pones la mano en
+el pecho.
+
+Los **pulmones** también están en el pecho, uno a cada lado del corazón. Sirven para
+**respirar**. Cuando inhalas, entra aire con oxígeno a los pulmones. Ese oxígeno pasa a
+la sangre, y así el cuerpo lo puede usar.
+
+El **estómago** está en la parte de arriba del abdomen, en la guatita. Allí se
+**digiere** la comida que masticaste. El estómago la transforma para que el cuerpo
+aproveche sus nutrientes.
+
+El **esqueleto** es el conjunto de todos los **huesos** del cuerpo. Le da forma y lo
+sostiene, como el armazón de una casa. También protege órganos delicados: las costillas
+protegen al corazón y a los pulmones, y el cráneo protege al cerebro.
+
+Los huesos se unen en puntos llamados **articulaciones**, como el codo, la rodilla o el
+hombro. Las articulaciones permiten que el cuerpo se doble y se mueva.
+
+Por último, los **músculos** son los órganos **activos**. Están pegados a los huesos.
+Cuando se contraen, es decir, cuando se acortan, tiran de los huesos. Así se produce el
+**movimiento**, por ejemplo, al caminar, saltar o levantar algo.
 
 **Ejemplos resueltos**
 
@@ -416,20 +441,24 @@ hábitos diarios.
 
 **Explicación pedagógica**
 
-Cuando haces **actividad física** —correr, saltar, andar en bicicleta, bailar o
-jugar a la pelota— tu corazón y tus músculos **trabajan más** de lo normal. Con el
-tiempo, este trabajo constante hace que tus **músculos se fortalezcan** (se vuelven
-más resistentes y fuertes) y que tu **corazón se fortalezca** también, ya que es un
-músculo que se ejercita cada vez que late más rápido. Una persona que hace
-actividad física con frecuencia suele tener más energía, más agilidad y mejor
-coordinación de movimientos. En cambio, una persona que pasa mucho tiempo sentada o
-sin moverse, es decir, con un estilo de vida **sedentario**, puede tener
-consecuencias negativas para su salud: aumento de peso, menor agilidad, peor
-coordinación y un corazón menos entrenado. Por eso es importante incorporar el
-ejercicio en la vida diaria: se puede jugar en el patio o la plaza, andar en
-bicicleta o en patines, bailar, practicar algún deporte, o simplemente caminar en
-vez de usar siempre el auto o la micro para trayectos cortos. No hace falta hacer
-ejercicio de manera extrema: lo importante es moverse con regularidad.
+
+Cuando haces **actividad física**, tu corazón y tus músculos **trabajan más** de lo
+normal. Actividad física es correr, saltar, andar en bicicleta, bailar o jugar a la
+pelota.
+
+Con el tiempo, este trabajo hace que tus **músculos se fortalezcan**: se vuelven más
+fuertes y resistentes. Tu **corazón también se fortalece**, porque es un músculo que se
+ejercita cada vez que late más rápido. Una persona que hace actividad física seguido
+suele tener más energía, más agilidad y mejor coordinación.
+
+En cambio, algunas personas pasan mucho tiempo sentadas o sin moverse. Eso se llama un
+estilo de vida **sedentario**, y puede dañar la salud. Puede causar aumento de peso,
+menos agilidad, peor coordinación y un corazón menos entrenado.
+
+Por eso es importante moverse cada día. Puedes jugar en el patio o en la plaza, andar en
+bicicleta o en patines, bailar o practicar un deporte. También puedes caminar en vez de
+usar el auto o la micro en trayectos cortos. No hace falta hacer ejercicio extremo: lo
+importante es moverse con regularidad.
 
 **Ejemplos resueltos**
 
@@ -534,25 +563,33 @@ inodora, y de evaporarse o congelarse según la temperatura.
 
 **Explicación pedagógica**
 
-El agua es una sustancia con características muy particulares que podemos
-comprobar observando o experimentando. Primero, el agua **escurre**: si la
-inclinas o la viertes, fluye de un lugar a otro, buscando siempre el lugar más
-bajo. Segundo, el agua **se adapta a la forma del recipiente** que la contiene: si
-la pones en un vaso, toma la forma del vaso; si la pones en una olla, toma la forma
-de la olla; el agua no tiene una forma propia y fija, como sí la tiene una piedra.
-Tercero, el agua puede **disolver** algunas sustancias sólidas: si le echas azúcar
-o sal y revuelves, estos sólidos desaparecen a la vista porque se mezclan de forma
-tan uniforme con el agua que ya no se distinguen sus partículas; decimos que se
-**disolvieron**. Sin embargo, no todas las sustancias se disuelven en agua: si le
-echas arena o aceite, estos no se disuelven, sino que se mantienen separados del
-agua. Cuarto, el agua pura es **transparente** (se puede ver a través de ella) e
-**inodora** (no tiene olor). Por último, el agua **cambia de estado** según la
-temperatura: si el agua líquida se enfría mucho, se congela y se transforma en
-hielo (estado sólido); si el agua líquida se calienta mucho, parte de ella se
-evapora y se transforma en vapor de agua (estado gaseoso), que es invisible y se
-mezcla con el aire. Estos cambios se pueden observar en la naturaleza: por ejemplo,
-un charco que desaparece en un día caluroso se evaporó, y el hielo que se forma en
-una laguna de la cordillera en invierno es agua que se congeló por el frío.
+
+El agua tiene características muy especiales. Las podemos comprobar si la observamos o
+hacemos experimentos.
+
+Primero, el agua **escurre**. Si la inclinas o la viertes, fluye de un lugar a otro.
+Siempre busca el lugar más bajo.
+
+Segundo, el agua **se adapta a la forma del recipiente**. En un vaso, toma la forma del
+vaso. En una olla, toma la forma de la olla. El agua no tiene una forma propia, como sí
+la tiene una piedra.
+
+Tercero, el agua puede **disolver** algunos sólidos. Si le echas azúcar o sal y
+revuelves, ya no los ves. Se mezclaron tan bien con el agua que no se distinguen:
+decimos que se **disolvieron**. Pero no todo se disuelve en agua. La arena y el aceite,
+por ejemplo, quedan separados del agua.
+
+Cuarto, el agua pura es **transparente**, es decir, se puede ver a través de ella.
+También es **inodora**: no tiene olor.
+
+Por último, el agua **cambia de estado** según la temperatura. Si el agua líquida se
+enfría mucho, se congela y se vuelve hielo, que es un sólido. Si se calienta mucho,
+parte de ella se evapora y se vuelve vapor de agua, que es un gas. El vapor es invisible
+y se mezcla con el aire.
+
+Estos cambios se ven en la naturaleza. Un charco que desaparece en un día caluroso se
+evaporó. Y el hielo que se forma en una laguna de la cordillera en invierno es agua que
+se congeló por el frío.
 
 **Ejemplos resueltos**
 
@@ -657,22 +694,29 @@ proponer acciones cotidianas para cuidar este recurso tan valioso.
 
 **Explicación pedagógica**
 
-El agua se encuentra en distintos lugares de nuestro planeta: en los **océanos** y
-**mares** (agua salada), en **ríos**, **lagos** y **lagunas** (agua dulce), en
-**glaciares** y **nieve** de la cordillera (agua congelada), y también como vapor
-invisible en el **aire**. Toda esta agua se mueve constantemente en un recorrido
-que se repite una y otra vez, llamado el **ciclo del agua**. Funciona así: el calor
-del Sol hace que el agua de los océanos, ríos y lagos se **evapore**, es decir, se
-transforme en vapor de agua invisible que sube al cielo. Al subir, ese vapor se
-enfría y se transforma en pequeñas gotitas que forman las **nubes**; este proceso se
-llama **condensación**. Cuando las gotitas dentro de las nubes se juntan y se hacen
-más grandes y pesadas, caen de vuelta a la Tierra en forma de **precipitación**:
-lluvia, nieve o granizo. Esa agua que cae puede juntarse en ríos, lagos y océanos, o
-infiltrarse en la tierra, y el ciclo vuelve a comenzar. Como el agua dulce (la que
-podemos beber y usar) es un **recurso limitado y muy valioso**, es importante
-cuidarla todos los días con acciones simples: cerrar la llave mientras nos jabonamos
-las manos o los dientes, cerrar bien las llaves para que no goteen, reutilizar el
-agua cuando sea posible, y no contaminar ríos ni lagos con basura o químicos.
+
+El agua está en muchos lugares de nuestro planeta. Hay agua salada en los **océanos** y
+**mares**. Hay agua dulce en **ríos**, **lagos** y **lagunas**. Hay agua congelada en
+los **glaciares** y en la **nieve** de la cordillera. Y también hay vapor de agua,
+invisible, en el **aire**.
+
+Toda esta agua se mueve sin parar, en un recorrido que se repite una y otra vez. Ese
+recorrido se llama **ciclo del agua**. Funciona así:
+
+El calor del Sol calienta el agua de los océanos, ríos y lagos. El agua se **evapora**:
+se transforma en vapor invisible que sube al cielo. Al subir, el vapor se enfría y forma
+gotitas muy pequeñas. Esas gotitas forman las **nubes**. Este paso se llama
+**condensación**.
+
+Dentro de las nubes, las gotitas se juntan y se hacen más grandes y pesadas. Entonces
+caen a la Tierra como **precipitación**: lluvia, nieve o granizo. Esa agua llega a los
+ríos, lagos y océanos, o se filtra en la tierra. Y el ciclo vuelve a empezar.
+
+El agua dulce es la que podemos beber y usar. Es un **recurso limitado y muy valioso**,
+así que hay que cuidarla todos los días. Puedes cerrar la llave mientras te jabonas las
+manos o te lavas los dientes. Puedes cerrar bien las llaves para que no goteen. Puedes
+reutilizar el agua cuando se pueda. Y nunca hay que tirar basura ni químicos a ríos o
+lagos.
 
 **Ejemplos resueltos**
 
@@ -770,22 +814,27 @@ observar cómo estas cambian a lo largo del año.
 
 **Explicación pedagógica**
 
-El **tiempo atmosférico** es cómo está el clima en un lugar en un momento
-determinado: si hace calor o frío, si el cielo está despejado o nublado, si llueve
-o hace viento. Uno de los elementos más importantes es la **precipitación**, es
-decir, el agua que cae del cielo, que puede tomar distintas formas según la
-temperatura: **lluvia** (agua líquida), **granizo** (bolitas de hielo que caen
-durante una tormenta) o **nieve** (agua congelada en forma de copos, que cae
-cuando la temperatura es muy baja). Otro elemento es el **viento**, que es aire en
-movimiento; el viento puede producir efectos que observamos fácilmente, como mover
-las hojas de los árboles, hacer volar papeles o cometas, o formar olas más grandes
-en el mar. La **temperatura ambiente** nos indica si hace calor o frío, y se
-relaciona con otros fenómenos: por ejemplo, cuando hay nieve, generalmente sentimos
-mucho frío, y los días de lluvia suelen estar acompañados de nubes que cubren el
-cielo y tapan el sol. El tiempo atmosférico no es siempre igual: **cambia a lo
-largo del año**, y estos cambios los podemos observar y registrar, por ejemplo,
-anotando cada día si llovió, si hizo viento o qué tan alta o baja estuvo la
-temperatura.
+
+El **tiempo atmosférico** es cómo está el clima en un lugar y en un momento. Por
+ejemplo, si hace calor o frío, si el cielo está despejado o nublado, si llueve o si hay
+viento.
+
+Uno de sus elementos más importantes es la **precipitación**, el agua que cae del cielo.
+Puede caer de distintas formas, según la temperatura. La **lluvia** es agua líquida. El
+**granizo** son bolitas de hielo que caen en una tormenta. La **nieve** es agua
+congelada en forma de copos, y cae cuando hace mucho frío.
+
+Otro elemento es el **viento**, que es aire en movimiento. Sus efectos se ven
+fácilmente: mueve las hojas de los árboles, hace volar papeles y volantines, y forma
+olas más grandes en el mar.
+
+La **temperatura ambiente** nos dice si hace calor o frío. Se relaciona con otros
+fenómenos. Cuando hay nieve, por ejemplo, sentimos mucho frío. Y los días de lluvia
+suelen tener nubes que tapan el sol.
+
+El tiempo atmosférico **cambia a lo largo del año**. Esos cambios se pueden observar y
+registrar. Por ejemplo, puedes anotar cada día si llovió, si hubo viento o si hizo calor
+o frío.
 
 **Ejemplos resueltos**
 
@@ -905,24 +954,31 @@ los animales y las personas.
 
 **Explicación pedagógica**
 
-En Chile, como en gran parte del planeta, el año se divide en **cuatro
-estaciones**: **verano**, **otoño**, **invierno** y **primavera**, que se repiten
-en el mismo orden cada año y se pueden ubicar en un calendario. Cada estación tiene
-características propias del tiempo atmosférico. El **verano** se relaciona con
-temperaturas altas, sensación de calor y muchas horas de sol y luz al día. El
-**otoño** se relaciona con la llegada del viento, la caída de las hojas de algunos
-árboles y la disminución de las horas de luz: los días empiezan a ser más cortos.
-El **invierno** se relaciona con temperaturas bajas, frío, y en algunos lugares de
-Chile, con lluvia y nieve, especialmente en la cordillera y en el sur. La
-**primavera** se relaciona con temperaturas templadas, el florecimiento de muchas
-plantas y el aumento progresivo de las horas de luz. Estas estaciones no solo
-cambian el clima: también producen **efectos sobre los seres vivos**. Muchas
-plantas, por ejemplo, pierden sus hojas en otoño y florecen en primavera. Algunos
-animales cambian su alimentación o su comportamiento frente al invierno: por
-ejemplo, algunos guardan alimento durante el otoño para tener reservas cuando
-escasea la comida en invierno, y otros disminuyen su actividad en los meses más
-fríos. Las personas también adaptamos nuestras actividades y vestimenta según la
-estación: usamos ropa más abrigada en invierno y ropa más liviana en verano.
+
+En Chile, como en gran parte del planeta, el año tiene **cuatro estaciones**:
+**verano**, **otoño**, **invierno** y **primavera**. Se repiten en el mismo orden cada
+año, y se pueden ubicar en un calendario. Cada estación tiene un tiempo atmosférico
+propio.
+
+El **verano** trae temperaturas altas, calor y muchas horas de sol al día.
+
+El **otoño** trae viento. Algunos árboles botan sus hojas, y las horas de luz
+disminuyen: los días se hacen más cortos.
+
+El **invierno** trae temperaturas bajas y frío. En algunos lugares de Chile también trae
+lluvia y nieve, sobre todo en la cordillera y en el sur.
+
+La **primavera** trae temperaturas templadas. Muchas plantas florecen, y las horas de
+luz aumentan poco a poco.
+
+Las estaciones no solo cambian el clima. También tienen **efectos sobre los seres
+vivos**. Muchas plantas pierden sus hojas en otoño y florecen en primavera. Algunos
+animales cambian su alimentación o su conducta antes del invierno. Unos guardan comida
+en otoño, para tener reservas cuando escasea. Otros se mueven menos en los meses más
+fríos.
+
+Las personas también nos adaptamos a cada estación. En invierno usamos ropa abrigada, y
+en verano, ropa liviana.
 
 **Ejemplos resueltos**
 
