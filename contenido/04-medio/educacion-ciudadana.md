@@ -185,8 +185,8 @@ Legislativo en la institucionalidad democrática chilena?
 a) Ejerce la función legislativa en conjunto con el Presidente, y la fiscalización política
 del gobierno corresponde exclusivamente a la Cámara de Diputadas y Diputados
 b) Dirige la administración del país y promulga las leyes aprobadas, y la fiscalización política del gobierno corresponde exclusivamente al Senado de la República
-c) Resuelve juicios aplicando las leyes a casos concretos, y ejerce la función legislativa solo cuando el Presidente de la República se lo solicita
-d) Organiza las elecciones y proclama los resultados
+c) Resuelve juicios aplicando las leyes a casos concretos, y participa en la función legislativa cuando el Presidente de la República se lo solicita
+d) Organiza las elecciones, proclama los resultados y fiscaliza el gasto electoral de los candidatos
 
 ✅ Respuesta correcta: **a) Ejerce la función legislativa en conjunto con el Presidente, y la
 fiscalización política del gobierno corresponde exclusivamente a la Cámara de Diputadas y
@@ -229,9 +229,9 @@ d) 1-B, 2-C, 3-A
 mitad de los votos válidamente emitidos, la institucionalidad chilena establece que:
 
 a) Gana automáticamente quien tenga más votos, aunque sea un porcentaje bajo
-b) El Congreso elige al Presidente entre los diputados
+b) El Congreso elige al Presidente entre las dos candidaturas más votadas
 c) Se realiza una segunda vuelta entre las dos candidaturas más votadas
-d) Se repite la elección con todos los candidatos originales
+d) Se repite la elección con los candidatos originales un mes después
 
 ✅ Respuesta correcta: **c) Se realiza una segunda vuelta entre las dos candidaturas más
 votadas**
@@ -252,8 +252,8 @@ requisitos como reunir patrocinios o firmas de respaldo.
 ---
 
 **6. (Alternativas — análisis de caso)** Parlamentarios acusan a un ministerio de gastar recursos públicos en fines que la ley no autorizaba. ¿Qué órgano autónomo de control debe pronunciarse?
-a) El Tribunal Constitucional, que controla la constitucionalidad de las leyes
-b) El Servicio Electoral, que fiscaliza el gasto de las campañas y de los ministerios
+a) El Tribunal Constitucional, que controla la constitucionalidad de las leyes y de los decretos
+b) El Servicio Electoral, que fiscaliza el gasto de las campañas y de los ministerios del gobierno
 c) El Banco Central, que fija la tasa de interés y controla el presupuesto de cada ministerio
 d) La Contraloría General de la República, que fiscaliza la legalidad del uso de los recursos públicos
 
@@ -265,7 +265,7 @@ d) La Contraloría General de la República, que fiscaliza la legalidad del uso 
 **7. (Alternativas)** ¿Por qué los "pesos y contrapesos" son centrales en la institucionalidad democrática y cómo se vinculan con el bien común?
 a) Porque concentran el poder en un solo órgano para hacerlo más eficiente, de modo que las decisiones se tomen rápido y sin fiscalizaciones que retrasen el interés general
 b) Porque permiten que cada autoridad haga lo que quiera dentro de su ámbito, sin someterse a reglas ni a la fiscalización de otros órganos del Estado
-c) Porque eliminan la necesidad de leyes
+c) Porque eliminan la necesidad de leyes, ya que cada órgano decide según su propio criterio en cada caso, sin consultar a la ciudadanía
 d) Porque someten cada órgano a reglas y a la fiscalización de otros, evitando el poder arbitrario y favoreciendo decisiones conforme a la ley y al interés general
 
 ✅ Respuesta correcta: **d) Porque someten cada órgano a reglas y a la fiscalización de otros, evitando el poder arbitrario y favoreciendo decisiones conforme a la ley y al interés general**
@@ -444,7 +444,7 @@ a) Extractivo, con riesgos de dependencia de precios internacionales y presión 
 naturales
 b) Centrado en la producción industrial con alto valor agregado y tecnología propia desarrollada en el país
 c) De economía del conocimiento y servicios tecnológicos exportados a otros países
-d) Basado exclusivamente en el trabajo artesanal local
+d) Basado en el trabajo artesanal local y en la venta de productos dentro del país
 
 ✅ Respuesta correcta: **a) Extractivo, con riesgos de dependencia de precios internacionales
 y presión sobre recursos naturales**
@@ -467,8 +467,8 @@ contribuyeron a causarlo.
 
 **6. (Alternativas — análisis de caso)** Una comuna costera depende de una industria que da empleo, pero vierte residuos al mar afectando la pesca artesanal. ¿Qué análisis usa correctamente las tres dimensiones?
 a) Económica: empleo y viabilidad; ambiental: degradación del ecosistema marino; social: afecta el sustento de los pescadores, distribuyendo beneficios y costos de forma desigual
-b) Solo hay una dimensión económica positiva: la industria da empleo, y los efectos sobre el mar y la pesca artesanal no forman parte del análisis del desarrollo de la comuna
-c) La situación no tiene dimensión social
+b) Predomina la dimensión económica positiva: la industria da empleo, y los efectos sobre el mar y la pesca artesanal son secundarios en el análisis del desarrollo de la comuna
+c) La situación tiene una dimensión social menor, porque los pescadores pueden trabajar en la industria cuando la pesca disminuya, con sueldos parecidos a los que tenían
 d) La dimensión ambiental mejora gracias a los vertidos, que alimentan a los peces; la social se beneficia del empleo y la económica no cambia, porque los costos se reparten por igual
 
 ✅ Respuesta correcta: **a) Económica: empleo y viabilidad; ambiental: degradación del ecosistema marino; social: afecta el sustento de los pescadores, distribuyendo beneficios y costos de forma desigual**
@@ -477,9 +477,9 @@ d) La dimensión ambiental mejora gracias a los vertidos, que alimentan a los pe
 ---
 
 **7. (Alternativas)** ¿Qué ejemplo muestra que una decisión fiscal expresa una prioridad del modelo de desarrollo?
-a) Las decisiones fiscales son siempre neutras y técnicas: destinar más gasto a educación o rebajar impuestos solo depende de cálculos contables, sin expresar prioridades
-b) Los impuestos no tienen relación con el desarrollo: el modelo se define en la Constitución y el presupuesto se ajusta cada año sin reflejar ninguna prioridad
-c) El gasto público solo depende del clima
+a) Las decisiones fiscales son neutras y técnicas: destinar más gasto a educación o rebajar impuestos depende de cálculos contables, sin expresar prioridades políticas
+b) Los impuestos tienen poca relación con el desarrollo: el modelo se define en la Constitución y el presupuesto se ajusta cada año sin reflejar prioridades del gobierno
+c) El gasto público depende sobre todo del precio del cobre y del clima de cada año
 d) Destinar más gasto a educación y salud universales expresa prioridad por la redistribución; rebajar impuestos para la inversión expresa confianza en el mercado
 
 ✅ Respuesta correcta: **d) Destinar más gasto a educación y salud universales expresa prioridad por la redistribución; rebajar impuestos para la inversión expresa confianza en el mercado**
@@ -489,8 +489,8 @@ d) Destinar más gasto a educación y salud universales expresa prioridad por la
 
 **8. (Alternativas — análisis de datos)** Una región minera tiene los ingresos por persona más altos del país, pero también graves problemas ambientales y migración de jóvenes sin empleo fuera de la minería. ¿Qué se concluye sobre medir el desarrollo solo por el ingreso?
 a) Que el ingreso promedio basta para medir el desarrollo, porque los problemas ambientales y la migración se resuelven con más ingresos
-b) Que la migración de jóvenes no tiene relación con el desarrollo, porque depende solo de decisiones personales de cada familia
-c) Que la minería no genera ingresos
+b) Que la migración de jóvenes tiene poca relación con el desarrollo, porque depende de decisiones personales de cada familia
+c) Que la minería genera menos ingresos de lo que indican las cifras oficiales
 d) Que el ingreso promedio oculta dimensiones como la calidad ambiental, la diversidad del empleo y la sostenibilidad del modelo
 
 ✅ Respuesta correcta: **d) Que el ingreso promedio oculta dimensiones como la calidad ambiental, la diversidad del empleo y la sostenibilidad del modelo**
@@ -643,8 +643,8 @@ en norma general.
 **1. (Alternativas)** ¿Cuál es la razón de fondo por la que las sociedades establecen normas
 de derechos laborales, según lo estudiado?
 
-a) Porque el Estado debe reemplazar completamente la negociación entre trabajadores y empleadores, fijando por ley todas las condiciones de cada empleo y cada sueldo
-b) Porque los derechos laborales solo benefician a los sindicatos
+a) Porque el Estado debe reemplazar la negociación entre trabajadores y empleadores, fijando por ley las condiciones de cada empleo y cada sueldo del país
+b) Porque los derechos laborales benefician sobre todo a los sindicatos y a sus dirigentes, que necesitan normas para negociar
 c) Porque en la relación laboral existe una asimetría de poder que sin normas mínimas puede
 traducirse en condiciones que vulneran la dignidad de quien trabaja
 d) Porque las empresas no tienen interés legítimo en definir las condiciones del trabajo que ofrecen, y por eso las normas deben impedir que participen en esa definición
@@ -690,9 +690,9 @@ mecanismos como:
 
 a) El permiso postnatal, la protección del empleo durante el embarazo y mecanismos de sala
 cuna
-b) La prohibición de contratar mujeres en edad fértil
+b) La prohibición de contratar mujeres en edad fértil en trabajos pesados
 c) La obligación de las madres de renunciar al empleo tras el embarazo, con una indemnización
-d) Un sistema que traslada todos los costos del cuidado infantil a las familias y a las madres
+d) Un sistema que traslada los costos del cuidado infantil a las familias y a las madres
 
 ✅ Respuesta correcta: **a) El permiso postnatal, la protección del empleo durante el embarazo
 y mecanismos de sala cuna**
@@ -718,8 +718,8 @@ trabajadoras y movimientos sociales, no de concesiones espontáneas.
 **6. (Alternativas — análisis de caso)** Una app de reparto llama "socios independientes" a sus trabajadores, aunque fija sus tarifas, su disponibilidad y puede desactivarlos sin procedimiento. ¿Qué debate ilustra?
 a) El de los empleos de plataformas y la frontera entre trabajo dependiente e independiente, cuando la tecnología puede usarse para evadir protecciones laborales
 b) El debate sobre la jornada laboral de los profesores y la carga de trabajo fuera del horario de clases en los establecimientos educacionales
-c) Ninguno: los socios independientes no tienen debate, porque eligen libremente cuándo trabajar y la app solo actúa como intermediaria entre clientes y comercios
-d) El debate sobre la propiedad de los medios
+c) Un debate menor: los socios independientes eligen libremente cuándo trabajar y la app actúa como intermediaria entre clientes y comercios
+d) El debate sobre la propiedad de los medios de comunicación y su concentración en pocos grupos
 
 ✅ Respuesta correcta: **a) El de los empleos de plataformas y la frontera entre trabajo dependiente e independiente, cuando la tecnología puede usarse para evadir protecciones laborales**
 *Retroalimentación:* Las nuevas formas de trabajo obligan a repensar —no a abandonar— los derechos laborales.
@@ -727,8 +727,8 @@ d) El debate sobre la propiedad de los medios
 ---
 
 **7. (Alternativas)** ¿Por qué el derecho a sindicalizarse y negociar colectivamente equilibra la asimetría de la relación laboral?
-a) Porque elimina la necesidad de contratos individuales, y cada trabajador queda sujeto solo a lo que decida el sindicato
-b) Porque obliga a las empresas a cerrar
+a) Porque elimina la necesidad de contratos individuales, y cada trabajador queda sujeto a lo que decida el sindicato de la empresa
+b) Porque obliga a las empresas a pagar el mismo sueldo a cada uno de sus trabajadores
 c) Porque el sindicato reemplaza al Estado en la fiscalización de las empresas y en la fijación del sueldo mínimo nacional de cada año
 d) Porque, individualmente, quien trabaja tiene poco poder frente a quien emplea, y organizado colectivamente puede acordar mejores condiciones
 
@@ -738,9 +738,9 @@ d) Porque, individualmente, quien trabaja tiene poco poder frente a quien emplea
 ---
 
 **8. (Alternativas — análisis de datos)** Una encuesta muestra que la mayoría valora teletrabajar parte de la semana, pero un porcentaje relevante tiene dificultad para desconectarse fuera del horario. ¿Qué tensión revela?
-a) Que el teletrabajo es solo positivo, porque la mayoría lo valora y las dificultades de desconexión son casos aislados sin importancia
+a) Que el teletrabajo es positivo, porque la mayoría lo valora y las dificultades de desconexión son casos aislados de poca importancia
 b) Que no existe el derecho a la desconexión en Chile, y por eso quienes teletrabajan deben estar disponibles en todo momento
-c) Que el teletrabajo es solo negativo
+c) Que el teletrabajo es negativo, porque aísla a las personas y reduce su productividad
 d) Entre la flexibilidad laboral, que mejora la calidad de vida, y el riesgo de que extienda la jornada real y erosione el derecho a la desconexión
 
 ✅ Respuesta correcta: **d) Entre la flexibilidad laboral, que mejora la calidad de vida, y el riesgo de que extienda la jornada real y erosione el derecho a la desconexión**
@@ -930,9 +930,9 @@ d) Igualdad de trato
 
 **7. (Alternativas)** ¿Por qué la libertad y la solidaridad pueden entrar en tensión en el debate tributario sin que ninguna postura sea "antidemocrática"?
 a) Porque una persona puede priorizar decidir sobre su ingreso y otra que quienes tienen más aporten más; ambas valoran principios democráticos con distinto peso
-b) Porque una de las dos posturas siempre es antidemocrática: priorizar la libertad individual sobre el ingreso niega la solidaridad, que es el único principio democrático
+b) Porque una de las dos posturas es antidemocrática: priorizar la libertad individual sobre el ingreso niega la solidaridad, que es el principio democrático central
 c) Porque los impuestos no son parte del debate democrático, sino una decisión técnica del Ministerio de Hacienda en la que la libertad y la solidaridad no influyen
-d) Porque la libertad y la solidaridad significan lo mismo
+d) Porque la libertad y la solidaridad significan lo mismo en una democracia
 
 ✅ Respuesta correcta: **a) Porque una persona puede priorizar decidir sobre su ingreso y otra que quienes tienen más aporten más; ambas valoran principios democráticos con distinto peso**
 *Retroalimentación:* El desacuerdo legítimo entre valores es distinto de un desacuerdo sobre si la democracia debe existir.
@@ -941,8 +941,8 @@ d) Porque la libertad y la solidaridad significan lo mismo
 
 **8. (Alternativas — análisis de datos)** En una región, el porcentaje de alcaldesas y concejalas es mucho menor que el de mujeres en la población. ¿Qué desafío ilustra?
 a) La desinformación electoral durante las campañas, que afecta a todos los candidatos por igual
-b) La concentración de los medios de comunicación
-c) La superación de la pobreza en la región
+b) La concentración de los medios de comunicación en pocos grupos
+c) La superación de la pobreza en las comunas de la región
 d) La equidad de género: subrepresentación de mujeres en cargos de decisión política
 
 ✅ Respuesta correcta: **d) La equidad de género: subrepresentación de mujeres en cargos de decisión política**
@@ -1005,10 +1005,10 @@ d) Solidaridad
 ---
 
 **13. (Alternativas)** ¿Por qué la inclusión de personas con discapacidad es un desafío democrático y no solo de "buena voluntad"?
-a) Porque solo depende de la buena voluntad de cada persona y de las organizaciones de caridad, sin que el Estado tenga responsabilidad alguna
+a) Porque depende de la buena voluntad de cada persona y de las organizaciones de caridad, más que de una responsabilidad del Estado y de sus servicios
 b) Porque las personas con discapacidad no tienen derechos políticos plenos, y por eso su inclusión debe decidirla cada autoridad
 c) Porque su exclusión vulnera su igual dignidad y derechos, y la inclusión depende de condiciones estructurales (accesibilidad, normas, políticas), no de la caridad
-d) Porque es un tema exclusivo del ámbito privado y familiar, que no requiere normas ni políticas públicas de accesibilidad
+d) Porque es un tema del ámbito privado y familiar, que se resuelve sin necesidad de normas ni de políticas públicas de accesibilidad
 
 ✅ Respuesta correcta: **c) Porque su exclusión vulnera su igual dignidad y derechos, y la inclusión depende de condiciones estructurales (accesibilidad, normas, políticas), no de la caridad**
 *Retroalimentación:* La inclusión es un derecho exigible, no un favor.
@@ -1040,11 +1040,11 @@ d) Desinformación electoral
 **16. (Alternativas)** ¿Cuál de las siguientes afirmaciones refleja mejor la relación entre
 solidaridad y principios democráticos, según lo estudiado?
 
-a) La solidaridad es un valor privado que no tiene relación con la democracia ni con las políticas públicas, y depende solo de la caridad de cada persona
+a) La solidaridad es un valor privado, con poca relación con la democracia o con las políticas públicas, y depende de la caridad de cada persona
 b) La solidaridad se traduce en el apoyo mutuo entre personas y puede expresarse en políticas
 públicas y en el respeto a los Derechos Humanos de los más vulnerables
 c) La solidaridad y la democracia son conceptos incompatibles
-d) La solidaridad solo aplica entre familiares y amigos cercanos, y el Estado no debería expresarla en políticas públicas ni en el respeto a los Derechos Humanos
+d) La solidaridad aplica entre familiares y amigos cercanos, y el Estado no debería expresarla en políticas públicas ni en el respeto a los Derechos Humanos
 
 ✅ Respuesta correcta: **b) La solidaridad se traduce en el apoyo mutuo entre personas y puede
 expresarse en políticas públicas y en el respeto a los Derechos Humanos de los más vulnerables**
@@ -1158,7 +1158,7 @@ forma más rápida y con menor costo que los medios tradicionales.
 **1. (Alternativas)** ¿Cuál de las siguientes opciones describe mejor una "cámara de eco" en
 redes sociales?
 
-a) Un espacio donde circulan solo noticias verificadas por periodistas profesionales y medios reconocidos
+a) Un espacio donde circulan noticias verificadas por periodistas profesionales y medios reconocidos del país
 b) Un entorno digital donde los algoritmos muestran principalmente contenido afín a lo que el
 usuario ya piensa
 c) Una función de las plataformas para denunciar contenido falso
@@ -1225,8 +1225,8 @@ e intereses, y proteger la información personal, aprovechando a la vez sus opor
 
 **6. (Alternativas — análisis de caso)** En una elección, una cuenta anónima difunde miles de publicaciones idénticas en pocas horas con acusaciones sin fuente contra un candidato. ¿Qué riesgo ilustra y por qué es grave?
 a) Concentración de medios; no es grave, porque una cuenta anónima no puede influir en el voto si los medios tradicionales informan de otra manera
-b) Participación digital legítima; es positiva, porque cualquier persona puede publicar cuantas veces quiera durante una elección, y las acusaciones aumentan el debate
-c) Microsegmentación; no tiene efectos
+b) Participación digital legítima; es positiva, porque las personas pueden publicar cuantas veces quieran durante una elección, y las acusaciones aumentan el debate
+c) Microsegmentación; tiene efectos menores, porque cada usuario ve publicidad distinta
 d) Desinformación posiblemente coordinada; es grave porque puede influir en el voto con información falsa cuando hay poco tiempo para verificar
 
 ✅ Respuesta correcta: **d) Desinformación posiblemente coordinada; es grave porque puede influir en el voto con información falsa cuando hay poco tiempo para verificar**
@@ -1235,10 +1235,10 @@ d) Desinformación posiblemente coordinada; es grave porque puede influir en el 
 ---
 
 **7. (Alternativas)** ¿Cómo puede afectar la concentración de la propiedad de los medios al pluralismo democrático?
-a) Aumenta siempre la diversidad de opiniones, porque un grupo grande puede financiar más medios y más periodistas
+a) Aumenta la diversidad de opiniones, porque un grupo grande puede financiar más medios, más periodistas y más programas
 b) Reduce la diversidad de perspectivas que llegan a la ciudadanía y dificulta que voces minoritarias o críticas alcancen audiencia
-c) No tiene ningún efecto en el debate público
-d) Garantiza que todas las voces se escuchen por igual, porque un solo dueño distribuye el espacio de forma equilibrada
+c) Tiene un efecto menor en el debate público, porque las personas también se informan por redes
+d) Asegura que las distintas voces se escuchen por igual, porque un solo dueño distribuye el espacio de forma equilibrada
 
 ✅ Respuesta correcta: **b) Reduce la diversidad de perspectivas que llegan a la ciudadanía y dificulta que voces minoritarias o críticas alcancen audiencia**
 *Retroalimentación:* El pluralismo depende de fuentes independientes, no solo de muchos medios en apariencia.
@@ -1246,8 +1246,8 @@ d) Garantiza que todas las voces se escuchen por igual, porque un solo dueño di
 ---
 
 **8. (Alternativas — análisis de datos)** Un creciente porcentaje de jóvenes se informa por redes sociales y pocos contrastan la información antes de compartirla. ¿Qué riesgo y responsabilidad ciudadana se desprenden?
-a) Riesgo: ninguno. Responsabilidad: compartir todo rápido
-b) Riesgo: que las redes sociales desaparezcan. Responsabilidad: dejar de informarse por internet y volver solo a la televisión
+a) Riesgo: perder tiempo en redes. Responsabilidad: compartir rápido las noticias que llegan para que otros se enteren
+b) Riesgo: que las redes sociales desaparezcan. Responsabilidad: informarse por televisión y dejar de usar internet
 c) Riesgo: propagar desinformación. Responsabilidad: alfabetización mediática, verificando fuentes antes de compartir
 d) Riesgo: la concentración de medios. Responsabilidad: comprar periódicos
 
@@ -1270,10 +1270,10 @@ plataformas.
 sin explicar claramente para qué la usará. ¿Qué principio ciudadano estudiado en esta unidad se ve
 comprometido?
 
-a) La libertad de expresión
+a) La libertad de expresión y opinión
 b) El resguardo de la vida privada
-c) La igualdad ante la ley
-d) La libertad de prensa
+c) La igualdad de las personas ante la ley
+d) La libertad de prensa e información
 
 ✅ Respuesta correcta: **b) El resguardo de la vida privada**
 *Retroalimentación:* La falta de información clara sobre el uso de datos personales —como la
@@ -1300,8 +1300,8 @@ d) 1-A, 2-C, 3-B
 ---
 
 **12. (Alternativas — análisis de caso)** Un solo grupo económico es dueño de una plataforma de noticias, dos canales de TV y un diario nacional. ¿Qué riesgo ejemplifica y qué podría mitigarlo?
-a) Desinformación coordinada; no se puede mitigar, porque los dueños de medios tienen derecho a publicar lo que quieran sin ninguna regulación ni control de nadie
-b) Pluralismo; no requiere medidas
+a) Desinformación coordinada; es difícil de mitigar, porque los dueños de medios tienen derecho a publicar lo que quieran sin regulación ni control externo
+b) Pluralismo; no requiere medidas, porque hay varios canales de televisión
 c) Microsegmentación de la publicidad; se mitiga cerrando las redes sociales y prohibiendo los diarios digitales
 d) Concentración de medios; podría mitigarse con regulación que promueva diversidad de propietarios, medios independientes y hábitos de consumo diverso
 
@@ -1334,8 +1334,8 @@ masivos y las nuevas tecnologías para la vida en democracia.
 **15. (Alternativas — análisis de caso)** Un partido usa datos de redes sociales para enviar mensajes distintos a distintos grupos, sin informar sus criterios ni quién los financió. ¿Qué evaluación es correcta?
 a) Es una práctica transparente y sin problemas, porque los partidos pueden usar los datos públicos de redes sociales como prefieran, sin informar quién financió los mensajes
 b) Afecta la participación, porque la ciudadanía no puede evaluar informadamente los mensajes, y la vida privada, porque se usan datos personales sin control claro de los usuarios
-c) Solo afecta la vida privada, no la participación, porque cada persona recibe mensajes según sus intereses y puede decidir libremente su voto sin conocer los criterios usados
-d) Solo es un problema técnico de informática
+c) Afecta sobre todo la vida privada y no la participación, porque cada persona recibe mensajes según sus intereses y puede decidir libremente su voto sin conocer los criterios usados
+d) Es un problema técnico de informática, que se resuelve mejorando la seguridad de las cuentas en las redes sociales
 
 ✅ Respuesta correcta: **b) Afecta la participación, porque la ciudadanía no puede evaluar informadamente los mensajes, y la vida privada, porque se usan datos personales sin control claro de los usuarios**
 *Retroalimentación:* Microsegmentación opaca y uso no transparente de datos son problemas relacionados.
