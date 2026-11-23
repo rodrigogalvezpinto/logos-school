@@ -108,7 +108,7 @@ d) Que tejer es para la hablante una labor constante, paciente y casi instintiva
 
 **9. (Alternativas)** ¿Qué efecto produce la repetición de estructura ("tejo el...", "tejo aunque...") y qué pasaría si "tejo" apareciera una sola vez?
 
-a) Produce un efecto de humor que aligera el tono del poema; sin la repetición, el texto sería más serio e insistente en el cansancio de la hablante
+a) Produce un efecto de humor que aligera el tono del poema; sin la repetición, el texto sería más serio e insistente en el cansancio de la hablante y de su abuela
 b) Produce un efecto menor: la repetición alarga el poema, y sin ella el sentido y el ritmo de los versos quedarían casi iguales para el lector
 c) Produce cadencia e insistencia, coherente con el título "Tejo, abuela, tejo"; sin la repetición, se perdería el efecto de constancia y la actividad parecería aislada
 d) Produce rima consonante entre los versos; sin la repetición, el poema perdería la rima, aunque mantendría la misma cadencia y el mismo tono
@@ -126,8 +126,8 @@ d) Produce rima consonante entre los versos; sin la repetición, el poema perder
 **10. (Alternativas)** ¿Cuál es el dilema principal que enfrenta Tomás en el relato?
 
 a) Decidir si sigue camino al muelle junto a su padre o vuelve a buscar al perro de la vecina, arriesgando el último lugar disponible en el bote
-b) Elegir entre subir al bote solo, como le pedía su padre, o esperar en el muelle hasta que llegaran su madre y sus hermanos
-c) Decidir si le cuenta o no a doña Nelly que el volcán había entrado en erupción, para no asustarla antes de partir en el bote
+b) Elegir entre subir al bote solo, como le pedía su padre, o esperar en el muelle hasta que llegaran su madre y sus hermanos desde el pueblo
+c) Decidir si le cuenta o no a doña Nelly que el volcán había entrado en erupción, para no asustarla antes de partir juntos en el bote del pueblo
 d) Elegir entre dos botes distintos para evacuar el pueblo: uno más rápido o uno más seguro, pero con menos espacio
 
 **11. (Verdadero o Falso)** "La erupción del volcán Chaitén mencionada en el relato es un hecho ficticio, inventado por el autor para ambientar la historia."
