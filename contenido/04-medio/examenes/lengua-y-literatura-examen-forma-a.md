@@ -256,7 +256,7 @@ d) Propósito: opinar sin leer la columna. Criterios: si me cae bien el autor. A
 
 ---
 
-**25. (Varias correctas — cierre del ciclo)** Al reflexionar sobre cuál de los tres OA del año (comparar obras, evaluar críticamente discursos, producir textos propios) resultó más desafiante, ¿qué respuestas están fundamentadas con un ejemplo de esta prueba? Marca **todas** las correctas.
+**25. (Varias correctas — cierre del ciclo)** Al reflexionar sobre cuál de los tres grandes temas del año (comparar obras, evaluar críticamente discursos, producir textos propios) resultó más desafiante, ¿qué respuestas están fundamentadas con un ejemplo de esta prueba? Marca **todas** las correctas.
 
 *(Varias correctas: marca todas las alternativas correctas.)*
 

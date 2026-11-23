@@ -222,7 +222,7 @@ c) Porque la deuda en UF se reajusta con el IPC: si sube la inflación, sube su 
 d) Porque la UF no tiene relación con los precios
 
 **Respuesta correcta: c) Porque la deuda en UF se reajusta con el IPC: si sube la inflación, sube su valor en pesos aunque el deudor no gane más.**
-*Retroalimentación:* el banco mantiene protegido el valor real de lo prestado.
+*Retroalimentación:* la UF sube con la inflación (IPC), así que la deuda y las cuotas suben en pesos aunque el sueldo del deudor no suba: el riesgo de la inflación lo asume el deudor, mientras el banco recupera el valor real de lo prestado.
 
 **Pregunta 17 (alternativas — simple y compuesto a mayor plazo).** Con capital $500.000 al 6% anual, a 15 años, ¿cuáles son los montos con interés simple y compuesto?
 a) Simple $950.000; compuesto ≈ $1.198.279 (diferencia ≈ $248.279)

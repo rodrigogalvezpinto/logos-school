@@ -127,7 +127,7 @@ llamado ciclo de Calvin), aporte por el cual recibió el Premio Nobel de Químic
    c) Porque solo sirve para que la planta crezca; los demás seres vivos obtienen su alimento y su oxígeno de otras fuentes
    d) Porque produce dióxido de carbono para los animales, que lo respiran para obtener la energía de su alimento
    **Respuesta correcta:** a) Porque libera oxígeno que otros seres vivos respiran, y el azúcar que produce es la base del alimento de otros organismos.
-   **Retroalimentación:** Este es un buen puente hacia el OA 2, donde verás cómo esa energía se transfiere a otros seres vivos a través de las cadenas alimentarias.
+   **Retroalimentación:** Este es un buen puente hacia el tema siguiente, donde verás cómo esa energía se transfiere a otros seres vivos a través de las cadenas alimentarias.
 
 5. *(Alternativas — predicción)* Una maceta con una planta se coloca dentro de un clóset cerrado, sin luz, durante dos semanas, pero se le sigue regando con agua. ¿Qué le ocurrirá a la planta?
    a) Crecerá más rápido, porque tiene agua suficiente y la luz no es necesaria para fabricar su alimento
@@ -514,7 +514,7 @@ partir de restos de seres vivos que alguna vez capturaron energía solar).
    c) Porque el Sol cocina los alimentos en el campo mientras crecen, y por eso algunos alimentos ya no hay que cocinarlos en la casa antes de comerlos
    d) Porque provienen de plantas (o de animales que comieron plantas), y las plantas producen su alimento con la luz del Sol mediante la fotosíntesis
    **Respuesta correcta:** d) Porque provienen de plantas (o de animales que comieron plantas), y las plantas producen su alimento con la luz del Sol mediante la fotosíntesis.
-   **Retroalimentación:** Esta idea conecta directamente con lo aprendido en el OA 1 sobre fotosíntesis.
+   **Retroalimentación:** Esta idea conecta directamente con lo aprendido sobre fotosíntesis.
 
 5. *(Alternativas — análisis)* ¿Qué ejemplo explica correctamente por qué un ser vivo necesita energía para sus procesos vitales?
    a) Un pez no necesita energía porque vive en el agua, que lo mantiene flotando y lo mueve de un lugar a otro sin esfuerzo

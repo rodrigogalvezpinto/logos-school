@@ -92,7 +92,7 @@ b) (i) É, (ii) O, (iii) E
 c) (i) E, (ii) O, (iii) É
 d) (i) É, (ii) E, (iii) O
 
-12. *(Varias correctas — Análisis de caso)* Muchas plataformas de música y videos usan algoritmos que recomiendan contenido según lo que cada persona ya consumió. ¿Qué vínculos con conceptos éticos del OA 2 son pertinentes? Marca **todas** las correctas.
+12. *(Varias correctas — Análisis de caso)* Muchas plataformas de música y videos usan algoritmos que recomiendan contenido según lo que cada persona ya consumió. ¿Qué vínculos con conceptos éticos estudiados son pertinentes? Marca **todas** las correctas.
 
 a) No tiene relación con la ética, porque es solo un tema técnico
 b) Libertad positiva: las recomendaciones pueden ampliar la capacidad real de descubrir contenido que la persona no habría encontrado sola

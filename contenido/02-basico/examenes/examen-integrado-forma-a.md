@@ -111,7 +111,7 @@ d) La oveja
 
 ---
 
-**8. (Historia — Alternativas)** Observa el siguiente estímulo:
+**8. (Historia — Alternativas)** Observa el mapa:
 
 Mapa de Chile con tres íconos: al norte, una vasija de greda; en el centro-sur, una ruka de madera y paja, y en el extremo sur, una canoa entre islas.
 
@@ -150,7 +150,7 @@ d) Aburrido, porque ya sabía de la sorpresa y no le importaba la bicicleta arre
 
 ---
 
-**11. (Historia — Alternativas)** Observa el siguiente estímulo:
+**11. (Historia — Alternativas)** Observa el mapa:
 
 ::mapa::sudamerica::A@Perú;B@Bolivia;C@Argentina::pintar=Chile;rosa=si::
 

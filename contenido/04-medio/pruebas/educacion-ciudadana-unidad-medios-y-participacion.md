@@ -130,7 +130,7 @@ d) 1-B, 2-C, 3-A
 oportunidad y un riesgo para la democracia, según cómo se use la herramienta y con qué
 criterio crítico.
 
-14. **(Alternativas)** Un liceo instala cámaras con reconocimiento facial en los pasillos y comparte las grabaciones con una empresa externa, sin informar a los estudiantes ni a sus familias para qué se usarán. ¿Qué principio ciudadano estudiado en este OA se ve comprometido?
+14. **(Alternativas)** Un liceo instala cámaras con reconocimiento facial en los pasillos y comparte las grabaciones con una empresa externa, sin informar a los estudiantes ni a sus familias para qué se usarán. ¿Qué principio ciudadano estudiado en esta unidad se ve comprometido?
 a) La libertad de expresión
 b) El resguardo de la vida privada
 c) La igualdad ante la ley
@@ -184,6 +184,6 @@ decisiones públicas sin depender de medios tradicionales. Las otras opciones de
 participación también exponen a desinformación y cámaras de eco; el resultado depende del uso
 y del criterio crítico con que se consuman.
 
-14. **b)** El resguardo de la vida privada. Recolectar y compartir datos personales —como la imagen del rostro— sin información clara ni consentimiento es uno de los riesgos centrales de este OA.
+14. **b)** El resguardo de la vida privada. Recolectar y compartir datos personales —como la imagen del rostro— sin información clara ni consentimiento es uno de los riesgos centrales de estas tecnologías.
 
 15. a, b y d — Una práctica grupal posible es acordar en el curso o la familia pautas de verificación y cuidado de datos antes de compartir contenido viral.

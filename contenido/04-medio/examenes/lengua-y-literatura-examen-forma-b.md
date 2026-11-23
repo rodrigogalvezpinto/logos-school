@@ -208,7 +208,7 @@ b) Propósito: evaluar si los argumentos de la columna están respaldados. Géne
 c) No hace falta planificar: basta con empezar a escribir
 d) Propósito: evaluar si los argumentos están respaldados en evidencia. Género: comentario audiovisual breve para redes sociales. Audiencia: otros estudiantes y sus familias. Convención: lenguaje directo, sin tecnicismos
 
-**25. (Varias correctas — cierre del ciclo)** Al reflexionar sobre cuál de los tres OA del año (comparar obras, evaluar críticamente discursos, producir textos propios) resultó más desafiante, ¿qué respuestas están fundamentadas con un ejemplo de esta prueba? Marca **todas** las correctas.
+**25. (Varias correctas — cierre del ciclo)** Al reflexionar sobre cuál de los tres grandes temas del año (comparar obras, evaluar críticamente discursos, producir textos propios) resultó más desafiante, ¿qué respuestas están fundamentadas con un ejemplo de esta prueba? Marca **todas** las correctas.
 
 a) "Comparar obras, porque en los Textos 1 y 2 tuve que sostener dos análisis a la vez —las fichas y el algoritmo— sin perder ninguno de vista."
 b) "Evaluar discursos, porque en la columna del celular tuve que distinguir entre estar de acuerdo con un argumento y reconocer si está bien construido."
@@ -262,7 +262,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 22 | **c) "Una historia ocurre en el norte, en tiempos del salitre, mientras que la otra sigue a Camila, que reparte pedidos en bicicleta."** La relación entre ambas ideas es de contraste; la causa o la consecuencia serían relaciones falsas. | OA N°5 — cohesión (aplicación) |
 | 23 | **a) Cambiar registro y soporte no obliga a perder profundidad: un video puede contrastar fichas y algoritmo con lenguaje directo y una interpretación sustentada; la versión (b), en cambio, es un borrador que aún debe conectar sus ideas.** Adecuar un texto no es simplificarlo: un video puede sostener la misma comparación con lenguaje directo; el borrador (b) todavía debe conectar sus ideas. | OA N°5 — adecuación al género y a la audiencia |
 | 24 | **d) Propósito: evaluar si los argumentos están respaldados en evidencia. Género: comentario audiovisual breve para redes sociales. Audiencia: otros estudiantes y sus familias. Convención: lenguaje directo, sin tecnicismos.** Planificar los cuatro elementos asegura coherencia; un párrafo comparativo propio debería además mantener el tema, progresar y usar al menos dos conectores. | OA N°5 — planificación y producción de texto propio (integrada) |
-| 25 | **a, b y c.** Se acepta cualquier OA si la elección se fundamenta con un ejemplo concreto de la prueba. | OA N°5 — producción de texto propio (integrada, cierre de ciclo) |
+| 25 | **a, b y c.** Se acepta cualquier tema si la elección se fundamenta con un ejemplo concreto de la prueba. | OA N°5 — producción de texto propio (integrada, cierre de ciclo) |
 
 ### Distribución de preguntas por Objetivo de Aprendizaje
 

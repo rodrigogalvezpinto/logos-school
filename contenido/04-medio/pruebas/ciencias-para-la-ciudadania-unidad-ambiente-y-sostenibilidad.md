@@ -111,7 +111,7 @@ d) Porque la biodiversidad solo depende de la caza y la tala de bosques, sin nin
 
 1. **d)** Eficiencia energética: se obtiene el mismo resultado (iluminación, temperatura, uso de equipos) consumiendo menos energía.
 
-2. **Falso.** El OA exige que los proyectos estén "basados en evidencia científica": diagnóstico con datos, respaldo técnico y evaluación de los resultados esperados.
+2. **Falso.** Se exige que los proyectos estén "basados en evidencia científica": diagnóstico con datos, respaldo técnico y evaluación de los resultados esperados.
 
 3. **d)** Los restos orgánicos en un vertedero se descomponen sin oxígeno y emiten metano; el biodigestor capta ese gas y lo aprovecha como energía.
 

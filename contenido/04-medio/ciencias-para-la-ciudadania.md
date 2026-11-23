@@ -159,7 +159,7 @@ muestren que funciona?), no solo su buena intención ambiental.
    basarse únicamente en la buena intención ambiental de quienes lo
    proponen, sin necesidad de datos ni evidencia previa.
    **Respuesta correcta:** Falso.
-   **Retroalimentación:** El OA exige que los proyectos estén "basados en
+   **Retroalimentación:** Se exige que los proyectos estén "basados en
    evidencia científica": diagnóstico con datos, respaldo técnico y
    evaluación de resultados esperados, no solo buena voluntad.
 
@@ -493,7 +493,7 @@ mencionado).
    **Retroalimentación:** Las controversias públicas exigen considerar implicancias sociales, económicas, éticas y ambientales.
 
 9. *(Alternativas)* La megasequía que afecta a la zona central de Chile
-   desde hace más de una década es un ejemplo relevante para este OA
+   desde hace más de una década es un ejemplo relevante para este tema
    porque:
    a) No tiene relación con el cambio climático, es un fenómeno completamente aislado causado solo por el consumo excesivo de agua de la población urbana, sin efectos en los ecosistemas naturales.
    b) Ilustra un efecto físico (alteración de patrones de precipitación)
@@ -568,7 +568,7 @@ mencionado).
     ambiental del problema, dejando de lado los aspectos sociales,
     económicos y éticos.
     **Respuesta correcta:** Falso.
-    **Retroalimentación:** El OA pide explícitamente analizar
+    **Retroalimentación:** Se pide explícitamente analizar
     controversias considerando implicancias sociales, económicas, éticas
     y ambientales en conjunto, ya que las decisiones sobre cambio
     climático rara vez tienen una sola dimensión relevante.

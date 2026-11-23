@@ -128,7 +128,7 @@ respetuosa, evitando reducirla únicamente a los cambios corporales.
    c) No informarse para no preocuparse, y dejar que las decisiones se tomen solas según lo que vaya pasando en la relación
    d) Decidir solo pensando en uno mismo y en lo que se quiere en ese momento, sin considerar lo que siente o necesita la otra persona
    **Respuesta correcta:** a) Tomar decisiones informadas y cuidadosas, considerando las consecuencias para uno mismo y para la otra persona, con honestidad y respeto.
-   **Retroalimentación:** Ser responsable es decidir con información y cuidado, pensando en las consecuencias para uno mismo y para la otra persona, con honestidad y respeto. Este tema se profundiza en el OA 2, con la paternidad y la maternidad responsables.
+   **Retroalimentación:** Ser responsable es decidir con información y cuidado, pensando en las consecuencias para uno mismo y para la otra persona, con honestidad y respeto. Este tema se profundiza más adelante, con la paternidad y la maternidad responsables.
 
 5. *(Alternativas — análisis)* ¿Por qué el respeto mutuo es un elemento central del aspecto afectivo de la sexualidad?
    a) Porque así una persona puede decidir por la otra y protegerla de cometer errores en la relación

@@ -113,7 +113,7 @@ una posición con razones.
 **Banco de autoevaluación**
 
 1. *(Alternativas — simple)* Según las distintas perspectivas sobre la
-   finalidad del quehacer filosófico revisadas en este OA, ¿cuál de las
+   finalidad del quehacer filosófico revisadas en esta unidad, ¿cuál de las
    siguientes NO corresponde a una de ellas?
    a) Superar la ignorancia examinando críticamente las propias creencias.
    b) Enfrentar problemas complejos que no admiten una solución solo técnica.
@@ -207,14 +207,14 @@ una posición con razones.
    ejemplo claro de la finalidad de "enfrentar problemas complejos".
 
 10. *(Verdadero o falso — simple)* "Liberarnos de prejuicios y costumbres
-    heredadas sin examen" es reconocida en este OA como una de las
+    heredadas sin examen" es reconocida en esta unidad como una de las
     finalidades legítimas del quehacer filosófico.
     **Respuesta correcta:** Verdadero.
     **Retroalimentación:** Examinar críticamente creencias heredadas sin
     cuestionamiento (por ejemplo, prejuicios sobre género, clase social o
     tradición) para conservarlas, ajustarlas o rechazarlas con razones, es
     una de las cinco perspectivas sobre la finalidad de la filosofía
-    trabajadas en este OA.
+    trabajadas en esta unidad.
 
 11. *(Alternativas — Análisis de caso — intermedio)* Un estudiante afirma: "La filosofía no tiene ninguna relación con el derecho, porque las leyes las hacen los abogados y los políticos, no los filósofos." ¿Qué respuesta identifica mejor un punto de contacto entre ambas disciplinas?
     a) No hay relación: el derecho solo aplica reglamentos escritos por los políticos, y conceptos como justicia o legitimidad pertenecen a la religión, no a la filosofía ni a los tribunales
@@ -826,7 +826,7 @@ presentación) para comunicar esas ideas.
    **Respuesta correcta:** a) (i) É, (ii) O, (iii) E.
    **Retroalimentación:** Justicia y trato debido (ética), identidad y naturaleza de un objeto (ontología), justificación y confianza en el conocimiento (epistemología).
 
-4. *(Varias correctas — Análisis de caso — intermedio)* El trabajo remoto, normalizado tras la pandemia, ha generado debate sobre sus efectos en la vida familiar y personal. ¿Qué vínculos con conceptos éticos del OA 2 son pertinentes? Marca **todas** las correctas.
+4. *(Varias correctas — Análisis de caso — intermedio)* El trabajo remoto, normalizado tras la pandemia, ha generado debate sobre sus efectos en la vida familiar y personal. ¿Qué vínculos con conceptos éticos estudiados son pertinentes? Marca **todas** las correctas.
    a) No tiene relación con la ética, porque es solo un tema técnico
    b) Libertad positiva: para algunas personas amplía la capacidad real de organizar su tiempo y conciliar trabajo y familia
    c) Libertad efectiva: para otras desdibuja los límites entre trabajo y descanso, reduciendo su libertad pese a la flexibilidad formal
@@ -907,7 +907,7 @@ presentación) para comunicar esas ideas.
     consiste en relacionar esos conceptos con el fenómeno nuevo, no en
     descartarlos y partir de cero.
 
-11. *(Varias correctas — Análisis de caso — intermedio)* Un sistema de reconocimiento facial se instala en espacios públicos para identificar automáticamente a quienes circulan por la calle. ¿Qué análisis vinculan correctamente el fenómeno con conceptos éticos del OA 2? Marca **todas** las correctas.
+11. *(Varias correctas — Análisis de caso — intermedio)* Un sistema de reconocimiento facial se instala en espacios públicos para identificar automáticamente a quienes circulan por la calle. ¿Qué análisis vinculan correctamente el fenómeno con conceptos éticos estudiados? Marca **todas** las correctas.
     a) No hay problema ético, porque la tecnología es neutral por definición
     b) El caso solo plantea un problema de costos para el municipio
     c) Libertad negativa: la vigilancia constante puede funcionar como una forma de coerción que limita circular sin ser monitoreado

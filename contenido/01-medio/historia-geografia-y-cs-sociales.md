@@ -628,7 +628,7 @@ c) 1-B, 2-C, 3-A
 d) 1-B, 2-A, 3-C
 
 ✅ Respuesta correcta: **c) 1-B, 2-C, 3-A**
-*Retroalimentación:* Reconocer a los actores y su tendencia ayuda a comprender el enfrentamiento de visiones en los primeros años de la República.
+*Retroalimentación:* 1-B, 2-C, 3-A. Los pipiolos eran liberales y querían un poder más repartido (incluso federal); pelucones y estanqueros eran conservadores y defendían un Ejecutivo fuerte y centralizado; Diego Portales, sin ser presidente, fue el principal impulsor del orden conservador desde 1830.
 
 ---
 

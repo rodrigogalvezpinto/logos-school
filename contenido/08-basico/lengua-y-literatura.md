@@ -701,7 +701,7 @@ b) Ambos mensajes con "Estimado señor: por medio de la presente informo a usted
 c) WhatsApp del curso: "Chiquillos, la prueba de mañana se cambió pa'l viernes, avísenle a los que faltaron porfa 🙏". Correo al profesor: "Estimado profesor: le escribo para confirmar que la prueba de mañana fue reprogramada para el viernes. Saluda atentamente, [nombre]"
 d) WhatsApp del curso: "Estimado curso: por medio de la presente informo a ustedes que la prueba fue reprogramada para el viernes. Saluda atentamente, [nombre]". Correo al profesor: "Profe, se cambió la prueba pa'l viernes, avise porfa 🙏"
 
-*Respuesta correcta: c.* Retroalimentación: el registro informal y el vocabulario de redes sociales son adecuados entre pares, pero no en un correo a un profesor; el contraste debe ser real y sin errores de concordancia.
+*Respuesta correcta: c.* Retroalimentación: el registro informal («Chiquillos», «pa'l», «porfa») es adecuado en el chat del curso, entre pares; con un profesor corresponde un registro formal («Estimado profesor», «Saluda atentamente»). Las otras opciones usan el mismo registro para ambos o lo invierten.
 
 **8. (Alternativas — ortografía acentual y puntual)** Al revisar un correo para la directora, ¿qué versión corrige bien las tildes y la puntuación?
 

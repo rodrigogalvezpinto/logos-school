@@ -415,7 +415,7 @@ personas.
 
 ✅ Respuesta correcta: **Verdadero**
 *Retroalimentación:* Las políticas fiscales, monetarias o de protección social afectan
-precios, empleo, servicios y oportunidades concretas: por eso este OA habla del impacto en la
+precios, empleo, servicios y oportunidades concretas: por eso se habla del impacto en la
 "vida cotidiana".
 
 ---
@@ -449,7 +449,7 @@ d) Basado exclusivamente en el trabajo artesanal local
 ✅ Respuesta correcta: **a) Extractivo, con riesgos de dependencia de precios internacionales
 y presión sobre recursos naturales**
 *Retroalimentación:* Los modelos extractivos no son "erróneos" por definición —generan
-empleo e ingresos—, pero este OA pide reconocer sus riesgos característicos: dependencia
+empleo e ingresos—, pero hay que reconocer sus riesgos característicos: dependencia
 externa, agotamiento de recursos y costos ambientales territoriales.
 
 ---
@@ -1067,7 +1067,7 @@ Ya sea que te informes por televisión, prensa escrita, radio o —lo más proba
 sociales y aplicaciones de mensajería, los medios de comunicación masiva y las nuevas
 **tecnologías de la información y comunicación (TIC)** cumplen un rol central en cualquier
 democracia contemporánea: son el principal canal por el que la ciudadanía se informa, forma
-opinión y decide su voto. Este OA pide evaluar ese rol con mirada crítica, identificando tanto
+opinión y decide su voto. Aquí se pide evaluar ese rol con mirada crítica, identificando tanto
 sus **oportunidades** como sus **riesgos**.
 
 **Oportunidades para la democracia:**
@@ -1267,7 +1267,7 @@ plataformas.
 ---
 
 **10. (Alternativas)** Una aplicación solicita acceso a la ubicación en tiempo real del usuario
-sin explicar claramente para qué la usará. ¿Qué principio ciudadano estudiado en este OA se ve
+sin explicar claramente para qué la usará. ¿Qué principio ciudadano estudiado en esta unidad se ve
 comprometido?
 
 a) La libertad de expresión
@@ -1277,7 +1277,7 @@ d) La libertad de prensa
 
 ✅ Respuesta correcta: **b) El resguardo de la vida privada**
 *Retroalimentación:* La falta de información clara sobre el uso de datos personales —como la
-ubicación— es precisamente uno de los riesgos centrales que este OA pide identificar en el uso de
+ubicación— es precisamente uno de los riesgos centrales que hay que saber identificar en el uso de
 nuevas tecnologías.
 
 ---
@@ -1322,10 +1322,10 @@ d) Campañas digitales de firmas para exigir respuesta a un problema
 ---
 
 **14. (Verdadero o Falso)** Argumentar con ejemplos tanto las virtudes como las amenazas de los
-medios y las TIC para la vida democrática es parte de lo que este OA espera que puedas hacer.
+medios y las TIC para la vida democrática es parte de lo que se espera que puedas hacer.
 
 ✅ Respuesta correcta: **Verdadero**
-*Retroalimentación:* Uno de los indicadores centrales de este OA pide precisamente argumentar,
+*Retroalimentación:* Lo que se pide aquí es precisamente argumentar,
 con ejemplos, tanto las virtudes como las amenazas que representan los medios de comunicación
 masivos y las nuevas tecnologías para la vida en democracia.
 
@@ -1362,7 +1362,7 @@ desinformación.
 necesariamente, una amenaza para la democracia.
 
 ✅ Respuesta correcta: **Falso**
-*Retroalimentación:* Este OA pide evaluar tanto oportunidades como riesgos: las mismas
+*Retroalimentación:* Aquí se pide evaluar tanto oportunidades como riesgos: las mismas
 tecnologías que pueden usarse para desinformar también pueden fortalecer la fiscalización, el
 pluralismo y la participación ciudadana, dependiendo de cómo se usen y regulen.
 

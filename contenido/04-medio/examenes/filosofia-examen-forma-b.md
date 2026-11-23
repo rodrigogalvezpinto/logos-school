@@ -218,7 +218,7 @@ b) El error se explica por una falacia ad hominem del sistema, que descalifica a
 c) Los datos de entrenamiento probablemente subrepresentaron a personas de tez oscura: un referente empírico insuficiente o sesgado lleva a generalizar de forma distorsionada
 d) No hay relación con el conocimiento: es solo un problema de calidad de las cámaras, que se resolvería con mejor iluminación en los lugares públicos
 
-**Pregunta 24.** *(Varias correctas — 3 pts)* ¿Qué conexiones entre el uso del algoritmo de reincidencia para fijar condenas y los conceptos éticos del OA N°2 son pertinentes? Marca **todas** las correctas.
+**Pregunta 24.** *(Varias correctas — 3 pts)* ¿Qué conexiones entre el uso del algoritmo de reincidencia para fijar condenas y los conceptos éticos estudiados son pertinentes? Marca **todas** las correctas.
 
 a) Justicia: cuestionar si es justo que una condena se apoye en el promedio estadístico de un grupo y no en las circunstancias del acusado
 b) Libertad: la libertad futura de una persona depende de un sistema que ella no puede cuestionar ni comprender del todo

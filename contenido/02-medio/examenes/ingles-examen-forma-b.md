@@ -173,7 +173,7 @@ d) air pollution / ride my bike / go by car / I like pizza
 
 **18.** *(Selección múltiple — desafiante)* Estás escribiendo sobre un texto
 que leíste acerca de un joven ingeniero. ¿Qué oración resume mejor la
-información respetando la finalidad del OA?
+información respetando la finalidad del texto?
 
 a) An engineer. Prosthetic hands. Children. Since 2019. The text.
 b) The text I read was about a teenage engineer who has been designing
@@ -255,7 +255,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 | 6 | c) Use context and known words to infer the general meaning before using a dictionary. Usar el contexto y las palabras conocidas permite entender la idea general sin traducir todo; el diccionario se usa después, para palabras clave. | OA9 |
 | 7 | d) To persuade/instruct readers to change a behavior. "Try public transport!" y "leave your car at home" son llamados a cambiar un hábito: el texto busca persuadir. | OA10 |
 | 8 | **c) Unless.** Unless introduce la condición necesaria para evitar el problema. | OA10 |
-| 9 | True (Verdadero) — el texto plantea un problema (botellas acumulándose) y una solución (estaciones de recarga); la afirmación es correcta porque evalúa que el lector puede proponer soluciones alternativas que el texto no menciona (prohibir el plástico), tal como pide este OA. | OA10 |
+| 9 | True (Verdadero) — el texto plantea un problema (botellas acumulándose) y una solución (estaciones de recarga); la afirmación es correcta porque evalúa que el lector puede proponer soluciones alternativas que el texto no menciona (prohibir el plástico). | OA10 |
 | 10 | **a) incorrect.** El prefijo in- forma el antónimo de correct. | OA10 |
 | 11 | **d) illegible.** Il- se usa antes de palabras que comienzan con l. | OA10 |
 | 12 | a) Que ninguno de los dos actores asistió a la reunión. "Neither… nor…" significa "ni… ni…": no asistieron ni la escuela ni el centro de padres. | OA10 |

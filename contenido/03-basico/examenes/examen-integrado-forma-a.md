@@ -26,7 +26,7 @@ basado_en: >
 2. Tiempo total para rendir la prueba: **90 minutos**.
 3. Rinde la prueba **sin libros, apuntes ni celulares**, y **sin la ayuda de un apoderado** durante el desarrollo de las preguntas, tal como se rinde el examen real. Un adulto puede leerte las instrucciones o una pregunta en voz alta si lo necesitas, pero las respuestas deben ser tuyas.
 4. Hay preguntas de **alternativas** (marca una sola opción con una X) y de **verdadero o falso**. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
-5. Lee con calma cada texto, imagen o dato antes de responder. Algunas preguntas comparten un mismo texto o imagen: revisa bien el estímulo antes de contestar.
+5. Lee con calma cada texto, imagen o dato antes de responder. Algunas preguntas comparten un mismo texto o imagen: revisa bien el texto o la imagen antes de contestar.
 6. Puedes usar lápiz, goma y, en las preguntas de Matemática, material concreto o dibujos para resolver.
 7. Al terminar, revisa tus respuestas. Al final de este documento está la **Pauta de Corrección** para autoevaluarte.
 
@@ -52,7 +52,7 @@ d) La palmera datilera
 
 ---
 
-**3. (Historia, Geografía y Cs. Sociales — Alternativas)** Observa el siguiente estímulo:
+**3. (Historia, Geografía y Cs. Sociales — Alternativas)** Observa la imagen:
 
 ![Galería de columnas en la plaza pública de la antigua Atenas](/assets/imagenes/3-basico/agora.jpg)
 *Foto: Stoa de Átalo, Atenas — Julian Lupyan, CC0, Wikimedia Commons.*
@@ -165,7 +165,7 @@ d) Aportar vitaminas y minerales que regulan el funcionamiento del cuerpo
 
 ---
 
-**12. (Historia, Geografía y Cs. Sociales — Alternativas)** Observa el siguiente estímulo:
+**12. (Historia, Geografía y Cs. Sociales — Alternativas)** Observa el mapa:
 
 ::mapa::mundo::::lineas=si::
 
@@ -227,7 +227,7 @@ d) La desaparición del aire dentro de la sala
 
 ---
 
-**16. (Historia, Geografía y Cs. Sociales — Alternativas)** Observa el siguiente estímulo:
+**16. (Historia, Geografía y Cs. Sociales — Alternativas)** Observa las imágenes:
 
 ![Tres fotografías: una selva, un bosque en otoño y un iglú en la nieve](/assets/imagenes/3-basico/zonas-climaticas.jpg)
 *Foto: DirkvdM; Norbert Nagel; OhanaUnited — CC BY-SA, Wikimedia Commons.*

@@ -222,7 +222,7 @@ d) Los derechos laborales fueron concedidos sin ninguna demanda previa
 ## SECCIÓN IV — OA N°5: Libertad, igualdad y solidaridad
 ### (Preguntas 16 a 20)
 
-**16.** Un joven tiene el derecho formal de acceder a la educación superior —nadie se lo prohíbe—, pero no puede pagarla y no existen becas a las que pueda optar. ¿Qué concepto de este OA describe mejor lo que falta para que pueda ejercer ese derecho?
+**16.** Un joven tiene el derecho formal de acceder a la educación superior —nadie se lo prohíbe—, pero no puede pagarla y no existen becas a las que pueda optar. ¿Qué concepto estudiado describe mejor lo que falta para que pueda ejercer ese derecho?
 
 a) Libertad negativa
 b) Libertad positiva

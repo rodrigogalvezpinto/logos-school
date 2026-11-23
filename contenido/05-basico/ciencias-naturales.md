@@ -663,7 +663,7 @@ cursos de agua, y apoyar políticas de cuidado de cuencas hidrográficas y glaci
    c) Porque así aumenta el agua dulce para siempre: cuando los glaciares retroceden, el agua no se acaba nunca
    d) No es preocupante, porque el agua dulce nunca se acaba y los glaciares vuelven a crecer cada invierno
    **Respuesta correcta:** a) Porque son una de las principales reservas de agua dulce del país, y si retroceden se reduce el agua disponible a largo plazo.
-   **Retroalimentación:** Conectar este OA con el OA 12 (distribución del agua) ayuda a entender por qué proteger los glaciares es tan relevante para Chile.
+   **Retroalimentación:** Conectar este tema con la distribución del agua ayuda a entender por qué proteger los glaciares es tan relevante para Chile.
 
 5. *(Alternativas — análisis)* Compara dos acciones humanas: verter basura en un lago y crear un área marina protegida. ¿Qué afirmación es correcta?
    a) Las dos son positivas para las reservas hídricas, porque ambas mueven el agua del lago

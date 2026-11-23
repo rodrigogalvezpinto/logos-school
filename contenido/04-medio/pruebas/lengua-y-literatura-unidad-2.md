@@ -20,13 +20,13 @@ Lee los estímulos incluidos a continuación para responder las preguntas 1 a 14
 
 **Columna de opinión — «La ciudad no puede seguir siendo de los autos»**
 
-Texto didáctico ficticio de Logos School: la cifra y su atribución al «Observatorio Urbano Metropolitano» se simulan para analizar el discurso; no certifican un dato externo. Nombrar una institución no basta para verificar una afirmación: faltan informe, fecha, método y enlace.
+*Texto ficticio, creado para practicar.*
 
 > Cada invierno repetimos el mismo ritual: alertas ambientales, restricción vehicular y niños con tos en los consultorios. Según el Observatorio Urbano Metropolitano, los autos particulares generan cerca del 35% del material particulado fino de la ciudad, una cifra que los defensores del automóvil suelen relativizar diciendo que "la culpa es de la leña y de las industrias". Pero esa cifra no cuenta toda la historia: no incluye las horas que pierden en tacos los buses que trasladan a la mayoría de la población, ni el espacio público que se entrega a estacionamientos mientras faltan plazas en los barrios de la periferia.
 >
 > No se trata de prohibir el auto —muchas familias no tienen alternativas cercanas—, sino de cobrar un cargo por entrar en auto al centro en horario punta y destinar todo lo recaudado a mejorar el transporte público. Cualquiera que se oponga a esto, en el fondo, está eligiendo la comodidad de unos pocos por sobre la salud de todos.
 
-**Situación de escritura:** comunicar una comparación de dos fragmentos ficticios sobre el desarraigo: A narra desde la memoria de una nieta el traslado de su familia desde un valle inundado por una represa, con una abuela que guarda un frasco de tierra durante veinte años; B narra en tercera persona la adaptación de Mahina, que dejó Rapa Nui para estudiar en Santiago, y sus videollamadas a su abuela en Hanga Roa. Para producción, se simula A escrito en 2005 para recuperar la memoria del traslado y B en 2026, en un debate sobre jóvenes que dejan sus territorios para estudiar; no son fechas bibliográficas reales.
+**Situación de escritura:** comunicar una comparación de dos fragmentos ficticios sobre el desarraigo: A narra desde la memoria de una nieta el traslado de su familia desde un valle inundado por una represa, con una abuela que guarda un frasco de tierra durante veinte años; B narra en tercera persona la adaptación de Mahina, que dejó Rapa Nui para estudiar en Santiago, y sus videollamadas a su abuela en Hanga Roa.
 
 **Versión (a) — párrafo de ensayo comparativo, dirigido a un profesor evaluador**
 
@@ -135,7 +135,7 @@ d) Sí significa perderla siempre: un formato oral no admite interpretaciones co
 
 3. **a) Defensor del interés colectivo (aire limpio y transporte público) frente al uso masivo del auto; no expone en igual medida los argumentos de los automovilistas y su cierre interpela la responsabilidad moral del lector.** El enunciador defiende el interés colectivo (aire limpio y transporte público) frente al uso masivo del auto: no expone con igual peso las razones de los automovilistas y se dirige a la audiencia para que tome partido.
 
-4. **a.** Ofrece una magnitud y una institución como pistas de búsqueda más concretas que las otras opciones. No está verificada: la atribución es ficticia y faltan informe, fecha y método. Reconocer ese límite no contradice la clave.
+4. **a.** Es la única que da una cifra y una fuente concretas que el lector podría buscar y comprobar; las demás son opiniones o impresiones. Ojo: nombrar una fuente no basta, habría que revisar su informe, su fecha y su método.
 
 5. d) Identificar la ideología de un texto es un ejercicio de lectura crítica, no un intento de descalificar automáticamente sus argumentos.
 

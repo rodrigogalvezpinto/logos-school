@@ -186,7 +186,7 @@ En 4° medio, tu análisis crítico de textos no literarios —orales, escritos 
 
 ### Texto de práctica: "Por qué Chile no puede seguir regalando su cobre" (columna de opinión)
 
-**Texto didáctico ficticio de Logos School.** La cifra y su atribución al Consejo Minero se simulan para analizar el discurso, no certifican información externa. La mención de una institución permite proponer una búsqueda, pero sin informe, fecha, método y enlace no verifica el dato. Cuestionar esa insuficiencia es una respuesta crítica válida.
+*Texto ficticio, creado para practicar.* Fíjate en que nombrar una institución (aquí, el Consejo Minero) no basta para verificar un dato: para comprobarlo harían falta el informe, la fecha, el método y la fuente. Notar esa falta es una lectura crítica.
 
 > Chile ha exportado cobre por más de un siglo, y sin embargo seguimos discutiendo si las empresas mineras pagan lo suficiente por extraer un recurso que no se puede recuperar. Según cifras del Consejo Minero, la tributación efectiva de la gran minería privada bordea el 40%, una cifra que las propias empresas repiten en cada debate legislativo como prueba de que "ya aportan demasiado". Pero esa cifra no cuenta toda la historia: no incluye el costo ambiental del agua que consumen en regiones donde la sequía ya es estructural, ni el hecho de que buena parte de las utilidades se gira a matrices en el extranjero, lejos de las comunidades que conviven con los tranques de relave.
 >
@@ -429,14 +429,14 @@ d) Ninguna, todo el guion cumple únicamente una función informativa
 
 *Respuesta correcta: a.* Retroalimentación: esa frase no solo informa, sino que sintetiza de forma memorable y emocional la comparación interpretativa central del guion, una estrategia propia de géneros orales breves donde se busca que una idea quede resonando en el oyente.
 
-**11. (Alternativas)** ¿Qué diferencia principal hay entre producir un texto propio en 3° medio y en 4° medio, según los tres OA de este año?
+**11. (Alternativas)** ¿Qué diferencia principal hay entre producir un texto propio en 3° medio y en 4° medio, según los tres grandes temas de este año?
 
 a) En 4° medio se exige más autonomía y síntesis: comparar obras entre sí, evaluar críticamente la veracidad e ideología de discursos y comunicarlo con dominio de distintos géneros y audiencias
 b) En 4° medio ya no se producen textos propios: el trabajo se centra en leer obras y responder preguntas de comprensión, sin comunicar evaluaciones a nadie ni adaptar lo que se escribe
 c) No hay diferencia: se repiten exactamente los mismos objetivos de 3° medio, con los mismos géneros, audiencias y textos, para reforzar lo aprendido el año anterior
 d) En 4° medio solo se memorizan definiciones
 
-*Respuesta correcta: a.* Retroalimentación: La calidad de un texto propio en 4° medio depende directamente de la profundidad del análisis y de la evaluación crítica desarrollados en los otros OA del año.
+*Respuesta correcta: a.* Retroalimentación: La calidad de un texto propio en 4° medio depende directamente de la profundidad del análisis y de la evaluación crítica desarrollados en los otros temas del año.
 
 ---
 

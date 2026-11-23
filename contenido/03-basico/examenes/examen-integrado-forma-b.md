@@ -27,7 +27,7 @@ basado_en: >
 2. Tiempo total para rendir la prueba: **90 minutos**.
 3. Rinde la prueba **sin libros, apuntes ni celulares**, y **sin la ayuda de un apoderado** durante el desarrollo de las preguntas, tal como se rinde el examen real. Un adulto puede leerte las instrucciones o una pregunta en voz alta si lo necesitas, pero las respuestas deben ser tuyas.
 4. Hay preguntas de **alternativas** (marca una sola opción con una X) y de **verdadero o falso**. Si una pregunta dice **«marca todas las correctas»**, puede haber más de una opción correcta y debes marcarlas todas.
-5. Lee con calma cada texto, imagen o dato antes de responder. Algunas preguntas comparten un mismo texto o imagen: revisa bien el estímulo antes de contestar.
+5. Lee con calma cada texto, imagen o dato antes de responder. Algunas preguntas comparten un mismo texto o imagen: revisa bien el texto o la imagen antes de contestar.
 6. Puedes usar lápiz, goma y, en las preguntas de Matemática, material concreto o dibujos para resolver.
 7. Al terminar, revisa tus respuestas. Al final de este documento está la **Pauta de Corrección** para autoevaluarte.
 

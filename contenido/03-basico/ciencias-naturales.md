@@ -183,7 +183,7 @@ que anidan o se esconden en ellos, y sus raíces sostienen el suelo, evitando qu
 erosione con el viento o la lluvia. Cuarto, de las plantas obtenemos **productos
 derivados** útiles para las personas, como la madera para construir, el papel, fibras
 para hacer telas, y aceites; también existen plantas de **uso medicinal**, como
-vimos en el OA anterior, y plantas de **ornamentación**, que se cultivan por su
+vimos antes, y plantas de **ornamentación**, que se cultivan por su
 belleza en jardines y parques. Cuando se destruyen plantas —por ejemplo, al talar un
 bosque o quemar un pastizal—, las consecuencias son graves para los demás seres
 vivos: los animales pierden su alimento y su refugio, el suelo queda más expuesto a

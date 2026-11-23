@@ -487,8 +487,7 @@ Para un texto de opinión: presenta tu preferencia, da al menos una razón (*bec
    otra cultura.
    **Respuesta correcta:** True (Verdadero).
    **Retroalimentación:** *For example* introduce un ejemplo concreto que
-   apoya una idea general sobre el uso de la tecnología en otra cultura, tal
-   como pide este OA.
+   apoya una idea general sobre el uso de la tecnología en otra cultura.
 
 5. *(Alternativas — Escribir siguiendo modelo)* Which option completes *"One global leader I admire is ___. I believe ___ because ___."* logically?
    a) Malala Yousafzai / she is a role model / she has fought for girls' education worldwide
@@ -516,7 +515,7 @@ Para un texto de opinión: presenta tu preferencia, da al menos una razón (*bec
 
 8. *(Alternativas — desafiante)* Estás escribiendo sobre un texto que leíste
    acerca de una activista famosa. ¿Qué oración resume mejor la información
-   respetando la finalidad del OA?
+   respetando la finalidad del texto?
    a) Malala Yousafzai. Activist. Girls' education. Teenager. Fighting since she was young.
    b) The text I read was about Malala Yousafzai, an activist who has been
       fighting for girls' education since she was a teenager.
@@ -524,8 +523,7 @@ Para un texto de opinión: presenta tu preferencia, da al menos una razón (*bec
    d) I don't remember the text very well, but I think it was about a famous woman from Asia.
    **Respuesta correcta:** b.
    **Retroalimentación:** Esa oración resume el texto leído con información
-   relevante (quién fue, qué hizo, desde cuándo), cumpliendo con lo que pide
-   el OA sobre escribir a partir de textos leídos.
+   relevante (quién fue, qué hizo, desde cuándo), como corresponde al escribir a partir de textos leídos.
 
 9. *(Alternativas — Preferencias)* Which sentence correctly expresses a preference with a reason?
    a) I would rather to recycle than throwing everything away.
