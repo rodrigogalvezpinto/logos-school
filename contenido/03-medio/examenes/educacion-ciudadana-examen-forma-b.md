@@ -108,10 +108,10 @@ nietos no ha cancelado. No tiene recursos para contratar un abogado particular.
 **6.** (Selección múltiple — 4 puntos) ¿A qué institución debería recurrir Don Sergio para
 obtener representación jurídica gratuita?
 
-a) La Defensoría Penal Pública (DPP)
+a) La Defensoría Penal Pública (DPP) de su región
 b) El Ministerio Público (Fiscalía Nacional)
 c) La Corporación de Asistencia Judicial (CAJ)
-d) La Corte Suprema de Justicia de Chile
+d) La Corte Suprema de Justicia de Chile (Santiago)
 
 **7.** (Alternativas — 6 puntos) ¿Por qué el caso de Don Sergio (demanda de pensión de alimentos) **no** corresponde a la Defensoría Penal Pública?
 
@@ -131,8 +131,8 @@ d) El Ministerio Público
 justicia, como la CAJ o la Defensoría Penal Pública, es relevante principalmente porque:
 
 a) Garantizan el acceso a tribunales a quienes pueden pagar un abogado particular
-b) Se aplican a las causas penales y también a las de familia
-c) Reemplazan por completo la necesidad de tribunales
+b) Se aplican a las causas penales y también a las de familia y laborales
+c) Reemplazan a los tribunales en los conflictos de menor cuantía
 d) Permiten que el acceso a la justicia no dependa de la capacidad de pago
 
 ---
@@ -156,10 +156,10 @@ d) El sueldo justo
 
 **11.** (Alternativas — 8 puntos) A partir del estímulo, ¿por qué el "sueldo justo" es un tema de debate político legítimo?
 
-a) Porque existe una única respuesta técnica correcta, que los economistas calculan a partir de la productividad, y el debate político solo sirve para aplicarla
-b) Porque solo el mercado puede opinar sobre los sueldos: el Estado no tiene ningún rol, y por eso las posturas políticas sobre el tema no son legítimas
+a) Porque existe una respuesta técnica correcta, que los economistas calculan a partir de la productividad, y el debate político sirve para aplicarla en cada empresa del país
+b) Porque el mercado es quien debe opinar sobre los sueldos: el Estado tiene un rol menor, y por eso las posturas políticas sobre el tema pierden legitimidad frente a los datos
 c) Porque una postura sostiene que los sueldos deben reflejar la productividad y la oferta y demanda, y otra que el Estado debe asegurar un mínimo digno; ambas son legítimas
-d) Porque el sueldo no tiene relación con la política: es un acuerdo privado entre empleador y trabajador, y el debate público se limita a los impuestos
+d) Porque el sueldo no tiene relación con la política: es un acuerdo privado entre empleador y trabajador, y el debate público se limita a los impuestos que paga cada uno
 
 **12.** (Selección múltiple — 4 puntos) Cuando el Estado entrega educación pública gratuita
 porque considera que el mercado no la provee de forma suficiente para toda la población, está
@@ -173,9 +173,9 @@ d) Reguladora del mercado de colegios
 **13.** (Alternativas — 6 puntos) Una comuna minera con altos ingresos por regalías tiene graves problemas de contaminación, y se propone exigir tecnologías limpias aunque baje la rentabilidad. ¿Con qué concepto se vincula?
 
 a) Desarrollo sustentable: equilibrar desarrollo económico, protección ambiental y bienestar de las generaciones futuras
-b) Inflación: alza sostenida de los precios provocada por los altos ingresos que generan las regalías mineras
-c) Monopolio: control de la producción minera por una sola empresa, que puede fijar los precios del mineral
-d) Centralismo: concentración de las decisiones sobre la minería en el gobierno central, lejos de la comuna
+b) Inflación: alza sostenida de los precios provocada por los altos ingresos que generan las regalías mineras en la comuna
+c) Monopolio: control de la producción minera por una sola empresa, que puede fijar a su arbitrio los precios del mineral
+d) Centralismo: concentración de las decisiones sobre la minería en el gobierno central, lejos de la comuna y de sus vecinos
 
 ---
 
@@ -258,10 +258,10 @@ d) Participar en una organización comunitaria o junta de vecinos local
 
 **21.** (Alternativas — 6 puntos) ¿Qué caracteriza a la perspectiva liberal sobre la ciudadanía, a diferencia del comunitarismo y del republicanismo?
 
-a) Exige que todas las personas participen obligatoriamente en política
+a) Exige que las personas participen de manera obligatoria en la política de su comunidad
 b) Pone la identidad y las tradiciones de la comunidad por sobre el individuo y sus decisiones personales
 c) Prioriza los derechos y libertades individuales, y entiende la participación como una decisión voluntaria
-d) Rechaza la existencia de derechos individuales
+d) Entiende que los derechos individuales dependen de lo que decida la comunidad en cada caso
 
 ---
 
@@ -285,9 +285,9 @@ d) Consejo regional
 **23.** (Alternativas — 6 puntos) ¿Qué conflicto de **justicia social** hay en el caso del borde costero?
 
 a) El acceso a un recurso valioso queda restringido a quienes pueden pagar proyectos inmobiliarios, excluyendo el acceso público general
-b) Ninguno, porque el plan regulador no afecta a nadie: solo ordena dónde construir, y el acceso a la playa sigue siendo igual para todos los vecinos
+b) El plan regulador afecta poco a los vecinos, porque ordena dónde construir y el acceso a la playa se mantiene igual que antes para la mayoría de ellos
 c) Los vecinos quieren construir edificios de lujo en el borde costero, y el conflicto es que el municipio no les entrega los permisos que solicitaron
-d) El municipio no tiene responsabilidad en el uso del suelo costero, porque esas decisiones dependen solo de las empresas inmobiliarias propietarias
+d) El municipio tiene poca responsabilidad en el uso del suelo costero, porque esas decisiones dependen de las empresas inmobiliarias propietarias
 
 **24.** (Selección múltiple — 4 puntos) ¿Qué autoridad, designada por el gobierno central (no
 electa por votación popular), lo representa a escala **provincial**?
