@@ -1982,9 +1982,9 @@ d) Universales: corresponden a toda persona sin distinción. Indivisibles: no se
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué los "grupos de especial protección" son compatibles con la universalidad de los Derechos Humanos?
-a) Porque esos grupos tienen derechos superiores al resto de las personas, por su mayor vulnerabilidad
+a) Porque esos grupos tienen derechos superiores al resto de las personas, por su mayor vulnerabilidad social
 b) Porque no se les otorgan más derechos, sino condiciones para ejercer en igualdad real los mismos derechos universales
-c) Porque la universalidad no admite ninguna medida específica, así que esos grupos reciben un trato idéntico
+c) Porque la universalidad admite pocas medidas específicas, así que esos grupos reciben un trato idéntico al resto
 d) Porque esos grupos no tienen derechos propios y dependen de la protección que les den otros
 
 ✅ Respuesta correcta: **b) Porque no se les otorgan más derechos, sino condiciones para ejercer en igualdad real los mismos derechos universales**
@@ -2132,8 +2132,8 @@ d) Un caso de inflación
 ---
 
 **5. (Alternativas)** ¿Por qué la diversidad se entiende como una "manifestación de la libertad y de la dignidad humana"?
-a) Porque todas las personas deben ajustarse a un único modelo de identidad y forma de vida, y respetar la diversidad significa tolerar a quienes no lo hacen
-b) Porque las diferencias justifican un trato desigual
+a) Porque las personas deben ajustarse a un modelo común de identidad y forma de vida, y respetar la diversidad significa tolerar a quienes se apartan de ese modelo
+b) Porque las diferencias entre las personas justifican que la ley les dé un trato desigual según su identidad o sus creencias
 c) Porque la diversidad no tiene relación con los derechos: las creencias y la forma de vida son asuntos privados que el Estado no reconoce
 d) Porque las personas ejercen su libertad al definir su identidad, creencias o forma de vida, y respetar esa diversidad reconoce la igual dignidad de cada una
 

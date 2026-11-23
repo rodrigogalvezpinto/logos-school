@@ -224,10 +224,10 @@ d) 7^8
 *Retroalimentación:* el índice de la raíz (5) pasa al denominador del exponente, y la potencia de la cantidad subradical (3) pasa al numerador.
 
 **Pregunta 4 (alternativas — potencia a raíz).** ¿Cuál es la forma de raíz de 10^(2/5)?
-a) √(10⁵)
-b) ²√(10⁵)
+a) √(10⁵) = √100.000
+b) ²√(10⁵) = 10^2,5
 c) ⁵√(10²) = ⁵√100
-d) 10 · ⁵√2
+d) 10 · ⁵√2 = ⁵√20
 
 **Respuesta correcta: c) ⁵√(10²) = ⁵√100.**
 *Retroalimentación:* índice 5 (denominador) y potencia 2 (numerador).
@@ -760,7 +760,7 @@ El total de combinaciones posibles es C(10,3) = 10!/(3!×7!) = (10×9×8)/(3×2�
 **Pregunta 1 (alternativas).** Un menú de almuerzo tiene 3 entradas y 5 platos de fondo. ¿De cuántas formas distintas se puede elegir una entrada y un plato de fondo?
 a) 8
 b) 15
-c) 3
+c) 30
 d) 5
 
 **Respuesta correcta: b) 15.**
@@ -790,9 +790,9 @@ d) 256
 *Retroalimentación:* 4! = 4 · 3 · 2 · 1 = 24.
 
 **Pregunta 5 (alternativas — probabilidad).** En una rifa de 200 números se sortea un ganador. Si una persona compró 5 números, ¿cuál es la probabilidad de que gane?
-a) 1/200
-b) 5%
-c) 1/5
+a) 1/200 (0,5%)
+b) 1/20 (5%)
+c) 1/5 (20%)
 d) 1/40 (2,5%)
 
 **Respuesta correcta: d) 1/40 (2,5%).**

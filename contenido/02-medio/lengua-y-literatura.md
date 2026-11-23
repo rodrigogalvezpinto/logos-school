@@ -138,8 +138,8 @@ d) El nombre de su colegio y de sus compañeros, que Andrés menciona en las pri
 
 **7. (Alternativas — prejuicios y época)** ¿Qué creencia de la época refleja la frase de Marisol "no seas tonto"?
 
-a) Que la participación política era valorada y segura, y que Marisol solo le pedía a Andrés que no descuidara sus estudios por ella ni su futuro
-b) Que Andrés no sabía estudiar
+a) Que la participación política era valorada y segura, y que Marisol le pedía a Andrés sobre todo que no descuidara sus estudios en la universidad
+b) Que Andrés no sabía estudiar y que Marisol temía que repitiera el año en la universidad
 c) Que, en un clima de represión y miedo durante la dictadura, manifestar disidencia se percibía como una imprudencia peligrosa más que como un derecho
 d) Que la dictadura promovía la libertad de expresión, y que Marisol consideraba tonto quedarse callado en vez de manifestar su opinión
 
@@ -335,10 +335,10 @@ d) El Día de las Ánimas, tradición de la cultura chilota
 
 **2. (Alternativas)** ¿Cómo influye el Día de las Ánimas en la forma en que el relato representa la muerte?
 
-a) Presenta la muerte como un final absoluto, sin ningún vínculo posible con los vivos, porque la tía Elba deja la vela y el pan amasado solo por costumbre, sin creer en nada
-b) Afirma con certeza científica que las ánimas regresan cada año, porque la comida que deja la tía Elba siempre desaparece en la noche
+a) Presenta la muerte como un final absoluto, sin vínculo posible con los vivos, porque la tía Elba deja la vela y el pan por costumbre y sin creer en las ánimas
+b) Afirma con certeza científica que las ánimas regresan cada año, porque la comida que deja la tía Elba desaparece durante la noche del 1 de noviembre
 c) La costumbre de dejar comida y una vela supone que la muerte no cierra el vínculo con los vivos, y el relato presenta la trascendencia como incierta pero abierta ("algo vuelve")
-d) No tiene ninguna relación con el relato: el Día de las Ánimas aparece solo como un dato de la fecha en que ocurre la historia
+d) Tiene poca relación con el relato: el Día de las Ánimas aparece como un dato de la fecha en que ocurre la historia de la tía Elba en Santiago
 
 *Respuesta correcta: c.* Retroalimentación: En el Día de las Ánimas se deja comida y una vela para los muertos, lo que supone que el vínculo con ellos no se corta. El relato toma esa costumbre y presenta lo que hay después de la muerte como incierto, pero abierto.
 
@@ -442,10 +442,10 @@ En 2° medio afinas tu evaluación crítica de textos argumentativos, sumando he
 
 **1. (Alternativas)** ¿Cuál es la tesis principal del autor de la columna "¿Aprender con IA o dejar de aprender?"?
 
-a) La inteligencia artificial debe prohibirse completamente, dentro y fuera del colegio, porque cualquier uso de ella impide que los estudiantes aprendan a pensar
+a) La inteligencia artificial debe prohibirse dentro y fuera del colegio, porque su uso impide que los estudiantes aprendan a pensar por sí mismos
 b) El uso libre de la inteligencia artificial en la sala de clases debilita el pensamiento independiente, por lo que se deben exigir trabajos que esta no pueda resolver por sí sola
-c) Los profesores exageran el problema del uso de la inteligencia artificial en la educación, porque los estudiantes siempre han buscado formas de evitar el trabajo
-d) La inteligencia artificial es idéntica a una calculadora y no representa ningún riesgo, por lo que los colegios deberían permitir su uso libre en todas las tareas
+c) Los profesores exageran el problema del uso de la inteligencia artificial en la educación, porque los estudiantes la usan con responsabilidad
+d) La inteligencia artificial cumple la misma función que una calculadora y representa un riesgo menor, por lo que los colegios deberían permitirla
 
 *Respuesta correcta: b.* Retroalimentación: la tesis se plantea en el primer párrafo y se sostiene hasta la propuesta final de exigir trabajos que la IA no pueda resolver sola.
 
@@ -491,8 +491,8 @@ d) "El autor habla de calculadoras y de inteligencia artificial, y compara cómo
 
 **7. (Alternativas)** ¿Cómo organiza el autor su columna y qué efecto produce?
 
-a) Solo una lista de datos y cifras sobre el uso de la IA, sin propuesta ni opinión del autor; genera una impresión de objetividad y neutralidad frente al tema del ensayo
-b) Una narración de ficción
+a) Una lista de datos y cifras sobre el uso de la IA, sin propuesta ni opinión del autor; genera una impresión de objetividad ante los lectores
+b) Una narración de ficción sobre un estudiante que usa la IA para hacer sus tareas, sin una propuesta del autor; genera cercanía y humor con los lectores
 c) Una propuesta inicial sin desarrollo, seguida de una narración personal sobre el uso de la calculadora; genera cercanía con el lector, pero no lo persuade
 d) Queja generalizada, proyección de consecuencias graves, refutación de la comparación con la calculadora y propuesta moderada; genera urgencia y luego presenta la solución como razonable
 
@@ -563,9 +563,9 @@ En 2° medio profundizas el análisis de textos de los medios de comunicación i
 
 **1. (Alternativas)** ¿Qué evidencia entrega el Texto B (la publicación vecinal) que el Texto A (el comunicado oficial) no menciona?
 
-a) El horario exacto en que comenzará y terminará el corte de agua en el sector
+a) El horario exacto en que comenzará y terminará el corte de agua en el sector norte
 b) Que este sería el cuarto corte del mes y que los avisos llegaron la noche anterior a cada corte
-c) El nombre de la empresa sanitaria responsable de los trabajos de mantención
+c) El nombre de la empresa sanitaria responsable de los trabajos de mantención de la red
 d) La recomendación de almacenar agua con anticipación antes de que comience el corte
 
 *Respuesta correcta: b.* Retroalimentación: el Texto A entrega información puntual sobre este corte, pero omite el patrón de cortes recurrentes y la falta de aviso oportuno, información que sí aparece respaldada con capturas de pantalla en el Texto B.
@@ -576,19 +576,19 @@ d) La recomendación de almacenar agua con anticipación antes de que comience e
 
 **3. (Alternativas)** ¿Qué efecto producen los recursos no lingüísticos de cada texto?
 
-a) Ambos textos usan solo palabras, sin recursos visuales, y por eso dependen únicamente de sus argumentos para convencer a los vecinos
+a) Ambos textos usan palabras, sin recursos visuales, y por eso dependen de sus argumentos para convencer a los vecinos del sector
 b) La infografía del Texto B muestra desorden y descontrol, mientras que las capturas de pantalla del Texto A transmiten control técnico y eficiencia
 c) La infografía azul con reloj del Texto A transmite orden y control técnico; las capturas con fecha y hora del Texto B funcionan como evidencia visual difícil de refutar
-d) Ninguno produce algún efecto en la audiencia: las imágenes son decorativas y no influyen en cómo los vecinos interpretan la información
+d) Los dos producen un efecto menor en la audiencia: las imágenes son decorativas y casi no influyen en cómo los vecinos interpretan la información
 
 *Respuesta correcta: c.* Retroalimentación: La infografía azul con un reloj (Texto A) transmite orden y control técnico; las capturas con fecha y hora (Texto B) funcionan como pruebas visuales difíciles de negar. Cada recurso busca credibilidad de un modo distinto.
 
 **4. (Alternativas — Aplicación)** ¿Por qué la ausencia, en el Texto A, del historial de cortes recientes es una omisión relevante?
 
 a) Porque impide evaluar si es un evento aislado o un problema recurrente, y favorece la imagen de eficiencia que busca el comunicado
-b) Porque el historial de cortes no tiene ninguna importancia para los vecinos, que solo necesitan saber el horario
-c) No es una omisión: el Texto A sí menciona en detalle todos los cortes de agua ocurridos durante el mes
-d) Porque los cortes de agua nunca se repiten en un mismo sector, así que el historial no aporta información útil
+b) Porque el historial de cortes tiene poca importancia para los vecinos, que necesitan saber sobre todo el horario
+c) No es una omisión: el Texto A menciona los cortes de agua ocurridos durante el mes, aunque de forma breve
+d) Porque los cortes de agua rara vez se repiten en un mismo sector, así que el historial aporta poca información útil
 
 *Respuesta correcta: a.* Retroalimentación: Sin el historial de cortes, el lector no puede saber si el corte fue un hecho aislado o un problema que se repite; esa omisión favorece la imagen de eficiencia que el comunicado quiere dar.
 
@@ -612,10 +612,10 @@ d) "Me influirían más las capturas con fecha y hora, porque muestran un patró
 
 **7. (Alternativas)** ¿Por qué sería un error formarse una opinión completa sobre la empresa sanitaria leyendo solo uno de los textos?
 
-a) Porque ambos dicen exactamente lo mismo sobre los cortes de agua, y leer uno solo permite formarse la misma opinión en menos tiempo
+a) Porque ambos dicen lo mismo sobre los cortes de agua, y leer uno permite formarse la misma opinión en menos tiempo
 b) Porque cada texto es parcial: el A destaca el control técnico sin reconocer un posible patrón y el B parte del caso más dramático, que podría generalizar en exceso
-c) Porque el Texto B es completamente neutral y entrega todos los datos técnicos, mientras que el Texto A solo expresa la opinión de la empresa sanitaria
-d) Porque el Texto A siempre miente
+c) Porque el Texto B es neutral y entrega los datos técnicos, mientras que el Texto A expresa sobre todo la opinión de la empresa
+d) Porque el Texto A tiende a ocultar los cortes anteriores a los vecinos del sector, y el Texto B es el que dice la verdad sobre lo que pasó
 
 *Respuesta correcta: b.* Retroalimentación: El Texto A destaca el control técnico sin reconocer un posible patrón de cortes, y el Texto B parte del caso más dramático, que puede exagerar. Como cada uno es parcial, hay que leer los dos para formarse una opinión.
 
@@ -688,36 +688,36 @@ d) Las tradiciones culturales desaparecen inevitablemente al migrar a la ciudad,
 **3. (Alternativas)** ¿Qué función cumple en el ensayo modelo la referencia al Consejo de Monumentos Nacionales?
 
 a) Es evidencia no literaria que muestra mecanismos reales para compatibilizar renovación urbana y conservación, reforzando que no hay que elegir entre progreso y memoria
-b) Es un dato decorativo, sin relación con la hipótesis, que solo hace más extenso el ensayo modelo y le da un tono técnico que no necesita
-c) Contradice la hipótesis del ensayo, porque muestra que el Estado siempre impide renovar las ciudades para conservar los edificios antiguos
+b) Es un dato decorativo, sin relación con la hipótesis, que hace más extenso el ensayo modelo y le da un tono técnico frente a sus lectores
+c) Contradice la hipótesis del ensayo, porque muestra que el Estado tiende a impedir la renovación de las ciudades para conservar los edificios antiguos
 d) Sirve para resumir una obra literaria leída en clases sobre una familia que debe vender su casa, antes de pasar a la conclusión del ensayo
 
 *Respuesta correcta: a.* Retroalimentación: una evidencia no literaria debe conectarse explícitamente con la hipótesis.
 
 **4. (Alternativas — Aplicación)** ¿Por qué la cita de Nicolás ("no te estoy pidiendo que dejes de quererla, mamá... te estoy pidiendo que pienses en vivir. No en el ladrillo") sustenta la hipótesis del ensayo?
 
-a) Porque demuestra que hay que vender todas las casas antiguas para que las familias puedan vivir mejor
+a) Porque demuestra que conviene vender las casas antiguas para que las familias puedan vivir mejor en otro lugar
 b) Porque prueba que la memoria familiar no tiene ningún valor frente a las necesidades prácticas
-c) Porque es una cita decorativa, sin relación con la hipótesis, que solo hace más emotivo el ensayo
+c) Porque es una cita decorativa, sin relación con la hipótesis, que hace más emotivo el ensayo para quien lo lee
 d) Porque muestra que se puede priorizar una necesidad práctica sin abandonar el vínculo afectivo con la memoria familiar
 
 *Respuesta correcta: d.* Retroalimentación: Nicolás no le pide a su madre que deje de querer la casa, sino que piense en vivir: muestra que se puede atender una necesidad práctica sin abandonar el vínculo con la memoria familiar, que es lo que sostiene la hipótesis.
 
 **5. (Alternativas)** ¿Cuál de las siguientes acciones corresponde a incorporar recursos variados en un ensayo persuasivo, sin perder la coherencia temática?
 
-a) Insertar una anécdota personal sin relación alguna con la hipótesis del ensayo, solo para hacerlo más entretenido
+a) Insertar una anécdota personal sin relación con la hipótesis del ensayo, para hacerlo más entretenido para el lector
 b) Incluir una anécdota, cita o síntesis que refuerce directamente la hipótesis y se conecte con el resto del argumento
 c) Agregar imágenes decorativas que no aportan información relevante al argumento
-d) Usar únicamente citas literarias, evitando cualquier evidencia no literaria
+d) Usar citas literarias de autores conocidos, evitando la evidencia no literaria
 
 *Respuesta correcta: b.* Retroalimentación: los recursos variados (anécdotas, citas, síntesis, infografías) deben usarse siempre en función de reforzar la hipótesis y mantener la coherencia temática del ensayo, no como adornos desconectados del argumento central.
 
 **6. (Alternativas — planificación)** Para un ensayo sobre "¿Es la inteligencia artificial una amenaza real para el pensamiento independiente de los jóvenes?", ¿qué planificación es adecuada?
 
-a) Hipótesis: ninguna, porque el tema es demasiado amplio. Recurso: ninguno, porque basta con la opinión personal del autor sobre la IA
+a) Hipótesis: el tema es demasiado amplio para tomar una postura. Recurso: la opinión personal del autor sobre el uso de la IA en el liceo
 b) Hipótesis: la IA no es una amenaza en sí misma; su efecto depende de cómo se regule su uso. Recurso: una anécdota sobre usar —o no— IA en una tarea y qué se ganó o perdió
-c) Hipótesis: la IA no existe realmente y es solo un invento de las empresas. Recurso: una receta de cocina escrita por un estudiante sin ayuda de ningún programa
-d) Escribir sin hipótesis ni recurso
+c) Hipótesis: la IA es un invento de las empresas para vender más computadores. Recurso: una receta de cocina escrita por un estudiante
+d) Escribir sin hipótesis ni recurso, para que las ideas salgan de forma espontánea y el texto refleje lo que el autor siente sobre la IA en ese momento
 
 *Respuesta correcta: b.* Retroalimentación: definir la hipótesis y el recurso antes de escribir evita perder coherencia temática.
 
