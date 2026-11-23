@@ -166,8 +166,8 @@ muestren que funciona?), no solo su buena intención ambiental.
 3. *(Alternativas — Análisis de caso)* Para reducir el consumo de agua potable en riego, una junta de vecinos evalúa: (a) regar con agua potable de noche, o (b) riego por goteo con aguas grises tratadas. ¿Cuál responde mejor al criterio de tratamiento de recursos hídricos?
    a) La (b), porque el goteo es más eficiente y además reemplaza agua potable por agua tratada reutilizada
    b) La (a), porque regar de noche con agua potable elimina el consumo de agua del riego del jardín vecinal
-   c) Ambas son equivalentes, porque las dos usan la misma cantidad de agua potable
-   d) Ninguna reduce el consumo
+   c) Ambas son equivalentes, porque las dos usan la misma cantidad de agua potable cada semana
+   d) Ninguna de las dos reduce el consumo, porque el jardín necesita la misma agua de siempre
    **Respuesta correcta:** a) La (b), porque el goteo es más eficiente y además reemplaza agua potable por agua tratada reutilizada.
    **Retroalimentación:** Regar de noche reduce algo la evaporación, pero sigue usando agua potable; el goteo con aguas grises tratadas gasta menos agua y además reemplaza el agua potable por agua reutilizada. Por eso la (b) reduce más el consumo.
 
@@ -175,10 +175,9 @@ muestren que funciona?), no solo su buena intención ambiental.
    compostaje comunitario contribuye simultáneamente a:
    a) Reducir residuos que van a vertederos y disminuir emisiones de
       metano asociadas a su descomposición.
-   b) Solo a la gestión de residuos domiciliarios, sin ningún otro beneficio para el ambiente.
+   b) A la gestión de residuos domiciliarios, sin otros beneficios importantes para el ambiente.
    c) Aumentar la generación de residuos domiciliarios, porque obliga a separar más la basura.
-   d) Reemplazar completamente la necesidad de tratamiento de aguas
-      servidas.
+   d) Reemplazar la necesidad de tratar las aguas servidas de las casas del barrio.
    **Respuesta correcta:** a.
    **Retroalimentación:** Un buen proyecto suele combinar beneficios: el
    compostaje reduce basura y evita que la materia orgánica genere
@@ -227,28 +226,27 @@ muestren que funciona?), no solo su buena intención ambiental.
 
 9. *(Alternativas — Análisis de caso)* Estudiantes quieren un proyecto para su liceo, pero solo saben que "se genera mucha basura". ¿Qué deberían hacer antes de diseñar la solución?
    a) Un diagnóstico cuantificado: cuánta basura, de qué tipo y dónde se produce más, para luego medir la efectividad de la solución
-   b) Comprar más basureros de inmediato y ubicarlos en todos los pasillos, porque la cantidad de basura ya se conoce a simple vista
-   c) Prohibir comer en el liceo
+   b) Comprar más basureros de inmediato y ubicarlos en los pasillos, porque la cantidad de basura ya se conoce a simple vista
+   c) Prohibir comer en el liceo durante los recreos para que se genere menos basura en los patios
    d) Nada: basta con la impresión general de que se genera mucha basura, porque medirla retrasaría la solución sin aportar información útil
    **Respuesta correcta:** a) Un diagnóstico cuantificado: cuánta basura, de qué tipo y dónde se produce más, para luego medir la efectividad de la solución.
    **Retroalimentación:** Un proyecto basado en evidencia comienza con un diagnóstico cuantificado.
 
 10. *(Alternativas)* ¿Qué proyecto combina al menos dos criterios de sostenibilidad y explica cómo se relacionan?
-    a) Pintar de verde los basureros
+    a) Pintar de verde los basureros del liceo y poner carteles con mensajes sobre el cuidado del ambiente
     b) Aumentar el consumo eléctrico del liceo para instalar más luces verdes en los patios, como símbolo del compromiso ambiental
     c) Riego tecnificado con agua reciclada en un vivero de especies nativas: une el tratamiento de recursos hídricos con la conservación de ecosistemas
-    d) Un proyecto que solo nombra criterios de sostenibilidad, como el agua, la energía y los residuos, sin explicar cómo se vinculan ni aplicarlos en una acción concreta
+    d) Un proyecto que nombra criterios de sostenibilidad, como el agua, la energía y los residuos, sin explicar cómo se vinculan ni aplicarlos en una acción concreta
     **Respuesta correcta:** c) Riego tecnificado con agua reciclada en un vivero de especies nativas: une el tratamiento de recursos hídricos con la conservación de ecosistemas.
     **Retroalimentación:** El riego tecnificado con agua reciclada cuida los recursos hídricos, y el vivero de especies nativas ayuda a conservar ecosistemas: el proyecto combina dos criterios y los relaciona entre sí.
 
 11. *(Alternativas)* ¿Cuál de las siguientes opciones representa mejor una
     "utilización sostenible" (y no solo protección) de un recurso natural?
-    a) Prohibir por completo cualquier uso del bosque nativo, incluida la recolección de frutos y leña.
+    a) Prohibir cualquier uso del bosque nativo, incluida la recolección de frutos y de leña seca.
     b) Explotar un recurso hídrico sin ningún límite de extracción mientras haya agua disponible en la cuenca.
     c) Manejar un bosque nativo con planes de manejo que permiten
        extracción controlada de madera sin comprometer su regeneración.
-    d) Talar todo un bosque y luego reforestar con una sola especie
-       exótica de rápido crecimiento.
+    d) Talar un bosque completo y luego reforestar con una sola especie exótica de rápido crecimiento.
     **Respuesta correcta:** c.
     **Retroalimentación:** La utilización sostenible busca un equilibrio:
     usar el recurso de forma que se mantenga disponible para el futuro,
@@ -284,8 +282,8 @@ muestren que funciona?), no solo su buena intención ambiental.
     riego tradicional por inundación en la agricultura, es relevante para
     la sostenibilidad hídrica en Chile porque:
     a) Aumenta el consumo total de agua por hectárea, pero mejora el rendimiento de las cosechas.
-    b) Solo es aplicable en climas lluviosos.
-    c) Elimina por completo la necesidad de agua para los cultivos, que pasan a depender solo de la lluvia.
+    b) Es útil sobre todo en climas lluviosos, donde sobra agua para repartir.
+    c) Elimina por completo la necesidad de agua para los cultivos, que pasan a depender de la lluvia.
     d) Reduce las pérdidas de agua por evaporación y escurrimiento,
        usando el recurso de forma más eficiente.
     **Respuesta correcta:** d.
@@ -297,7 +295,7 @@ muestren que funciona?), no solo su buena intención ambiental.
 16. *(Alternativas)* ¿Por qué un proyecto de sostenibilidad debe considerar su viabilidad económica y la participación de la comunidad, y no solo su fundamento científico?
     a) Porque la ciencia no importa en los proyectos de sostenibilidad: basta con que la comunidad esté de acuerdo
     b) Porque basta con que el proyecto sea barato, aunque no tenga fundamento científico ni apoyo de la comunidad
-    c) Porque la comunidad no tiene relación con la sostenibilidad, que depende solo de la tecnología usada
+    c) Porque la comunidad tiene poca relación con la sostenibilidad, que depende sobre todo de la tecnología usada
     d) Porque un proyecto correcto técnicamente pero muy costoso o sin apoyo comunitario difícilmente se implementará o mantendrá
     **Respuesta correcta:** d) Porque un proyecto correcto técnicamente pero muy costoso o sin apoyo comunitario difícilmente se implementará o mantendrá.
     **Retroalimentación:** La sostenibilidad tiene dimensiones técnica, económica y social.
@@ -417,12 +415,12 @@ mencionado).
 
 1. *(Alternativas)* La evidencia científica del cambio climático actual se
    basa principalmente en:
-   a) La opinión de un solo grupo de científicos, que no ha sido revisada ni contrastada con otros estudios independientes.
+   a) La opinión de un grupo de científicos, que no ha sido revisada ni contrastada con otros estudios independientes del mundo.
    b) Múltiples líneas de evidencia convergentes: registros de
       temperatura, concentración de CO₂, núcleos de hielo y modelos
       climáticos validados.
-   c) Predicciones de modelos sin ninguna base en datos históricos de temperatura ni en mediciones de gases.
-   d) Observaciones de un solo año particularmente cálido, que se usan para proyectar lo que ocurrirá en el futuro.
+   c) Predicciones de modelos computacionales sin base en datos históricos de temperatura ni en mediciones de gases.
+   d) Observaciones de un año particularmente cálido, que se usan para proyectar lo que ocurrirá en el futuro del planeta.
    **Respuesta correcta:** b.
    **Retroalimentación:** La solidez del consenso científico sobre el
    cambio climático proviene de la convergencia de distintas fuentes de
@@ -441,7 +439,7 @@ mencionado).
    a) El agua más ácida fortalece las conchas, porque aporta más carbonato de calcio disuelto, y el calentamiento acelera su crecimiento
    b) El océano absorbe más CO₂ y se acidifica, lo que dificulta formar y mantener conchas; el calentamiento suma estrés adicional
    c) La temperatura no influye en los organismos marinos, y el pH del mar no tiene relación con la formación de conchas
-   d) Los moluscos no tienen conchas de carbonato
+   d) Los moluscos forman sus conchas con proteínas, así que el pH del mar no les afecta
    **Respuesta correcta:** b) El océano absorbe más CO₂ y se acidifica, lo que dificulta formar y mantener conchas; el calentamiento suma estrés adicional.
    **Retroalimentación:** Al absorber más CO₂ el mar se acidifica (baja su pH), y eso dificulta que los moluscos formen y mantengan sus conchas de carbonato de calcio; el aumento de temperatura les agrega estrés.
 
@@ -460,7 +458,7 @@ mencionado).
 
 5. *(Alternativas)* ¿Qué opción distingue correctamente una medida de mitigación y una de adaptación en Chile?
    a) Mitigación: construir embalses para almacenar agua frente a la megasequía. Adaptación: cerrar centrales a carbón y reemplazarlas por energía solar
-   b) Ambas significan lo mismo: cualquier medida frente al cambio climático es a la vez de mitigación y de adaptación
+   b) Ambas significan lo mismo: las medidas frente al cambio climático son a la vez de mitigación y de adaptación
    c) Mitigación: reemplazar centrales a carbón por energía solar o eólica. Adaptación: mejorar la eficiencia del riego frente a la megasequía
    d) Mitigación: aumentar las emisiones para que la economía crezca. Adaptación: ignorar la sequía hasta que llueva
    **Respuesta correcta:** c) Mitigación: reemplazar centrales a carbón por energía solar o eólica. Adaptación: mejorar la eficiencia del riego frente a la megasequía.
@@ -468,9 +466,9 @@ mencionado).
 
 6. *(Alternativas — Evaluación de evidencia)* "Un invierno muy frío en una ciudad demuestra que el cambio climático no existe." ¿Por qué el argumento es débil?
    a) Porque confunde un evento puntual del tiempo atmosférico con el clima, que se refiere a tendencias de largo plazo
-   b) Porque los inviernos nunca son fríos en las ciudades, y el dato del invierno debe estar equivocado
-   c) Porque el cambio climático solo ocurre en verano, cuando las temperaturas suben, y no afecta los inviernos
-   d) No es débil: es una prueba concluyente
+   b) Porque los inviernos casi no son fríos en las ciudades, y el dato del invierno debe estar equivocado
+   c) Porque el cambio climático ocurre en verano, cuando las temperaturas suben, y no afecta los inviernos
+   d) No es débil: un invierno frío es una prueba concluyente sobre el clima
    **Respuesta correcta:** a) Porque confunde un evento puntual del tiempo atmosférico con el clima, que se refiere a tendencias de largo plazo.
    **Retroalimentación:** Un invierno frío es un evento del tiempo atmosférico en un lugar; el clima se refiere a tendencias de muchos años en todo el planeta. Un caso puntual no refuta una tendencia de largo plazo.
 
@@ -485,8 +483,8 @@ mencionado).
    la atmósfera.
 
 8. *(Alternativas — Análisis de caso)* Una gran hidroeléctrica reduce las emisiones de CO₂ de una región, pero inunda un valle con bosque nativo y desplaza a una comunidad. ¿Qué evaluación es más completa?
-   a) Solo importa la reducción de emisiones de CO₂, porque el beneficio climático para toda la región justifica cualquier costo ambiental o social que genere el proyecto
-   b) Solo importa el desplazamiento de la comunidad, porque el beneficio climático y el bosque nativo son secundarios
+   a) Prioriza la reducción de emisiones de CO₂, porque el beneficio climático para la región justifica los costos ambientales o sociales que genere el proyecto
+   b) Prioriza el desplazamiento de la comunidad, porque el beneficio climático y el bosque nativo son secundarios frente a ese costo
    c) No tiene ningún costo, porque la energía hidroeléctrica es renovable y, por definición, no afecta a nadie
    d) Pondera el beneficio climático frente al costo ambiental (bosque) y social (desplazamiento, consentimiento), y considera alternativas de menor impacto
    **Respuesta correcta:** d) Pondera el beneficio climático frente al costo ambiental (bosque) y social (desplazamiento, consentimiento), y considera alternativas de menor impacto.
@@ -495,12 +493,12 @@ mencionado).
 9. *(Alternativas)* La megasequía que afecta a la zona central de Chile
    desde hace más de una década es un ejemplo relevante para este tema
    porque:
-   a) No tiene relación con el cambio climático, es un fenómeno completamente aislado causado solo por el consumo excesivo de agua de la población urbana, sin efectos en los ecosistemas naturales.
+   a) Tiene poca relación con el cambio climático: es un fenómeno causado por el consumo excesivo de agua de la población urbana, sin efectos importantes en los ecosistemas
    b) Ilustra un efecto físico (alteración de patrones de precipitación)
       del cambio climático con consecuencias directas en los ecosistemas
       y en la disponibilidad de agua para las personas.
-   c) Es exclusivamente un problema económico sin base científica.
-   d) Solo afecta a la agricultura de exportación, sin relación con los ecosistemas naturales ni con la disponibilidad de agua para las personas, que se abastecen de otras fuentes.
+   c) Es un problema económico de la agricultura, sin una base científica que lo relacione con el clima del país
+   d) Afecta sobre todo a la agricultura de exportación, sin relación con los ecosistemas naturales ni con el agua para las personas, que se abastecen de otras fuentes
    **Respuesta correcta:** b.
    **Retroalimentación:** La megasequía combina variabilidad climática
    natural con una tendencia de fondo asociada al cambio climático, y
@@ -508,10 +506,10 @@ mencionado).
    actividades humanas (agricultura, agua potable).
 
 10. *(Alternativas)* ¿Por qué el cambio climático plantea un problema de "justicia climática"?
-    a) Porque todos los países emitieron lo mismo, pero algunos se adaptan mejor que otros
+    a) Porque los países emitieron cantidades parecidas, pero algunos se adaptan mejor que otros
     b) Porque quienes menos han emitido suelen ser los más afectados y con menos recursos para adaptarse
     c) Porque los países que más emiten son los más afectados y los más pobres, sin recursos para adaptarse
-    d) Porque el clima no tiene dimensión ética
+    d) Porque el clima afecta a los países por igual, sin importar cuánto emitió cada uno
     **Respuesta correcta:** b) Porque quienes menos han emitido suelen ser los más afectados y con menos recursos para adaptarse.
     **Retroalimentación:** Los países y comunidades que menos gases han emitido suelen sufrir más los efectos del cambio climático y tienen menos recursos para adaptarse. Esa distribución desigual de responsabilidades y daños es un problema de justicia.
 
@@ -526,10 +524,10 @@ mencionado).
     múltiples líneas de evidencia.
 
 12. *(Alternativas — Análisis de caso)* Una comuna con estrés hídrico evalúa (a) una planta desalinizadora y (b) reforestar laderas con especies nativas para mejorar la infiltración. ¿Cuál es la función principal de cada estrategia?
-    a) Ambas son de mitigación
-    b) La desalinizadora es mitigación, porque reduce las emisiones, y la reforestación es solo adaptación, porque no captura carbono
+    a) Ambas son de mitigación, porque reducen las emisiones de la región
+    b) La desalinizadora es mitigación, porque reduce las emisiones, y la reforestación es adaptación, porque no captura carbono
     c) Ambas son principalmente de adaptación; la reforestación aporta además una contribución menor a la mitigación
-    d) Ninguna se relaciona con el cambio climático: ambas son medidas de infraestructura sanitaria
+    d) Las dos se relacionan poco con el cambio climático: son medidas de infraestructura sanitaria
     **Respuesta correcta:** c) Ambas son principalmente de adaptación; la reforestación aporta además una contribución menor a la mitigación.
     **Retroalimentación:** Muchas medidas combinan elementos; lo importante es justificar su función principal.
 
@@ -543,13 +541,12 @@ mencionado).
 
 14. *(Alternativas)* La pérdida de biodiversidad asociada al cambio
     climático ocurre principalmente porque:
-    a) Todas las especies pueden migrar instantáneamente a nuevos hábitats
-       sin ningún costo.
+    a) Las especies pueden migrar con rapidez a nuevos hábitats, sin costos importantes para ellas.
     b) Muchas especies no logran adaptarse o desplazarse con la rapidez
        suficiente frente a la velocidad de los cambios ambientales
        actuales.
-    c) El cambio climático no afecta a la distribución de las especies, que depende solo de la competencia entre ellas.
-    d) La biodiversidad solo depende de la acción humana directa, como la caza y la tala, sin ninguna relación con el clima.
+    c) El cambio climático afecta poco a la distribución de las especies, que depende sobre todo de la competencia entre ellas.
+    d) La biodiversidad depende sobre todo de la acción humana directa, como la caza y la tala, más que del clima.
     **Respuesta correcta:** b.
     **Retroalimentación:** La velocidad del cambio climático actual supera
     la capacidad de adaptación evolutiva o de migración de muchas
@@ -558,8 +555,8 @@ mencionado).
 15. *(Alternativas)* Frente al derretimiento de glaciares, ¿qué evaluación de una solución de mitigación es correcta?
     a) Reducir emisiones con energías renovables ataca la causa raíz, pero sus efectos tardan décadas y requiere cooperación internacional, por lo que debe complementarse con adaptación
     b) Reducir emisiones con energías renovables resuelve de inmediato la escasez de agua y detiene el derretimiento en pocos años, por lo que no se necesitan medidas de adaptación
-    c) La mitigación no tiene ninguna ventaja frente a los glaciares, porque su derretimiento ya es irreversible y solo cabe aceptar sus consecuencias
-    d) No existen soluciones de mitigación
+    c) La mitigación tiene pocas ventajas frente a los glaciares, porque su derretimiento ya es irreversible y conviene aceptar sus consecuencias
+    d) La mitigación es lenta y costosa, por lo que conviene esperar a que existan tecnologías nuevas
     **Respuesta correcta:** a) Reducir emisiones con energías renovables ataca la causa raíz, pero sus efectos tardan décadas y requiere cooperación internacional, por lo que debe complementarse con adaptación.
     **Retroalimentación:** La mitigación por sí sola no resuelve efectos ya en curso.
 
