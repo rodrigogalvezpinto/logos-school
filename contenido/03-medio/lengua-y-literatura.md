@@ -110,7 +110,7 @@ d) El viaje como búsqueda de una identidad propia lejos del hogar
 
 **5. (Alternativas — Aplicación)** ¿Qué hipótesis de sentido está sustentada en un recurso literario del texto?
 
-a) El relato trata sobre deportes y vida sana, sustentado en que menciona bicicletas y el esfuerzo físico de los trabajadores del pueblo minero
+a) El relato trata sobre deportes y vida sana, sustentado en que menciona bicicletas y el esfuerzo físico de los trabajadores del pueblo minero del norte de Chile
 b) El relato es solo una lista de oficios sin un sentido mayor, sustentado en que enumera el trabajo del padre, del abuelo y de la hija sin conectarlos
 c) El relato no permite ninguna hipótesis de sentido, porque se limita a describir manos sin usar recursos literarios como el paralelismo o la metáfora
 d) El sacrificio físico se transforma en herencia simbólica, sustentado en el paralelismo entre "estas manos mías, que hoy sostienen un lápiz y no un pique" y las manos del padre
@@ -135,7 +135,7 @@ d) Ambas son poemas sobre el mar y los pescadores; se diferencian en que Sub ter
 a) Ambas tratan sobre la astronomía como pasatiempo de los habitantes del norte, y el cuento usa el cielo del desierto solo como fondo de las escenas familiares
 b) Solo coinciden en que ocurren en el norte de Chile: la película habla de los observatorios y el cuento de la minería, sin ningún tema en común entre ambas
 c) Ambas entienden el territorio del norte como un espacio que guarda la memoria de quienes trabajaron y sufrieron en él, que la generación siguiente debe interpretar
-d) No tienen ninguna relación
+d) Tienen poca relación: una habla del cielo y la otra del trabajo, así que comparten el lugar, el norte de Chile, pero no un tema que las una ni un mismo tono
 
 *Respuesta correcta: c.* Retroalimentación: Nostalgia de la luz y el cuento comparten una idea profunda: el desierto del norte guarda la memoria de quienes trabajaron y sufrieron en él, y la generación siguiente debe interpretarla.
 
@@ -144,15 +144,15 @@ d) No tienen ninguna relación
 a) Es incompleta: el final cierra un paralelismo construido en todo el relato y sustenta que el sacrificio del padre se transformó en la posibilidad de contar la historia
 b) Es correcta: el final no tiene importancia para el sentido del relato, porque la historia del padre ya terminó antes de ese párrafo
 c) Es correcta: la narradora solo describe su trabajo actual como escritora, y el final informa al lector de su profesión sin relación con las manos del padre
-d) Es incorrecta porque el relato no tiene final
+d) Es incorrecta porque el relato no tiene un final cerrado: la historia del padre queda abierta y la narradora no vuelve a mencionarla en el último párrafo
 
 *Respuesta correcta: a.* Retroalimentación: La lectura del compañero es incompleta: el final cierra el paralelismo de las manos que recorre todo el relato y muestra que el sacrificio del padre hizo posible que la hija hoy cuente su historia.
 
 **10. (Alternativas)** ¿Qué figura literaria se reconoce en "la montaña... devoraba turnos, años, amigos y, a veces, vidas enteras"?
 
-a) Símil
-b) Anáfora
-c) Hipérbaton
+a) Símil o comparación
+b) Anáfora o repetición
+c) Hipérbaton literario
 d) Personificación
 
 *Respuesta correcta: d.* Retroalimentación: atribuir a la montaña la acción humana de "devorar" es una personificación que le otorga un poder casi mítico sobre la vida de los trabajadores.
@@ -193,7 +193,7 @@ d) Con un manual de minería, porque menciona picos
 a) Porque es solo un detalle formal sin importancia para el sentido: el relato podría comenzar y terminar con cualquier imagen sin cambiar su interpretación
 b) Porque así el relato es más largo
 c) Porque construye explícitamente el paralelismo entre el sacrificio del padre y la herencia simbólica de la hija, ofreciendo evidencia en la propia estructura
-d) Porque obliga a leer el texto dos veces para entenderlo, y así el lector recuerda mejor los detalles del trabajo del padre en la mina
+d) Porque obliga a leer el texto dos veces para entenderlo, y así el lector recuerda mejor los detalles del trabajo del padre en la mina de carbón
 
 *Respuesta correcta: c.* Retroalimentación: la estructura es un recurso literario tan válido como el narrador o las figuras.
 
@@ -240,9 +240,9 @@ En 3° medio, tu mirada crítica sobre textos no literarios —orales, escritos 
 
 **1. (Alternativas)** ¿A qué género discursivo corresponde el texto sobre los repartidores, considerando que combina testimonio, cifras oficiales y contraste de versiones?
 
-a) Cuento realista
-b) Reseña literaria
-c) Discurso político
+a) Cuento realista breve
+b) Reseña literaria de un libro
+c) Discurso político de campaña
 d) Reportaje periodístico
 
 *Respuesta correcta: d.* Retroalimentación: la combinación de testimonio individual, datos duros y contraste de versiones sobre un mismo tema es característica del reportaje, que busca profundizar más que una noticia breve.
@@ -303,7 +303,7 @@ d) Nada es verificable
 **9. (Alternativas — análisis integrado)** Si el reportaje se transformara en uno audiovisual para televisión, ¿qué cambiaría y qué se mantendría?
 
 a) Cambiaría el modo de presentar (imágenes, sonido, voz en off); se mantendría la relevancia del tema para la audiencia chilena preocupada por la precariedad laboral
-b) Cambiaría el tema completo, porque la televisión exige historias de entretenimiento y no reportajes sobre trabajo
+b) Cambiaría el tema completo, porque la televisión exige historias de entretenimiento y no reportajes sobre trabajo, y se perdería la información sobre los repartidores
 c) No cambiaría nada
 d) Se perdería toda relevancia para la audiencia, porque un reportaje audiovisual solo puede mostrar imágenes y no puede presentar testimonios, datos ni el debate sobre la precariedad laboral
 
@@ -336,13 +336,13 @@ d) Da al testimonio humano la última palabra y refuerza indirectamente que la f
 a) Apoyar completamente la versión de las empresas, mostrando que Ronald es un caso aislado
 b) Cuestionar, sin afirmarlo directamente, qué tan real es el beneficio que destacan las empresas
 c) Distraer al lector del tema
-d) Demostrar que Ronald no trabaja tantas horas como dicen las cifras oficiales
+d) Demostrar que Ronald no trabaja tantas horas como dicen las cifras oficiales del Ministerio
 
 *Respuesta correcta: b.* Retroalimentación: Junto a la flexibilidad y el 78 % de satisfacción que destacan las empresas, el testimonio de Ronald muestra sus límites; así el reportaje cuestiona, sin afirmarlo, qué tan real es ese beneficio.
 
 **14. (Alternativas)** ¿Por qué es relevante, para el contexto sociocultural de la audiencia chilena, que el reportaje mencione que Ronald es venezolano?
 
-a) Porque no tiene ninguna relevancia para el tema del reportaje: es solo un dato biográfico para presentar a Ronald
+a) Porque tiene poca relevancia para el tema del reportaje: es un dato biográfico que sirve para presentar a Ronald ante los lectores del diario
 b) Porque conecta el tema del trabajo precario en plataformas digitales con el debate social vigente sobre migración y trabajo informal en Chile
 c) Porque el reportaje busca cuestionar la nacionalidad de los repartidores y sugerir que solo los extranjeros aceptan esos trabajos
 d) Porque todos los repartidores en Chile son extranjeros, y el reportaje lo menciona para mostrar que el problema no afecta a chilenos
@@ -423,7 +423,7 @@ d) Autoridad del establecimiento educacional, que informa decisiones oficiales d
 
 a) Insinúa sin evidencia que una alumna organizó la toma, lo que facilita identificarla y exponerla a acoso (doxxing)
 b) Ninguna, porque no menciona nombres ni muestra fotos y, por lo tanto, no puede afectar a ninguna persona de la comunidad
-c) Que el comentario es muy largo y desvía la conversación hacia temas que no son centrales
+c) Que el comentario es muy largo y desvía la conversación hacia temas que no son centrales para el liceo y su comunidad
 d) Que usa demasiados emojis y un registro informal, poco adecuado para un debate serio
 
 *Respuesta correcta: a.* Retroalimentación: no se requiere un nombre explícito: basta con que el discurso facilite la exposición de alguien.
@@ -431,7 +431,7 @@ d) Que usa demasiados emojis y un registro informal, poco adecuado para un debat
 **4. (Alternativas — Aplicación)** ¿En qué se diferencian los razonamientos de @vecina_ñuñoa y @troll123?
 
 a) Ambos aportan evidencia verificable
-b) Ambos razonan a partir de estereotipos generacionales, aunque @vecina_ñuñoa los presenta como experiencia laboral en el liceo
+b) Ambos razonan a partir de estereotipos generacionales, aunque @vecina_ñuñoa los presenta como experiencia laboral en el liceo donde trabaja hace años
 c) @troll123 aporta datos verificables sobre la generación actual y @vecina_ñuñoa solo insultos, sin relación con su experiencia en el liceo ni datos
 d) @vecina_ñuñoa razona desde su experiencia laboral en el liceo; @troll123 generaliza desde un estereotipo generacional ("generación de cristal") sin evidencia
 
@@ -451,7 +451,7 @@ d) La opinión de @profe_x sobre lo que ocurre en otros liceos donde trabaja
 a) "Está bien porque todos lo hacen en redes sociales, y si la persona no organizó la toma, puede desmentirlo; además, el interés público justifica cualquier información"
 b) "No es aceptable: el interés público en las condiciones del liceo no justifica exponer sin evidencia a una persona, porque el daño posible es real y no aporta al problema de fondo"
 c) "No sé"
-d) "Es un tema del liceo y de sus estudiantes, así que cada uno puede opinar y compartir lo que quiera sobre quién organizó la toma, sin necesidad de evidencia"
+d) "Es un tema del liceo y de sus estudiantes, así que cada uno puede opinar y compartir lo que quiera sobre quién organizó la toma, sin necesidad de pruebas ni de pedir permiso"
 
 *Respuesta correcta: b.* Retroalimentación: fundamentar exige distinguir el tema de interés público de las prácticas que dañan a personas concretas.
 
@@ -502,7 +502,7 @@ d) @troll123 expone a una persona identificable con una acusación infundada y @
 **13. (Alternativas — postura ética)** ¿Qué respuesta de la comunidad digital frente a comentarios como el de @troll123 está mejor fundamentada?
 
 a) Responder con insultos más fuertes
-b) Ignorar el tema de fondo y discutir solo con el troll, respondiendo cada comentario hasta que deje de publicar en el hilo del liceo
+b) Ignorar el tema de fondo y discutir con el troll, respondiendo cada uno de sus comentarios hasta que deje de publicar en el hilo del liceo
 c) Difundir datos personales del troll para que la comunidad sepa quién es y deje de tomarlo en serio
 d) Señalarlos públicamente como descalificaciones sin sustento, sin responder con el mismo tono, porque desvían la conversación del problema real
 
@@ -584,7 +584,7 @@ Antes de escribir, se planifica cada versión:
 
 a) Ambas buscan exactamente lo mismo, argumentar una interpretación; solo cambia la extensión del texto
 b) La versión (a) busca argumentar una interpretación fundamentada; la versión (b) busca recomendar el cuento y despertar interés
-c) La versión (a) es informal y está dirigida a compañeros; la versión (b) es formal y está dirigida a un profesor
+c) La versión (a) es informal y está dirigida a compañeros; la versión (b) es formal y está dirigida a un profesor de Lengua
 d) La versión (b) no tiene ningún propósito comunicativo: es solo un resumen más corto de la versión (a)
 
 *Respuesta correcta: b.* Retroalimentación: aunque ambas versiones comunican la misma interpretación central, sus propósitos comunicativos son distintos, lo que justifica que se escriban de forma diferente.
@@ -615,7 +615,7 @@ d) "Papá minero lápiz hija."
 
 a) Porque los emojis siempre deben evitarse en cualquier texto escrito, aunque en las redes sociales se toleran
 b) Porque en una publicación de red social dirigida a estudiantes, el emoji es una convención de género válida y esperada por esa audiencia
-c) Porque los emojis reemplazan la necesidad de un contenido interpretativo sólido en una publicación breve para estudiantes
+c) Porque los emojis reemplazan la necesidad de un contenido interpretativo sólido en una publicación breve para los compañeros
 d) Porque las redes sociales no tienen convenciones propias, así que cualquier recurso resulta igualmente adecuado
 
 *Respuesta correcta: b.* Retroalimentación: adecuar un texto a su audiencia implica reconocer las convenciones propias de cada género; en redes sociales dirigidas a jóvenes, el uso puntual de emojis es una convención aceptada que sería inadecuada, en cambio, en un ensayo escolar formal.
@@ -631,10 +631,10 @@ d) Propósito: argumentar que urge regular el trabajo en plataformas. Género: c
 
 **7. (Alternativas)** ¿Por qué adecuar un texto a otra audiencia (de un ensayo escolar a un post) no significa necesariamente perder profundidad?
 
-a) Porque los posts siempre son más profundos que los ensayos, ya que usan menos palabras para decir lo mismo y llegan a más lectores en las redes sociales
+a) Porque los posts suelen ser más profundos que los ensayos, ya que usan menos palabras para decir lo mismo de manera directa
 b) Porque ambas versiones pueden comunicar el mismo hallazgo interpretativo; cambia la forma (registro, extensión, recursos), no necesariamente la profundidad
-c) Porque adecuar un texto exige eliminar toda interpretación y dejar solo los datos del hallazgo
-d) Porque la audiencia no importa
+c) Porque adecuar un texto exige eliminar la interpretación y dejar los datos del hallazgo, para que el post sea más corto y fácil de leer en el celular
+d) Porque la audiencia de las redes sociales importa poco, y el texto puede mantener el mismo registro que el ensayo original
 
 *Respuesta correcta: b.* Retroalimentación: adecuar es un ejercicio de selección y forma, no de simplificación forzosa.
 
@@ -676,7 +676,7 @@ d) La coherencia: si las ideas se organizan en torno a un tema central
 **13. (Alternativas — Aplicación)** ¿Qué planificación de un video corto sobre las problemáticas éticas del hilo de la toma es coherente?
 
 a) Propósito: argumentar que difundir rumores sobre una compañera es dañino. Género: video tipo reels con voz en off. Audiencia: estudiantes de media en redes. Convención: lenguaje directo, ejemplos del hilo y menos de un minuto
-b) Propósito: vender ropa a los estudiantes del liceo usando el tema de la toma. Género: ensayo académico de cinco páginas. Audiencia: abogados y jueces. Convención: lenguaje técnico y citas legales
+b) Propósito: vender ropa a los estudiantes del liceo usando el tema de la toma. Género: ensayo académico de diez páginas. Audiencia: profesores. Convención: lenguaje técnico
 c) Propósito: difundir el rumor sobre quién organizó la toma para que todos lo sepan. Género: chiste breve. Audiencia: estudiantes del liceo. Convención: nombres y fotos de los involucrados en la toma del liceo
 d) Grabar sin planificar
 

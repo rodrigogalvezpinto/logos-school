@@ -218,8 +218,8 @@ d) El populismo latinoamericano
 
 **5. (Alternativas)** ¿Por qué la Gran Depresión de 1929 puso en crisis al Estado liberal decimonónico?
 a) Porque fortaleció la confianza en el libre mercado sin intervención, ya que la economía se recuperó sola en pocos meses gracias a la baja de salarios y de precios
-b) Porque eliminó para siempre la intervención estatal: los gobiernos comprendieron que cualquier gasto público agravaba el desempleo, las quiebras y la contracción del comercio
-c) Porque solo afectó a las finanzas de algunos bancos
+b) Porque redujo la intervención estatal: los gobiernos comprendieron que el gasto público agravaba el desempleo, y optaron por recortar sus presupuestos hasta que la crisis pasara
+c) Porque afectó sobre todo a las finanzas de algunos bancos de Nueva York, sin mayores efectos en el empleo o en el comercio de otros países del mundo
 d) Porque su magnitud (desempleo masivo, quiebras, contracción del comercio) mostró que la intervención mínima del Estado era insuficiente, abriendo paso a modelos con mayor intervención
 
 ✅ Respuesta correcta: **d) Porque su magnitud (desempleo masivo, quiebras, contracción del comercio) mostró que la intervención mínima del Estado era insuficiente, abriendo paso a modelos con mayor intervención**
@@ -477,8 +477,8 @@ d) 1-B, 2-C, 3-A
 ---
 
 **4. (Alternativas — análisis de fuente)** Una fotografía de 1952 muestra a mujeres haciendo fila para votar en una elección presidencial, algo que no existía antes de 1949. ¿Qué proceso ilustra?
-a) La prohibición del voto femenino en las elecciones
-b) El fin del sufragio universal en Chile por varios años
+a) La prohibición del voto femenino en las elecciones municipales
+b) El fin del sufragio universal en Chile durante varios años
 c) La llegada de la televisión a los hogares chilenos
 d) La incorporación de las mujeres a la ciudadanía política plena
 
@@ -489,9 +489,9 @@ d) La incorporación de las mujeres a la ciudadanía política plena
 
 **5. (Alternativas)** ¿Cómo contribuyó la expansión de la radio y el cine a la democratización cultural de mediados del siglo XX?
 a) Permitió que personas de distintos niveles socioeconómicos accedieran a los mismos contenidos culturales, generando un sentido de comunidad nacional más amplio
-b) Restringió la cultura a las élites, porque solo las familias acomodadas podían comprar radios y televisores, y los contenidos se pensaban para ellas
-c) Eliminó el acceso a la información
-d) Solo benefició a los sectores rurales aislados, que recibieron por primera vez noticias, mientras en las ciudades la cultura siguió siendo igual
+b) Restringió la cultura a las élites, porque las familias acomodadas eran las que podían comprar radios y televisores, y los contenidos se pensaban para ellas
+c) Redujo el acceso a la información, porque las personas dejaron de leer diarios y libros para escuchar la radio y ver televisión en sus casas
+d) Benefició sobre todo a los sectores rurales aislados, que recibieron por primera vez noticias, mientras en las ciudades la cultura cambió muy poco
 
 ✅ Respuesta correcta: **a) Permitió que personas de distintos niveles socioeconómicos accedieran a los mismos contenidos culturales, generando un sentido de comunidad nacional más amplio**
 *Retroalimentación:* Antes de estos medios, el acceso a la cultura estaba más limitado a quienes tenían más recursos.
@@ -783,10 +783,10 @@ d) La Doctrina de la Seguridad Nacional
 ---
 
 **5. (Alternativas)** ¿Qué se entiende por "tensión permanente entre revolución y reforma" en la América Latina de la Guerra Fría?
-a) La competencia entre dos equipos de fútbol
-b) El acuerdo total entre todos los sectores políticos de América Latina para seguir el modelo de la Revolución Cubana, sin golpes de Estado ni ninguna intervención de Estados Unidos en la región
+a) La competencia deportiva entre países americanos durante los campeonatos regionales de fútbol de la época, que generaba rivalidades políticas entre los gobiernos de la región
+b) El acuerdo entre los sectores políticos de América Latina para seguir el modelo de la Revolución Cubana, sin oposición de los sectores que preferían reformas graduales
 c) La coexistencia de sectores que buscaban cambios profundos siguiendo la Revolución Cubana y sectores que apostaban por reformas graduales en democracia, mientras golpes de Estado interrumpieron ambos caminos
-d) La ausencia de cualquier conflicto político en la región, porque los sectores que buscaban cambios profundos y los que apostaban por reformas graduales compartían el mismo programa
+d) La ausencia de conflictos políticos en la región, porque los sectores que buscaban cambios profundos y los que apostaban por reformas compartían un mismo programa
 
 ✅ Respuesta correcta: **c) La coexistencia de sectores que buscaban cambios profundos siguiendo la Revolución Cubana y sectores que apostaban por reformas graduales en democracia, mientras golpes de Estado interrumpieron ambos caminos**
 *Retroalimentación:* Sectores conservadores y las Fuerzas Armadas, a menudo con influencia de EE.UU., interrumpieron ambos caminos en varios países.
@@ -1023,10 +1023,10 @@ que evaluar en qué evidencia se sustenta.
 **1. (Alternativas)** ¿Qué se entiende por "interpretación historiográfica" en el estudio de un
 proceso histórico como el golpe de Estado de 1973?
 
-a) La única versión oficial y definitiva de los hechos, aceptada por todos los historiadores
+a) La versión oficial y definitiva de los hechos, aceptada por los historiadores de una época
 b) Una lectura del proceso histórico, elaborada por un historiador a partir de evidencia,
 que prioriza ciertos factores o causas por sobre otros
-c) Una opinión personal del historiador, sin ninguna base en fuentes ni en evidencia, que no puede discutirse porque depende solo de sus gustos
+c) Una opinión personal del historiador, con poca base en fuentes o en evidencia, que no puede discutirse porque depende de su punto de vista
 d) Un relato de ficción sobre el pasado, escrito para entretener a los lectores con hechos imaginados
 
 ✅ Respuesta correcta: **b) Una lectura del proceso histórico, elaborada por un historiador a
@@ -1087,10 +1087,10 @@ d) Porque todas las interpretaciones valen lo mismo, tengan o no evidencia, y la
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué es importante distinguir entre "opinión sin evidencia" e "interpretación fundamentada en fuentes" en un tema sensible como este?
-a) Porque solo puede existir una interpretación correcta
-b) Porque las opiniones personales siempre son más confiables que los documentos, ya que quienes vivieron el período recuerdan los hechos mejor que cualquier archivo, testimonio escrito o investigación posterior
+a) Porque puede existir una interpretación correcta y definitiva, que es la que entrega el gobierno de la época a través de sus documentos oficiales, sus archivos y sus discursos públicos
+b) Porque las opiniones personales son más confiables que los documentos, ya que quienes vivieron el período recuerdan mejor lo que pasó que quienes escribieron sobre él
 c) Porque el trabajo historiográfico exige sustentar las interpretaciones en evidencia verificable (documentos, testimonios, archivos), lo que distingue visiones que amplían la comprensión de afirmaciones sin sustento
-d) Porque las fuentes históricas no sirven en temas políticos: los documentos y archivos del período fueron escritos por los gobiernos, y por eso solo vale la interpretación personal de cada historiador
+d) Porque las fuentes históricas sirven poco en temas políticos: los documentos y archivos del período fueron escritos por los vencedores y no muestran la verdad de los hechos
 
 ✅ Respuesta correcta: **c) Porque el trabajo historiográfico exige sustentar las interpretaciones en evidencia verificable (documentos, testimonios, archivos), lo que distingue visiones que amplían la comprensión de afirmaciones sin sustento**
 *Retroalimentación:* Esto no implica que solo pueda existir una única interpretación correcta.
@@ -1215,7 +1215,7 @@ d) 1-B, 2-C, 3-A
 ---
 
 **4. (Alternativas — análisis de fuente)** Un informe de la Vicaría de la Solidaridad de 1978 documenta el caso de una persona detenida por agentes de civil, cuyo paradero se desconoce desde entonces, con testimonios de familiares. ¿Qué concepto ilustra?
-a) Un proceso judicial con todas las garantías, registrado por la Vicaría como un trámite ordinario
+a) Un proceso judicial con las garantías del debido proceso, registrado por la Vicaría como un trámite ordinario
 b) Una migración voluntaria de personas que salieron del país sin avisar
 c) Un trámite administrativo del Registro Civil para cambiar de domicilio
 d) La desaparición forzada como práctica sistemática de la dictadura, y el rol de la Vicaría en documentarla
@@ -1384,9 +1384,9 @@ d) El efecto de la Gran Depresión de 1929
 ---
 
 **5. (Alternativas)** ¿En qué consistió la transformación del rol del Estado con el modelo neoliberal en dictadura?
-a) El Estado nacionalizó todas las empresas privadas, y el mercado dejó de participar en la salud, la educación y la previsión social
-b) El Estado aumentó su rol productor en todos los sectores, creando nuevas empresas públicas y ampliando el gasto social como principal responsable de la salud y la educación
-c) El Estado no cambió su rol económico
+a) El Estado nacionalizó las principales empresas privadas, y el mercado dejó de participar en la salud, la educación y la previsión social del país durante esos años
+b) El Estado aumentó su rol productor en los distintos sectores, creando nuevas empresas públicas y ampliando el gasto social con impuestos más altos
+c) El Estado mantuvo su rol económico de los años sesenta, aunque cambió el nombre de algunos ministerios y redujo el número de funcionarios públicos
 d) El Estado dejó de ser productor directo y principal responsable del gasto social, transfiriendo funciones al mercado mediante privatizaciones y menor gasto social relativo
 
 ✅ Respuesta correcta: **d) El Estado dejó de ser productor directo y principal responsable del gasto social, transfiriendo funciones al mercado mediante privatizaciones y menor gasto social relativo**
@@ -1395,10 +1395,10 @@ d) El Estado dejó de ser productor directo y principal responsable del gasto so
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué conviene evaluar las consecuencias del modelo neoliberal en el corto y en el largo plazo?
-a) Porque sus efectos fueron iguales en todos los períodos: tanto en el corto como en el largo plazo el modelo generó solo logros, sin costos sociales ni debilidades como la desigualdad
+a) Porque sus efectos fueron parecidos en los distintos períodos: tanto en el corto como en el largo plazo el modelo generó beneficios para la mayoría de la población del país
 b) Porque en el corto plazo generó altos costos sociales (como en la crisis de 1982) y en el largo plazo fue la base de la economía chilena, con logros y también debilidades como la desigualdad
-c) Porque solo importan los efectos de corto plazo, como la crisis de 1982, ya que en el largo plazo la economía chilena dejó de depender de ese modelo
-d) Porque no tuvo consecuencias sociales
+c) Porque importan sobre todo los efectos de corto plazo, como la crisis de 1982, ya que en el largo plazo la economía chilena dejó de depender de las decisiones económicas de esos años
+d) Porque tuvo pocas consecuencias sociales, y sus efectos se notaron sobre todo en las cifras económicas
 
 ✅ Respuesta correcta: **b) Porque en el corto plazo generó altos costos sociales (como en la crisis de 1982) y en el largo plazo fue la base de la economía chilena, con logros y también debilidades como la desigualdad**
 *Retroalimentación:* Evaluar solo un plazo entregaría una visión incompleta.
@@ -1513,9 +1513,9 @@ d) 1-B, 2-A, 3-C
 
 **4. (Alternativas — análisis de fuente)** Un documento de 1985, firmado por partidos de distintas tendencias e impulsado por la Iglesia Católica, plantea "un camino consensuado hacia la plena democracia". ¿Qué factores ilustra?
 a) La rearticulación política mediante alianzas multipartidistas y el rol mediador de la Iglesia
-b) La supresión de todos los partidos políticos y de la Iglesia como actor de la oposición
+b) La supresión de los partidos políticos y de la Iglesia como actor de la oposición en la década de 1980
 c) La ausencia de diálogo entre los actores políticos y sociales
-d) El inicio de la dictadura
+d) El inicio de la dictadura y el cierre del Congreso Nacional en 1973
 
 ✅ Respuesta correcta: **a) La rearticulación política mediante alianzas multipartidistas y el rol mediador de la Iglesia**
 *Retroalimentación:* Mediación eclesial y rearticulación política actuaron de forma combinada.
@@ -1523,9 +1523,9 @@ d) El inicio de la dictadura
 ---
 
 **5. (Alternativas)** ¿Cómo se vinculan la crisis económica de 1982 y las protestas nacionales de 1983?
-a) La crisis fortaleció el apoyo unánime al régimen, porque la población confió en que solo un gobierno fuerte podía resolver el desempleo y las quiebras
+a) La crisis fortaleció el apoyo al régimen, porque la población confió en que un gobierno fuerte podía resolver el desempleo y las quiebras de las empresas
 b) Las protestas ocurrieron antes de la crisis y la causaron, al paralizar la producción y provocar el desempleo y las quiebras de 1982
-c) No tienen ninguna relación
+c) Tienen poca relación entre sí, porque las protestas se debieron a causas políticas y no económicas
 d) La crisis, con alto desempleo y quiebras, debilitó el apoyo al régimen y generó un descontento que se expresó desde 1983 en protestas masivas, pese a la represión
 
 ✅ Respuesta correcta: **d) La crisis, con alto desempleo y quiebras, debilitó el apoyo al régimen y generó un descontento que se expresó desde 1983 en protestas masivas, pese a la represión**
@@ -1618,10 +1618,10 @@ de reparación", uno de los ejes centrales de este OA.
 **1. (Alternativas)** ¿Qué opción triunfó en el plebiscito de 1988, abriendo el camino al retorno
 a la democracia?
 
-a) La opción "Sí", que prolongaba el mandato de Pinochet
+a) La opción "Sí", que prolongaba el mandato de Pinochet ocho años
 b) La opción "No", que impedía que Pinochet continuara como presidente
 c) El plebiscito fue anulado por irregularidades en el conteo
-d) Ninguna opción alcanzó la mayoría y se repitió la votación
+d) Ganó el "Sí", pero el resultado se revisó en el Congreso
 
 ✅ Respuesta correcta: **b) La opción "No", que impedía que Pinochet continuara como presidente**
 *Retroalimentación:* El triunfo del "No" abrió el camino a las elecciones presidenciales y
@@ -1662,8 +1662,8 @@ d) Disolvió el Congreso Nacional
 ---
 
 **5. (Alternativas)** ¿En qué consistieron las políticas de reparación implementadas durante la transición?
-a) La eliminación de todos los registros del período para facilitar la reconciliación nacional, sin comisiones de verdad ni reparaciones para las víctimas ni sus familias
-b) Una amnistía total sin investigación, decretada por el primer gobierno democrático
+a) La eliminación de los registros del período para facilitar la reconciliación nacional, sin comisiones de verdad ni reparaciones a las víctimas
+b) Una amnistía general sin investigación, decretada por el primer gobierno democrático para facilitar la reconciliación
 c) El cierre de los tribunales de justicia que investigaban las violaciones a los derechos humanos
 d) Comisiones de verdad (Rettig, 1991; luego Valech) que documentaron las violaciones, junto con reparaciones económicas, simbólicas y de acceso a la justicia
 
@@ -1673,10 +1673,10 @@ d) Comisiones de verdad (Rettig, 1991; luego Valech) que documentaron las violac
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué la transición se describe como un proceso "marcado por tensiones"?
-a) Porque fue un cambio inmediato y sin conflictos, en que todos los sectores aceptaron las nuevas reglas
+a) Porque fue un cambio rápido y con pocos conflictos, en que los distintos sectores políticos y sociales aceptaron las nuevas reglas sin mayores discusiones
 b) Porque se mantuvieron elementos del período dictatorial, como la Constitución de 1980 y Pinochet como Comandante en Jefe hasta 1998, lo que obligó a negociar reformas gradualmente
-c) Porque no hubo elecciones
-d) Porque se eliminaron todas las instituciones anteriores en un día, incluida la Constitución de 1980, y Pinochet dejó de inmediato la Comandancia en Jefe del Ejército
+c) Porque en esos años se suspendieron las elecciones parlamentarias y municipales, y el Congreso se mantuvo cerrado hasta el año 2000
+d) Porque se eliminaron las instituciones anteriores en poco tiempo, incluida la Constitución de 1980, y Pinochet dejó de influir en la política
 
 ✅ Respuesta correcta: **b) Porque se mantuvieron elementos del período dictatorial, como la Constitución de 1980 y Pinochet como Comandante en Jefe hasta 1998, lo que obligó a negociar reformas gradualmente**
 *Retroalimentación:* La transición mantuvo elementos de la dictadura, como la Constitución de 1980 y a Pinochet como Comandante en Jefe del Ejército hasta 1998; eso obligó a negociar reformas y produjo episodios de tensión cívico-militar.
@@ -1814,9 +1814,9 @@ d) La revolución de los precios
 ---
 
 **5. (Alternativas)** ¿Cómo se vinculan la pobreza rural de mediados del siglo XX y la transformación del espacio urbano chileno?
-a) La pobreza rural detuvo la migración a las ciudades, porque los campesinos no tenían dinero para viajar, y por eso las ciudades crecieron solo por su propia natalidad
-b) Las ciudades tenían vivienda suficiente para todos los migrantes, de modo que la llegada de población rural ordenó el crecimiento urbano y eliminó los barrios precarios
-c) No existe relación entre ambos procesos: la pobreza rural se resolvió con la Reforma Agraria y las ciudades crecieron solo por la llegada de inmigrantes europeos
+a) La pobreza rural detuvo la migración a las ciudades, porque los campesinos no tenían dinero para viajar, y por eso las ciudades crecieron poco en esos años
+b) Las ciudades tenían vivienda suficiente para los migrantes, de modo que la llegada de población rural ordenó el crecimiento urbano de esas décadas
+c) Hay poca relación entre ambos procesos: la pobreza rural se resolvió con la Reforma Agraria y las ciudades crecieron por su propia dinámica
 d) La pobreza rural impulsó una migración masiva a las ciudades que superó su capacidad de ofrecer vivienda y servicios, generando crecimiento desordenado y poblaciones callampas
 
 ✅ Respuesta correcta: **d) La pobreza rural impulsó una migración masiva a las ciudades que superó su capacidad de ofrecer vivienda y servicios, generando crecimiento desordenado y poblaciones callampas**
@@ -1825,10 +1825,10 @@ d) La pobreza rural impulsó una migración masiva a las ciudades que superó su
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué la segregación urbana originada a mediados del siglo XX sigue siendo relevante hoy?
-a) Porque desapareció por completo en la década de 1960 gracias a las políticas de vivienda social, y hoy solo se estudia como antecedente histórico
+a) Porque desapareció en la década de 1960 gracias a las políticas de vivienda social, y hoy se estudia como un hecho del pasado
 b) Porque sus patrones espaciales se consolidaron y explican en parte la desigualdad territorial actual de las ciudades chilenas
-c) Porque solo afectó a ciudades de otros países de América Latina, y en Chile se usa como ejemplo comparativo para evitar repetirla
-d) Porque hoy todos los barrios tienen el mismo acceso a servicios, y eso demuestra que los patrones de mediados de siglo ya se revirtieron
+c) Porque afectó sobre todo a ciudades de otros países de América Latina, y en Chile se usa como ejemplo comparativo
+d) Porque hoy los barrios tienen un acceso parecido a los servicios, y eso demuestra que esos patrones ya no influyen
 
 ✅ Respuesta correcta: **b) Porque sus patrones espaciales se consolidaron y explican en parte la desigualdad territorial actual de las ciudades chilenas**
 *Retroalimentación:* La concentración de ingresos y servicios en ciertas comunas persiste en la geografía urbana actual.
@@ -1921,8 +1921,8 @@ adoptar medidas específicas y no solo una declaración general.
 **1. (Alternativas)** ¿Qué característica de los Derechos Humanos establece que estos no caducan
 ni prescriben con el paso del tiempo?
 
-a) Universalidad
-b) Indivisibilidad
+a) Universalidad de los derechos
+b) Indivisibilidad de los derechos
 c) Imprescriptibilidad
 d) Interdependencia
 
@@ -1971,8 +1971,8 @@ d) Que el país no tiene ninguna obligación internacional, porque los tratados 
 ---
 
 **5. (Alternativas)** ¿Qué significan la universalidad y la indivisibilidad de los Derechos Humanos?
-a) Universales: corresponden solo a los ciudadanos de los países que firmaron la Declaración. Indivisibles: se pueden suspender según convenga, por ejemplo, para proteger la seguridad pública
-b) Universales: corresponden solo a los adultos con nacionalidad. Indivisibles: solo el derecho a la vida importa, y los demás pueden jerarquizarse según la situación
+a) Universales: corresponden a los ciudadanos de los países que firmaron la Declaración. Indivisibles: se pueden suspender por partes en una emergencia, según su importancia
+b) Universales: corresponden a los adultos con nacionalidad. Indivisibles: el derecho a la vida es el más importante, y los demás se aplican después de él
 c) Ambos términos significan lo mismo
 d) Universales: corresponden a toda persona sin distinción. Indivisibles: no se pueden separar ni jerarquizar, por ejemplo, no se justifica la tortura para proteger la seguridad pública
 
@@ -1982,9 +1982,9 @@ d) Universales: corresponden a toda persona sin distinción. Indivisibles: no se
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué los "grupos de especial protección" son compatibles con la universalidad de los Derechos Humanos?
-a) Porque esos grupos tienen derechos superiores al resto de las personas, por su mayor vulnerabilidad
+a) Porque esos grupos tienen derechos superiores al resto de las personas, por su mayor vulnerabilidad social
 b) Porque no se les otorgan más derechos, sino condiciones para ejercer en igualdad real los mismos derechos universales
-c) Porque la universalidad no admite ninguna medida específica, así que esos grupos reciben un trato idéntico
+c) Porque la universalidad admite pocas medidas específicas, así que esos grupos reciben un trato idéntico al resto
 d) Porque esos grupos no tienen derechos propios y dependen de la protección que les den otros
 
 ✅ Respuesta correcta: **b) Porque no se les otorgan más derechos, sino condiciones para ejercer en igualdad real los mismos derechos universales**
@@ -2132,8 +2132,8 @@ d) Un caso de inflación
 ---
 
 **5. (Alternativas)** ¿Por qué la diversidad se entiende como una "manifestación de la libertad y de la dignidad humana"?
-a) Porque todas las personas deben ajustarse a un único modelo de identidad y forma de vida, y respetar la diversidad significa tolerar a quienes no lo hacen
-b) Porque las diferencias justifican un trato desigual
+a) Porque las personas deben ajustarse a un modelo común de identidad y forma de vida, y respetar la diversidad significa tolerar a quienes se apartan de ese modelo
+b) Porque las diferencias entre las personas justifican que la ley les dé un trato desigual según su identidad o sus creencias
 c) Porque la diversidad no tiene relación con los derechos: las creencias y la forma de vida son asuntos privados que el Estado no reconoce
 d) Porque las personas ejercen su libertad al definir su identidad, creencias o forma de vida, y respetar esa diversidad reconoce la igual dignidad de cada una
 

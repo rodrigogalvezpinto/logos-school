@@ -162,7 +162,7 @@ d) 1-C, 2-B, 3-A
 ---
 
 **4. (Alternativas — análisis de caso)** En un país hay elecciones regulares, pero los medios críticos al gobierno son cerrados por decreto y sus periodistas, detenidos sin orden judicial. ¿Cumple con los atributos de una democracia?
-a) Sí, porque basta con que existan elecciones regulares para que un país sea democrático, aunque se cierren medios de prensa
+a) Sí, porque basta con que existan elecciones regulares para que un país sea democrático, aunque se cierren medios de prensa críticos
 b) Sí, porque el gobierno elegido puede cerrar medios de comunicación si considera que afectan el orden público del país
 c) No, porque en una democracia no pueden existir medios de comunicación críticos del gobierno ni periodistas de oposición
 d) No plenamente: aunque hay elecciones, se violan las libertades fundamentales (prensa) y el Estado de Derecho (detenciones sin orden judicial)
@@ -485,7 +485,7 @@ d) A la Corporación de Asistencia Judicial, porque es una materia de familia y 
 ---
 
 **11. (Alternativas)** ¿Cuál es la diferencia entre un tribunal o juzgado y una Corte?
-a) Ambos cumplen exactamente la misma función
+a) Ambos cumplen la misma función, pero los juzgados atienden en las comunas y las Cortes atienden en las capitales regionales del país
 b) Los juzgados resuelven en primera instancia; las Cortes (de Apelaciones y Suprema) revisan esas decisiones cuando una parte no está conforme
 c) Las Cortes resuelven solo causas menores, como multas y conflictos vecinales, mientras los juzgados se ocupan de los casos más graves
 d) Los juzgados revisan los fallos de la Corte Suprema cuando una parte no está conforme; las Cortes resuelven en primera instancia todas las causas del país
@@ -521,7 +521,7 @@ Pública.
 
 **14. (Alternativas — análisis de datos)** Estudios muestran que muchas personas de escasos recursos no ejercen sus derechos por desconocer que existen la CAJ o la Defensoría Penal. ¿Qué se concluye sobre el "acceso a la justicia"?
 a) Que los mecanismos gratuitos no son necesarios, porque quien quiere ejercer sus derechos busca la forma
-b) Que el acceso a la justicia está plenamente garantizado, porque la ley ya creó la CAJ y la Defensoría
+b) Que el acceso a la justicia está garantizado en la práctica, porque la ley ya creó la CAJ y la Defensoría en cada región
 c) Que no basta con que los mecanismos existan legalmente: la ciudadanía debe conocerlos y poder usarlos efectivamente
 d) Que las personas de escasos recursos no tienen derechos que puedan reclamar ante los tribunales
 
@@ -534,7 +534,7 @@ d) Que las personas de escasos recursos no tienen derechos que puedan reclamar a
 a) El mismo principio de la CAJ: sin representación gratuita, comunidades sin recursos no podrían ejercer sus derechos ante la justicia
 b) Que solo el Estado puede representar a las personas ante la justicia, y las organizaciones privadas no deberían intervenir en estos casos
 c) Que las comunidades rurales no tienen derecho al agua, porque los cursos de agua pertenecen solo a quienes pagan por usarlos
-d) Que la justicia solo atiende causas penales
+d) Que la justicia atiende sobre todo causas penales, y los conflictos por agua se resuelven en el municipio de cada comuna
 
 ✅ Respuesta correcta: **a) El mismo principio de la CAJ: sin representación gratuita, comunidades sin recursos no podrían ejercer sus derechos ante la justicia**
 *Retroalimentación:* Lo relevante es la igualdad de acceso a la justicia, independiente del patrimonio.
@@ -727,7 +727,7 @@ d) Asignadora de derechos de propiedad
 **11. (Alternativas)** ¿Por qué el "sueldo justo" es un tema de debate legítimo entre perspectivas económicas?
 a) Porque existe una definición técnica única que todos aceptan, y el debate solo se refiere a cómo calcularla en cada sector productivo del país
 b) Porque los sueldos no tienen relación con la economía, sino solo con la voluntad de cada empleador, y por eso cualquier opinión vale lo mismo
-c) Porque solo el gobierno puede opinar sobre sueldos
+c) Porque el gobierno es quien fija los sueldos por ley, y por eso la opinión de los trabajadores y de las empresas importa poco en ese debate
 d) Porque algunas lo asocian a lo que determina el mercado según productividad y otras a un mínimo que garantice una vida digna; ambas son posturas legítimas
 
 ✅ Respuesta correcta: **d) Porque algunas lo asocian a lo que determina el mercado según productividad y otras a un mínimo que garantice una vida digna; ambas son posturas legítimas**
@@ -1213,10 +1213,10 @@ impuestos no corresponde a ninguna de ellas.
 ---
 
 **11. (Alternativas — análisis de caso)** Jóvenes difunden en redes información verificada sobre un proyecto de ley antes de un plebiscito, sin promover una postura. ¿Con qué forma de participación se vincula?
-a) Ejercer un cargo público de representación
+a) Ejercer un cargo público de representación en el municipio
 b) Informarse y emitir juicios y opiniones fundadas sobre asuntos públicos
-c) Votar en el plebiscito
-d) Ninguna, porque difundir información en redes no es participación
+c) Votar en el plebiscito nacional que se realizará el próximo año en el país
+d) Difundir información en redes, que no cuenta como participación
 
 ✅ Respuesta correcta: **b) Informarse y emitir juicios y opiniones fundadas sobre asuntos públicos**
 *Retroalimentación:* Ayudar a acceder a información verificada aporta al bien común aunque no implique votar.
@@ -1246,9 +1246,9 @@ informarse y opinar.
 
 **14. (Alternativas — análisis de caso)** Una persona no vota ni se integra a organizaciones, argumentando que "el bien común se logra mejor si cada quien se dedica a su propia vida sin interferir ni verse obligado a participar". ¿Con qué perspectiva se vincula más?
 a) Con el liberalismo llevado a un extremo; no representa al republicanismo, que valora la participación activa
-b) Con el republicanismo, porque valora la no participación y la independencia de cada ciudadano
+b) Con el republicanismo, porque valora la no participación y la independencia de cada ciudadano frente al Estado
 c) Con el comunitarismo, porque prioriza los lazos de la comunidad y las tradiciones compartidas
-d) Con ninguna perspectiva, porque no participar no tiene relación con el bien común
+d) Con el comunitarismo extremo, porque no participar fortalece los lazos de la comunidad
 
 ✅ Respuesta correcta: **a) Con el liberalismo llevado a un extremo; no representa al republicanismo, que valora la participación activa**
 *Retroalimentación:* Un argumento puede "sonar" a una corriente sin representarla fielmente si se lleva a un extremo.
@@ -1374,10 +1374,10 @@ d) 1-B, 2-C, 3-A
 ---
 
 **4. (Alternativas — análisis de caso)** Una comuna costera destina, en su plan regulador, una franja frente al mar solo a proyectos inmobiliarios de alto valor, sin áreas verdes públicas; los vecinos exigen reconsiderarlo. ¿Qué conflicto de justicia social hay?
-a) Ninguno, porque el plan regulador no afecta a nadie: solo ordena dónde construir en la comuna
+a) Un conflicto menor, porque el plan regulador afecta poco a los vecinos: ordena dónde construir en la comuna
 b) El acceso a un bien valioso (el borde costero) quedaría restringido a quienes puedan pagar, excluyendo el acceso público
-c) Los vecinos quieren construir edificios de lujo en la franja costera y el municipio se los impide
-d) El municipio no tiene ninguna responsabilidad en el uso del suelo, que deciden las inmobiliarias
+c) Los vecinos quieren construir edificios de lujo en la franja costera y el municipio se los impide por ley
+d) El municipio tiene poca responsabilidad en el uso del suelo, que deciden sobre todo las inmobiliarias
 
 ✅ Respuesta correcta: **b) El acceso a un bien valioso (el borde costero) quedaría restringido a quienes puedan pagar, excluyendo el acceso público**
 *Retroalimentación:* Si la franja costera se reserva para proyectos de alto valor sin áreas públicas, el acceso al borde costero quedaría limitado a quienes pueden pagar. Las decisiones de uso de suelo del municipio no son neutras.
@@ -1487,9 +1487,9 @@ escala nacional, la más amplia de las escalas territoriales estudiadas.
 ---
 
 **14. (Alternativas — análisis de datos)** Las comunas de mayores ingresos concentran más áreas verdes por habitante que las de menores ingresos. ¿Qué concepto permite analizar críticamente este dato?
-a) Inalienabilidad
+a) Inalienabilidad de los derechos
 b) Justicia social y ambiental
-c) Estado de Derecho
+c) Estado de Derecho y legalidad
 d) Soberanía popular
 
 ✅ Respuesta correcta: **b) Justicia social y ambiental**

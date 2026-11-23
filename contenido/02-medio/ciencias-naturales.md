@@ -151,8 +151,8 @@ una capacidad de regeneración muy limitada.
 
 4. *(Alternativas)* En un acto reflejo, ¿qué rol cumplen la médula espinal y el cerebro?
    a) El cerebro genera la respuesta motora inmediata mediante interneuronas, y la médula no participa en el acto reflejo, porque solo conduce información hacia los órganos
-   b) La médula solo transporta sangre hacia el cerebro
-   c) Ninguno participa: los músculos responden solos al estímulo, y la médula y el cerebro reciben la información recién cuando el movimiento ya terminó
+   b) La médula transporta la sangre hacia el cerebro y los músculos responden por sí mismos al estímulo, sin una vía nerviosa que los coordine
+   c) Los músculos responden por sí mismos al estímulo, y la médula y el cerebro reciben la información recién cuando el movimiento ya terminó
    d) La médula genera una respuesta motora inmediata mediante interneuronas; el cerebro recibe la información un instante después y toma conciencia de lo ocurrido
    **Respuesta correcta:** d) La médula genera una respuesta motora inmediata mediante interneuronas; el cerebro recibe la información un instante después y toma conciencia de lo ocurrido.
    **Retroalimentación:** Por eso los reflejos son más rápidos que las respuestas voluntarias, que requieren procesamiento cerebral completo.
@@ -166,10 +166,10 @@ una capacidad de regeneración muy limitada.
    **Retroalimentación:** Esta estructura explica por qué el sistema nervioso coordina respuestas en todo el cuerpo casi instantáneamente.
 
 6. *(Alternativas — Autocuidado)* ¿Por qué dormir pocas horas de forma sostenida puede afectar el desempeño cognitivo de un estudiante?
-   a) Porque dormir poco aumenta la memoria a corto plazo, pero reduce la memoria a largo plazo, por lo que conviene dormir pocas horas solo antes de las pruebas
-   b) Porque el sueño no tiene relación con el sistema nervioso; solo sirve para descansar los músculos, y la falta de sueño afecta el rendimiento físico en educación física
+   a) Porque dormir poco aumenta la memoria a corto plazo, pero reduce la memoria a largo plazo, por lo que conviene dormir poco antes de una prueba
+   b) Porque el sueño tiene poca relación con el sistema nervioso; sirve sobre todo para descansar los músculos, y su falta afecta el ánimo y no el estudio
    c) Porque el sueño es necesario para consolidar la memoria y recuperar las neuronas; su falta afecta la atención, la memoria, el ánimo y la toma de decisiones
-   d) Porque solo afecta a los músculos
+   d) Porque la falta de sueño afecta sobre todo a los músculos y al rendimiento deportivo, y poco a la memoria o a la atención en clases
    **Respuesta correcta:** c) Porque el sueño es necesario para consolidar la memoria y recuperar las neuronas; su falta afecta la atención, la memoria, el ánimo y la toma de decisiones.
    **Retroalimentación:** Cuidar el sistema nervioso implica también mantener hábitos como un sueño adecuado.
 
@@ -299,9 +299,9 @@ relación afectiva o sexual.
 
 7. *(Alternativas — Evaluación)* ¿Por qué el consentimiento y la comunicación son centrales en cualquier relación afectiva o sexual?
    a) Porque aseguran que ambas personas participen libre e informadamente y permiten acordar protección y expresar límites, reduciendo riesgos físicos y emocionales
-   b) Porque son solo formalidades sin efectos reales: una vez que la relación comienza, ya no es necesario volver a preguntar ni conversar sobre los límites de cada persona
-   c) Porque basta con que una persona decida
-   d) Porque reemplazan cualquier método de protección: si ambas personas están de acuerdo y se comunican bien, no existen riesgos físicos ni emocionales en la relación
+   b) Porque son formalidades con poco efecto real: una vez que la relación comienza, ya no es necesario volver a preguntar ni acordar nada nuevo
+   c) Porque basta con que una de las dos personas decida, y la otra puede acompañar esa decisión sin necesidad de conversar
+   d) Porque reemplazan los métodos de protección: si ambas personas están de acuerdo y se comunican bien, los riesgos para su salud son mínimos
    **Respuesta correcta:** a) Porque aseguran que ambas personas participen libre e informadamente y permiten acordar protección y expresar límites, reduciendo riesgos físicos y emocionales.
    **Retroalimentación:** No son solo exigencias éticas: tienen efectos directos sobre la salud física y emocional.
 
@@ -529,10 +529,10 @@ genética, especialmente en seres humanos.
    **Retroalimentación:** Las enzimas para detergentes son una aplicación industrial; la producción de insulina, médica; los cultivos resistentes a plagas, alimentaria, y los biocombustibles a partir de microorganismos, energética.
 
 4. *(Alternativas)* ¿Cuál es la diferencia entre ingeniería genética y terapia génica?
-   a) Son exactamente lo mismo: ambos nombres se refieren a las técnicas que corrigen genes en pacientes, y se usan como sinónimos en la medicina actual
+   a) Son prácticamente lo mismo: ambos nombres se refieren a las técnicas que corrigen genes en pacientes, y en los libros se usan como sinónimos
    b) La terapia génica es el conjunto de técnicas para modificar el material genético de plantas y animales; la ingeniería genética es una aplicación de ellas que solo se usa para tratar enfermedades en personas
    c) La ingeniería genética es el conjunto de técnicas para modificar el material genético; la terapia génica es una aplicación de ellas para tratar enfermedades corrigiendo genes en pacientes
-   d) La ingeniería genética no modifica genes
+   d) La ingeniería genética estudia los genes sin modificarlos, y la terapia génica es la que los cambia en los pacientes
    **Respuesta correcta:** c) La ingeniería genética es el conjunto de técnicas para modificar el material genético; la terapia génica es una aplicación de ellas para tratar enfermedades corrigiendo genes en pacientes.
    **Retroalimentación:** La terapia génica es una de las aplicaciones médicas de la ingeniería genética.
 
@@ -546,9 +546,9 @@ genética, especialmente en seres humanos.
 
 6. *(Alternativas — Evaluación ética)* "Si una tecnología biotecnológica trae beneficios económicos y de salud, no es necesario evaluar sus implicancias éticas y sociales." ¿Qué evaluación es correcta?
    a) Es incorrecta: igualmente hay implicancias como el acceso equitativo, la información a la población (etiquetado) y los límites de su aplicación en seres humanos
-   b) Es correcta: los beneficios económicos y de salud justifican cualquier uso de la biotecnología, sin necesidad de evaluar sus efectos sociales
-   c) Es correcta: la ética no se aplica a la ciencia, porque los científicos solo deben preocuparse de que sus resultados sean verdaderos
-   d) Es incorrecta: la biotecnología no tiene ningún beneficio económico ni de salud, por lo que siempre debería prohibirse su aplicación
+   b) Es correcta: los beneficios económicos y de salud justifican el uso de la biotecnología, sin necesidad de evaluar otras implicancias
+   c) Es correcta: la ética se aplica poco a la ciencia, porque los científicos deben preocuparse sobre todo de que sus resultados sean correctos
+   d) Es incorrecta: la biotecnología tiene pocos beneficios económicos o de salud, por lo que debería prohibirse su uso en la agricultura
    **Respuesta correcta:** a) Es incorrecta: igualmente hay implicancias como el acceso equitativo, la información a la población (etiquetado) y los límites de su aplicación en seres humanos.
    **Retroalimentación:** Evaluar una tecnología implica considerar sus beneficios junto con sus implicancias éticas y de acceso.
 
@@ -789,7 +789,7 @@ mediante la segunda ley de Newton, cómo se moverá el objeto.
    a) Porque aumenta la velocidad del auto en un frenazo, de modo que el vehículo se detiene antes y el cuerpo del pasajero no alcanza a moverse
    b) Porque elimina la gravedad durante el choque: al anular el peso del pasajero, el cuerpo deja de tener inercia y queda fijo en el asiento
    c) Porque en un frenazo el cuerpo tiende a seguir moviéndose por inercia, y el cinturón ejerce la fuerza que cambia su estado de movimiento junto con el vehículo
-   d) Porque la primera ley no se aplica a los pasajeros, solo al vehículo; el cinturón sirve para que la fuerza del motor actúe también sobre el cuerpo
+   d) Porque la primera ley se aplica sobre todo al vehículo y no a los pasajeros; el cinturón sirve para que la fuerza del motor actúe también sobre ellos
    **Respuesta correcta:** c) Porque en un frenazo el cuerpo tiende a seguir moviéndose por inercia, y el cinturón ejerce la fuerza que cambia su estado de movimiento junto con el vehículo.
    **Retroalimentación:** El cinturón es la fuerza externa que modifica de forma segura el estado de movimiento.
 
@@ -802,9 +802,9 @@ mediante la segunda ley de Newton, cómo se moverá el objeto.
    **Retroalimentación:** Fuerza neta: 15 − 5 = 10 N; a = 10 N / 5 kg = 2 m/s².
 
 6. *(Alternativas — Análisis)* Un objeto se mueve con velocidad constante en línea recta. ¿Qué se concluye sobre la fuerza neta?
-   a) Es muy grande y constante
-   b) No actúa ninguna fuerza sobre el objeto en movimiento
-   c) Aumenta a medida que avanza
+   a) Es muy grande y se mantiene constante
+   b) Actúan pocas fuerzas sobre el objeto en movimiento
+   c) Aumenta a medida que el objeto avanza
    d) Es cero: las fuerzas que actúan se cancelan entre sí
    **Respuesta correcta:** d) Es cero: las fuerzas que actúan se cancelan entre sí.
    **Retroalimentación:** Que la fuerza neta sea cero no significa que no actúen fuerzas, sino que su suma vectorial es nula.
@@ -917,9 +917,9 @@ livianos observada en el Universo.
 
 4. *(Alternativas)* ¿Por qué el paso del modelo geocéntrico al heliocéntrico ejemplifica cómo funciona el conocimiento científico?
    a) Porque los modelos se reemplazan cuando surge evidencia que los contradice o cuando otro modelo explica lo mismo de forma más simple y precisa
-   b) Porque la ciencia nunca cambia sus modelos
-   c) Porque el modelo geocéntrico sigue siendo el aceptado, y el heliocéntrico se usa solo como una forma más simple de enseñar los movimientos planetarios
-   d) Porque los modelos científicos son verdades definitivas: una vez aceptado el heliocéntrico, la ciencia demostró que el geocéntrico nunca tuvo evidencia
+   b) Porque la ciencia cambia sus modelos cuando lo decide la comunidad, aunque no haya evidencia nueva
+   c) Porque el modelo geocéntrico sigue siendo el aceptado, y el heliocéntrico se usa sobre todo como una forma más simple de enseñarlo en los colegios
+   d) Porque los modelos científicos son verdades definitivas: una vez aceptado el heliocéntrico, la ciencia demostró que el geocéntrico había sido un engaño
    **Respuesta correcta:** a) Porque los modelos se reemplazan cuando surge evidencia que los contradice o cuando otro modelo explica lo mismo de forma más simple y precisa.
    **Retroalimentación:** Entender que los modelos son provisionales es central para comprender la ciencia.
 
@@ -940,10 +940,10 @@ livianos observada en el Universo.
    **Retroalimentación:** Explicar lo mismo de forma más simple, sin perder precisión, es un criterio para preferir un modelo.
 
 7. *(Alternativas — Síntesis)* ¿Qué propone la teoría del Big Bang?
-   a) Que el universo fue siempre igual y no cambia: las galaxias se mantienen a la misma distancia y la materia existe desde siempre en el mismo estado
+   a) Que el universo ha sido igual a lo largo del tiempo: las galaxias se mantienen a la misma distancia y la materia existe desde el comienzo tal como es hoy
    b) Que una explosión ocurrió dentro de un espacio ya existente hace unos 6.000 años, lanzando la materia en todas direcciones y formando de inmediato las estrellas y galaxias actuales
    c) Que el universo comenzó a expandirse hace unos 13.800 millones de años desde un estado muy denso y caliente, enfriándose y formando partículas, átomos, estrellas y galaxias
-   d) Que la Tierra es el centro del universo
+   d) Que la Tierra es el centro del universo y las galaxias giran a su alrededor desde hace millones de años
    **Respuesta correcta:** c) Que el universo comenzó a expandirse hace unos 13.800 millones de años desde un estado muy denso y caliente, enfriándose y formando partículas, átomos, estrellas y galaxias.
    **Retroalimentación:** No se trata de una explosión en un espacio preexistente, sino de la expansión del espacio mismo.
 
@@ -1081,8 +1081,8 @@ El estado de la solución es el del **solvente**, el componente que está en may
 
 7. *(Alternativas — Evaluación)* "Si agrego más agua a una solución de jugo concentrado, la cantidad de soluto aumenta." ¿Qué evaluación es correcta?
    a) Es incorrecta: la cantidad de soluto no cambia; lo que disminuye es su concentración
-   b) Es correcta: el agua que se agrega aporta más soluto a la solución
-   c) Es correcta: al agregar agua, la concentración del jugo aumenta
+   b) Es correcta: el agua que se agrega aporta más soluto a la solución del jugo
+   c) Es correcta: al agregar agua, la concentración del jugo aumenta un poco
    d) Es incorrecta: el soluto desaparece por completo al diluir la solución
    **Respuesta correcta:** a) Es incorrecta: la cantidad de soluto no cambia; lo que disminuye es su concentración.
    **Retroalimentación:** Distinguir cantidad de soluto y concentración es clave para comprender la dilución.
@@ -1192,10 +1192,10 @@ construir las moléculas grandes y diversas que sostienen la vida.
    **Retroalimentación:** La fórmula molecular C₂H₆ solo dice qué átomos hay y cuántos; la estructural expandida dibuja cada átomo y cada enlace, así que muestra cómo están unidos.
 
 5. *(Alternativas — Análisis)* ¿Por qué el carbono es la base de las biomoléculas?
-   a) Porque es el elemento más pesado de la tabla periódica, lo que da estabilidad a las biomoléculas de los seres vivos
-   b) Porque no forma enlaces con otros elementos, lo que le permite mantenerse puro dentro de las células de los seres vivos
+   a) Porque es el elemento más pesado de la tabla periódica, lo que da estabilidad a las biomoléculas de los seres vivos y de las plantas
+   b) Porque forma pocos enlaces con otros elementos, lo que le permite mantenerse puro dentro de las células de los seres vivos y de los animales
    c) Porque forma hasta cuatro enlaces covalentes estables, incluso consigo mismo, construyendo cadenas largas, ramificadas y cíclicas muy diversas
-   d) Porque es un gas noble muy estable, que no reacciona con otras sustancias y por eso protege a las moléculas del cuerpo
+   d) Porque es un gas noble muy estable, que no reacciona con otras sustancias y por eso protege a las moléculas del cuerpo frente al calor
    **Respuesta correcta:** c) Porque forma hasta cuatro enlaces covalentes estables, incluso consigo mismo, construyendo cadenas largas, ramificadas y cíclicas muy diversas.
    **Retroalimentación:** Esa versatilidad permite formar carbohidratos, lípidos, proteínas y ácidos nucleicos.
 
@@ -1208,9 +1208,9 @@ construir las moléculas grandes y diversas que sostienen la vida.
    **Retroalimentación:** Identificar la cadena más larga y numerarla es el primer paso para nombrar un compuesto orgánico.
 
 7. *(Alternativas — Evaluación)* ¿Por qué el petróleo es central tanto para la energía como para la industria de los plásticos?
-   a) Porque el petróleo es un metal que conduce la energía eléctrica y que, al fundirse, permite moldear los plásticos con facilidad
+   a) Porque el petróleo es un metal que conduce la energía eléctrica y que, al fundirse a altas temperaturas, permite moldear los plásticos con facilidad en las fábricas del país
    b) Porque no contiene carbono, lo que lo hace más limpio como combustible y más seguro para fabricar envases de plástico
-   c) Porque los plásticos se fabrican solo con agua y aire, y el petróleo se usa únicamente como fuente de energía para hacer funcionar las máquinas de las fábricas que los producen
+   c) Porque los plásticos se fabrican sobre todo con agua y aire, y el petróleo se usa como fuente de energía para hacer funcionar las máquinas de las fábricas
    d) Porque sus hidrocarburos almacenan energía química que se libera en la combustión, y la capacidad del carbono de formar cadenas largas permite sintetizar los polímeros de los plásticos
    **Respuesta correcta:** d) Porque sus hidrocarburos almacenan energía química que se libera en la combustión, y la capacidad del carbono de formar cadenas largas permite sintetizar los polímeros de los plásticos.
    **Retroalimentación:** Un mismo recurso es relevante para la energía y para materiales tan diversos como los plásticos.

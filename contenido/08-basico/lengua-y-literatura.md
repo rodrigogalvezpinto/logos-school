@@ -94,9 +94,9 @@ d) La decisión del narrador de mudarse a Quirihue para cuidar a su tío y hered
 **2. (Alternativas)** ¿Cómo evoluciona el narrador (el sobrino) en su relación con su tío Custodio?
 
 a) Pasa de la incomprensión y el prejuicio compartido con el pueblo a una mirada adulta, autocrítica y comprensiva, al descubrir tras la muerte de Custodio el motivo de su forma de vivir
-b) Admira a su tío desde el comienzo, a diferencia del pueblo, y nunca cambia de opinión, porque siempre supo el motivo de su forma de vivir y lo defendió frente a todos
-c) Comienza comprendiéndolo y defendiéndolo frente al pueblo, pero termina despreciándolo al descubrir, tras su muerte, que había escondido dinero a su familia
-d) No tiene ninguna relación con su tío: lo conoce solo por lo que cuenta el pueblo y su mirada sobre él no cambia a lo largo del relato
+b) Admira a su tío desde el comienzo, a diferencia del pueblo, y no cambia de opinión, porque desde niño supo el motivo de su forma de vivir aislado
+c) Comienza comprendiéndolo y defendiéndolo frente al pueblo, pero termina despreciándolo al descubrir, tras su muerte, que había ocultado la verdad a toda la familia
+d) Tiene poca relación con su tío: lo conoce por lo que cuenta el pueblo y su mirada sobre él cambia poco a lo largo del relato, hasta el final
 
 *Respuesta correcta: a.* Retroalimentación: describir la evolución de un personaje implica comparar cómo era y pensaba al inicio con cómo termina.
 
@@ -200,9 +200,9 @@ d) Indica que el poema tiene errores de redacción que el autor no alcanzó a co
 **2. (Alternativas)** ¿Qué idea transmite la comparación "vuelvo, vuelvo, vuelvo, como vuelve la marea"?
 
 a) Que el regreso del hablante al mar es constante, cíclico y casi inevitable, como una dependencia difícil de romper aunque le haya causado dolor
-b) Que el hablante nunca vuelve realmente al mar: solo lo recuerda desde lejos, porque el dolor que le causó le impide regresar
+b) Que el hablante casi no vuelve al mar: lo recuerda desde lejos, porque el dolor que le causó le impide regresar a la costa
 c) Que la marea está detenida y el mar ya no se mueve, igual que la vida del pescador después de abandonar su oficio
-d) Que el hablante prefiere la montaña y vuelve a ella una y otra vez, para escapar del mar que le ha causado tanto dolor
+d) Que el hablante prefiere la montaña y vuelve a ella una y otra vez, para escapar del mar que le ha causado tanto dolor a su familia
 
 *Respuesta correcta: a.* Retroalimentación: La marea siempre vuelve a la orilla; al compararse con ella y repetir «vuelvo», el hablante muestra que su regreso al mar es constante y casi inevitable, como una dependencia difícil de romper aunque le haya causado dolor.
 
@@ -231,9 +231,9 @@ d) El efecto de rezo o plegaria repetitiva que producen las estructuras que se r
 **6. (Alternativas)** ¿Qué emociones evoca el poema y en qué expresiones se apoya esa interpretación?
 
 a) Alegría y euforia, apoyadas en "sus manos frías", que el hablante describe con entusiasmo
-b) Indiferencia total, porque el poema no menciona emociones y solo describe hechos con un tono neutro y distante
+b) Indiferencia, porque el poema casi no menciona emociones y describe hechos con un tono neutro y distante
 c) Resignación, dolor y fidelidad, apoyadas en expresiones como "sus manos frías" o "me haya quitado ya dos hermanos"
-d) Humor, apoyado en la repetición de "vuelvo"
+d) Humor, apoyado en la repetición de "vuelvo" al comienzo de cada estrofa del poema
 
 *Respuesta correcta: c.* Retroalimentación: cada interpretación emocional debe apoyarse en palabras o versos concretos del texto.
 
@@ -309,18 +309,18 @@ d) "Marisol es mi personaje favorito del relato, porque es valiente y me recuerd
 
 **4. (Alternativas — Aplicación)** ¿Qué visión de mundo transmite el relato y en qué acciones se sustenta?
 
-a) Una en que cada persona debe salvarse sola frente a una catástrofe, sustentada en que nadie del pueblo ayuda a don Aurelio
-b) Una en que las catástrofes no afectan realmente a las personas, sustentada en que todos los vecinos llegan al cerro sin problemas y vuelven a sus casas esa misma noche
-c) Una visión pesimista sobre la naturaleza que no se puede vincular con ninguna acción de los personajes del relato
+a) Una en que cada persona debe salvarse sola frente a una catástrofe, sustentada en que nadie del pueblo ayuda a don Aurelio cuando el agua empieza a subir por la calle
+b) Una en que las catástrofes afectan poco a las personas, sustentada en que los vecinos llegan al cerro sin problemas y vuelven pronto a sus casas
+c) Una visión pesimista sobre la naturaleza, difícil de vincular con las acciones de los personajes del relato durante el terremoto y el maremoto de 1960
 d) Una en que la solidaridad frente a una catástrofe se valora incluso por sobre la seguridad individual, sustentada en la decisión de Marisol y su madre de rescatar a don Aurelio
 
 *Respuesta correcta: d.* Retroalimentación: El relato valora la solidaridad por sobre la seguridad individual: Marisol y su madre deciden rescatar a un vecino aunque eso las ponga en peligro. Esa decisión es el hecho concreto que respalda la interpretación.
 
 **5. (Alternativas)** ¿Con qué hecho histórico real se relaciona directamente el relato "La noche del río"?
 
-a) El terremoto de Valparaíso de 1906
+a) El terremoto de Valparaíso del año 1906
 b) La erupción del volcán Chaitén de 2008
-c) El terremoto del Maule de 2010
+c) El terremoto y maremoto del Maule de 2010
 d) El terremoto y maremoto de Valdivia de 1960
 
 *Respuesta correcta: d.* Retroalimentación: el texto sitúa explícitamente los hechos en la tarde del 22 de mayo de 1960 en Valdivia, fecha y lugar que corresponden al terremoto de mayor magnitud jamás registrado en el mundo.
@@ -391,8 +391,8 @@ En 8° básico sigues analizando textos argumentativos —columnas de opinión, 
 
 a) La Ley de Plástico de un Solo Uso es innecesaria y debería eliminarse, porque los locales ya habían cambiado sus hábitos
 b) La ley es positiva pero insuficiente si no se fiscaliza con rigor en todo el país y no cambian los hábitos ciudadanos
-c) El plástico de un solo uso no representa ningún problema ambiental, porque la mayoría de las bombillas se recicla
-d) Solo el gobierno central debe encargarse del problema del plástico, sin participación de los ciudadanos ni de los municipios
+c) El plástico de un solo uso representa un problema ambiental menor, porque la mayoría de las bombillas se recicla
+d) El gobierno central debe encargarse del problema del plástico, sin participación de los ciudadanos ni de los municipios
 
 *Respuesta correcta: b.* Retroalimentación: identificar la postura del autor implica encontrar la idea central que defiende a lo largo de todo el texto, integrando tanto su valoración de la ley como su llamado a la fiscalización y al cambio de hábitos.
 
@@ -420,9 +420,9 @@ d) Expresar un deseo sobre algo que no ocurre, criticando indirectamente la fisc
 
 **5. (Alternativas)** ¿Cuál de las siguientes oraciones del texto corresponde a un **hecho**, y no a una opinión?
 
-a) "En mi opinión, esta ley llegó tarde, pero llegó"
+a) "En mi opinión, esta ley llegó tarde, pero llegó para quedarse en nuestro país"
 b) "Chile generaba, antes de la ley, más de tres mil millones de bombillas plásticas desechadas al año", según cifras oficiales
-c) "No basta con cambiar la ley: hay que cambiar también la costumbre"
+c) "No basta con cambiar la ley: hay que cambiar también la costumbre de cada persona", dice el autor al cerrar su columna
 d) "Nuestra oportunidad de cambiar el hábito, en cambio, es ahora"
 
 *Respuesta correcta: b.* Retroalimentación: la cifra respaldada por una fuente oficial (el Ministerio del Medio Ambiente) corresponde a un dato verificable, a diferencia de las otras opciones, que expresan valoraciones o llamados del autor.
@@ -431,15 +431,15 @@ d) "Nuestra oportunidad de cambiar el hábito, en cambio, es ahora"
 
 a) "Estoy de acuerdo con el autor, porque lo que dice sobre la fiscalización me parece bien"
 b) "Creo que ayuda, porque los locales cuidan más su reputación cuando saben que los clientes pueden reclamar"
-c) "No sé si la fiscalización ciudadana ayuda o no, porque cada persona tiene su opinión"
+c) "No sé si la fiscalización ciudadana ayuda o no, porque cada persona tiene su propia opinión sobre el tema"
 d) "El autor dice que hay que exigir a los locales que cumplan la ley y reclamar si no lo hacen"
 
 *Respuesta correcta: b.* Retroalimentación: La respuesta toma posición («creo que ayuda») y da una razón propia que no está en la columna: los locales cuidan su reputación cuando saben que los clientes pueden reclamar.
 
 **7. (Alternativas — análisis integrado)** ¿Por qué es útil atender a los modos verbales de un texto argumentativo?
 
-a) Porque los modos verbales no influyen en el sentido del texto, solo en su ortografía y en la concordancia
-b) Porque solo importan en los poemas, donde el modo verbal define la rima y el ritmo de los versos
+a) Porque los modos verbales influyen poco en el sentido del texto, y sobre todo en su ortografía y en la concordancia
+b) Porque importan sobre todo en los poemas, donde el modo verbal define la rima y el ritmo de los versos del texto
 c) Porque revelan si el autor exige, desea, sugiere o afirma, lo que ayuda a evaluar el tono y la fuerza persuasiva del texto
 d) Porque permiten saber la edad del autor y su lugar de origen, según cómo conjuga los verbos
 
@@ -502,9 +502,9 @@ Enseñanza Media      380 estudiantes
 
 **1. (Alternativas)** ¿Cuál es el propósito **implícito** del Texto B (la publicación del Centro de Padres)?
 
-a) Informar de manera neutra a las familias sobre el estado de la infraestructura del liceo después del aluvión
+a) Informar de manera neutra a las familias sobre el estado de la infraestructura del liceo después del aluvión de marzo
 b) Presionar públicamente al municipio para que entregue información oficial más clara, usando la exposición en redes sociales
-c) Felicitar al municipio por su rápida respuesta y agradecer la información entregada a las familias
+c) Felicitar al municipio por su rápida respuesta y agradecer la información entregada a las familias del liceo
 d) Explicar en detalle el proceso técnico de reparación del liceo después del aluvión y sus plazos
 
 *Respuesta correcta: b.* Retroalimentación: aunque el texto se presenta como un reclamo directo, su propósito implícito es ejercer presión pública sobre las autoridades a través de la visibilidad que da una red social.
@@ -518,15 +518,15 @@ d) Explicar en detalle el proceso técnico de reparación del liceo después del
 a) El A es informativo y neutro, apoyado en una fuente oficial; el B es crítico y urgente, y busca exigir información y expresar la molestia de las familias
 b) Ambos tienen el mismo tono informativo y el mismo propósito: comunicar a las familias, de manera neutral, la fecha de regreso a clases
 c) El A es crítico y urgente, porque exige respuestas al municipio; el B es neutro e informativo, porque se apoya en una fuente oficial
-d) Ninguno tiene un propósito definido: ambos se limitan a reproducir la misma información sobre el cierre, sin diferencias de tono
+d) Los dos tienen un propósito poco definido: se limitan a reproducir la misma información sobre el cierre, sin grandes diferencias de tono entre ellos
 
 *Respuesta correcta: a.* Retroalimentación: El Texto A informa con tono neutro y se apoya en una fuente oficial; el Texto B es crítico y urgente porque lo escriben familias molestas que exigen información. Tratan la misma noticia con propósitos distintos.
 
 **4. (Alternativas — Aplicación — texto discontinuo)** Según la tabla del Texto A, ¿cuántos estudiantes se ven afectados por el cierre del Liceo Bicentenario, y qué información relevante **no** entrega?
 
-a) 420 estudiantes; no indica la dirección del liceo ni el nombre de su director
+a) 420 estudiantes; no indica la dirección del liceo ni el nombre de su director o directora
 b) 380 estudiantes; no indica el nombre del director ni la fecha de reapertura
-c) 40 estudiantes; no indica la fecha del aluvión ni cuántos cursos fueron afectados
+c) 40 estudiantes; no indica la fecha del aluvión ni cuántos cursos fueron afectados por él
 d) 800 estudiantes (420 + 380); no indica cuántas familias tienen internet para las clases remotas
 
 *Respuesta correcta: d.* Retroalimentación: interpretar un gráfico implica extraer sus datos y notar qué información relevante queda fuera.
@@ -535,8 +535,8 @@ d) 800 estudiantes (420 + 380); no indica cuántas familias tienen internet para
 
 a) Que uno de los dos textos necesariamente miente, porque un mismo hecho no puede contarse con énfasis distintos
 b) Que la fuente desde la que se presenta un hecho puede influir en el énfasis, el tono y la sensación de suficiencia de la información entregada
-c) Que las redes sociales nunca son una fuente válida de información, porque cualquiera puede publicar sin verificar
-d) Que los medios de comunicación oficiales siempre entregan información completa, porque citan a las autoridades
+c) Que las redes sociales son una fuente poco válida de información, porque cualquiera puede publicar en ellas sin verificar los datos que comparte
+d) Que los medios de comunicación oficiales entregan información completa, porque citan a las autoridades del municipio
 
 *Respuesta correcta: b.* Retroalimentación: comparar fuentes distintas sobre un mismo hecho no busca determinar cuál "miente", sino reconocer que cada fuente enfatiza aspectos distintos según su perspectiva y su propósito.
 
@@ -551,10 +551,10 @@ d) No, porque es un texto de ficción
 
 **7. (Alternativas — análisis integrado)** ¿Por qué conviene comparar distintas fuentes antes de opinar sobre un hecho noticioso?
 
-a) Porque todas las fuentes dicen exactamente lo mismo, y comparar sirve para memorizar la noticia
-b) Porque basta con la primera noticia que se lee, y las demás solo sirven para confirmar la opinión que ya tenemos
+a) Porque las fuentes dicen lo mismo, y comparar sirve para memorizar mejor la noticia
+b) Porque basta con la primera noticia que se lee, y las demás sirven sobre todo para confirmar la opinión que ya tenemos
 c) Porque permite detectar qué informa cada una, sus vacíos y su tono, evitando una visión parcial
-d) Porque las fuentes oficiales siempre mienten
+d) Porque las fuentes oficiales tienden a ocultar información a las familias
 
 *Respuesta correcta: c.* Retroalimentación: un lector crítico contrasta versiones para evaluar la suficiencia y fiabilidad de la información.
 
@@ -563,9 +563,9 @@ d) Porque las fuentes oficiales siempre mienten
 ¿Qué información aporta el gráfico a la noticia?
 
 a) Muestra que las visitas aumentaron de 20 mil en 2021 a 45 mil en 2023, lo que respalda la afirmación del texto
-b) Muestra que las visitas bajaron cada año
-c) Indica cuántos talleres gratuitos hubo cada año
-d) No tiene relación con el texto, porque solo es decorativo y se agregó para que la noticia se vea más atractiva
+b) Muestra que las visitas bajaron un poco cada año entre 2021 y 2023, a pesar de los talleres
+c) Indica cuántos talleres gratuitos hubo cada año en la biblioteca, sin mostrar las visitas
+d) Tiene poca relación con el texto, porque es decorativo y se agregó para que la noticia se vea más atractiva
 
 *Respuesta correcta: a.* Retroalimentación: el gráfico entrega datos precisos que el texto solo menciona en general («cada año más visitas»). Interpretarlo exige leer los valores de cada barra.
 
@@ -647,7 +647,7 @@ Texto final, con conectores:
 
 **1. (Alternativas)** ¿Por qué sería inadecuado enviar un correo formal a la dirección del liceo usando expresiones como "chiquillos", "pa la otra semana" o emojis?
 
-a) Porque esas expresiones son incorrectas en cualquier contexto, incluso en un mensaje de WhatsApp entre amigos, y nunca deberían usarse al escribir
+a) Porque esas expresiones son incorrectas en los distintos contextos, incluso en un mensaje de WhatsApp entre amigos, y no deberían usarse en los escritos de la vida diaria
 b) Porque el registro coloquial y las palabras propias de las redes sociales no se adecuan a un destinatario formal (una autoridad) ni a un canal de comunicación formal (el correo)
 c) Porque los correos electrónicos no permiten técnicamente el uso de vocabulario informal ni de emojis, que se borran al enviar el mensaje
 d) Porque la dirección del liceo no entiende ese tipo de expresiones juveniles, y el mensaje correría el riesgo de no ser comprendido
@@ -696,7 +696,7 @@ d) Ideas: el celular; conectores: ninguno, porque en un texto breve no se necesi
 
 **7. (Alternativas — texto integrado)** Se debe avisar que se cambió la fecha de una prueba. ¿Qué par de mensajes adecua correctamente el registro a cada destinatario?
 
-a) Ambos mensajes con "Chiquillos, la prueba de mañana se cambió pa'l viernes, avísenle a los que faltaron porfa 🙏", porque así el mensaje es igual de claro para el curso y para el profesor
+a) Ambos mensajes con "Chiquillos, la prueba de mañana se cambió pa'l viernes, avísenle a los que faltaron porfa 🙏", porque así el mensaje es igual de claro para el curso, para el profesor y para la dirección del liceo
 b) Ambos mensajes con "Estimado señor: por medio de la presente informo a usted que la prueba de mañana fue reprogramada para el viernes. Saluda atentamente, [nombre]", porque un registro formal sirve siempre
 c) WhatsApp del curso: "Chiquillos, la prueba de mañana se cambió pa'l viernes, avísenle a los que faltaron porfa 🙏". Correo al profesor: "Estimado profesor: le escribo para confirmar que la prueba de mañana fue reprogramada para el viernes. Saluda atentamente, [nombre]"
 d) WhatsApp del curso: "Estimado curso: por medio de la presente informo a ustedes que la prueba fue reprogramada para el viernes. Saluda atentamente, [nombre]". Correo al profesor: "Profe, se cambió la prueba pa'l viernes, avise porfa 🙏"

@@ -62,26 +62,37 @@ algunas de sus propiedades medicinales.
 
 **Explicación pedagógica**
 
-Chile tiene una geografía muy variada —desierto, valles, cordillera, bosques,
-archipiélagos— y por eso la **flora** (el conjunto de plantas) cambia mucho según la
-zona. Las plantas **autóctonas** o **nativas** son las que crecen de forma natural en
-un territorio, sin que las personas las hayan traído desde otro lugar. En el **norte**,
-en el desierto de Atacama, crecen plantas adaptadas a la sequía, como los **cactus
-candelabro**; en años con lluvias especiales ocurre el fenómeno del **desierto
-florido**, cuando miles de flores nativas cubren el suelo por unas semanas. En la
-**zona central**, encontramos el **quillay** (un árbol cuya corteza se usa para hacer
-jabón) y el **boldo**, un árbol cuyas hojas se usan como planta medicinal para
-problemas digestivos. En la **zona centro-sur**, crece el **copihue**, la flor
-nacional de Chile, una enredadera de flores rojas o blancas que solo existe en
-nuestro país. Más al **sur**, en los bosques templados, crecen la **araucaria** (un
-árbol muy antiguo cuyos piñones son alimento tradicional del pueblo mapuche-pehuenche)
-y el **coigüe**. Además de las plantas nativas, Chile tiene **cultivos agrícolas**
-importantes que abastecen al país y se exportan a otros lugares del mundo: en el
-**valle central** se cultivan uvas, manzanas, duraznos y trigo; en el **norte** se
-cultivan aceitunas y algunos cultivos bajo riego en oasis; en el **sur**, y
-especialmente en **Chiloé**, se cultivan papas de muchas variedades. Algunas plantas,
-además de servir de alimento, tienen **uso medicinal**, como el boldo y el matico
-(usado tradicionalmente para heridas), o **uso agrícola**, como el trigo y la vid.
+
+Chile tiene una geografía muy variada: desierto, valles, cordillera, bosques y
+archipiélagos. Por eso su **flora**, que es el conjunto de plantas, cambia mucho de una
+zona a otra.
+
+Las plantas **autóctonas** o **nativas** son las que crecen de forma natural en un
+territorio. Nadie las trajo desde otro lugar.
+
+En el **norte**, en el desierto de Atacama, crecen plantas que resisten la sequía, como
+los **cactus candelabro**. En algunos años llueve más de lo normal. Entonces ocurre el
+**desierto florido**: miles de flores nativas cubren el suelo durante unas semanas.
+
+En la **zona central** encontramos el **quillay**, un árbol cuya corteza se usa para
+hacer jabón. También está el **boldo**, cuyas hojas se usan como remedio para el
+estómago.
+
+En la **zona centro-sur** crece el **copihue**, la flor nacional de Chile. Es una
+enredadera de flores rojas o blancas que solo existe en nuestro país.
+
+Más al **sur**, en los bosques templados, crecen la **araucaria** y el **coigüe**. La
+araucaria es un árbol muy antiguo. Sus piñones son un alimento tradicional del pueblo
+mapuche-pehuenche.
+
+Además de las plantas nativas, Chile tiene **cultivos agrícolas** importantes. Abastecen
+al país y también se venden a otros países. En el **valle central** se cultivan uvas,
+manzanas, duraznos y trigo. En el **norte** se cultivan aceitunas y otros cultivos con
+riego, en los oasis. En el **sur**, sobre todo en **Chiloé**, se cultivan papas de
+muchas variedades.
+
+Algunas plantas tienen **uso medicinal**, como el boldo y el matico, que se usa para las
+heridas. Otras tienen **uso agrícola**, como el trigo y la vid.
 
 **Ejemplos resueltos**
 
@@ -170,25 +181,32 @@ proponer medidas para cuidarlas.
 
 **Explicación pedagógica**
 
-Las plantas son la base de la vida en la Tierra, porque muchos otros seres vivos
-**dependen** de ellas de distintas formas. Primero, son **alimento**: muchos animales
-son herbívoros y se alimentan directamente de hojas, frutos o semillas, y a la vez
-esos animales sirven de alimento a otros; además, las personas obtenemos gran parte
-de nuestra comida de las plantas (frutas, verduras, cereales). Segundo, las plantas
-producen el **oxígeno** que respiramos: a través de un proceso llamado fotosíntesis,
-las plantas toman dióxido de carbono del aire y liberan oxígeno, por lo que son
-esenciales para que los seres vivos puedan respirar. Tercero, los **árboles** cumplen
-un rol de **protección**: sus ramas y copas dan sombra y refugio a muchos animales
-que anidan o se esconden en ellos, y sus raíces sostienen el suelo, evitando que se
-erosione con el viento o la lluvia. Cuarto, de las plantas obtenemos **productos
-derivados** útiles para las personas, como la madera para construir, el papel, fibras
-para hacer telas, y aceites; también existen plantas de **uso medicinal**, como
-vimos antes, y plantas de **ornamentación**, que se cultivan por su
-belleza en jardines y parques. Cuando se destruyen plantas —por ejemplo, al talar un
-bosque o quemar un pastizal—, las consecuencias son graves para los demás seres
-vivos: los animales pierden su alimento y su refugio, el suelo queda más expuesto a
-erosionarse, y disminuye el oxígeno disponible en esa zona. Por eso es importante
-proponer y aplicar medidas de cuidado, como no talar árboles de forma indiscriminada,
+
+Las plantas son la base de la vida en la Tierra. Muchos seres vivos **dependen** de
+ellas de distintas formas.
+
+Primero, las plantas son **alimento**. Muchos animales son herbívoros y comen hojas,
+frutos o semillas. A su vez, esos animales son alimento de otros. Las personas también
+obtenemos gran parte de nuestra comida de las plantas: frutas, verduras y cereales.
+
+Segundo, las plantas producen el **oxígeno** que respiramos. Lo hacen con un proceso
+llamado fotosíntesis. En él, toman dióxido de carbono del aire y liberan oxígeno. Por
+eso son esenciales para que los seres vivos puedan respirar.
+
+Tercero, los **árboles** dan **protección**. Sus ramas y copas dan sombra y refugio a
+muchos animales, que anidan o se esconden en ellos. Sus raíces sostienen el suelo. Así
+evitan que el viento o la lluvia lo erosionen.
+
+Cuarto, de las plantas obtenemos **productos derivados** muy útiles. Por ejemplo, la
+madera para construir, el papel, las fibras para hacer telas y los aceites. También hay
+plantas de **uso medicinal**, como vimos antes. Y hay plantas de **ornamentación**, que
+se cultivan por su belleza en jardines y parques.
+
+Cuando se destruyen plantas, como al talar un bosque o quemar un pastizal, el daño es
+grave. Los animales pierden su alimento y su refugio. El suelo queda expuesto y se
+erosiona más fácilmente. Y disminuye el oxígeno en esa zona.
+
+Por eso es importante cuidar las plantas. Por ejemplo, no talar árboles sin control,
 reforestar con especies nativas, evitar los incendios forestales y cuidar las áreas
 verdes de nuestro entorno.
 
@@ -276,26 +294,36 @@ reciclarlos en tu casa y en tu colegio.
 
 **Explicación pedagógica**
 
-Los **recursos** son los materiales que la naturaleza o las personas producen y que
-usamos para vivir, como el agua, la madera, los metales o el papel. Muchos de estos
-recursos son **limitados**, es decir, no son infinitos, por eso es importante usarlos
-con cuidado. Cuando terminamos de usar algo, se convierte en **desecho** o basura,
-pero no todos los desechos son iguales: se pueden **clasificar según el material** del
-que están hechos —**orgánico** (restos de comida, cáscaras de fruta), **papel y
-cartón**, **vidrio**, **plástico** y **metal**— y también según su **tiempo de
-degradación**, es decir, cuánto tarda ese material en descomponerse de forma natural.
-Los restos orgánicos, como una cáscara de plátano, se degradan en pocas semanas; en
-cambio, el plástico puede tardar cientos de años en degradarse, y el vidrio puede
-tardar miles de años o casi no degradarse nunca. Por eso, muchos desechos no deberían
-tratarse como simple basura, sino como una **fuente de recursos**: se pueden
-**reutilizar** (usar de nuevo para el mismo fin o uno distinto, como un frasco de
-vidrio para guardar lápices), **reciclar** (procesar el material para fabricar
-productos nuevos, como transformar botellas plásticas en fibra para ropa, o papel
-usado en papel nuevo) o simplemente **reducir** su generación, es decir, producir
-menos desechos desde un comienzo, comprando solo lo necesario o evitando envases
-innecesarios. Estas tres acciones —reducir, reutilizar y reciclar— se conocen como
-las "tres erres", y practicarlas en la casa y en la escuela ayuda a cuidar los
-recursos del planeta y a generar menos contaminación.
+
+Los **recursos** son los materiales que usamos para vivir, como el agua, la madera, los
+metales o el papel. Algunos los produce la naturaleza y otros, las personas. Muchos
+recursos son **limitados**: no son infinitos. Por eso hay que usarlos con cuidado.
+
+Cuando terminamos de usar algo, se convierte en **desecho** o basura. Pero no todos los
+desechos son iguales. Se pueden **clasificar según su material**: **orgánico** (restos
+de comida, cáscaras de fruta), **papel y cartón**, **vidrio**, **plástico** y **metal**.
+
+También se pueden clasificar según su **tiempo de degradación**, es decir, cuánto tarda
+el material en descomponerse solo. Una cáscara de plátano se degrada en pocas semanas.
+En cambio, el plástico puede tardar cientos de años. Y el vidrio puede tardar miles de
+años, o casi no degradarse.
+
+Por eso, muchos desechos no son simple basura: pueden ser una **fuente de recursos**.
+Hay tres formas de aprovecharlos.
+
+**Reutilizar** es usar algo de nuevo, para lo mismo o para otra cosa. Por ejemplo, un
+frasco de vidrio puede servir para guardar lápices.
+
+**Reciclar** es procesar el material para fabricar productos nuevos. Por ejemplo, las
+botellas plásticas se pueden transformar en fibra para ropa, y el papel usado, en papel
+nuevo.
+
+**Reducir** es producir menos desechos desde el comienzo. Por ejemplo, comprar solo lo
+necesario o evitar envases innecesarios.
+
+Estas tres acciones se conocen como las "tres erres": reducir, reutilizar y reciclar. Si
+las practicamos en la casa y en la escuela, cuidamos los recursos del planeta y
+contaminamos menos.
 
 **Ejemplos resueltos**
 
@@ -381,25 +409,31 @@ alimenticios saludables.
 
 **Explicación pedagógica**
 
-No todos los alimentos son iguales: algunos aportan lo que tu cuerpo necesita para
-crecer y funcionar bien, y por eso decimos que son **saludables**, mientras que otros,
-si se consumen en exceso, pueden ser **perjudiciales** para la salud, como los
-alimentos muy altos en azúcar, sal o grasas (golosinas, bebidas azucaradas, comida
-frita en exceso). Además de distinguir entre saludables y perjudiciales, podemos
-**agrupar los alimentos según la función** que cumplen en nuestro organismo. Los
-alimentos que aportan **energía**, como los cereales (pan, arroz, fideos), las papas
-y las legumbres, nos dan la fuerza para movernos, estudiar y jugar. Los alimentos
-**constructores**, ricos en proteínas, como las carnes, el pescado, los huevos, la
-leche y las legumbres, ayudan a que nuestro cuerpo crezca y a reparar los tejidos,
-como los músculos. Los alimentos **reguladores**, como las frutas y las verduras,
-aportan vitaminas y minerales que ayudan a que el cuerpo funcione correctamente y
-nos defienda de enfermedades. Una **alimentación saludable** es aquella que combina
-alimentos de estos distintos grupos de forma equilibrada, incluyendo bastantes frutas
-y verduras, prefiriendo el agua en vez de bebidas azucaradas, y limitando el consumo
-de alimentos con mucha azúcar, sal o grasas. También es importante comer con
-horarios regulares, no saltarse comidas como el desayuno, y masticar despacio. Estos
-hábitos, mantenidos desde la infancia, ayudan a prevenir problemas de salud como la
-obesidad o la desnutrición.
+
+No todos los alimentos son iguales. Algunos aportan lo que tu cuerpo necesita para
+crecer y funcionar bien: decimos que son **saludables**. Otros pueden ser
+**perjudiciales** si se comen en exceso. Son los alimentos con mucha azúcar, sal o
+grasa, como las golosinas, las bebidas azucaradas y las frituras.
+
+También podemos **agrupar los alimentos según su función** en el cuerpo.
+
+Los alimentos que dan **energía** nos dan fuerza para movernos, estudiar y jugar. Son
+los cereales (pan, arroz, fideos), las papas y las legumbres.
+
+Los alimentos **constructores** ayudan a que el cuerpo crezca y a reparar los tejidos,
+como los músculos. Tienen muchas proteínas. Son las carnes, el pescado, los huevos, la
+leche y las legumbres.
+
+Los alimentos **reguladores** aportan vitaminas y minerales. Ayudan a que el cuerpo
+funcione bien y se defienda de enfermedades. Son las frutas y las verduras.
+
+Una **alimentación saludable** combina alimentos de estos grupos de forma equilibrada.
+Incluye muchas frutas y verduras. Prefiere el agua en vez de las bebidas azucaradas. Y
+limita los alimentos con mucha azúcar, sal o grasa.
+
+También ayuda comer a horas regulares, no saltarse el desayuno y masticar despacio. Si
+mantenemos estos hábitos desde niños, prevenimos problemas de salud como la obesidad o
+la desnutrición.
 
 **Ejemplos resueltos**
 
@@ -494,27 +528,32 @@ reflejarse, que se transmite por distintos materiales, y que tiene tono e intens
 
 **Explicación pedagógica**
 
-El **sonido** se produce cuando un objeto **vibra**, es decir, se mueve rápidamente
-de un lado a otro, y esa vibración se transmite a través de un medio, como el aire,
-hasta llegar a nuestros oídos. Una primera característica del sonido es que **viaja
-en todas las direcciones** a la vez: si tocas una campana en medio de un patio, el
-sonido se escucha por igual hacia adelante, hacia atrás y hacia los costados, no solo
-en una dirección. El sonido también puede **transmitirse por distintos materiales**,
-no solo por el aire: se transmite bien a través de sólidos (por ejemplo, si golpeas
-una mesa, alguien puede sentir la vibración apoyando el oído sobre ella) y también a
-través de líquidos, aunque de forma diferente en cada material. Cuando el sonido se
-encuentra con una superficie, pueden pasar dos cosas: puede **reflejarse**, es decir,
-rebotar como una pelota —esto es lo que ocurre con el **eco**, cuando escuchas tu
-propia voz repetirse al gritar frente a un cerro o dentro de una quebrada— o puede
-**absorberse**, es decir, ser retenido por el material sin rebotar, como ocurre
-cuando hablas dentro de una habitación con cortinas gruesas o alfombras, que
-absorben parte del sonido y lo hacen sentir "más apagado". Por último, el sonido se
-puede describir según su **tono** y su **intensidad**. El **tono** indica si un
-sonido es **agudo** (como el silbido de un pajarito o una nota alta de un
-instrumento) o **grave** (como el rugido de un león o una nota baja de un tambor
-grande). La **intensidad** indica si un sonido es **fuerte** (como una explosión o
-una bocina) o **débil** (como un susurro), y se relaciona con qué tan fácil es
-escucharlo.
+
+El **sonido** se produce cuando un objeto **vibra**, es decir, se mueve muy rápido de un
+lado a otro. Esa vibración viaja por un medio, como el aire, hasta llegar a nuestros
+oídos.
+
+El sonido **viaja en todas las direcciones** a la vez. Si tocas una campana en medio del
+patio, se escucha hacia adelante, hacia atrás y hacia los costados.
+
+El sonido **se transmite por distintos materiales**, no solo por el aire. Viaja bien por
+los sólidos. Por ejemplo, si alguien golpea una mesa, puedes sentir la vibración con el
+oído apoyado en ella. También viaja por los líquidos, aunque distinto en cada material.
+
+Cuando el sonido choca con una superficie, pueden pasar dos cosas. Puede **reflejarse**,
+es decir, rebotar como una pelota. Eso es el **eco**: escuchas tu voz repetida al gritar
+frente a un cerro o en una quebrada. O puede **absorberse**: el material lo retiene y no
+rebota. Eso pasa en una pieza con cortinas gruesas o alfombras, donde el sonido se
+escucha "más apagado".
+
+Por último, el sonido se describe por su **tono** y su **intensidad**.
+
+El **tono** indica si un sonido es **agudo** o **grave**. Un sonido agudo es como el
+silbido de un pajarito o una nota alta de un instrumento. Un sonido grave es como el
+rugido de un león o una nota baja de un tambor grande.
+
+La **intensidad** indica si un sonido es **fuerte** o **débil**. Una explosión o una
+bocina suenan fuerte. Un susurro suena débil, y cuesta más escucharlo.
 
 **Ejemplos resueltos**
 
@@ -617,28 +656,35 @@ vas a reconocer las fases de la Luna.
 
 **Explicación pedagógica**
 
-El **Sistema Solar** es el conjunto formado por el **Sol** y todos los cuerpos que
-giran a su alrededor por efecto de su fuerza de atracción (gravedad). El **Sol** es
-una estrella: una enorme esfera de gases muy calientes que emite luz y calor propios,
-y es, por lejos, el cuerpo más grande del Sistema Solar. A su alrededor giran ocho
-**planetas**, que no emiten luz propia, sino que reflejan la luz del Sol. Los
-planetas se pueden ordenar según su distancia al Sol: Mercurio, Venus, **Tierra**,
-Marte, Júpiter, Saturno, Urano y Neptuno. Los cuatro más cercanos al Sol (Mercurio,
-Venus, Tierra y Marte) son planetas más pequeños y rocosos; los cuatro más alejados
-(Júpiter, Saturno, Urano y Neptuno) son mucho más grandes y están formados
-principalmente por gases —Júpiter, por ejemplo, es tan grande que podrían caber
-dentro de él más de mil planetas del tamaño de la Tierra—. Muchos planetas tienen
-**lunas** o satélites naturales, cuerpos más pequeños que giran alrededor de ellos;
-la Tierra tiene una sola Luna, que es el objeto más cercano a nosotros en el espacio
-y el único al que los seres humanos han viajado. La Luna no tiene luz propia:
-la vemos brillar porque refleja la luz del Sol, y a medida que gira alrededor de la
-Tierra, vemos distintas porciones de ella iluminadas; a esto se le llama **fases de
-la Luna**: Luna nueva (no se ve iluminada), cuarto creciente, Luna llena (se ve
-completamente iluminada) y cuarto menguante. Además de los planetas y sus lunas, en
-el Sistema Solar existen los **cometas**, cuerpos formados de hielo y polvo que, al
-acercarse al Sol, forman una llamativa "cola" luminosa, y los **asteroides**, cuerpos
-rocosos más pequeños que los planetas, muchos de los cuales se agrupan en una zona
-llamada el cinturón de asteroides, entre Marte y Júpiter.
+
+El **Sistema Solar** está formado por el **Sol** y por todos los cuerpos que giran a su
+alrededor. Giran porque el Sol los atrae con su fuerza de gravedad.
+
+El **Sol** es una estrella: una enorme esfera de gases muy calientes. Produce luz y
+calor propios. Es, por lejos, el cuerpo más grande del Sistema Solar.
+
+Alrededor del Sol giran ocho **planetas**. Los planetas no tienen luz propia: reflejan
+la luz del Sol. Ordenados desde el más cercano al Sol, son Mercurio, Venus, **Tierra**,
+Marte, Júpiter, Saturno, Urano y Neptuno.
+
+Los cuatro más cercanos (Mercurio, Venus, Tierra y Marte) son pequeños y rocosos. Los
+cuatro más lejanos (Júpiter, Saturno, Urano y Neptuno) son mucho más grandes y están
+hechos sobre todo de gases. Júpiter es tan grande que dentro de él cabrían más de mil
+Tierras.
+
+Muchos planetas tienen **lunas** o satélites naturales. Son cuerpos más pequeños que
+giran a su alrededor. La Tierra tiene una sola Luna. Es el objeto más cercano a nosotros
+en el espacio, y el único que los seres humanos han visitado.
+
+La Luna no tiene luz propia. La vemos brillar porque refleja la luz del Sol. Mientras
+gira alrededor de la Tierra, vemos distintas partes de ella iluminadas. Por eso tiene
+**fases**: Luna nueva (no se ve), cuarto creciente, Luna llena (se ve entera) y cuarto
+menguante.
+
+En el Sistema Solar también hay **cometas** y **asteroides**. Los cometas están hechos
+de hielo y polvo. Cuando se acercan al Sol, forman una "cola" luminosa. Los asteroides
+son cuerpos rocosos más pequeños que los planetas. Muchos están en el cinturón de
+asteroides, entre Marte y Júpiter.
 
 **Ejemplos resueltos**
 
@@ -726,25 +772,28 @@ la noche.
 
 **Explicación pedagógica**
 
-La Tierra no está quieta en el espacio: realiza dos movimientos principales al mismo
-tiempo. El primero es la **rotación**: la Tierra **gira sobre sí misma**, como un
-trompo, alrededor de una línea imaginaria llamada **eje**, que pasa por el Polo
-Norte y el Polo Sur. Este giro completo tarda aproximadamente **24 horas**, es decir,
-un día. La rotación explica por qué existen el **día y la noche**: en cada momento,
-la mitad de la Tierra que está de frente al Sol recibe su luz y vive de día, mientras
-que la otra mitad, que está de espaldas al Sol, se encuentra en la noche; como la
-Tierra gira constantemente, cada punto del planeta va pasando, a lo largo de las 24
-horas, por la zona iluminada (día) y por la zona en sombra (noche). El segundo
-movimiento es la **traslación**: la Tierra **se mueve alrededor del Sol**, siguiendo
-una trayectoria similar a un óvalo llamada **órbita**. Este recorrido completo
-alrededor del Sol tarda aproximadamente **365 días**, es decir, un año. Es importante
-no confundir estos dos movimientos: la rotación es el giro de la Tierra sobre su
-propio eje (más rápido, produce el día y la noche), mientras que la traslación es el
-recorrido de la Tierra alrededor del Sol (mucho más lento, y da origen a lo que
-llamamos un año). Para representar y comprender estos movimientos, los científicos y
-los estudiantes suelen usar **modelos**, como un globo terráqueo que se hace girar
-sobre su eje junto a una fuente de luz (que representa al Sol) para observar cómo se
-va iluminando distinta mitad del globo, simulando el día y la noche.
+
+La Tierra no está quieta en el espacio. Hace dos movimientos al mismo tiempo.
+
+El primero es la **rotación**: la Tierra **gira sobre sí misma**, como un trompo. Gira
+alrededor de una línea imaginaria llamada **eje**, que pasa por el Polo Norte y el Polo
+Sur. Un giro completo tarda unas **24 horas**, es decir, un día.
+
+La rotación explica el **día y la noche**. La mitad de la Tierra que mira hacia el Sol
+recibe su luz: allí es de día. La otra mitad está de espaldas al Sol: allí es de noche.
+Como la Tierra gira sin parar, cada lugar pasa por el día y por la noche cada 24 horas.
+
+El segundo movimiento es la **traslación**: la Tierra **se mueve alrededor del Sol**.
+Sigue un camino parecido a un óvalo, llamado **órbita**. Una vuelta completa tarda unos
+**365 días**, es decir, un año.
+
+No hay que confundir estos dos movimientos. La rotación es el giro de la Tierra sobre su
+eje: es más rápida y produce el día y la noche. La traslación es la vuelta alrededor del
+Sol: es mucho más lenta y dura un año.
+
+Para entender estos movimientos se usan **modelos**. Por ejemplo, se hace girar un globo
+terráqueo junto a una lámpara, que representa al Sol. Así se ve cómo se ilumina una
+mitad distinta del globo, como el día y la noche.
 
 **Ejemplos resueltos**
 

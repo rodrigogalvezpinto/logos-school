@@ -1079,3 +1079,18 @@ def test_pruebas_y_simulacros_no_se_pueden_adivinar_por_la_forma():
     excedidos = {c: round(100 * ok / n, 1) for c, (ok, n) in por_curso.items() if ok / n > 0.355}
     assert len(por_curso) == 12
     assert excedidos == {}, f"cursos donde la forma delata la respuesta: {excedidos}"
+
+
+def test_guias_no_se_pueden_adivinar_por_la_forma():
+    """C.8 en las guías (bancos de autoevaluación, 2026-11-24): el mismo límite del 35 % por curso. Antes llegaba
+    al 50 % en 4.° medio. `pistas.seguras_guia` lista las preguntas donde el truco acierta con certeza."""
+    import contextlib
+    import io
+    sys.path.insert(0, str(Path(__file__).parent.parent / "scripts" / "herramientas_auditoria"))
+    from pistas import resumen_guias
+
+    with contextlib.redirect_stdout(io.StringIO()):
+        por_curso = resumen_guias()
+    excedidos = {c: round(100 * ok / n, 1) for c, (ok, n) in por_curso.items() if ok / n > 0.355}
+    assert len(por_curso) == 12
+    assert excedidos == {}, f"guías donde la forma delata la respuesta: {excedidos}"

@@ -129,8 +129,8 @@ se parecen y en qué se diferencian?
 
 2. *(Alternativas — Completar)* Complete: *"Chilean teenagers usually have lunch at home or at school. ___, in the United Kingdom, many students bring a packed lunch from home."*
    a) In contrast
-   b) Similarly
-   c) Therefore
+   b) Similarly to this
+   c) Therefore, as well
    d) First
    **Respuesta correcta:** a) In contrast.
    **Retroalimentación:** El texto muestra una diferencia entre países, por lo que corresponde un conector de contraste.
@@ -144,8 +144,8 @@ se parecen y en qué se diferencian?
    extendida (widespread) entre los estudiantes.
 
 4. *(Alternativas — Organizador gráfico)* Read: *"The Chinese New Year lasts 15 days. Families gather for a reunion dinner, and children receive money in red envelopes called hongbao."* Duration: ___ / Main event: ___ / Gift for children: ___
-   a) 15 years / red envelopes for adults / a reunion lunch
-   b) 1 day / fireworks and parades / toys for children
+   a) 15 years / red envelopes for adults / a big reunion lunch
+   b) 1 day / fireworks, parades and dances / toys for children
    c) 15 days / hongbao dinner / money for the restaurant
    d) 15 days / reunion dinner / money in red envelopes (hongbao)
    **Respuesta correcta:** d) 15 days / reunion dinner / money in red envelopes (hongbao).
@@ -161,9 +161,9 @@ se parecen y en qué se diferencian?
 
 6. *(Alternativas — Comprensión)* Read: *"In Sweden, 'fika' is a daily coffee break with pastries that people share with friends or coworkers. It is considered an important social custom, not just a quick coffee."* *What is 'fika', according to the text?*
    a) A quick coffee that people drink alone before going to work
-   b) A Swedish holiday celebrated once a year with family and friends
+   b) A Swedish holiday celebrated once a year with all the family and friends
    c) A daily coffee break with pastries, shared as an important social custom
-   d) A type of pastry sold in Swedish bakeries and coffee shops
+   d) A type of sweet pastry sold in Swedish bakeries and coffee shops
    **Respuesta correcta:** c) A daily coffee break with pastries, shared as an important social custom.
    **Retroalimentación:** La respuesta usa información explícita del texto, no una opinión.
 
@@ -354,18 +354,18 @@ that*.
    **Retroalimentación:** La oración temática habla del impacto de la moda rápida en el ambiente; los residuos textiles son justamente un impacto ambiental, así que el detalle mantiene el tema.
 
 5. *(Alternativas — Función)* ¿Qué función cumple *"I would argue that..."*?
-   a) Citar un dato textual
-   b) Hacer una pregunta
+   a) Citar un dato textual del artículo
+   b) Hacer una pregunta al lector
    c) Dar una opinión fundamentada
-   d) Describir un lugar
+   d) Describir un lugar de la ciudad
    **Respuesta correcta:** c) Dar una opinión fundamentada.
    **Retroalimentación:** Introduce una postura personal que luego debe justificarse.
 
 6. *(Alternativas — Pensamiento crítico)* Read: *"A recent study found that teenagers who sleep less than seven hours a night perform worse on tests. However, the study only included students from one city."* *Why might the conclusion be limited?*
    a) Because it only included students from one city, so the results might not apply everywhere.
-   b) Because teenagers never sleep enough, so the study is not useful for anyone.
+   b) Because teenagers rarely sleep enough, so the study is not useful for parents or schools.
    c) Because the study was about tests and not about sleep or teenagers' health.
-   d) Because seven hours is too much sleep for teenagers, according to most doctors.
+   d) Because seven hours is too much sleep for teenagers, according to most doctors in the city.
    **Respuesta correcta:** a) Because it only included students from one city, so the results might not apply everywhere.
    **Retroalimentación:** El estudio solo incluyó estudiantes de una ciudad; por eso sus resultados podrían no aplicarse a otros lugares. Reconocer esa limitación es la base de una postura crítica.
 
@@ -382,9 +382,9 @@ that*.
    académico o una respuesta demasiado breve.
 
 8. *(Alternativas — Completar — desafiante)* Complete: *"Some experts believe screen time should be limited for teenagers. ___, others argue that the quality of content matters more than the amount of time spent."*
-   a) In addition
+   a) In addition to this
    b) Similarly
-   c) For example
+   c) For example, in this case
    d) On the other hand
    **Respuesta correcta:** d) On the other hand.
    **Retroalimentación:** El conector debe introducir una postura opuesta, no una idea adicional.
@@ -408,9 +408,9 @@ that*.
 11. *(Alternativas)* Read: *"Exercise has been shown to reduce stress in
     teenagers, according to several studies."* ¿Qué estructura gramatical
     específica aparece en esta oración?
-    a) Third conditional (if).
+    a) Third conditional (if I had).
     b) Passive voice (has been shown).
-    c) Reported speech (said).
+    c) Reported speech (she said that).
     d) A relative clause.
     **Respuesta correcta:** b.
     **Retroalimentación:** Identificar estructuras específicas —como la voz
@@ -537,8 +537,8 @@ formal? ¿un resumen realmente resume?).
    información sobre "tradition" sin repetir el sujeto.
 
 3. *(Alternativas — Completar)* Complete with the third conditional: *"If I ___ English, I ___ to talk to my exchange friend."* (not/learn — not/be able)
-   a) didn't learn / wouldn't be able
-   b) haven't learned / won't be able
+   a) didn't learn / wouldn't be able to
+   b) haven't learned / won't have been able
    c) hadn't learned / wouldn't have been able
    d) hadn't learned / won't be able
    **Respuesta correcta:** c) hadn't learned / wouldn't have been able.
@@ -562,8 +562,8 @@ formal? ¿un resumen realmente resume?).
 
 6. *(Alternativas — Oraciones de relativo)* *"Describe a tradition from your family or region using 'that' or 'which'."* Which answer uses a relative clause correctly?
    a) In my family, tradition, New Year. We eat grapes, twelve grapes, midnight, every year, family together.
-   b) We celebrate that which every year, that which is New Year's Eve, which that we eat grapes.
-   c) My family which is tradition that New Year, which twelve grapes at midnight every year that.
+   b) We celebrate that which every year, that which is New Year's Eve, which that we eat twelve grapes at midnight.
+   c) My family which is tradition that New Year, which twelve grapes at midnight every year that we eat together.
    d) In my family, we have a tradition that we celebrate every New Year's Eve, which involves eating twelve grapes at midnight.
    **Respuesta correcta:** d) In my family, we have a tradition that we celebrate every New Year's Eve, which involves eating twelve grapes at midnight.
    **Retroalimentación:** La oración de relativo agrega información sobre la tradición mencionada.

@@ -132,8 +132,8 @@ respetuosa, evitando reducirla únicamente a los cambios corporales.
 
 5. *(Alternativas — análisis)* ¿Por qué el respeto mutuo es un elemento central del aspecto afectivo de la sexualidad?
    a) Porque así una persona puede decidir por la otra y protegerla de cometer errores en la relación
-   b) Porque el respeto solo importa en la amistad; en una relación de pareja basta con el cariño
-   c) No es importante en las relaciones afectivas, porque si hay cariño los límites no son necesarios
+   b) Porque el respeto importa sobre todo en la amistad; en una relación de pareja basta con el cariño mutuo
+   c) Es poco importante en las relaciones afectivas, porque si hay cariño los límites de cada uno se ajustan solos
    d) Porque una relación sana requiere que ambas personas se sientan valoradas y respetadas en sus decisiones y límites
    **Respuesta correcta:** d) Porque una relación sana requiere que ambas personas se sientan valoradas y respetadas en sus decisiones y límites.
    **Retroalimentación:** Sin respeto mutuo, la intimidad puede volverse dañina para una o ambas personas.
@@ -147,10 +147,10 @@ respetuosa, evitando reducirla únicamente a los cambios corporales.
    **Retroalimentación:** Los cambios se deben a hormonas sexuales (testosterona y estrógeno); aunque difieren entre sexos, ambos son parte normal y esperable del desarrollo puberal.
 
 7. *(Alternativas — actitud)* Un estudiante se burla de un compañero porque aún no presenta cambios físicos de la pubertad que otros ya tienen. ¿Por qué esta actitud no es adecuada?
-   a) Porque todos deberían cambiar al mismo tiempo, y si un compañero no ha cambiado es mejor esperar a que se ponga al día antes de comentarlo
+   a) Porque los compañeros deberían cambiar al mismo tiempo, y si uno no ha cambiado es mejor esperar a que se ponga al día antes de hablar del tema en el curso
    b) Porque la burla ayuda a crecer más rápido, pero puede hacer sentir mal al compañero, así que conviene hacerla solo entre amigos cercanos
    c) Porque el ritmo de los cambios varía de forma normal entre personas, y vivir la sexualidad de forma sana incluye respetar los tiempos y el cuerpo de cada uno
-   d) Sí es adecuada, porque es solo una broma entre compañeros, y los cambios físicos de la pubertad son un tema del que todos se ríen
+   d) Sí es adecuada, porque es una broma entre compañeros, y los cambios físicos de la pubertad son un tema del que muchos se ríen en el colegio
    **Respuesta correcta:** c) Porque el ritmo de los cambios varía de forma normal entre personas, y vivir la sexualidad de forma sana incluye respetar los tiempos y el cuerpo de cada uno.
    **Retroalimentación:** El respeto hacia uno mismo y hacia otros, en todas sus dimensiones, es un valor transversal en el estudio de la sexualidad.
 
@@ -232,9 +232,9 @@ en pleno desarrollo.
 
 4. *(Alternativas)* ¿Qué es el cigoto y cómo se origina?
    a) La primera célula de un nuevo individuo, formada por la fecundación de un ovocito por un espermatozoide
-   b) Un órgano que produce hormonas sexuales y regula el ciclo menstrual de la mujer
+   b) Un órgano que produce hormonas sexuales y regula el ciclo menstrual de la mujer adulta
    c) Un embrión de tres meses, formado por la unión de varias células del útero
-   d) Una célula que solo existe en las plantas y se forma por la unión de dos semillas en la flor
+   d) Una célula que se forma en las plantas por la unión de dos semillas dentro de la flor
    **Respuesta correcta:** a) La primera célula de un nuevo individuo, formada por la fecundación de un ovocito por un espermatozoide.
    **Retroalimentación:** A partir del cigoto comienzan las divisiones que darán origen al embrión: marca el inicio biológico del desarrollo de un nuevo individuo.
 
@@ -257,7 +257,7 @@ en pleno desarrollo.
 7. *(Alternativas — aplicación)* Un adolescente pregunta por qué es importante conocer el ciclo menstrual y los métodos de control de la natalidad, aunque no piense tener hijos ahora. ¿Qué respuesta le ayuda a comprenderlo?
    a) Porque es información que solo sirve a los adultos que ya tienen hijos, y los adolescentes la necesitarán recién cuando formen una familia
    b) Porque permite tomar decisiones informadas sobre la propia salud, prevenir embarazos no planificados y conocer mejor el cuerpo propio y de la pareja
-   c) Porque así no tendrá que cuidarse nunca: conocer el ciclo menstrual basta para evitar cualquier embarazo sin usar métodos
+   c) Porque así podrá dejar de cuidarse: conocer el ciclo menstrual basta para evitar un embarazo, sin necesidad de usar métodos anticonceptivos
    d) No es importante si no quiere tener hijos, porque los métodos de control de la natalidad solo se usan cuando una pareja ya decidió tenerlos
    **Respuesta correcta:** b) Porque permite tomar decisiones informadas sobre la propia salud, prevenir embarazos no planificados y conocer mejor el cuerpo propio y de la pareja.
    **Retroalimentación:** La educación sobre reproducción humana es una herramienta de autocuidado y toma de decisiones informadas, no solo información biológica.
@@ -340,10 +340,10 @@ investigación médica y en el desarrollo de algunas vacunas.
    **Retroalimentación:** Hongos: *Penicillium* y levadura; virus: influenza; bacteria: *E. coli*. Fíjate en la estructura celular y el nombre del organismo.
 
 4. *(Alternativas)* ¿Por qué los virus no cumplen, de forma autónoma, con todas las características de los seres vivos?
-   a) Porque son más grandes que las bacterias y no caben dentro de las células que infectan
+   a) Porque son más grandes que las bacterias y no caben dentro de las células que infectan del cuerpo
    b) Porque tienen núcleo y organelos, igual que las células de los animales y las plantas
    c) Porque no pueden alimentarse ni reproducirse por sí mismos: dependen de invadir una célula huésped para replicarse
-   d) Porque se reproducen solos en el aire, sin necesitar ninguna célula huésped para multiplicarse
+   d) Porque se reproducen solos en el aire, sin necesitar una célula huésped para multiplicarse y extenderse
    **Respuesta correcta:** c) Porque no pueden alimentarse ni reproducirse por sí mismos: dependen de invadir una célula huésped para replicarse.
    **Retroalimentación:** Esta dependencia es la razón por la que los virus se consideran un caso especial dentro de la biología; bacterias y hongos sí se reproducen de forma independiente.
 
@@ -351,7 +351,7 @@ investigación médica y en el desarrollo de algunas vacunas.
    a) La bacteria es procarionte, más pequeña y sin núcleo definido; el hongo es eucarionte, con núcleo y organelos, unicelular o multicelular
    b) La bacteria es eucarionte, con núcleo y organelos; el hongo es procarionte, más pequeño y sin núcleo definido, siempre unicelular
    c) Los dos tienen la misma estructura celular: ambos son procariontes, sin núcleo definido, y se diferencian solo por su tamaño
-   d) La bacteria siempre es multicelular y tiene núcleo; el hongo es siempre unicelular y no tiene organelos ni núcleo definido
+   d) La bacteria es multicelular y tiene núcleo definido; el hongo es unicelular y no tiene organelos ni un núcleo que proteja su material genético
    **Respuesta correcta:** a) La bacteria es procarionte, más pequeña y sin núcleo definido; el hongo es eucarionte, con núcleo y organelos, unicelular o multicelular.
    **Retroalimentación:** Comparar el tipo de célula (procarionte/eucarionte) es la clave para diferenciar estructuralmente bacterias y hongos.
 
@@ -450,10 +450,10 @@ constantemente en situaciones cotidianas, muchas veces de forma simultánea.
    **Retroalimentación:** Una manzana que cae: gravitacional; un resorte que se estira: elástica; un auto que frena: de roce. Identificar qué causa el efecto observado ayuda a reconocer el tipo de fuerza.
 
 4. *(Alternativas)* ¿Qué diferencia hay entre el roce estático y el roce cinético?
-   a) El estático solo existe en el hielo y en superficies lisas; el cinético solo existe en superficies rugosas como el cemento
+   a) El estático existe en el hielo y en superficies lisas; el cinético aparece en superficies rugosas como el cemento
    b) El estático actúa sobre un objeto en reposo e impide que comience a moverse; el cinético actúa sobre un objeto en movimiento y lo frena
    c) El cinético impide que un objeto empiece a moverse; el estático actúa cuando el objeto ya está en movimiento y lo acelera
-   d) Son exactamente lo mismo: ambos actúan sobre objetos en movimiento y solo cambia el nombre según el libro
+   d) Son lo mismo: ambos actúan sobre objetos en movimiento y cambia el nombre según el libro de texto que se use
    **Respuesta correcta:** b) El estático actúa sobre un objeto en reposo e impide que comience a moverse; el cinético actúa sobre un objeto en movimiento y lo frena.
    **Retroalimentación:** Ambos se oponen al movimiento, pero actúan en momentos distintos: antes de moverse (estático) o durante el movimiento (cinético).
 
@@ -474,9 +474,9 @@ constantemente en situaciones cotidianas, muchas veces de forma simultánea.
    **Retroalimentación:** Un buen diseño controla la variable que se compara (el grosor) manteniendo constante la distancia de estiramiento.
 
 7. *(Alternativas — análisis)* Un ciclista va cuesta abajo y, sin pedalear, su bicicleta sigue acelerando. ¿Qué fuerza causa la aceleración y cuál se opone?
-   a) La fuerza elástica de los neumáticos causa la aceleración; la gravedad se opone
+   a) La fuerza elástica de los neumáticos causa la aceleración; la gravedad se opone al movimiento
    b) El roce con el pavimento causa la aceleración; la gravedad y el aire se oponen
-   c) Ninguna fuerza actúa: la bicicleta acelera sola por la inercia de la bajada
+   c) La inercia de la bajada causa la aceleración, y las demás fuerzas casi no actúan sobre la bicicleta
    d) La fuerza gravitacional causa la aceleración; el roce con el aire y con el pavimento se opone
    **Respuesta correcta:** d) La fuerza gravitacional causa la aceleración; el roce con el aire y con el pavimento se opone.
    **Retroalimentación:** En situaciones cotidianas, varias fuerzas suelen actuar a la vez, unas favoreciendo el movimiento y otras oponiéndose a él.
@@ -563,7 +563,7 @@ las placas.
    **Retroalimentación:** Divergente: se forma una dorsal oceánica donde sube material del manto; convergente: las placas chocan y forman cordilleras; transformante: se deslizan lateralmente. Se distinguen por la dirección relativa del movimiento.
 
 4. *(Alternativas)* ¿Qué son las corrientes convectivas del manto y por qué se consideran la principal causa del movimiento de las placas?
-   a) Corrientes de agua del océano que circulan bajo los continentes y los empujan lentamente, separándolos a lo largo de millones de años
+   a) Corrientes de agua del océano que circulan bajo los continentes y los empujan lentamente, separándolos a lo largo de millones de años de historia
    b) Movimientos de material caliente que asciende y más frío que desciende en el manto; ese movimiento arrastra lentamente a las placas que se desplazan sobre él
    c) Vientos que soplan sobre la superficie terrestre con gran fuerza, y que al chocar con las montañas desplazan las placas de la corteza
    d) Terremotos que mueven el núcleo de la Tierra y, al sacudirlo, hacen que las placas se desplacen de un lugar a otro del planeta
@@ -571,7 +571,7 @@ las placas.
    **Retroalimentación:** El calor interno de la Tierra es la fuente de energía que impulsa este proceso geológico de larga duración. Las placas no "flotan" como en el agua: se desplazan sobre una parte del manto que fluye muy lentamente.
 
 5. *(Alternativas — análisis)* ¿Por qué Chile tiene alta actividad sísmica y volcánica?
-   a) Porque Chile está en el centro de una placa, lejos de sus bordes, donde la presión acumulada es mayor y se libera en sismos y erupciones
+   a) Porque Chile está en el centro de una placa, lejos de sus bordes, donde la presión acumulada es mayor y se libera en sismos y erupciones frecuentes
    b) Porque el clima de Chile es muy variado, y los cambios bruscos de temperatura entre zonas agrietan la corteza y abren volcanes
    c) Porque la placa de Nazca subduce bajo la Sudamericana (y en el extremo sur interviene la Antártica), liberando energía y favoreciendo la formación de volcanes
    d) Porque Chile tiene muchos ríos que bajan de la cordillera, y su agua se infiltra hasta el manto, donde provoca sismos y erupciones
@@ -796,10 +796,10 @@ potabilizar el agua o tratarla antes de devolverla al ambiente.
    **Retroalimentación:** El agua con sal es una mezcla homogénea y la ensalada de frutas una mezcla heterogénea. El criterio es si hay un solo componente o, si hay varios, si se distinguen a simple vista.
 
 4. *(Alternativas)* ¿Qué diferencia hay entre filtración y tamizado?
-   a) La filtración separa sólidos por tamaño y el tamizado separa líquidos
+   a) La filtración separa sólidos según su tamaño y el tamizado separa dos líquidos que no se mezclan
    b) La filtración separa un sólido de un líquido con un filtro; el tamizado separa sólidos de distinto tamaño con un tamiz
    c) Los dos separan agua y aceite: la filtración retiene el aceite y el tamizado deja pasar solo el agua limpia
-   d) No hay diferencia: ambos separan un sólido de un líquido, y solo cambia el material del que está hecho el filtro
+   d) Separan lo mismo, un sólido de un líquido, y la diferencia está en el material del que está hecho el filtro o el tamiz
    **Respuesta correcta:** b) La filtración separa un sólido de un líquido con un filtro; el tamizado separa sólidos de distinto tamaño con un tamiz.
    **Retroalimentación:** Ambos usan una especie de "colador", pero la filtración separa sólido de líquido y el tamizado separa sólidos entre sí según su tamaño.
 
@@ -814,15 +814,15 @@ potabilizar el agua o tratarla antes de devolverla al ambiente.
 6. *(Alternativas — procedimiento)* ¿Qué procedimiento permite separar una mezcla de arena, sal y agua (la sal está disuelta en el agua)?
    a) Primero filtrar para retirar la arena; luego evaporar o destilar el agua salada para obtener la sal
    b) Primero evaporar todo el líquido y luego filtrar el vapor para separar la sal de la arena
-   c) Usar solo un tamiz fino, que retiene la arena y la sal y deja pasar el agua limpia
-   d) Usar un imán para retirar la sal disuelta y luego decantar la arena del agua
+   c) Usar un tamiz fino, que retiene la arena y la sal y deja pasar el agua limpia hacia el vaso
+   d) Usar un imán para retirar la sal disuelta y luego decantar la arena que queda en el agua
    **Respuesta correcta:** a) Primero filtrar para retirar la arena; luego evaporar o destilar el agua salada para obtener la sal.
    **Retroalimentación:** La arena no se disuelve, así que primero se retira con un filtro; la sal sí está disuelta, por eso luego se evapora o destila el agua y la sal queda como sólido. El orden depende de las propiedades de cada componente.
 
 7. *(Alternativas — aplicación industrial)* ¿Qué ejemplo muestra correctamente la aplicación de métodos de separación en un proceso industrial de Chile?
    a) En la minería se mezcla el cobre con más roca molida para aumentar su peso antes de venderlo
    b) En las plantas de agua potable se agrega arena y basura para que el agua quede más limpia
-   c) Ningún proceso industrial usa separación de mezclas: solo se usan en laboratorios escolares
+   c) En los procesos industriales se usa poco la separación de mezclas, que es propia de los laboratorios escolares
    d) En el tratamiento de aguas servidas se combinan filtración y decantación para retirar sólidos e impurezas
    **Respuesta correcta:** d) En el tratamiento de aguas servidas se combinan filtración y decantación para retirar sólidos e impurezas.
    **Retroalimentación:** En una planta de tratamiento de aguas servidas, los sólidos pesados se dejan decantar y el agua se filtra para retirar impurezas: combina dos métodos de separación. La minería del cobre también usa procesos de separación.

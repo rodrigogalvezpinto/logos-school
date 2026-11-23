@@ -93,8 +93,8 @@ diferencian por un solo detalle (presente vs. pasado, *can* vs. *can't*).
 
 1. *(Alternativas)* Read: *"Pedro can swim very well, but he can't ride a bike."*
    What can't Pedro do?
-   a) Swim
-   b) Read
+   a) Swim in a pool
+   b) Read a book
    c) Run
    d) Ride a bike
    **Respuesta correcta:** d) Ride a bike.
@@ -134,8 +134,8 @@ diferencian por un solo detalle (presente vs. pasado, *can* vs. *can't*).
 6. *(Alternativas — desafiante)* Read: *"Turn right at the corner. The museum is
    between the bank and the hotel."* ¿Dónde está el museo?
    a) Entre el banco y el hotel
-   b) Frente al banco
-   c) Detrás del hotel
+   b) Frente al banco de la plaza
+   c) Detrás del hotel de la esquina
    d) Al lado de la escuela
    **Respuesta correcta:** a) Entre el banco y el hotel.
    **Retroalimentación:** *Between* significa "entre dos cosas"; el texto ubica el
@@ -253,10 +253,10 @@ porque aparece en muchos textos distintos.
    enfermedad; el correo explica el motivo con esas palabras clave.
 
 7. *(Alternativas — completar, desafiante)* Complete the dialogue: *"— What's the matter? — I ___ a headache."*
-   a) am
+   a) are
    b) has
    c) have
-   d) do
+   d) does
    **Respuesta correcta:** c) have.
    **Retroalimentación:** La estructura correcta para describir un malestar es *have + [síntoma]*: *I have a headache* (tengo dolor de cabeza). Con *I* no se usa *has*.
 
@@ -308,17 +308,17 @@ justificar tu opinión.
 
 1. *(Alternativas — opinión con modelo)* Read: *"Camila's mother is a doctor. Camila thinks it is an important job."* Which answer to *What job do you think is important? Why?* follows the model correctly?
    a) I think a teacher is important because teachers help children learn.
-   b) I thinks a teacher important because teachers helps children.
+   b) I thinks a teacher important because teachers helps children learn.
    c) Teacher important I think, because children learn teacher.
-   d) I think because a teacher is important help children learn.
+   d) I think because a teacher is important help children learn things.
    **Respuesta correcta:** a) I think a teacher is important because teachers help children learn.
    **Retroalimentación:** Se espera *I think* + ocupación + *because* + razón, siguiendo el modelo del texto. Tú puedes elegir otra ocupación.
 
 2. *(Alternativas)* Which sentence expresses an opinion (una opinión)?
-   a) The zoo has many animals.
+   a) The zoo has many animals and birds.
    b) I think the zoo is interesting.
    c) The zoo opens at 9 am.
-   d) There are lions at the zoo.
+   d) There are lions and tigers at the zoo.
    **Respuesta correcta:** b) I think the zoo is interesting.
    **Retroalimentación:** *I think* introduce una opinión personal; las demás
    oraciones solo describen datos (hechos).
@@ -339,9 +339,9 @@ justificar tu opinión.
    **Retroalimentación:** Con el sujeto *I*, el verbo se usa en su forma simple: *I think*, no *I thinks* (esa forma solo se usa con *he/she/it*).
 
 5. *(Alternativas — respuesta personal)* Read: *"Pedro's uncle is a pilot. He travels to many countries."* Which is a correct answer to *Would you like to be a pilot? Why or why not?*
-   a) Yes, I would like be pilot because I like travel.
+   a) Yes, I would like be pilot because I like travel a lot.
    b) Yes, I would like to be a pilot because I like to travel.
-   c) No, I wouldn't, because I likes to fly in planes.
+   c) No, I wouldn't, because I likes to fly in big planes.
    d) Pilot yes travel, because I like to the countries.
    **Respuesta correcta:** b) Yes, I would like to be a pilot because I like to travel.
    **Retroalimentación:** La respuesta conecta con la pregunta usando *yes/no* + una razón introducida por *because* (*No, I wouldn't, because I am afraid of flying* también sería correcta).
@@ -565,7 +565,7 @@ Preguntar y responder: *Where is the hospital?* → *It is between the bank and 
 5. *(Alternativas — número)* Complete with the number 18 in English: *"There are ___ students in my class."*
    a) eighty
    b) eight
-   c) eleven
+   c) eight hundred
    d) eighteen
    **Respuesta correcta:** d) eighteen.
    **Retroalimentación:** Los números hasta el 20 deben poder escribirse en palabras: eighteen = dieciocho; *eighty* es ochenta.

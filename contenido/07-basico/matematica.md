@@ -373,8 +373,8 @@ d) x/2 + 7
 
 **Pregunta 3 (identificar el patrón).** Una secuencia de figuras tiene 5 cuadrados en la figura 1, 9 en la figura 2, y 13 en la figura 3. ¿Cuál expresión algebraica representa la cantidad de cuadrados en la figura n?
 a) 4n + 1
-b) 5n
-c) 4n
+b) 5n + 1
+c) 4n − 1
 d) n + 4
 
 **Respuesta correcta: a) 4n + 1.**
@@ -703,7 +703,7 @@ d) (−4, 1)
 a) En 2 cuadrantes
 b) En los 4 cuadrantes
 c) En 3 cuadrantes
-d) Solo en el cuadrante I
+d) En el cuadrante I
 
 **Respuesta correcta: b) En los 4 cuadrantes.**
 *Retroalimentación:* (−3,2) está en II; (2,2) en I; (2,−1) en IV; (−3,−1) en III. Conviene revisar el signo de cada par ordenado por separado.
@@ -818,7 +818,7 @@ d) Todos los números aparecen 2 veces
 a) Gráfico circular
 b) Gráfico de tallo y hojas
 c) Pictograma
-d) Ninguno de los anteriores
+d) Gráfico de barras dobles
 
 **Respuesta correcta: b) Gráfico de tallo y hojas.**
 *Retroalimentación:* el gráfico de tallo y hojas es ideal para comparar dos muestras de datos numéricos similares (como estaturas), mostrando ambas distribuciones lado a lado sobre el mismo "tallo".
@@ -929,9 +929,9 @@ d) 2/3
 *Retroalimentación:* hay 3 números pares (2,4,6) de 6 resultados posibles: 3/6 = 1/2 = 50%.
 
 **Pregunta 7 (alternativas — comparar teórica y experimental).** Una moneda justa tiene probabilidad teórica de 50% de salir cara. Al lanzarla 200 veces salieron 112 caras. ¿Qué conclusión es correcta?
-a) La probabilidad experimental es 112%, así que la moneda está trucada y conviene apostar siempre a cara
+a) La probabilidad experimental es 112%, así que la moneda está trucada y conviene apostar a cara
 b) La probabilidad experimental es 56%, lo que prueba que la moneda está trucada
-c) La probabilidad experimental debe ser exactamente 50%, así que hubo un error al contar las caras
+c) La probabilidad experimental debe ser cercana a 50%, así que hubo un error al contar las caras
 d) La probabilidad experimental es 56%; la diferencia con el 50% es razonable y puede explicarse por el azar
 
 **Respuesta correcta: d) La probabilidad experimental es 56%; la diferencia con el 50% es razonable y puede explicarse por el azar.**

@@ -143,9 +143,9 @@ social y ambiental (una definición cercana a la de la OMS).
    manifiestan después de un periodo extendido de exposición al factor de
    riesgo.
 5. *(Alternativas)* ¿Por qué la salud se considera un estado con dimensiones física, psíquica, social y ambiental, y no solo la ausencia de enfermedad?
-   a) Porque la salud depende solo de los hospitales y de los médicos, que definen en cada consulta cuáles dimensiones considerar para cada paciente
-   b) Porque basta con no tener síntomas físicos para estar sano, y las dimensiones psíquica, social y ambiental solo describen el estilo de vida de cada persona
-   c) Porque el ambiente no influye en la salud
+   a) Porque la salud depende sobre todo de los hospitales y de los médicos, que definen en cada consulta qué dimensiones considerar para cada paciente
+   b) Porque basta con no tener síntomas físicos para estar sano, y las dimensiones psíquica, social y ambiental describen el estilo de vida más que la salud
+   c) Porque el ambiente influye poco en la salud de las personas, que depende sobre todo de la herencia genética y de la edad de cada una
    d) Porque una persona sin enfermedad diagnosticada puede no estar en equilibrio si tiene problemas emocionales, de convivencia o vive en un ambiente dañino
    **Respuesta correcta:** d) Porque una persona sin enfermedad diagnosticada puede no estar en equilibrio si tiene problemas emocionales, de convivencia o vive en un ambiente dañino.
    **Retroalimentación:** Una persona sin enfermedades puede no estar bien si sufre problemas emocionales, conflictos de convivencia o vive en un ambiente dañino. Por eso la salud incluye lo físico, lo psíquico, lo social y lo ambiental.
@@ -356,8 +356,8 @@ recientes).
 
 6. *(Alternativas)* ¿Qué pareja señala correctamente una implicancia económica y una ética de la vacunación masiva y gratuita?
    a) Económica: aumenta el gasto en hospitalizaciones, porque las vacunas provocan efectos adversos frecuentes. Ética: ninguna, porque vacunarse es una decisión solo individual
-   b) Económica: ninguna, porque las vacunas gratuitas no cambian el gasto en salud. Ética: obliga a vacunar también a los animales domésticos de cada hogar
-   c) Ambas implicancias son nulas
+   b) Económica: menor, porque las vacunas gratuitas casi no cambian el gasto en salud. Ética: obliga a vacunar también a los animales domésticos de cada familia
+   c) Ambas implicancias son menores, porque la vacuna es gratuita y voluntaria, y la mayoría de las personas igual decide vacunarse cada año
    d) Económica: es más barata que tratar brotes y hospitalizaciones. Ética: equilibrar la autonomía individual con la protección colectiva de quienes no pueden vacunarse
    **Respuesta correcta:** d) Económica: es más barata que tratar brotes y hospitalizaciones. Ética: equilibrar la autonomía individual con la protección colectiva de quienes no pueden vacunarse.
    **Retroalimentación:** Analizar implicancias éticas, económicas y sociales de la prevención es parte de lo que se trabaja en esta unidad.
@@ -373,17 +373,17 @@ recientes).
 8. *(Alternativas — Análisis de caso)* Tras un año con poca influenza, menos personas se vacunaron al siguiente pensando que "ya no era necesario", y los casos aumentaron. ¿Qué error de razonamiento cometieron?
    a) Confiar demasiado en la vacunación, creyendo que una sola dosis protege para siempre contra todas las variantes del virus
    b) Ninguno: tenían razón, porque si un año hay pocos casos el virus desaparece y la vacuna deja de ser necesaria
-   c) Vacunarse cada año
+   c) Vacunarse cada año aunque no haya casos, porque así lo exige el calendario de vacunación escolar del Ministerio de Salud
    d) Confundir la ausencia reciente de casos con la eliminación del riesgo, aunque el virus muta y circula de forma variable cada año
    **Respuesta correcta:** d) Confundir la ausencia reciente de casos con la eliminación del riesgo, aunque el virus muta y circula de forma variable cada año.
    **Retroalimentación:** La evidencia de "poco riesgo reciente" no equivale a "riesgo eliminado".
 
 9. *(Alternativas)* La hepatitis B, además de por vía sanguínea y sexual,
    puede transmitirse de una madre infectada a su hijo o hija:
-   a) Solo por contacto casual, como compartir cubiertos.
-   b) Únicamente por vía respiratoria.
+   a) Por contacto casual, como compartir cubiertos o vasos.
+   b) Por vía respiratoria, al toser o al estornudar.
    c) Durante el embarazo o el parto (transmisión vertical).
-   d) Solo a través de picaduras de insectos.
+   d) A través de picaduras de mosquitos y otros insectos.
    **Respuesta correcta:** c.
    **Retroalimentación:** La transmisión vertical (madre-hijo) es una vía
    relevante de contagio de hepatitis B, por lo que el control prenatal y
@@ -402,8 +402,8 @@ recientes).
     cobertura de vacunación local no es suficientemente alta.
 
 11. *(Alternativas — Análisis de caso)* Un viajero contagiado de sarampión en el extranjero llega a Chile en incubación y las autoridades contactan a los pasajeros cercanos. ¿Por qué el caso se analiza a nivel nacional y mundial?
-    a) Porque solo es un caso médico individual, y las autoridades contactan a los pasajeros para informarles por cortesía, sin coordinación con otros países ni con la OMS
-    b) Porque el sarampión solo existe en el extranjero
+    a) Porque es un caso médico individual, y las autoridades contactan a los pasajeros para informarles por cortesía, sin coordinación con otros países
+    b) Porque el sarampión circula sobre todo en el extranjero, así que el caso interesa más a otros países que a Chile y a sus servicios de salud pública
     c) Porque la transmisión no respeta fronteras: un caso importado puede iniciar contagios locales, y la vigilancia y coordinación internacional (OMS) son parte de la prevención
     d) Porque los aeropuertos no tienen relación con la salud pública, y el caso se analiza a nivel mundial solo para registrar estadísticas de turismo y de viajes internacionales
     **Respuesta correcta:** c) Porque la transmisión no respeta fronteras: un caso importado puede iniciar contagios locales, y la vigilancia y coordinación internacional (OMS) son parte de la prevención.
@@ -418,8 +418,8 @@ recientes).
     **Retroalimentación:** La revisión por pares y los datos verificables son criterios centrales de calidad.
 
 13. *(Alternativas)* ¿Qué implicancia ambiental tiene la prevención del hantavirus en zonas rurales del sur?
-    a) Ninguna: es solo un problema médico que se resuelve en los hospitales, con tratamiento y vacunas, sin necesidad de modificar el entorno de las viviendas ni del paisaje rural
-    b) Exige talar todos los bosques
+    a) Es sobre todo un problema médico que se resuelve en los hospitales, con tratamiento y vacunas, sin necesidad de modificar el entorno de las viviendas rurales
+    b) Exige talar los bosques cercanos a las casas para que los roedores no tengan dónde esconderse ni de qué alimentarse durante el año
     c) Requiere aumentar la basura orgánica alrededor de las casas, para que los roedores se alimenten ahí y no entren a las viviendas, y talar los bosques cercanos
     d) Requiere manejar el entorno: evitar basura orgánica que atraiga roedores, despejar los alrededores y considerar que alterar el paisaje cambia las poblaciones del ratón colilargo
     **Respuesta correcta:** d) Requiere manejar el entorno: evitar basura orgánica que atraiga roedores, despejar los alrededores y considerar que alterar el paisaje cambia las poblaciones del ratón colilargo.
@@ -544,11 +544,11 @@ para proteger tanto a las personas como al ambiente.
 
 4. *(Alternativas)* La composición de un detergente doméstico es relevante
    para evaluar su riesgo potencial porque:
-   a) Determina únicamente el precio del producto y su rendimiento por lavado.
+   a) Determina sobre todo el precio del producto y su rendimiento en cada lavado.
    b) Permite anticipar su reactividad frente a otras sustancias y su
       posible toxicidad.
    c) No tiene relación con la seguridad de su uso, solo con su eficacia de limpieza.
-   d) Solo afecta el color del envase.
+   d) Afecta el color del envase y el olor que deja el producto al usarlo.
    **Respuesta correcta:** b.
    **Retroalimentación:** Conocer la composición química permite prever
    con qué otras sustancias puede reaccionar peligrosamente y qué riesgos
@@ -557,7 +557,7 @@ para proteger tanto a las personas como al ambiente.
 5. *(Alternativas — Evaluación de evidencia)* Una publicación asegura que "mezclar bicarbonato con vinagre en un espacio cerrado genera un gas mortal". ¿Qué evaluación es correcta?
    a) Es correcta: toda mezcla química es mortal
    b) Es incorrecta: la reacción produce dióxido de carbono y agua, y se usa incluso en experimentos escolares seguros
-   c) Es correcta: la mezcla produce cloro gaseoso, que es tóxico en espacios cerrados
+   c) Es correcta: la mezcla produce cloro gaseoso, que es tóxico al respirarse en espacios cerrados como un baño pequeño
    d) Es incorrecta porque no ocurre ninguna reacción química: ambos productos solo se diluyen en el agua sin liberar gases
    **Respuesta correcta:** b) Es incorrecta: la reacción produce dióxido de carbono y agua, y se usa incluso en experimentos escolares seguros.
    **Retroalimentación:** Hay que distinguir reacciones realmente peligrosas (como cloro + amoníaco) de reacciones inofensivas.
@@ -580,7 +580,7 @@ para proteger tanto a las personas como al ambiente.
 8. *(Alternativas — Análisis de caso)* Una fábrica guarda detergentes industriales junto a ácidos de limpieza en el mismo estante "para ahorrar espacio". ¿Qué riesgo hay y qué medida corresponde?
    a) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad
    b) Ningún riesgo, porque son productos de limpieza
-   c) El riesgo es que se ensucie el estante con el polvo de los envases; basta con limpiarlo cada semana con los mismos productos
+   c) El riesgo es que se ensucie el estante con el polvo de los envases; basta con limpiarlo cada semana con los mismos productos que guarda
    d) El riesgo es la falta de espacio para nuevos productos; hay que comprar más estantes y mantener todos los productos de limpieza juntos para encontrarlos rápido
    **Respuesta correcta:** a) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad.
    **Retroalimentación:** Evaluar la seguridad en el trabajo, no solo en el hogar, es parte de lo que se trabaja en esta unidad.
@@ -627,7 +627,7 @@ para proteger tanto a las personas como al ambiente.
     a) El paracetamol es siempre peligroso, incluso en dosis terapéuticas, porque cualquier cantidad daña el hígado de forma permanente
     b) El paracetamol nunca es tóxico
     c) En dosis terapéuticas es seguro y efectivo, pero en exceso es tóxico para el hígado: el riesgo depende de la cantidad
-    d) La dosis no tiene relación con la toxicidad: el riesgo depende solo de la marca y del envase
+    d) La dosis tiene poca relación con la toxicidad: el riesgo depende sobre todo de la marca, del envase y de la fecha de vencimiento del remedio
     **Respuesta correcta:** c) En dosis terapéuticas es seguro y efectivo, pero en exceso es tóxico para el hígado: el riesgo depende de la cantidad.
     **Retroalimentación:** Ninguna sustancia es segura o peligrosa de forma absoluta.
 

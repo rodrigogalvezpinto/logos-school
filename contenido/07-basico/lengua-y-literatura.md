@@ -97,9 +97,9 @@ d) La culpa cruzada entre Valentina e Ignacio por el bote a la deriva, que rompi
 **2. (Alternativas)** ¿Qué rol cumple don Segundo en el conflicto de la historia?
 
 a) No participa en la pelea, pero al ocultar que él dejó mal amarrada la cuerda permite que la culpa cruzada entre los primos se mantenga durante diez años
-b) Es quien provoca la pelea entre los primos al insultar a Valentina por haber dejado mal amarrado el bote aquella tarde
+b) Es quien provoca la pelea entre los primos al insultar a Valentina por haber dejado mal amarrado el bote aquella tarde de invierno
 c) Resuelve el conflicto al comienzo del relato, cuando cuenta toda la verdad sobre la cuerda y los primos se reconcilian de inmediato
-d) No tiene ninguna relación con el conflicto entre los primos, porque estaba fuera del pueblo el día en que el bote quedó a la deriva
+d) Tiene poca relación con el conflicto entre los primos, porque estaba fuera del pueblo el día en que el bote quedó a la deriva en el mar
 
 *Respuesta correcta: a.* Retroalimentación: Don Segundo no participa en la pelea, pero calla que él dejó mal amarrada la cuerda; con ese silencio, la culpa cruzada entre los primos se mantiene durante diez años. Su rol se explica por el efecto de lo que no hizo.
 
@@ -119,9 +119,9 @@ d) "—¡Yo lo amarré bien! —respondió ella"
 **5. (Alternativas)** ¿Qué efecto tiene la acción de don Segundo de callar la verdad sobre quién dejó mal amarrado el bote?
 
 a) Provoca que la relación entre Valentina e Ignacio se rompa durante diez años
-b) Ninguno, porque los primos lo habrían descubierto de todas formas al revisar la cuerda del bote
-c) Hace que Valentina deje de pescar para siempre y venda el bote que le había regalado su abuelo
-d) Provoca que Ignacio se mude a otra ciudad y deje de pescar con su abuelo para siempre
+b) Tiene poco efecto, porque los primos lo habrían descubierto igual al revisar la cuerda del bote
+c) Hace que Valentina deje de pescar y venda el bote que le había regalado su abuelo
+d) Provoca que Ignacio se mude a otra ciudad y deje de pescar con su abuelo
 
 *Respuesta correcta: a.* Retroalimentación: el efecto de una acción de un personaje sobre otros personajes debe rastrearse en la historia; en este caso, el silencio del abuelo es la causa directa de que el conflicto entre los primos se prolongue tanto tiempo.
 
@@ -225,10 +225,10 @@ d) Una aliteración del sonido "s", que imita el sonido suave y prolongado del v
 
 **5. (Alternativas)** ¿Qué figura del lenguaje figurado se usa en "la cordillera se pone su manto blanco y guarda silencio"?
 
-a) Onomatopeya
-b) Hipérbole
+a) Onomatopeya sonora
+b) Hipérbole o exageración
 c) Personificación
-d) Aliteración
+d) Aliteración de sonidos
 
 *Respuesta correcta: c.* Retroalimentación: se le atribuyen a la cordillera acciones propias de un ser humano (vestirse, guardar silencio), lo que corresponde a una personificación.
 
@@ -237,7 +237,7 @@ d) Aliteración
 a) Una lectura pausada y de cadencia lenta, coherente con la atmósfera de calma, silencio y reflexión del poema
 b) Un ritmo rápido y saltado, como el de una canción infantil, que contrasta con la calma del poema
 c) Que el poema deje de ser un poema y se transforme en un texto informativo sobre el paisaje
-d) Ningún efecto: el ritmo de un poema solo depende de la rima, no del largo de los versos
+d) Tiene poco efecto: el ritmo de un poema depende sobre todo de la rima, más que del largo de los versos
 
 *Respuesta correcta: a.* Retroalimentación: el ritmo de un poema no depende solo de la rima; la extensión de los versos y las pausas naturales también producen efectos sonoros y emocionales.
 
@@ -300,10 +300,10 @@ d) Decidir si cruza calles vigiladas para entregar un mensaje urgente, arriesgan
 
 **2. (Alternativas — postura fundamentada)** Frente al dilema de Elena, ¿cuál de estas respuestas es una **postura fundamentada** en el texto?
 
-a) "Creo que acertó porque sí, porque las personas valientes siempre hacen lo correcto sin pensar en los riesgos"
+a) "Creo que acertó porque sí, porque las personas valientes hacen lo correcto sin pensar en los riesgos para ellas"
 b) "No me gustó el cuento, porque tiene un final triste y prefiero las historias donde a nadie le pasa nada"
 c) "Creo que acertó, porque el mensaje era urgente y de él dependía la seguridad de otras familias, aunque el riesgo era muy alto"
-d) "Elena es un nombre bonito y el relato está bien escrito, así que cualquier decisión que tome me parece bien"
+d) "Elena es un nombre bonito y el relato está bien escrito, así que las decisiones que tome me parecen bien"
 
 *Respuesta correcta: c.* Retroalimentación: no existe una única postura correcta frente a un dilema (también podría fundamentarse lo contrario); lo que se evalúa es que la opinión se apoye en razones vinculadas al texto, como el riesgo, la urgencia o las consecuencias.
 
@@ -340,9 +340,9 @@ d) Decidir si acompañar a un compañero que se siente mal hasta la enfermería,
 
 **7. (Alternativas — interpretación integrada)** ¿Qué interpretación del sentido general de "El último turno" integra mejor el dilema, una postura y el contexto histórico?
 
-a) El relato es solo una historia de aventuras en la pampa, sin relación con ningún contexto histórico, y Elena actúa por curiosidad más que por convicción
+a) El relato es una historia de aventuras en la pampa, sin relación clara con un contexto histórico, y Elena actúa por curiosidad, no por su comunidad
 b) El relato muestra que, en el contexto de la represión a los movimientos obreros del salitre, arriesgarse por la comunidad fue un acto de solidaridad valioso, aunque tuviera un costo personal
-c) El relato demuestra que nunca vale la pena ayudar a otros, porque en el contexto de la represión obrera la solidaridad solo trajo consecuencias negativas
+c) El relato muestra que ayudar a otros rara vez vale la pena, porque en el contexto de la represión obrera la solidaridad trae problemas a las familias
 d) El relato trata sobre la vida en una ciudad moderna, donde los trabajadores ya no enfrentan dilemas sobre su comunidad ni sobre su seguridad personal
 
 *Respuesta correcta: b.* Retroalimentación: una buena interpretación conecta el dilema del personaje, una mirada propia y el marco histórico o cultural en el que la obra se sitúa.
@@ -420,7 +420,7 @@ d) Que los recreos duran quince minutos en todos los colegios del mundo, lo que 
 
 **5. (Alternativas)** ¿Cuál de las siguientes oraciones del texto corresponde a un **hecho**, y no a una opinión?
 
-a) "Creo firmemente que la solución no pasa únicamente por prohibir el celular"
+a) "Creo firmemente que la solución no pasa por prohibir el celular en el colegio"
 b) "Muchos colegios municipales de nuestro país tienen patios de cemento sin sombra"
 c) "Hago un llamado a las autoridades educativas: invirtamos en patios"
 d) "El costo de no hacerlo... es mucho más alto a largo plazo"
@@ -438,9 +438,9 @@ d) "Creo que ayudaría, pero no bastaría por sí solo, porque muchos niños tam
 
 **7. (Alternativas — análisis integrado)** ¿Por qué es importante distinguir entre hechos y opiniones al leer una columna de opinión?
 
-a) Porque las opiniones siempre son falsas y deben rechazarse, aunque el autor las respalde con datos
+a) Porque las opiniones tienden a ser falsas y deben rechazarse, aunque el autor las respalde con datos
 b) Porque permite evaluar si la postura del autor está fundamentada en datos verificables y formarse un juicio crítico propio
-c) Porque los hechos no sirven en un texto argumentativo, ya que solo importa la postura del autor
+c) Porque los hechos sirven poco en un texto argumentativo, ya que lo que importa es la postura del autor
 d) No es importante: todo lo que dice una columna es un hecho, porque fue publicada en un medio de prensa
 
 *Respuesta correcta: b.* Retroalimentación: un lector crítico no rechaza automáticamente las opiniones, pero las identifica como tales para evaluarlas con criterio propio en vez de confundirlas con datos objetivos.
@@ -529,9 +529,9 @@ d) 13 puntos porcentuales
 
 **5. (Alternativas)** ¿Qué efecto podría tener la publicación pública del comentario del Texto B sobre Javiera Huenumán?
 
-a) Ningún efecto, porque las redes sociales no influyen en la opinión pública y los comentarios se olvidan al día siguiente
+a) Un efecto menor, porque las redes sociales influyen poco en la opinión pública y los comentarios de los vecinos se olvidan pronto en la comuna
 b) Podría generar desconfianza injustificada hacia su gestión, antes incluso de que esta comience, basada en un prejuicio y no en su desempeño real
-c) Aumentaría automáticamente su popularidad, porque cualquier comentario en redes sociales le da más visibilidad
+c) Aumentaría su popularidad, porque los comentarios en redes sociales le dan más visibilidad a la alcaldesa ante los vecinos de la comuna
 d) Cambiaría el resultado oficial de la elección, porque el Servel revisa los comentarios publicados en redes
 
 *Respuesta correcta: b.* Retroalimentación: inferir el efecto de un texto sobre la persona aludida implica pensar en las consecuencias reales que puede tener la información (o el prejuicio) divulgado públicamente sobre la reputación o percepción de esa persona.
@@ -547,10 +547,10 @@ d) El Texto A informa sobre la asunción de la alcaldesa y los resultados; el Te
 
 **7. (Alternativas — análisis integrado)** ¿Por qué es importante identificar estereotipos y prejuicios en comentarios de redes sociales sobre figuras públicas?
 
-a) Porque todos los comentarios en redes sociales son prejuicios, y por eso conviene no leer ninguno sobre figuras públicas
+a) Porque los comentarios en redes sociales tienden a ser prejuicios, y por eso conviene no leerlos sobre figuras públicas
 b) Porque permite no dejarse influir por juicios injustos y distinguir críticas basadas en hechos de descalificaciones basadas en generalizaciones
 c) Porque así se puede responder con insultos
-d) No es importante, porque las redes sociales no influyen en nadie y las opiniones sobre figuras públicas no tienen ninguna consecuencia
+d) Es poco importante, porque las redes sociales influyen poco en las personas y las opiniones sobre figuras públicas tienen escasas consecuencias
 
 *Respuesta correcta: b.* Retroalimentación: un lector crítico reconoce cuándo una opinión esconde un prejuicio que puede dañar injustamente a las personas aludidas.
 
@@ -620,9 +620,9 @@ Aquí, los conectores ("debido a", "por esta razón", "además", "en síntesis")
 
 **1. (Alternativas)** ¿Qué significa "adecuar el registro" de un texto?
 
-a) Escribir siempre con el mismo vocabulario y la misma estructura, sin importar quién vaya a leer el texto
+a) Escribir con el mismo vocabulario y la misma estructura, sin importar quién vaya a leer el texto ni para qué
 b) Ajustar el vocabulario, la persona gramatical y la estructura del texto según el destinatario, el contexto y el propósito
-c) Usar solo palabras técnicas y formales en cualquier texto, para que se vea más serio y completo
+c) Usar palabras técnicas y formales en los textos, para que se vean más serios y completos ante el lector
 d) Evitar por completo el uso de conectores, para que las oraciones sean más cortas y fáciles de leer
 
 *Respuesta correcta: b.* Retroalimentación: adecuar el registro significa tomar decisiones conscientes sobre el vocabulario y la estructura de un texto según a quién está dirigido y para qué se escribe, ya que no es lo mismo escribir a un amigo que a una autoridad.
@@ -643,9 +643,9 @@ d) Las estudiante han entregado sus tareas atrasado.
 **4. (Alternativas)** ¿Por qué no es adecuado escribir una carta formal a la directora con el mismo registro de un mensaje de texto a un amigo?
 
 a) Porque el destinatario (una autoridad) y el propósito (una solicitud formal) exigen vocabulario y tono formales, con fórmulas de cortesía
-b) Porque las cartas formales deben ser siempre más largas y usar palabras difíciles, aunque la directora no las entienda bien al leerlas
+b) Porque las cartas formales deben ser más largas y usar palabras difíciles, aunque la directora no las entienda bien al leerlas
 c) Porque a las autoridades no se les puede escribir
-d) Porque el registro coloquial está prohibido en todos los textos escritos, incluso en los mensajes de texto entre amigos
+d) Porque el registro coloquial está prohibido en los textos escritos, incluso en los mensajes de texto entre amigos
 
 *Respuesta correcta: a.* Retroalimentación: elegir el registro adecuado depende de quién va a leer el texto y para qué se escribe; usar el registro equivocado puede parecer poco respetuoso o poco serio.
 

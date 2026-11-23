@@ -126,10 +126,10 @@ forma ordenada.
 1. *(Alternativas)* Read: *"In this dystopian novel, the government controls
    all information citizens can access, and independent thought is
    punished."* ¿Cuál es el elemento principal del tema tratado?
-   a) A government that promotes free speech and protects independent thinkers.
+   a) A government that promotes free speech and protects independent thinkers and artists.
    b) A story about space exploration and the discovery of new planets by citizens.
    c) A society where the government controls information and punishes independent thought.
-   d) A romantic comedy set in the future, where citizens look for love online.
+   d) A romantic comedy set in the future, where young citizens look for love on the internet.
    **Respuesta correcta:** c.
    **Retroalimentación:** El elemento central es el control gubernamental de
    la información y la represión del pensamiento independiente — rasgos
@@ -216,9 +216,9 @@ forma ordenada.
     **Retroalimentación:** El Texto A, de una revista científica, usa vocabulario técnico para lectores especializados; el Texto B, un blog para adolescentes, explica con comparaciones simples y humor, en un tono informal.
 
 11. *(Alternativas — Comprensión — desafiante)* Read: *"This article was written for a general audience with no scientific background. It uses simple analogies, such as comparing neural networks to how the human brain learns, to explain artificial intelligence."* Why does the author use simple analogies instead of technical language?
-    a) Because the author does not know technical words and prefers to write simple texts
-    b) Because analogies make the text longer and more entertaining for any kind of reader
-    c) Because the text is written for scientists who already understand neural networks
+    a) Because the author does not know technical words and prefers to write simple texts for kids
+    b) Because analogies make the text longer and more entertaining for any kind of reader online
+    c) Because the text is written for scientists who already understand how neural networks work
     d) Because the audience has no scientific background, so analogies make the topic easier to understand
     **Respuesta correcta:** d) Because the audience has no scientific background, so analogies make the topic easier to understand.
     **Retroalimentación:** Se conecta una decisión del autor (usar analogías simples) con el propósito y la audiencia del texto.
@@ -254,9 +254,9 @@ forma ordenada.
 
 15. *(Alternativas — Organizar en tabla — desafiante)* Read: *"The short story 'The Last Signal' is set on a spaceship lost in deep space. The main character, an engineer named Reyes, must repair the ship's AI before the oxygen runs out. The story explores themes of isolation and trust in technology."* Which option completes *Setting / Main character / Main problem / Themes*?
     a) a spaceship lost in deep space / Reyes, an engineer / repairing the AI before the oxygen runs out / isolation and trust in technology
-    b) a planet far from Earth / the AI of the ship, named Signal / Reyes runs out of oxygen / friendship and love in space
+    b) a planet far from Earth / the AI of the ship, named Signal / Reyes runs out of oxygen / friendship and love in deep space
     c) a spaceship that crashed on Earth / the oxygen tank / repairing Reyes, the engineer / adventure and exploration in space
-    d) deep space near a new planet / an astronaut named Signal / finding a new planet to live / isolation and loneliness
+    d) deep space near a new planet / an astronaut named Signal / finding a new planet to live on / isolation and loneliness
     **Respuesta correcta:** a) a spaceship lost in deep space / Reyes, an engineer / repairing the AI before the oxygen runs out / isolation and trust in technology.
     **Retroalimentación:** El texto dice dónde ocurre (una nave perdida en el espacio), quién es el protagonista (Reyes, un ingeniero), cuál es el conflicto (reparar la IA antes de que se acabe el oxígeno) y el tema (aislamiento y confianza en la tecnología).
 
@@ -338,9 +338,9 @@ estas estructuras con una postura personal crítica.
 2. *(Alternativas)* ¿Qué oración expresa correctamente **certeza sobre el
    pasado** usando un modal de especulación?
    a) He must have forgotten his homework.
-   b) He must forgetting his homework.
-   c) He must forgot his homework.
-   d) He must to forget his homework.
+   b) He must forgetting his homework again.
+   c) He must forgot his homework at home.
+   d) He must to forget his homework today.
    **Respuesta correcta:** a.
    **Retroalimentación:** La estructura correcta es *must have* + participio
    pasado (*forgotten*) para expresar certeza sobre algo ocurrido en el
@@ -418,8 +418,8 @@ estas estructuras con una postura personal crítica.
     se ajusta mejor a la estructura de una reseña con postura crítica?
     a) "The series has robots, spaceships and a lot of special effects, and the main character is a scientist. It has ten episodes."
     b) "In my opinion, the series' exploration of artificial intelligence raises questions that most viewers might have never considered before."
-    c) "I watched a series about robots last weekend with my family, and it had ten episodes in total."
-    d) "Robots are in movies."
+    c) "I watched a series about robots last weekend with my family, and it had ten long episodes in total, with a very surprising ending."
+    d) "Robots are in many movies and series, and I like robots a lot because they look cool on screen."
     **Respuesta correcta:** b.
     **Retroalimentación:** La opción b) combina una postura personal (*in my
     opinion*), un modal de especulación (*might have never considered*) y
@@ -534,9 +534,9 @@ sobre otras visiones de mundo y la tuya propia.
 
 1. *(Alternativas)* ¿Qué oración usa **léxico apropiado** para un texto
    sobre identidad cultural?
-   a) "I have a culture, and my culture is a culture that I have."
+   a) "I have a culture, and my culture is a culture that I have every day."
    b) "My heritage and upbringing have shaped my sense of belonging to my community."
-   c) "My country is nice and my community is nice, so I like it a lot."
+   c) "My country is nice and my community is nice, so I like it a lot, really."
    d) "I like things from my culture, like the food and the music and stuff."
    **Respuesta correcta:** b.
    **Retroalimentación:** La opción b) usa vocabulario específico del campo
@@ -544,10 +544,10 @@ sobre otras visiones de mundo y la tuya propia.
    en vez de expresiones genéricas.
 
 2. *(Alternativas — Completar)* Complete the sentence using appropriate lexicon about identity: *"Growing up speaking two languages has shaped my ___ in ways I'm still discovering."*
-   a) thing
+   a) things
    b) identity
    c) stuff
-   d) object
+   d) objectives
    **Respuesta correcta:** b) identity.
    **Retroalimentación:** El término específico (*identity*) es más apropiado que una palabra genérica como *thing* para este tema.
 
@@ -560,9 +560,9 @@ sobre otras visiones de mundo y la tuya propia.
 
 4. *(Alternativas — Marco de síntesis)* Which option uses the synthesis frame *"According to the article, ___. Meanwhile, in the interview, ___. Both sources suggest that ___."* correctly?
    a) According to the article, I like pizza and pasta. Meanwhile, in the interview, the weather was nice and sunny. Both sources suggest that football is fun and that teenagers like sports.
-   b) According to the article, the article. Meanwhile, the interview. Both sources suggest.
+   b) According to the article, the article says things. Meanwhile, the interview says other things. Both sources suggest things about teens.
    c) According to the article, many teens feel proud of their roots. Meanwhile, in the interview, a student said that traditions made her feel connected. Both sources suggest that culture strengthens identity.
-   d) According to me, nothing. Meanwhile, nothing. Both sources suggest nothing.
+   d) According to me, nothing important happens. Meanwhile, in the interview, nothing happens. Both sources suggest nothing about teens.
    **Respuesta correcta:** c) According to the article, many teens feel proud of their roots. Meanwhile, in the interview, a student said that traditions made her feel connected. Both sources suggest that culture strengthens identity.
    **Retroalimentación:** Este marco (*according to... meanwhile... both sources suggest...*) organiza una síntesis coherente de dos fuentes sobre un mismo tema.
 
@@ -576,8 +576,8 @@ sobre otras visiones de mundo y la tuya propia.
 
 6. *(Alternativas — Comprensión)* Read: *"Interviewer: What does being Chilean mean to you? Teenager: It means valuing family, sharing good food, and being proud of where I come from, even when I disagree with some things about my country."* According to the teenager, what does being Chilean mean?
    a) Agreeing with everything about the country, even the things that are wrong, and never criticizing it in public
-   b) Living far away from their family and missing the country every day
-   c) Only cooking traditional food and celebrating national holidays
+   b) Living far away from their family and missing the country every day of the year
+   c) Cooking traditional food and celebrating national holidays, and nothing else
    d) Valuing family, sharing good food and being proud of their country, even while disagreeing with some things
    **Respuesta correcta:** d) Valuing family, sharing good food and being proud of their country, even while disagreeing with some things.
    **Retroalimentación:** La respuesta debe usar la información explícita del texto oral (transcripción), no una opinión personal.
@@ -585,7 +585,7 @@ sobre otras visiones de mundo y la tuya propia.
 7. *(Alternativas — desafiante)* Estás escribiendo un párrafo final sobre tu
    propia identidad, integrando estructuras de todo el ciclo escolar. ¿Qué
    oración logra esto de forma más completa?
-   a) "I am Chilean."
+   a) "I am Chilean, and I was born in Chile, so I am Chilean in my country."
    b) "If I hadn't grown up surrounded by traditions that are still celebrated today, I wouldn't have understood how much my roots have shaped who I am."
    c) "My family likes traditions, and we celebrate many of them every year with music and food. I think traditions are important for everybody in my country."
    d) "Chile has many traditions that are celebrated in September, like dances, food and games."
@@ -614,7 +614,7 @@ sobre otras visiones de mundo y la tuya propia.
     a) "Looking back, I realize identity is built through roots. If I don't compare my traditions with those of other countries, I won't value my own culture as much."
     b) "If I would have compared my traditions with those of other countries, I would valued my culture more. Identity is built through roots and experiences. Looking back, I realize this."
     c) "Looking back, I realize that identity is built through both roots and new experiences. If I hadn't compared my traditions with those of other countries, I wouldn't have valued my own culture as much."
-    d) "Identity is good. The end."
+    d) "Identity is good and roots are good. Experiences are also good. The end."
     **Respuesta correcta:** c) "Looking back, I realize that identity is built through both roots and new experiences. If I hadn't compared my traditions with those of other countries, I wouldn't have valued my own culture as much.".
     **Retroalimentación:** El tercer condicional usa *if + had + participio, would have + participio*; el párrafo además incluye léxico apropiado y una reflexión genuina.
 
@@ -627,9 +627,9 @@ sobre otras visiones de mundo y la tuya propia.
 
 12. *(Alternativas)* ¿Qué oración usa **léxico apropiado** para un texto
     sobre el sentido de pertenencia a una comunidad?
-    a) "I know people."
+    a) "I know people in my town, and they know me, and we are people who know each other."
     b) "Being part of my local community has given me a strong sense of belonging, especially through shared traditions."
-    c) "My town is fine, and there are some shops and a park near my house."
+    c) "My town is fine, and there are some shops and a park near my house where I sometimes walk."
     d) "There are people near my house, and some of them are my neighbors and friends. We say hello every day."
     **Respuesta correcta:** b.
     **Retroalimentación:** La opción b) usa vocabulario específico del campo

@@ -129,9 +129,9 @@ now* (condición).
    climate in 2018. Her actions inspired millions of young people around the
    world to demand action on climate change."* ¿Qué información es explícita
    en el texto?
-   a) Greta Thunberg is a scientist who studies the climate.
+   a) Greta Thunberg is a scientist who studies the climate in Sweden.
    b) Greta Thunberg stopped caring about climate change after 2018.
-   c) Greta Thunberg only inspired adults to protest in 2018.
+   c) Greta Thunberg inspired mostly adults to protest in 2018.
    d) Greta Thunberg started a school strike in 2018 that inspired millions.
    **Respuesta correcta:** d.
    **Retroalimentación:** La información explícita aparece literalmente en
@@ -171,10 +171,10 @@ now* (condición).
    **Retroalimentación:** Las preguntas con *how much* buscan un dato puntual (cantidad), no la idea general.
 
 6. *(Alternativas — Completar)* Read: *"Malala Yousafzai is a Pakistani activist. She was born in 1997 and won the Nobel Peace Prize in 2014 for her work on girls' education."* Nationality: ___ / Year of birth: ___ / Achievement: ___
-   a) Pakistani / 2014 / was born in 1997 and studied in Pakistan
-   b) Indian / 1997 / won the Nobel Prize in Literature for her books
+   a) Pakistani / 2014 / was born in 1997 and studied in Pakistan and England
+   b) Indian / 1997 / won the Nobel Prize in Literature for her books about girls
    c) Pakistani / 1997 / won the Nobel Peace Prize for her work on girls' education
-   d) Activist / Pakistani / 1997, the year she won the Nobel Prize
+   d) Activist / Pakistani / 1997, the year she won the Nobel Peace Prize in Oslo
    **Respuesta correcta:** c) Pakistani / 1997 / won the Nobel Peace Prize for her work on girls' education.
    **Retroalimentación:** El texto dice que Malala es pakistaní (nacionalidad), nació en 1997 (año) y ganó el Premio Nobel de la Paz por su trabajo por la educación de las niñas (logro). Cada dato va en su categoría.
 
@@ -193,8 +193,8 @@ now* (condición).
 
 8. *(Alternativas — Resumir — desafiante)* Read: *"Streaming services have changed how people watch movies and TV shows. Instead of going to a store, people can now watch content anytime, anywhere. However, some experts worry that this constant availability increases screen time among teenagers."* Which summary answers *What changed? What is the benefit? What is the concern?*
    a) Streaming services have changed how people watch content, allowing access anytime, anywhere. However, experts worry it increases teenagers' screen time.
-   b) People go to stores to buy movies and TV shows, and they watch them only at home with their families on weekends.
-   c) Streaming services reduce screen time among teenagers, because they can choose exactly what to watch and when to stop.
+   b) People go to stores to buy movies and TV shows, and they watch them only at home with their families on weekends and holidays.
+   c) Streaming services reduce screen time among teenagers, because they can choose exactly what to watch and when to stop watching it.
    d) Experts love watching movies at the cinema, and they worry that people no longer go to stores to buy DVDs and video games.
    **Respuesta correcta:** a) Streaming services have changed how people watch content, allowing access anytime, anywhere. However, experts worry it increases teenagers' screen time.
    **Retroalimentación:** El resumen dice qué cambió (cómo vemos películas y series), cómo (en cualquier momento y lugar) y cuál es la preocupación (más tiempo frente a pantallas de los adolescentes), con otras palabras y sin agregar datos.
@@ -279,9 +279,9 @@ illogical*).
 1. *(Alternativas)* Read: *"Reduce your carbon footprint! Walk or bike
    instead of driving, and turn off lights when you leave a room."* ¿Cuál es
    el propósito de este texto?
-   a) To entertain
+   a) To entertain readers
    b) To sell a product
-   c) To tell a story
+   c) To tell a short story
    d) To persuade/instruct
    **Respuesta correcta:** d) To persuade/instruct.
    **Retroalimentación:** Los avisos de concientización ambiental buscan
@@ -498,17 +498,17 @@ Para un texto de opinión: presenta tu preferencia, da al menos una razón (*bec
    **Retroalimentación:** Malala es una líder conocida; decir que es un modelo a seguir y justificarlo con su lucha por la educación de las niñas conecta lógicamente las tres partes de la oración.
 
 6. *(Alternativas — Función)* ¿Qué función cumple *"As a result, more people are losing their jobs to automation"*?
-   a) Dar un ejemplo
+   a) Dar un ejemplo concreto
    b) Expresar una condición
-   c) Hacer una pregunta
+   c) Hacer una pregunta al lector
    d) Expresar una consecuencia
    **Respuesta correcta:** d) Expresar una consecuencia.
    **Retroalimentación:** *As a result* introduce una consecuencia derivada de una causa mencionada antes.
 
 7. *(Alternativas — Completar — desafiante)* Choose the best caption for a picture of a wind farm: *"This picture shows ___. In my opinion, ___ unless ___."*
-   a) a wind farm generating clean energy / this is terrible / it is clean and renewable
+   a) a wind farm generating clean energy / this is terrible / it is clean and renewable for everybody
    b) a wind farm generating clean energy / this is a great solution / it affects local wildlife too much
-   c) a coal mine producing energy / this is a great solution / it pollutes the air too much
+   c) a coal mine producing energy / this is a great solution / it pollutes the air of the town too much
    d) a wind farm / unless / in my opinion it is a great solution for clean energy
    **Respuesta correcta:** b) a wind farm generating clean energy / this is a great solution / it affects local wildlife too much.
    **Retroalimentación:** La opción describe la imagen (un parque eólico que genera energía limpia), da una opinión (es una gran solución) y la matiza con «unless» (a menos que afecte demasiado a la fauna local).
@@ -526,8 +526,8 @@ Para un texto de opinión: presenta tu preferencia, da al menos una razón (*bec
    relevante (quién fue, qué hizo, desde cuándo), como corresponde al escribir a partir de textos leídos.
 
 9. *(Alternativas — Preferencias)* Which sentence correctly expresses a preference with a reason?
-   a) I would rather to recycle than throwing everything away.
-   b) I prefer recycle than throwing things away because good.
+   a) I would rather to recycle than throwing everything away in the bin.
+   b) I prefer recycle than throwing things away because is good for all.
    c) I prefer recycling to throwing everything away because it reduces waste.
    d) I rather recycling than throw everything away because of waste.
    **Respuesta correcta:** c) I prefer recycling to throwing everything away because it reduces waste.
@@ -637,7 +637,7 @@ El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
 **Banco de autoevaluación**
 
 1. *(Alternativas — Completar)* Complete: *"There is ___ time left before the exam, so let's hurry."*
-   a) few
+   a) a lot
    b) many
    c) little
    d) a few
@@ -646,10 +646,10 @@ El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
 
 2. *(Alternativas)* ¿Qué oración usa correctamente el presente perfecto
    continuo para una acción que empezó en el pasado y sigue ocurriendo?
-   a) She work here since 2018.
+   a) She work here since 2018, every day.
    b) She has been working here for three years.
-   c) She worked here for three years.
-   d) She is working here for three years.
+   c) She worked here for three years now.
+   d) She is working here for three years now.
    **Respuesta correcta:** b.
    **Retroalimentación:** El presente perfecto continuo (*has been
    working*) enfatiza la duración de una acción que continúa hasta el
@@ -703,9 +703,9 @@ El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
 
 9. *(Alternativas — desafiante)* ¿Qué oración usa correctamente un pronombre
    reflexivo?
-   a) He cut him with the knife.
+   a) He cut him with the kitchen knife.
    b) He cut himself with the knife.
-   c) He cut he with the knife.
+   c) He cut he with the kitchen knife.
    d) He cut his with the knife.
    **Respuesta correcta:** b.
    **Retroalimentación:** *Himself* indica que la acción recae sobre el

@@ -128,3 +128,118 @@ def distractores(archivo, n, nuevos):
             assert (despues[m2][0].opciones, despues[m2][1].respuesta_correcta) == (p.opciones, r.respuesta_correcta), m2
     ruta.write_text(t, encoding='utf-8')
     print(f'ok {archivo}#{n} — prob. de acierto del truco: {prob_acierto(p1.opciones, k):.0%}')
+
+
+# ---------------------------------------------------------------------------------------------------------------
+# Guías (bancos de autoevaluación), 2026-11-24. Las preguntas se identifican por (OA, n.º dentro del OA), ambos desde 1
+# en el orden del archivo. `listar_guia` los muestra como «OA 4·2».
+from parser_contenido import parsear_guia  # noqa: E402
+
+
+def _preguntas_guia(texto):
+    salida = []
+    for o in parsear_guia(texto):
+        for i, p in enumerate(o.preguntas, start=1):
+            salida.append(((o.codigo_oficial, o.modulo), i, p))
+    return salida
+
+
+def _alternativas_guia(texto):
+    return [(k, i, p) for k, i, p in _preguntas_guia(texto)
+            if p.tipo == 'alternativas' and p.opciones and len(p.opciones) >= 3 and p.respuesta_correcta in p.opciones]
+
+
+def resumen_guias(patron='*/*.md'):
+    por_curso = {}
+    for f in sorted(glob.glob(str(RAIZ / 'contenido' / patron))):
+        rel = f.split('contenido/')[1]
+        if rel.count('/') != 1 or '/00-' in rel:
+            continue
+        for _, _, p in _alternativas_guia(Path(f).read_text(encoding='utf-8')):
+            c = por_curso.setdefault(rel.split('/')[0], [0, 0])
+            c[1] += 1
+            c[0] += prob_acierto(p.opciones, p.opciones.index(p.respuesta_correcta))
+    for curso, (ok, n) in sorted(por_curso.items()):
+        print(f'{curso}: {100 * ok / n:.1f}% (n={n})')
+    return por_curso
+
+
+def con_pista_guia(archivo):
+    t = (RAIZ / 'contenido' / archivo).read_text(encoding='utf-8')
+    return [(k, i, p) for k, i, p in _alternativas_guia(t)
+            if prob_acierto(p.opciones, p.opciones.index(p.respuesta_correcta)) >= 0.5]
+
+
+def listar_guia(archivo, enunciado=True):
+    lista = con_pista_guia(archivo)
+    print(f'{archivo}: {len(lista)} con pista')
+    for (oa, mod), i, p in lista:
+        k = p.opciones.index(p.respuesta_correcta)
+        print(f'\n[{oa}{"/" + mod if mod else ""}·{i}]' + (f'  {re.sub(chr(10) + "+", " ", p.enunciado)[-200:]}' if enunciado else ''))
+        for j, o in enumerate(p.opciones):
+            marca = '✔' if j == k else ('✗' if ABSOLUTAS.search(o) else ' ')
+            print(f'   {marca} {"abcd"[j]}) [{len(o)}] {o}')
+
+
+def distractores_guia(archivo, oa, i, nuevos, modulo=None):
+    """Cambia distractores de la pregunta i (desde 1) del OA `oa` (p. ej. 'OA 4') de una guía."""
+    ruta = RAIZ / 'contenido' / archivo
+    t = ruta.read_text(encoding='utf-8')
+    antes = _preguntas_guia(t)
+    objetivo = [(k, j, p) for k, j, p in antes if k[0] == oa and j == i and (modulo is None or k[1] == modulo)]
+    assert len(objetivo) == 1, f'{archivo}: no ubico {oa}·{i} ({len(objetivo)} coincidencias)'
+    p0 = objetivo[0][2]
+    assert p0.tipo == 'alternativas'
+    k = p0.opciones.index(p0.respuesta_correcta)
+    # Ancla: las últimas palabras del enunciado; si no se encuentran (marcado especial), la línea de la alternativa
+    # correcta retrocedida 1.500 caracteres. Se recalcula después de cada reemplazo.
+    palabras = re.sub(r'[*_>#]', ' ', p0.enunciado).split()[-6:]
+    ancla_enunciado = re.compile(r'\s+'.join(re.escape(w) for w in palabras))
+    cuerpo_k = r'\s+'.join(re.escape(w) for w in p0.opciones[k].split())
+    ancla_clave = re.compile(rf'(?m)^[ \t>*-]*\(?{"abcd"[k]}\)[ \t]+{cuerpo_k}[ \t]*$')
+
+    def anclas(texto):
+        pos = [m.end() for m in ancla_enunciado.finditer(texto)]
+        return pos or [max(0, m.start() - 1500) for m in ancla_clave.finditer(texto)]
+
+    assert anclas(t), f'{archivo}: no ubico el enunciado de {oa}·{i}'
+    for letra, texto in nuevos.items():
+        j = 'abcd'.index(letra)
+        assert j != k, f'{archivo} {oa}·{i}: «{letra}» es la clave'
+        viejo = p0.opciones[j]
+        cuerpo = r'\s+'.join(re.escape(w) for w in viejo.split())
+        patron = re.compile(rf'(?m)^([ \t>*-]*\(?{letra}\)[ \t]+){cuerpo}[ \t]*$')
+        candidatos = [m for a in anclas(t) for m in [patron.search(t, a)] if m and m.start() - a < 3000]
+        if len({c.start() for c in candidatos}) > 1:
+            candidatos = [min(candidatos, key=lambda c: c.start())]
+        candidatos = list({m.start(): m for m in candidatos}.values())
+        assert len(candidatos) == 1, f'{archivo} {oa}·{i}: no ubico {letra}) «{viejo[:40]}» ({len(candidatos)})'
+        m = candidatos[0]
+        t = t[:m.start()] + m.group(1) + texto.strip() + t[m.end():]
+    despues = _preguntas_guia(t)
+    assert len(despues) == len(antes)
+    for (ka, ia, pa), (kd, idd, pd) in zip(antes, despues):
+        assert (ka, ia, pa.tipo, pa.respuesta_correcta, pa.retroalimentacion) == (kd, idd, pd.tipo, pd.respuesta_correcta, pd.retroalimentacion), (ka, ia)
+        if (ka, ia) != (objetivo[0][0], i):
+            assert pa.opciones == pd.opciones and pa.enunciado == pd.enunciado, (ka, ia)
+        else:
+            assert pd.opciones.index(pd.respuesta_correcta) == k
+            for letra, texto in nuevos.items():
+                assert pd.opciones['abcd'.index(letra)] == texto.strip()
+    ruta.write_text(t, encoding='utf-8')
+    print(f'ok {archivo} {oa}·{i} — {prob_acierto(pd.opciones, k):.0%}' if False else
+          f'ok {archivo} {oa}·{i} — prob. del truco: {prob_acierto([q for q in despues if q[0] == objetivo[0][0] and q[1] == i][0][2].opciones, k):.0%}')
+
+
+def seguras_guia(patron):
+    """Preguntas de guía donde el truco acierta con certeza (100 %), las más rentables de corregir."""
+    for f in sorted(glob.glob(str(RAIZ / 'contenido' / patron))):
+        rel = f.split('contenido/')[1]
+        if rel.count('/') != 1 or '/00-' in rel:
+            continue
+        for (oa, mod), i, p in _alternativas_guia(Path(f).read_text(encoding='utf-8')):
+            k = p.opciones.index(p.respuesta_correcta)
+            if prob_acierto(p.opciones, k) == 1:
+                print(f'\n{rel} [{oa}{"/" + mod if mod else ""}·{i}]')
+                for j, o in enumerate(p.opciones):
+                    print(f'   {"✔" if j == k else ("✗" if ABSOLUTAS.search(o) else " ")} {"abcd"[j]}) [{len(o)}] {o}')

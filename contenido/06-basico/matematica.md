@@ -101,7 +101,7 @@ d) $10.908.000
 **Pregunta 6 (alternativas — estimación y verificación).** Se calculó que 28.400 ÷ 40 = 710. ¿Cuál es una forma rápida y correcta de comprobar si el resultado es razonable, sin calculadora?
 a) Sumar 28.400 + 40 = 28.440 y ver que es parecido a 28.400
 b) Dividir 710 ÷ 40 y ver si el resultado se acerca a 28.400
-c) Restar 28.400 − 710 y ver si el resultado es múltiplo de 40, sin hacer ninguna estimación
+c) Restar 28.400 − 710 y ver si el resultado es múltiplo de 40, sin hacer una estimación previa
 d) Estimar 28.000 ÷ 40 = 700, que está muy cerca de 710, o multiplicar 710 × 40 = 28.400
 
 **Respuesta correcta: d) Estimar 28.000 ÷ 40 = 700, que está muy cerca de 710, o multiplicar 710 × 40 = 28.400.**
@@ -256,7 +256,7 @@ d) 110
 
 **Pregunta 6 (alternativas — representación pictórica).** En una cuadrícula de 10×10 casillas (100 en total), se colorean 65 casillas. ¿Qué porcentaje, fracción y decimal representa esa cantidad?
 a) 65%, 65/100 (13/20) y 0,65
-b) 65%, 65/10 y 6,5
+b) 65%, 65/10 (13/2) y 6,5
 c) 35%, 35/100 y 0,35
 d) 6,5%, 65/100 y 0,065
 
@@ -650,7 +650,7 @@ d) 24 cm²
 **Pregunta 3 (alternativas).** ¿Cuál es el área total de un paralelepípedo de 6 cm de largo, 4 cm de ancho y 3 cm de alto?
 a) 13 cm²
 b) 54 cm²
-c) 72 cm²
+c) 216 cm²
 d) 108 cm²
 
 **Respuesta correcta: d) 108 cm².**
@@ -733,7 +733,7 @@ d) 140 cm³
 **Pregunta 4 (alternativas — volumen en mm³).** Un dado (cubo pequeño) tiene aristas de 10 mm. ¿Cuál es su volumen?
 a) 100 mm³
 b) 1.000 mm³
-c) 30 mm³
+c) 3.000 mm³
 d) 600 mm³
 
 **Respuesta correcta: b) 1.000 mm³.**
@@ -811,10 +811,10 @@ d) 8
 *Retroalimentación:* en cada lanzamiento hay 2 posibilidades, y se repite 3 veces: 2×2×2 = 8 (CCC, CCS, CSC, CSS, SCC, SCS, SSC, SSS). Sumar 2+2+2 = 6 no cuenta todos los caminos del árbol.
 
 **Pregunta 4 (alternativas — conjetura fundamentada).** Un estudiante lanzó una moneda 20 veces y obtuvo 18 caras y 2 sellos. ¿Es lo esperado para una moneda "justa"?
-a) Sí: lo normal es obtener casi siempre caras, porque la cara de la moneda pesa más que el sello
+a) Sí: lo normal es obtener casi en cada lanzamiento caras, porque el lado de la cara de la moneda pesa más que el sello y cae hacia abajo con más frecuencia
 b) No: se esperaría cerca de la mitad de caras (unas 10); 18 de 20 es poco probable, aunque con pocos lanzamientos el azar puede alejar el resultado
-c) Sí: con una moneda justa siempre salen 18 caras de 20, porque cada lanzamiento repite el anterior y el sello sale muy pocas veces al lanzar
-d) No se puede decir nada de una moneda: cualquier resultado es igual de probable en 20 lanzamientos
+c) Sí: con una moneda justa suelen salir 18 caras de 20, porque cada lanzamiento repite el anterior y el sello sale poco
+d) No se puede decir nada de una moneda: los distintos resultados son igual de probables en 20 lanzamientos, sin importar cuántas caras salgan
 
 **Respuesta correcta: b) No: se esperaría cerca de la mitad de caras (unas 10); 18 de 20 es poco probable, aunque con pocos lanzamientos el azar puede alejar el resultado.**
 *Retroalimentación:* la tendencia esperada se cumple mejor mientras más repeticiones se hagan; una diferencia tan grande podría indicar que la moneda no es justa.
@@ -830,9 +830,9 @@ d) 6
 
 **Pregunta 6 (alternativas — problema en contexto).** En una bolsa hay solo bolitas rojas y azules. Al sacar una bolita, devolverla y repetir 50 veces, salieron 35 rojas y 15 azules. ¿Qué conjetura es razonable?
 a) Hay más bolitas rojas que azules, en una razón cercana a 7:3
-b) Hay exactamente 35 rojas y 15 azules dentro de la bolsa
-c) Hay más azules que rojas
-d) Hay la misma cantidad de cada color
+b) Hay 35 rojas y 15 azules dentro de la bolsa, sin duda
+c) Hay más bolitas azules que rojas en la bolsa
+d) Hay la misma cantidad de bolitas de cada color en la bolsa
 
 **Respuesta correcta: a) Hay más bolitas rojas que azules, en una razón cercana a 7:3.**
 *Retroalimentación:* sin ver la bolsa no se sabe la cantidad exacta, pero la tendencia (70% rojas, 30% azules) permite una conjetura razonable sobre la proporción.

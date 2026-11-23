@@ -195,9 +195,9 @@ parecen al español (cognados), como *chocolate*, *hospital* o *radio*.
 
 1. *(Alternativas)* Read: *"You are invited to my birthday party!"* ¿Cuál es el
    propósito de este texto?
-   a) Dar una receta
-   b) Describir el clima
-   c) Pedir disculpas
+   a) Dar una receta de cocina
+   b) Describir el clima del día
+   c) Pedir disculpas a un amigo
    d) Invitar a una celebración
    **Respuesta correcta:** d) Invitar a una celebración.
    **Retroalimentación:** La palabra *invited* (invitado/a) y la mención de

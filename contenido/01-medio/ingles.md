@@ -144,16 +144,16 @@ usan expresiones como *he is good at...* o *she is interested in...*.
 
 4. *(Alternativas — Comprensión)* Read: *"In 1969, astronauts landed on the Moon for the first time. Millions of people watched the event on television."* *When did astronauts first land on the Moon?*
    a) They landed on television.
-   b) They landed in 1996.
-   c) Millions of people landed.
+   b) They landed in 1996 in Russia.
+   c) Millions of people landed there.
    d) They landed on the Moon in 1969.
    **Respuesta correcta:** d) They landed on the Moon in 1969.
    **Retroalimentación:** La respuesta usa la fecha exacta mencionada en el texto (información explícita).
 
 5. *(Alternativas — Tipo de información)* ¿Qué tipo de información busca *"How many people watched the event?"*?
    a) La idea general del texto
-   b) El propósito del texto
-   c) La opinión del autor
+   b) El propósito general del texto
+   c) La opinión personal del autor
    d) Información específica (una cifra)
    **Respuesta correcta:** d) Información específica (una cifra).
    **Retroalimentación:** Las preguntas con *how many* buscan un dato puntual (número).
@@ -281,8 +281,8 @@ Para encontrar la idea principal pregunta: ¿de qué trata todo el párrafo? Los
 1. *(Alternativas)* Read: *"Save water! Take shorter showers and turn off the
    tap while brushing your teeth."* ¿Cuál es el propósito de este texto?
    a) To persuade/instruct
-   b) To entertain
-   c) To tell a story
+   b) To entertain readers
+   c) To tell a short story
    d) To sell a product
    **Respuesta correcta:** a) To persuade/instruct.
    **Retroalimentación:** Los avisos de concientización buscan persuadir al
@@ -491,10 +491,10 @@ Estructuras: *prefer + -ing + to + -ing*; *would rather + verbo base + than + ve
    **Retroalimentación:** Usar menos plástico y reciclar más reduce directamente la contaminación por plástico, así que la solución responde de forma lógica al problema.
 
 6. *(Alternativas — Función)* ¿Qué función cumple *"As a result, many species are in danger"*?
-   a) Dar un ejemplo
+   a) Dar un ejemplo concreto
    b) Expresar una consecuencia
    c) Expresar una opinión
-   d) Hacer una pregunta
+   d) Hacer una pregunta al lector
    **Respuesta correcta:** b) Expresar una consecuencia.
    **Retroalimentación:** *As a result* introduce una consecuencia derivada de una causa mencionada antes.
 
@@ -713,8 +713,8 @@ El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
    ocupación y una cualidad de la persona?
    a) He teacher and he very patient with his students.
    b) He is a teacher and he is very patient with his students.
-   c) Teacher patient students, he is very a teacher.
-   d) He teaches every day at a school near his house.
+   c) Teacher patient students, he is very a teacher at school.
+   d) He teaches every day at a school near his house in town.
    **Respuesta correcta:** b.
    **Retroalimentación:** Una buena descripción combina la ocupación (*a
    teacher*) con una cualidad personal (*very patient*) en una oración

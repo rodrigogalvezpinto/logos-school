@@ -190,7 +190,7 @@ Un cultivo de bacterias se **duplica** cada hora; parte con 500 bacterias. Despu
 
 **Pregunta 1 (alternativas).** ¿Cuál es el valor de 2⁻³?
 a) −8
-b) −6
+b) −1/8
 c) 1/8
 d) 8
 
@@ -248,8 +248,8 @@ d) 4.000 × 2⁵ = 128.000
 *Retroalimentación:* una reducción a la mitad repetida n veces se escribe (1/2)ⁿ o, equivalentemente, 2⁻ⁿ.
 
 **Pregunta 8 (alternativas — comparar crecimiento y decrecimiento).** Sin calcular, ¿qué se puede afirmar de (3/2)⁴ y (2/3)⁴?
-a) Ambas son mayores que 1, porque al elevar a la cuarta cualquier fracción positiva aumenta su valor
-b) Ambas son menores que 1, porque al elevar a la cuarta cualquier fracción se vuelve más pequeña
+a) Ambas son mayores que 1, porque elevar a la cuarta una fracción positiva aumenta su valor, sea mayor o menor que 1
+b) Ambas son menores que 1, porque elevar a la cuarta una fracción la vuelve más pequeña, sin importar si es mayor que 1
 c) (3/2)⁴ es menor que 1 y (2/3)⁴ es mayor que 1, porque el exponente par invierte la fracción
 d) (3/2)⁴ es mayor que 1 y (2/3)⁴ es menor que 1, porque una base mayor que 1 crece y una base entre 0 y 1 decrece
 
@@ -346,9 +346,9 @@ d) (3x + 25)(3x − 1)
 
 **Pregunta 6 (alternativas — área).** Un terreno cuadrado tiene lado (x + 6) m. ¿Qué trinomio representa su área?
 a) x² + 12x + 36
-b) x² + 36
+b) x² + 12x + 12
 c) x² + 6x + 36
-d) 4x + 24
+d) 2x² + 12x + 36
 
 **Respuesta correcta: a) x² + 12x + 36.**
 *Retroalimentación:* (x + 6)² = x² + 2·6x + 36; olvidar el doble producto (x² + 36) es un error frecuente.
@@ -585,17 +585,17 @@ d) 400 cm
 
 **Pregunta 7 (alternativas — ojo humano).** Un objeto de 1,8 m forma una imagen de 0,9 cm en la retina. ¿Cuál es el factor de homotecia (en valor absoluto)?
 a) 1/2 = 0,5
-b) 2
+b) 2/100 = 0,02
 c) 1/200 = 0,005
-d) 200
+d) 1/20 = 0,05
 
 **Respuesta correcta: c) 1/200 = 0,005.**
 *Retroalimentación:* se pasa a la misma unidad (180 cm) y k = imagen/objeto = 0,9/180 = 1/200.
 
 **Pregunta 8 (alternativas — área y homotecia).** El triángulo A(1,1), B(3,1), C(1,4) se transforma por una homotecia de centro O y k = 2. ¿Qué ocurre con su área?
 a) Se cuadruplica: pasa de 3 a 12
-b) Se duplica: pasa de 3 a 6
-c) Se mantiene en 3
+b) Se duplica: pasa de 3 a 6 unidades
+c) Se mantiene en 3, sin cambios
 d) Se octuplica: pasa de 3 a 24
 
 **Respuesta correcta: a) Se cuadruplica: pasa de 3 a 12.**

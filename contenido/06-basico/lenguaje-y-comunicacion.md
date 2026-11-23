@@ -109,9 +109,9 @@ d) Porque las reglas no existían en la pampa, y cada trabajador decidía por su
 
 **4. (Alternativas — ambiente)** ¿Cómo influye el ambiente del Texto 1 (el desierto, el calor, la maquinaria) en las acciones y reglas de los personajes?
 
-a) El ambiente es solo decorativo y no influye en nada: los personajes actuarían igual en cualquier otro lugar, con o sin maquinaria
+a) El ambiente es sobre todo decorativo e influye poco: los personajes actuarían de forma parecida en otro lugar, con o sin malas condiciones
 b) El calor hace que los personajes no tengan reglas, porque en la pampa nadie puede preocuparse de la seguridad mientras trabaja bajo el sol
-c) El ambiente provoca que todos sean descuidados, y por eso el padre de Manuel tampoco respeta las reglas de seguridad que le repite a su hijo
+c) El ambiente provoca que la mayoría sea descuidada, y por eso el padre de Manuel tampoco respeta las reglas de seguridad de la oficina
 d) El ambiente extremo y peligroso de la pampa explica las reglas de seguridad estrictas, las consecuencias graves de un descuido y la reacción desesperada del padre
 
 *Respuesta correcta: d.* Retroalimentación: el ambiente no es solo un "escenario decorativo": muchas veces condiciona directamente las decisiones y reacciones de los personajes.
@@ -128,7 +128,7 @@ d) El sur de Chile en el presente, en un pueblo de pescadores y bosques
 **6. (Alternativas — comparación de textos)** ¿Qué comparación entre el Texto 1 y el Texto 2 es **correcta**?
 
 a) Semejanza: los dos ocurren en la pampa salitrera, en el norte de Chile. Diferencia: solo en el Texto 1 hay personajes que enfrentan un conflicto; en el Texto 2 solo se describe una costumbre sin ningún personaje
-b) No tienen ninguna semejanza ni diferencia
+b) Tienen pocas semejanzas: uno ocurre en el desierto y el otro en una isla, y sus personajes no se parecen en nada
 c) Semejanza: en los dos hay una minga en que la comunidad colabora sin cobrar. Diferencia: el Texto 1 es un poema escrito en estrofas y el Texto 2 es un cuento escrito en párrafos
 d) Semejanza: en ambos el entorno impone reglas o costumbres que los personajes deben respetar. Diferencia: en el Texto 1 el conflicto nace de desobedecer una regla; en el Texto 2 se resuelve con colaboración comunitaria
 
@@ -137,18 +137,18 @@ d) Semejanza: en ambos el entorno impone reglas o costumbres que los personajes 
 **7. (Alternativas — conclusión sustentada)** A partir de ambos textos, ¿qué conclusión se apoya en la evidencia sobre la relación entre el lugar donde vive una persona y la forma en que enfrenta los problemas?
 
 a) El lugar no influye en nada en la forma de enfrentar problemas: Manuel y Antonia habrían actuado igual si vivieran en otra parte de Chile
-b) Todas las personas enfrentan los problemas igual, vivan donde vivan: en la pampa y en Chiloé se resuelven pidiendo dinero prestado a los vecinos
+b) Las personas enfrentan los problemas de forma parecida, vivan donde vivan: en la pampa y en Chiloé se resuelven pidiendo dinero prestado a los vecinos
 c) El lugar y sus condiciones moldean las reglas y decisiones: en la pampa, normas estrictas de seguridad; en Chiloé, la minga como forma de resolver dificultades
-d) Solo las personas de la ciudad tienen problemas
+d) Las personas de la ciudad tienen más problemas que las del campo, porque viven más apuradas
 
 *Respuesta correcta: c.* Retroalimentación: En los dos textos el lugar moldea cómo se enfrentan los problemas: en la pampa salitrera se siguen normas estrictas de seguridad, y en Chiloé se resuelven las dificultades con la minga. La conclusión se apoya en ambos.
 
 **8. (Alternativas — lenguaje figurado en la narración)** En el Texto 1, el narrador dice que el sol «quemaba la pampa como un horno de ladrillos». ¿Qué significa esta expresión y qué figura se usa?
 
-a) Que en la pampa había fábricas de ladrillos; es una descripción literal
+a) Que en la pampa había fábricas de ladrillos; es una descripción literal del paisaje
 b) Que el calor del desierto era intensísimo; es una comparación, porque usa «como»
 c) Que el sol estaba muy cerca de la Tierra; es una hipérbole científica
-d) Que Manuel trabajaba en un horno; es una personificación del sol
+d) Que Manuel trabajaba en un horno de pan; es una personificación del sol
 
 *Respuesta correcta: b.* Retroalimentación: la comparación relaciona el calor de la pampa con el de un horno para que el lector imagine lo duro del ambiente donde vive Manuel. Interpretar el lenguaje figurado ayuda a comprender el ambiente de la narración.
 
@@ -219,8 +219,8 @@ d) Aliteración
 **3. (Alternativas — personificación)** ¿Qué sensación transmite la personificación "los pinos se inclinan para verlo pasar, susurrando secretos"?
 
 a) Que el paisaje nocturno acompaña y observa el viaje, como si estuviera vivo
-b) Que hay un temporal nocturno que derriba los pinos sobre la vía
-c) Que los pinos están enfermos y se doblan porque se están secando
+b) Que hay un temporal nocturno que derriba los pinos sobre la vía del tren
+c) Que los pinos están enfermos y se doblan porque se están secando por el calor
 d) Que el tren choca con los árboles al pasar demasiado cerca de ellos
 
 *Respuesta correcta: a.* Retroalimentación: se les da a los pinos una actitud humana de curiosidad e intimidad (inclinarse, susurrar). Explicar una personificación implica decir qué sensación produce, no solo identificarla.
@@ -245,10 +245,10 @@ d) El viaje es muy largo, aunque el poema no lo diga con esas palabras exactas
 
 **6. (Alternativas — interpretar)** ¿Qué ocurre en la segunda estrofa del poema?
 
-a) El tren se detiene en una estación del sur y todos los pasajeros bajan a caminar entre los pinos
+a) El tren se detiene en una estación del sur y los pasajeros bajan a caminar entre los pinos
 b) Los pinos caen sobre la vía por el viento y el tren tiene que esperar hasta el amanecer
 c) El paisaje (los pinos) parece observar el paso del tren, y quien viaja, cansado, se queda dormido antes de llegar
-d) Es de día y el pasajero, muy despierto, toma fotos de los pinos y del paisaje por la ventana
+d) Es de día y el pasajero, muy despierto, toma fotos de los pinos y del paisaje por la ventana del tren
 
 *Respuesta correcta: c.* Retroalimentación: En la segunda estrofa los pinos parecen mirar pasar el tren, y quien viaja, cansado, se duerme antes de llegar. Interpretar es explicar ese sentido con tus palabras, sin repetir los versos.
 
@@ -317,8 +317,8 @@ Diciembre     90
 **1. (Alternativas)** Según el Texto A, ¿qué beneficio directo obtuvieron algunas familias de Alto Hospicio gracias a los atrapanieblas?
 
 a) Pudieron regar huertos comunitarios sin depender de camiones aljibe
-b) Dejaron de necesitar electricidad para sus casas y escuelas
-c) Consiguieron trabajo en la ciudad instalando nuevas mallas
+b) Dejaron de necesitar electricidad para sus casas y para las escuelas
+c) Consiguieron trabajo en la ciudad instalando nuevas mallas para niebla
 d) Mejoraron el acceso a internet en los cerros de la comuna
 
 *Respuesta correcta: a.* Retroalimentación: el texto explica explícitamente que algunas familias que antes dependían de camiones aljibe hoy pueden regar huertos comunitarios gracias a los atrapanieblas.
@@ -347,9 +347,9 @@ d) El Texto A se enfoca en el impacto social y comunitario en Alto Hospicio; el 
 
 **5. (Alternativas — inferencia)** A partir de la tabla del Texto A, ¿qué se puede inferir sobre la camanchaca a lo largo del año?
 
-a) Que es igual todo el año, porque los litros captados son casi los mismos en todos los meses de la tabla
-b) Que no se puede inferir nada de una tabla, porque las tablas solo muestran números y no explican nada
-c) Que solo hay camanchaca en diciembre, porque es el único mes en que la tabla muestra litros captados
+a) Que es parecida durante el año, porque los litros captados son casi los mismos en los distintos meses de la tabla
+b) Que de una tabla se puede inferir poco, porque las tablas muestran números pero no explican por qué cambian
+c) Que hay camanchaca sobre todo en diciembre, porque es el mes en que la tabla muestra más litros captados
 d) Que su cantidad varía según la época del año, porque los litros captados cambian mucho entre meses (más en junio que en diciembre)
 
 *Respuesta correcta: d.* Retroalimentación: La tabla muestra muchos más litros captados en junio que en diciembre; de ahí se infiere que la camanchaca varía según la época del año. Una inferencia combina los datos con un razonamiento.
@@ -450,9 +450,9 @@ d) Turistas extranjeros que visitan Santiago durante el verano
 
 **5. (Alternativas — buscar información)** Si quisieras saber cuántos accidentes de tránsito ha habido en la avenida Irarrázaval desde que se construyó la ciclovía, ¿qué deberías hacer?
 
-a) Leer la Fuente 1, que tiene todas las cifras de accidentes de la avenida desde que se construyó la ciclovía
-b) Asumir que no hubo accidentes, porque ninguna de las dos fuentes menciona choques en la avenida Irarrázaval
-c) Preguntar a cualquier persona en redes sociales y usar la respuesta con más "me gusta" como dato confiable
+a) Leer la Fuente 1, que tiene las cifras de accidentes de la avenida desde que se construyó la ciclovía
+b) Asumir que no hubo accidentes, porque las dos fuentes no mencionan choques en la avenida Irarrázaval
+c) Preguntar a una persona en redes sociales y usar la respuesta con más "me gusta" como dato confiable
 d) Consultar a Carabineros, a la Municipalidad o estadísticas oficiales, porque ninguna de las dos fuentes entrega ese dato
 
 *Respuesta correcta: d.* Retroalimentación: reconocer que ninguna fuente disponible responde tu pregunta es el primer paso para buscar información en una fuente más adecuada.
@@ -463,10 +463,10 @@ d) Consultar a Carabineros, a la Municipalidad o estadísticas oficiales, porque
 
 **7. (Alternativas — comparar fuentes en la vida real)** Dos medios cuentan la misma noticia: uno destaca solo los beneficios de una nueva ley y otro incluye también las críticas de algunos grupos. ¿Qué diferencia identificas?
 
-a) Ninguna: los dos cuentan exactamente lo mismo, solo con distintas palabras
+a) Una diferencia menor: los dos cuentan lo mismo, aunque con distintas palabras
 b) Una diferencia de énfasis: cada medio decide qué aspectos resaltar u omitir
 c) Que uno de los medios inventó la ley y la otra noticia la desmiente
-d) Que la noticia no existe
+d) Que la noticia es falsa y no ocurrió
 
 *Respuesta correcta: b.* Retroalimentación: comparar fuentes en la vida real es clave para formarse una opinión informada y no depender de una sola versión de los hechos. Piensa en una noticia reciente que hayas visto en más de un medio.
 

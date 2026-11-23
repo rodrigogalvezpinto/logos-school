@@ -129,7 +129,7 @@ principio de que la estructura celular está al servicio de su función.
 
 4. *(Alternativas)* ¿Por qué el hepatocito (célula del hígado) tiene una gran cantidad de mitocondrias?
    a) Porque el hígado realiza funciones metabólicas muy activas que requieren mucha energía, y las mitocondrias la producen mediante la respiración celular
-   b) Porque las mitocondrias realizan la fotosíntesis en el hígado y producen la glucosa que el cuerpo necesita para obtener energía
+   b) Porque las mitocondrias realizan la fotosíntesis en el hígado y producen la glucosa que el cuerpo necesita para obtener energía durante el día
    c) Porque el hígado necesita almacenar ADN en las mitocondrias para reparar las células dañadas por las sustancias tóxicas
    d) Porque las mitocondrias le dan forma alargada a la célula hepática, lo que le permite filtrar la sangre con mayor rapidez
    **Respuesta correcta:** a) Porque el hígado realiza funciones metabólicas muy activas que requieren mucha energía, y las mitocondrias la producen mediante la respiración celular.
@@ -241,16 +241,16 @@ específicos sean distintos.
 
 4. *(Alternativas)* ¿Qué rol cumplen los estomas en la fotosíntesis, la respiración celular y la transpiración?
    a) Permiten el intercambio de gases (entrada de CO₂ y salida de O₂ en la fotosíntesis; lo inverso en la respiración) y la salida de vapor de agua en la transpiración
-   b) Solo absorben agua desde el suelo y la transportan hacia las hojas, sin participar en el intercambio de gases ni en la salida de vapor de agua de la planta
-   c) Producen la clorofila de la hoja, que capta la luz solar, y regulan la salida del oxígeno durante la noche
+   b) Absorben agua desde el suelo y la transportan hacia las hojas, sin participar mayormente en el intercambio de gases ni en la salida de vapor de agua
+   c) Producen la clorofila de la hoja, que capta la luz solar, y regulan la salida del oxígeno durante la noche y en los días nublados de invierno
    d) Transportan la savia elaborada desde las hojas hacia la raíz y almacenan el almidón que produce la fotosíntesis
    **Respuesta correcta:** a) Permiten el intercambio de gases (entrada de CO₂ y salida de O₂ en la fotosíntesis; lo inverso en la respiración) y la salida de vapor de agua en la transpiración.
    **Retroalimentación:** Los estomas cumplen una triple función vinculada al intercambio de gases y de agua entre la planta y el ambiente; la transpiración además impulsa el ascenso de agua por el xilema.
 
 5. *(Alternativas — Comparación)* ¿Qué opción señala correctamente una similitud y una diferencia entre el transporte de sustancias en una planta y el sistema circulatorio humano?
    a) Similitud: ambos tienen un corazón que bombea líquido por tubos especializados. Diferencia: la planta no transporta agua desde la raíz, solo nutrientes elaborados en las hojas
-   b) Similitud: ninguno transporta nutrientes, solo gases. Diferencia: la planta tiene sangre verde que circula por el tallo gracias a la capilaridad
-   c) No existe ninguna similitud entre ambos sistemas: la planta no tiene tejidos especializados y el agua sube por el tallo sin ningún mecanismo
+   b) Similitud: los dos transportan sobre todo gases y no nutrientes. Diferencia: la planta tiene una sangre verde que circula por el tallo gracias a la clorofila de las hojas y de las raíces
+   c) Tienen poca similitud: la planta carece de tejidos especializados y el agua sube por el tallo por sí misma, mientras el humano usa el corazón y los vasos sanguíneos
    d) Similitud: ambos transportan sustancias por tejidos especializados. Diferencia: el humano usa el corazón como bomba; en la planta el ascenso de agua depende de la transpiración y la capilaridad
    **Respuesta correcta:** d) Similitud: ambos transportan sustancias por tejidos especializados. Diferencia: el humano usa el corazón como bomba; en la planta el ascenso de agua depende de la transpiración y la capilaridad.
    **Retroalimentación:** En ambos, tejidos especializados transportan sustancias (vasos sanguíneos en el ser humano; xilema y floema en la planta). La diferencia es que el ser humano tiene un corazón que bombea, mientras que en la planta el agua sube principalmente impulsada por la transpiración de las hojas.
@@ -267,7 +267,7 @@ específicos sean distintos.
    a) Aumenta la fotosíntesis, porque al cerrar los estomas entra más CO₂ y la planta aprovecha mejor la luz intensa del día caluroso y seco
    b) La planta transpira más agua, porque al cerrar los estomas el vapor se acumula dentro de la hoja y sale con más fuerza
    c) Reduce la pérdida de agua, pero también la entrada de CO₂, por lo que disminuye la fotosíntesis: es un equilibrio entre conservar agua y producir alimento
-   d) No tiene ninguna consecuencia para la planta, porque los estomas solo participan en la respiración durante la noche
+   d) Tiene pocas consecuencias para la planta, porque los estomas participan sobre todo en la respiración durante la noche y no en la fotosíntesis del día
    **Respuesta correcta:** c) Reduce la pérdida de agua, pero también la entrada de CO₂, por lo que disminuye la fotosíntesis: es un equilibrio entre conservar agua y producir alimento.
    **Retroalimentación:** Por los estomas sale el agua y entra el CO₂. Al cerrarlos con calor y sequedad, la planta pierde menos agua, pero también recibe menos CO₂, así que hace menos fotosíntesis: equilibra conservar agua con producir alimento.
 
@@ -371,7 +371,7 @@ organismo.
 5. *(Alternativas — Análisis)* Durante el ejercicio, ¿cómo interactúan los sistemas respiratorio y circulatorio para llevar oxígeno a una célula muscular?
    a) El sistema digestivo envía oxígeno directamente al músculo a través del intestino, sin que intervengan los pulmones ni el corazón
    b) Aumenta la ventilación pulmonar, el oxígeno pasa a la sangre por difusión en los alvéolos y el corazón, latiendo más rápido, lleva la sangre oxigenada a los músculos
-   c) El músculo obtiene oxígeno del aire directamente, sin intervención de la sangre, y el corazón solo late más rápido por el esfuerzo
+   c) El músculo obtiene oxígeno del aire de manera directa, sin intervención de la sangre, y el corazón late más rápido por el esfuerzo de las piernas y los brazos
    d) La sangre lleva CO₂ desde los pulmones al músculo para que produzca energía, y el oxígeno se queda en los alvéolos durante el ejercicio
    **Respuesta correcta:** b) Aumenta la ventilación pulmonar, el oxígeno pasa a la sangre por difusión en los alvéolos y el corazón, latiendo más rápido, lleva la sangre oxigenada a los músculos.
    **Retroalimentación:** Al hacer ejercicio respiras más rápido y profundo; en los alvéolos el oxígeno pasa a la sangre por difusión, y el corazón, latiendo más rápido, lleva esa sangre a los músculos. Los dos sistemas trabajan coordinados.
@@ -472,9 +472,9 @@ lo largo de la vida.
    **Retroalimentación:** El pan y el aceite aportan sobre todo energía; el huevo y el pescado, proteínas que construyen tejidos; la naranja y la espinaca, vitaminas y minerales que regulan el cuerpo. Una dieta balanceada combina los tres tipos.
 
 4. *(Alternativas)* ¿Por qué la actividad física debe relacionarse con la edad, el sexo, la estatura y el peso de cada persona?
-   a) Porque todas las personas deben hacer exactamente el mismo ejercicio, y estos parámetros sirven solo para registrar el avance de cada una
+   a) Porque las personas de una misma edad deben hacer el mismo ejercicio, y estos parámetros sirven para registrar el avance de cada una durante el año escolar
    b) Porque solo los adultos necesitan actividad física, y en los adolescentes estos parámetros todavía no influyen en el tipo de ejercicio
-   c) Porque estos parámetros no influyen en el cuerpo
+   c) Porque estos parámetros influyen poco en el cuerpo, que responde de la misma manera al ejercicio en las distintas etapas de la vida y en ambos sexos
    d) Porque las necesidades energéticas y la capacidad física varían según estos parámetros, por lo que el tipo e intensidad recomendados también varían
    **Respuesta correcta:** d) Porque las necesidades energéticas y la capacidad física varían según estos parámetros, por lo que el tipo e intensidad recomendados también varían.
    **Retroalimentación:** No existe una única recomendación de actividad física válida para todas las personas.
@@ -482,16 +482,16 @@ lo largo de la vida.
 5. *(Alternativas — Análisis de evidencia)* Una persona con osteoporosis tuvo, durante años, una dieta muy baja en calcio y poca exposición solar. ¿Qué vínculo hay entre estos factores?
    a) La exposición solar destruye el calcio de los huesos, y una dieta baja en calcio compensa ese daño, por lo que ambos factores se anulan
    b) El calcio mantiene la densidad ósea, y la exposición solar permite producir vitamina D, que facilita absorber calcio: su falta favorece la osteoporosis
-   c) El calcio no tiene relación con los huesos
-   d) La osteoporosis se debe solo a hacer demasiado ejercicio, y la dieta y la exposición solar no tienen ninguna relación con la densidad ósea
+   c) El calcio tiene poca relación con los huesos, porque su función principal es ayudar a la digestión de los alimentos y al trabajo de los músculos del cuerpo
+   d) La osteoporosis se debe sobre todo a hacer demasiado ejercicio, y la dieta y la exposición solar tienen poca relación con la densidad de los huesos
    **Respuesta correcta:** b) El calcio mantiene la densidad ósea, y la exposición solar permite producir vitamina D, que facilita absorber calcio: su falta favorece la osteoporosis.
    **Retroalimentación:** El calcio mantiene la densidad de los huesos, y el sol permite producir vitamina D, necesaria para absorber el calcio. Con poco calcio y poco sol durante años, los huesos se debilitan y aparece la osteoporosis.
 
 6. *(Alternativas — Evaluación)* Un adolescente dice que probará cigarrillos "solo en las fiestas, para no volverse adicto". ¿Por qué esta idea no es sustentable?
    a) Porque fumar en fiestas no tiene ningún riesgo, pero el problema es que en las fiestas se fuma más de lo planeado
-   b) Porque la nicotina solo afecta a los adultos
+   b) Porque la nicotina afecta sobre todo a los adultos, y en los adolescentes el cuerpo la elimina con rapidez antes de que cause algún daño
    c) Porque incluso el consumo ocasional expone al cuerpo a sustancias dañinas desde las primeras veces, y el riesgo de dependencia existe igual
-   d) Porque la adicción solo ocurre si se fuma todos los días durante años, y en las fiestas es difícil controlar cuántos cigarrillos se fuman
+   d) Porque la adicción aparece cuando se fuma cada día durante años, y en las fiestas es difícil controlar cuántos cigarrillos se fuman en total
    **Respuesta correcta:** c) Porque incluso el consumo ocasional expone al cuerpo a sustancias dañinas desde las primeras veces, y el riesgo de dependencia existe igual.
    **Retroalimentación:** Desde los primeros cigarrillos el cuerpo recibe sustancias dañinas, y la nicotina puede generar dependencia aunque se fume solo en ocasiones. Por eso fumar «solo en las fiestas» no protege de la adicción ni del daño.
 
@@ -618,10 +618,10 @@ prácticos para el hogar, ya que una sola falla apaga todo el sistema.
    **Retroalimentación:** I = P / V = 1.100 W / 220 V = 5 A. Multiplicar (242.000) o dividir al revés (0,2) son errores frecuentes.
 
 6. *(Alternativas — Seguridad)* ¿Qué función cumple un automático o diferencial en un circuito domiciliario?
-   a) Aumenta el voltaje de la red para que los artefactos funcionen mejor y más rápido
+   a) Aumenta el voltaje de la red para que los artefactos de la casa funcionen mejor y más rápido
    b) Interrumpe el circuito al detectar sobrecarga o fuga eléctrica, evitando incendios o descargas a las personas
    c) Convierte la corriente eléctrica en calor para calefaccionar la vivienda en invierno
-   d) No cumple ninguna función mientras el circuito funcione bien, por lo que puede retirarse
+   d) Cumple una función menor mientras el circuito funcione bien, por lo que puede retirarse de la casa sin mayores riesgos
    **Respuesta correcta:** b) Interrumpe el circuito al detectar sobrecarga o fuga eléctrica, evitando incendios o descargas a las personas.
    **Retroalimentación:** Sin estos dispositivos, una falla podría no detectarse a tiempo, aumentando el riesgo de accidentes.
 
@@ -889,8 +889,8 @@ acumulativa.
    **Retroalimentación:** Si la carga positiva estuviera repartida en todo el átomo, como proponía Thomson, las partículas alfa habrían pasado casi sin desviarse. Como algunas se desviaron mucho o rebotaron, debía existir un núcleo pequeño y denso: hizo falta un modelo nuevo.
 
 5. *(Alternativas — Análisis)* ¿Qué semejanza y qué diferencia hay entre los modelos de Rutherford y de Bohr?
-   a) Semejanza: ambos niegan la existencia del núcleo atómico. Diferencia: solo Bohr incluye electrones, que giran en órbitas alrededor de una esfera maciza
-   b) Semejanza: ambos son el modelo del "budín de pasas", con cargas repartidas. Diferencia: ninguna, porque Bohr solo le cambió el nombre
+   a) Semejanza: los dos niegan la existencia del núcleo atómico. Diferencia: Bohr incluye electrones, que giran en órbitas alrededor de un centro vacío del átomo
+   b) Semejanza: los dos son el modelo del "budín de pasas", con cargas repartidas por el átomo. Diferencia: Bohr le cambió el nombre y agregó un dibujo nuevo
    c) Semejanza: núcleo central positivo rodeado de electrones. Diferencia: Bohr ubica a los electrones en niveles de energía definidos; Rutherford no establecía esa restricción
    d) Semejanza: ninguna, porque son modelos opuestos. Diferencia: Rutherford propuso los niveles de energía y Bohr descubrió el núcleo
    **Respuesta correcta:** c) Semejanza: núcleo central positivo rodeado de electrones. Diferencia: Bohr ubica a los electrones en niveles de energía definidos; Rutherford no establecía esa restricción.
@@ -898,8 +898,8 @@ acumulativa.
 
 6. *(Alternativas — Análisis)* ¿Por qué se dice que el conocimiento sobre el átomo "evolucionó" en vez de descubrirse de una sola vez?
    a) Porque cada modelo se construyó a partir de nueva evidencia que ponía a prueba el anterior, de forma progresiva
-   b) Porque Dalton descubrió todo sobre el átomo y los demás científicos solo copiaron su modelo
-   c) Porque los científicos cambiaron de modelo según sus preferencias, sin necesitar nueva evidencia
+   b) Porque Dalton describió por completo el átomo y los científicos posteriores copiaron su modelo con otros dibujos
+   c) Porque los científicos cambiaron de modelo según sus preferencias personales, sin necesitar nueva evidencia
    d) Porque el átomo cambia de forma con los años, y cada científico describió una etapa distinta
    **Respuesta correcta:** a) Porque cada modelo se construyó a partir de nueva evidencia que ponía a prueba el anterior, de forma progresiva.
    **Retroalimentación:** La evolución de los modelos atómicos es un buen ejemplo de cómo funciona el método científico.
@@ -917,8 +917,8 @@ acumulativa.
    b) Que la materia está formada por átomos indivisibles; los átomos de un mismo elemento son
       iguales entre sí, y en las reacciones químicas los átomos se combinan o reordenan, pero
       no se crean ni se destruyen
-   c) Que el átomo es una esfera positiva con electrones incrustados, como un budín con pasas
-   d) Que la materia es continua y puede dividirse infinitamente sin llegar nunca a partículas, idea que Dalton defendió con el experimento de la lámina de oro y que Thomson confirmó al medir la carga de los electrones
+   c) Que el átomo es una esfera positiva con electrones incrustados, como un budín con pasas, idea que Dalton propuso a partir de sus experimentos con gases y con la electricidad
+   d) Que la materia es continua y puede dividirse infinitamente sin llegar a partículas indivisibles, idea que Dalton defendió con el experimento de las proporciones fijas en el agua y en el aire
    **Respuesta correcta:** b) Que la materia está formada por átomos indivisibles; los átomos de un mismo elemento son iguales entre sí, y en las reacciones químicas los átomos se combinan o reordenan, pero no se crean ni se destruyen.
    **Retroalimentación:** Dalton retomó la idea de átomo con base en evidencia de reacciones
    químicas (proporciones fijas). Luego Thomson descubrió el electrón y mostró que el átomo sí
@@ -1026,16 +1026,16 @@ ciertos tipos de enlaces, aunque no se conozca ese elemento específico en detal
 
 6. *(Alternativas — Comparación)* ¿Qué comparación entre el cobre (metal) y el oxígeno (no metal) es correcta?
    a) El cobre conduce bien la electricidad y tiende a ceder electrones; el oxígeno conduce mal y tiende a compartir (o aceptar) electrones
-   b) El oxígeno conduce mejor la electricidad que el cobre, porque es un gas, y el cobre tiende a aceptar electrones
-   c) Ambos tienden a ceder electrones y conducen bien la electricidad, porque los dos se usan en la industria
+   b) El oxígeno conduce mejor la electricidad que el cobre, porque es un gas, y el cobre tiende a aceptar electrones de otros átomos
+   c) Ambos tienden a ceder electrones y conducen bien la electricidad, porque los dos se usan mucho en la industria y en las casas
    d) El cobre es un gas a temperatura ambiente y el oxígeno, un sólido brillante que conduce la electricidad
    **Respuesta correcta:** a) El cobre conduce bien la electricidad y tiende a ceder electrones; el oxígeno conduce mal y tiende a compartir (o aceptar) electrones.
    **Retroalimentación:** Comparar ejemplos concretos consolida el patrón general entre metales y no metales.
 
 7. *(Alternativas — Aplicación)* El enlace entre dos átomos de hidrógeno (H₂), ¿es polar o apolar?
    a) Covalente polar, porque uno de los dos átomos atrae más los electrones compartidos
-   b) Iónico, porque un átomo de hidrógeno cede su único electrón al otro átomo
-   c) Metálico, porque el hidrógeno está en el grupo 1, junto a los metales alcalinos
+   b) Iónico, porque un átomo de hidrógeno cede su único electrón al otro átomo de hidrógeno
+   c) Metálico, porque el hidrógeno está en el grupo 1 de la tabla, junto a los metales alcalinos
    d) Covalente apolar, porque al ser átomos idénticos atraen por igual los electrones compartidos
    **Respuesta correcta:** d) Covalente apolar, porque al ser átomos idénticos atraen por igual los electrones compartidos.
    **Retroalimentación:** Cuando dos átomos iguales comparten electrones, el enlace resultante siempre es apolar.

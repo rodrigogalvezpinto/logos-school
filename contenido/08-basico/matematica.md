@@ -822,9 +822,9 @@ d) 12 m
 *Retroalimentación:* diagonal √(324 + 576) = 30 m; bordeando, 42 m; ahorro: 12 m.
 
 **Pregunta 8 (alternativas — verificar triángulo rectángulo).** Un triángulo tiene lados de 7, 24 y 25 cm. ¿Es rectángulo?
-a) No, porque 7 + 24 ≠ 25
+a) No, porque 7 + 24 = 31, que es distinto de 25
 b) Sí, porque 7² + 24² = 625 = 25²
-c) Sí, porque 7 + 24 > 25
+c) Sí, porque 7 + 24 = 31, que es mayor que 25
 d) No, porque 25² ≠ 7² + 24²
 
 **Respuesta correcta: b) Sí, porque 7² + 24² = 625 = 25².**
@@ -885,9 +885,9 @@ d) (−5, 3)
 
 **Pregunta 4 (alternativas — reflexión).** El punto C(−3, 5) se refleja respecto al eje x. ¿Cuál es su imagen?
 a) (3, 5)
-b) (3, −5)
+b) (−3, 5)
 c) (−3, −5)
-d) (5, −3)
+d) (−5, −3)
 
 **Respuesta correcta: c) (−3, −5).**
 *Retroalimentación:* al reflejar respecto al eje x cambia el signo de y y se mantiene x.
@@ -1008,9 +1008,9 @@ d) 50%
 **Pregunta 6 (alternativas — comparar poblaciones).** Observa los diagramas de cajón de las notas de 8°A y 8°B. ¿Qué se puede concluir?
 
 ::caja::8°A=4/5,2/5,8/6,2/6,5;8°B=3,5/4,6/5,2/6/7::x=Nota::
-a) 8°B tiene un rendimiento típico más alto en todos los casos, porque su bigote llega más arriba
+a) 8°B tiene un rendimiento típico más alto en general, porque su bigote superior llega más arriba
 b) 8°A tiene un rendimiento típico más alto, pero 8°B tiene al menos un estudiante con la nota más alta
-c) Ambos cursos tienen exactamente el mismo rendimiento, porque sus bigotes terminan cerca
+c) Ambos cursos tienen el mismo rendimiento típico, porque sus bigotes terminan en notas parecidas
 d) 8°A tiene la nota máxima más alta, porque su mediana es mayor que la de 8°B
 
 **Respuesta correcta: b) 8°A tiene un rendimiento típico más alto, pero 8°B tiene al menos un estudiante con la nota más alta.**
@@ -1080,9 +1080,9 @@ d) Agregar el valor numérico exacto sobre cada barra del gráfico.
 
 **Pregunta 3 (identificar manipulación).** Un gráfico de barras 3D muestra el mismo valor en dos barras, pero por el efecto de la perspectiva (una barra parece "más cerca" que la otra), una parece más alta que la otra. ¿Qué tipo de problema presenta este gráfico?
 a) Falta de título y de nombres en los ejes
-b) Uso de colores incorrectos en las barras
+b) Uso de colores poco adecuados en las barras
 c) Distorsión visual por efecto de perspectiva/3D
-d) Demasiados datos para un solo gráfico
+d) Exceso de datos para un solo gráfico de barras
 
 **Respuesta correcta: c) Distorsión visual por efecto de perspectiva/3D.**
 *Retroalimentación:* los efectos 3D en gráficos de barras o circulares pueden distorsionar la percepción del tamaño real de cada categoría, incluso cuando los valores numéricos son correctos.

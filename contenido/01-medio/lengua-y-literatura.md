@@ -90,7 +90,7 @@ En 1° medio tu análisis de personajes se vuelve más completo que en el ciclo 
 
 **1. (Alternativas)** ¿Cuál es el conflicto central del fragmento "El bote de mi abuelo"?
 
-a) La pelea entre Tomás y Marcela por haberse ido del pueblo a estudiar sin avisar a su familia
+a) La pelea entre Tomás y Marcela por haberse ido del pueblo a estudiar sin avisar a su familia ni al abuelo
 b) La decisión del abuelo de vender el bote para pagar los estudios de sus nietos en la ciudad
 c) El dilema de Tomás entre heredar el bote y la tradición familiar, o irse a estudiar mecánica naval a la ciudad
 d) La falta de dinero de la familia para reparar las redes de pesca después del último temporal
@@ -112,19 +112,19 @@ d) Ninguno tiene una motivación clara
 
 **4. (Alternativas — Aplicación)** ¿Por qué el bote azul puede considerarse un **símbolo** en el relato?
 
-a) Porque es el bote más rápido y moderno del pueblo, y todos los pescadores de la isla quieren comprarlo para salir más lejos a pescar
-b) Porque es solo un objeto de trabajo sin otro sentido: el relato lo menciona para describir el oficio de la familia y la vida en la caleta
-c) Porque Tomás lo vende al final del relato para pagar sus estudios, lo que demuestra que nunca le importó la tradición de su familia
+a) Porque es el bote más rápido y moderno del pueblo, y muchos pescadores de la isla quieren comprarlo para salir más lejos
+b) Porque es un objeto de trabajo con poco sentido simbólico: el relato lo menciona para describir el oficio de la familia y la vida en la isla
+c) Porque Tomás lo vende al final del relato para pagar sus estudios, lo que demuestra que la tradición de su familia le importaba poco
 d) Porque representa la herencia familiar y la presión de continuar el oficio; su inmovilidad refuerza la idea de una tradición fija que Tomás debe decidir si continúa
 
 *Respuesta correcta: d.* Retroalimentación: un símbolo adquiere sentido cuando el objeto se conecta con una idea o tensión central de la historia.
 
 **5. (Alternativas)** ¿A qué **personaje tipo** corresponde el abuelo Wenceslao?
 
-a) El avaro
+a) El avaro o codicioso
 b) El antagonista
 c) El sabio o mentor
-d) El pícaro
+d) El pícaro o burlador
 
 *Respuesta correcta: c.* Retroalimentación: Wenceslao transmite una enseñanza a su nieto sin imponerle una decisión, un rasgo típico del personaje tipo del sabio o mentor en la tradición literaria.
 
@@ -223,7 +223,7 @@ En 1° medio incorporas el análisis de **textos dramáticos** —obras de teatr
 
 a) La rivalidad entre Don Héctor y el Capataz por el mando de la faena y el respeto de los demás mineros
 b) La decisión de Felipe de trabajar en la misma mina que su padre, aunque su familia no está de acuerdo
-c) La falta de pago del sueldo de Don Héctor, que lo obliga a trabajar turnos dobles en la galería
+c) La falta de pago del sueldo de Don Héctor, que lo obliga a trabajar turnos dobles en la galería de la mina
 d) La tensión entre la seguridad de esperar a que revisen la galería y el deber u orgullo de no dejar un turno a medias
 
 *Respuesta correcta: d.* Retroalimentación: el conflicto central es el que organiza toda la escena, desde la advertencia de Felipe hasta la decisión final de Don Héctor de bajar pese a las señales de riesgo.

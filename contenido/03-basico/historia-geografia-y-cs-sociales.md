@@ -19,26 +19,23 @@ ultima_actualizacion: 2026-10-28
 
 ## Introducción para ti
 
-Este año damos un salto enorme: vamos a viajar miles de años atrás y miles de kilómetros
-lejos de Chile, hasta la **antigua Grecia** y la **antigua Roma**. Vas a descubrir que, aunque
-esas civilizaciones existieron hace más de dos mil años, muchas cosas que usamos hoy —desde el
-alfabeto hasta los Juegos Olímpicos— nacieron ahí. Esto es el eje de **Historia**.
+Este año damos un salto enorme. Vamos a viajar miles de años atrás, muy lejos de Chile. Llegaremos
+a la **antigua Grecia** y a la **antigua Roma**. Esas civilizaciones existieron hace más de dos mil
+años. Aun así, muchas cosas que usamos hoy nacieron ahí, como el alfabeto y los Juegos Olímpicos.
+Esto es el eje de **Historia**.
 
-Después vamos a mirar el planeta completo, como si tuviéramos un globo terráqueo en las
-manos: vamos a aprender a reconocer los **hemisferios**, la **línea del Ecuador**, los
-**trópicos**, los **polos**, los **continentes** y los **océanos**. También descubriremos que
-la Tierra tiene distintas **zonas climáticas** —cálidas, templadas y frías— y cómo las
-personas de cada zona inventaron formas ingeniosas de vivir bien en su territorio. Esto es el
-eje de **Geografía**.
+Después vamos a mirar el planeta completo, como si tuviéramos un globo terráqueo en las manos.
+Aprenderás a reconocer los **hemisferios**, la **línea del Ecuador**, los **trópicos**, los
+**polos**, los **continentes** y los **océanos**. También verás que la Tierra tiene distintas
+**zonas climáticas**: cálidas, templadas y frías. Y descubrirás cómo vive la gente en cada una.
+Esto es el eje de **Geografía**.
 
-Finalmente, vamos a hablar de algo que te incluye directamente a ti: los **derechos de los
-niños y niñas**. Vas a aprender que, por el solo hecho de ser niño o niña, tienes derechos que
-deben ser respetados y protegidos por toda la sociedad, y vas a conocer algunas de las formas
-concretas en que Chile cumple con eso. Esto es el eje de **Formación Ciudadana**.
+Al final hablaremos de algo que te incluye a ti: los **derechos de los niños y niñas**. Tienes
+derechos solo por ser niño o niña. Toda la sociedad debe respetarlos y protegerlos. Verás algunas
+formas en que Chile cumple con eso. Esto es el eje de **Formación Ciudadana**.
 
-Un desafío para ti: a medida que avances, trata de comparar todo el tiempo lo que vivían las
-personas de la Antigüedad, o de otras zonas climáticas del mundo, con tu propia vida. Ese
-ejercicio de comparar es el corazón del pensamiento histórico y geográfico.
+Un desafío para ti: compara siempre lo que vivían esas personas con tu propia vida. Comparar es el
+corazón del pensamiento histórico y geográfico.
 
 ¡Empecemos este viaje por el tiempo y por el planeta!
 
@@ -58,50 +55,45 @@ desafío de desarrollarse y satisfacer las necesidades comunes a todos los seres
 
 #### Explicación
 
-Todos los seres humanos, vivamos donde vivamos y en la época que sea, tenemos las mismas
-**necesidades básicas**: necesitamos alimentarnos, protegernos del clima con una vivienda,
-vestirnos, trasladarnos de un lugar a otro, comunicarnos con otras personas, y organizarnos
-como sociedad para tomar decisiones en conjunto. Lo interesante es que cada cultura resuelve
-estas necesidades de una manera distinta, según su territorio, sus recursos y sus creencias.
+Todos los seres humanos tenemos las mismas **necesidades básicas**. Da igual dónde o cuándo
+vivamos. Necesitamos alimentarnos, tener una vivienda y vestirnos. También necesitamos
+trasladarnos, comunicarnos y organizarnos para decidir en conjunto. Cada cultura resuelve estas
+necesidades a su manera. Depende de su territorio, sus recursos y sus creencias.
 
-Hace más de dos mil años, en el sur de Europa, se desarrollaron dos grandes civilizaciones: la
-**antigua Grecia** (formada por ciudades independientes llamadas **polis**, como Atenas o
-Esparta) y la **antigua Roma** (que comenzó como una sola ciudad y llegó a formar un enorme
-**imperio**).
+Hace más de dos mil años, en el sur de Europa, hubo dos grandes civilizaciones:
+
+- La **antigua Grecia**, formada por ciudades independientes llamadas **polis**, como Atenas o
+  Esparta.
+- La **antigua Roma**, que empezó como una sola ciudad y llegó a formar un enorme **imperio**.
 
 Así resolvían sus necesidades:
 
-- **Vivienda**: los griegos vivían en casas sencillas de adobe o piedra alrededor de un patio
-  central; en el centro de la polis se ubicaba la **acrópolis** (la parte alta, con templos) y
-  el **ágora** (la plaza pública). Los romanos construían **domus** (casas de familias
-  acomodadas) e **ínsulas** (edificios de varios pisos, parecidos a edificios de
-  departamentos, donde vivían las familias más humildes).
-- **Alimentación**: ambos pueblos comían principalmente pan de trigo, aceite de oliva, vino,
-  aceitunas, queso, legumbres y pescado, productos típicos del clima mediterráneo en que
-  vivían.
-- **Vestimenta**: los griegos usaban el **quitón**, una túnica de tela sujeta con broches; los
-  romanos usaban la **toga**, una prenda de tela enrollada alrededor del cuerpo que solo podían
-  usar los ciudadanos varones en ocasiones formales.
-- **Transporte**: se trasladaban caminando, en carros tirados por caballos o bueyes, y sobre
-  todo en barcos, ya que ambas civilizaciones dependían mucho del mar Mediterráneo para viajar
-  y comerciar. Los romanos, además, construyeron una extensa red de **caminos empedrados** que
-  conectaba todo su imperio.
+- **Vivienda**: los griegos vivían en casas sencillas de adobe o piedra, con un patio central. En
+  el centro de la polis estaba la **acrópolis**, la parte alta con templos. También estaba el
+  **ágora**, la plaza pública. Los romanos acomodados vivían en **domus**. Las familias más
+  humildes vivían en **ínsulas**, edificios de varios pisos parecidos a los de departamentos.
+- **Alimentación**: ambos pueblos comían pan de trigo, aceite de oliva, vino, aceitunas, queso,
+  legumbres y pescado. Son productos típicos del clima mediterráneo.
+- **Vestimenta**: los griegos usaban el **quitón**, una túnica sujeta con broches. Los romanos
+  usaban la **toga**, una tela enrollada alrededor del cuerpo. Solo la usaban los ciudadanos
+  varones en ocasiones formales.
+- **Transporte**: caminaban, usaban carros tirados por caballos o bueyes y, sobre todo, barcos.
+  Ambos pueblos dependían del mar Mediterráneo para viajar y comerciar. Los romanos además
+  construyeron muchos **caminos empedrados** que unían todo su imperio.
 - **Comunicación**: los griegos crearon el **alfabeto griego** y los romanos el **alfabeto
-  latino**, que es la base del alfabeto que usamos hoy en español. Los mensajes importantes se
-  enviaban por medio de mensajeros a pie, a caballo o en barco.
-- **Organización política y social**: en Atenas nació la **democracia**, un sistema donde los
-  ciudadanos podían votar las leyes (aunque solo votaban los hombres libres, no las mujeres ni
-  las personas esclavizadas). En Roma existió primero una **República**, gobernada por un
-  **Senado** de representantes, y luego un **Imperio**, gobernado por un emperador. En ambas
-  sociedades existía la **esclavitud**, es decir, personas que no tenían libertad y eran
-  obligadas a trabajar para otras, algo que hoy en día está prohibido y se considera una grave
-  violación a los derechos humanos.
+  latino**. El alfabeto latino es la base del que usamos hoy en español. Los mensajes importantes
+  viajaban con mensajeros a pie, a caballo o en barco.
+- **Organización política y social**: en Atenas nació la **democracia**. Los ciudadanos podían
+  votar las leyes. Pero solo votaban los hombres libres, no las mujeres ni las personas
+  esclavizadas. Roma fue primero una **República**, gobernada por un **Senado**. Luego fue un
+  **Imperio**, gobernado por un emperador. En ambas existía la **esclavitud**: personas sin
+  libertad, obligadas a trabajar para otras. Hoy la esclavitud está prohibida. Es una grave
+  violación de los derechos humanos.
 
-Comparado con la actualidad, hoy resolvemos estas mismas necesidades de forma distinta: vivimos
-en casas o edificios con electricidad y agua potable, nos alimentamos con productos que llegan
-de todo el mundo, nos vestimos con ropa fabricada en fábricas, nos trasladamos en autos,
-buses, aviones o metro, nos comunicamos por internet y teléfono en segundos, y la mayoría de
-los países, incluido Chile, son **democracias** donde votan tanto hombres como mujeres adultos.
+Hoy resolvemos las mismas necesidades de otra forma. Nuestras casas tienen electricidad y agua
+potable. Comemos productos que llegan de todo el mundo. La ropa se hace en fábricas. Viajamos en
+auto, bus, avión o metro. Nos comunicamos en segundos por internet y teléfono. Y la mayoría de los
+países, como Chile, son **democracias** donde votan hombres y mujeres adultos.
 
 #### Ejemplos resueltos
 
@@ -238,42 +230,36 @@ entre otros.
 
 #### Explicación
 
-Además de resolver sus necesidades básicas, griegos y romanos tenían **costumbres**,
-**creencias** y **oficios** propios, y vivían en ciudades con características particulares.
-Comparar esos aspectos con nuestra vida actual nos ayuda a entender qué elementos de esas
-culturas siguen presentes hoy, y cuáles han cambiado por completo.
+Griegos y romanos no solo resolvían sus necesidades básicas. También tenían **costumbres**,
+**creencias** y **oficios** propios. Al compararlos con hoy, vemos qué sigue presente y qué
+cambió por completo.
 
-**Oficios y trabajos**: en la Antigüedad existían oficios como el de **alfarero** (fabricaba
-vasijas de greda), **herrero** (trabajaba metales), **tejedora** (elaboraba telas, un trabajo
-que en general realizaban las mujeres), **comerciante**, **agricultor**, **soldado** y
-**filósofo** (persona dedicada a pensar y enseñar sobre la vida, el conocimiento y la
-naturaleza, como el griego Sócrates). Muchos de estos oficios —agricultor, comerciante,
-herrero, tejedor— se siguen ejerciendo hoy, aunque con herramientas y tecnología muy distintas.
+**Oficios y trabajos**: en la Antigüedad había **alfareros**, que hacían vasijas de greda. Había
+**herreros**, que trabajaban metales. Las **tejedoras** hacían telas; en general era un trabajo de
+mujeres. También había **comerciantes**, **agricultores**, **soldados** y **filósofos**. Un
+filósofo se dedica a pensar y enseñar sobre la vida y la naturaleza, como el griego Sócrates.
+Muchos de estos oficios siguen hoy, pero con otras herramientas.
 
-**Creencias**: griegos y romanos eran **politeístas**, es decir, creían en muchos dioses, cada
-uno relacionado con un aspecto de la vida (por ejemplo, Zeus/Júpiter como dios principal,
-Atenea/Minerva como diosa de la sabiduría, Poseidón/Neptuno como dios del mar). Construían
-grandes **templos** para honrarlos. Hoy, en Chile y en el mundo, existe una gran diversidad de
-creencias: hay personas católicas, evangélicas, judías, musulmanas, de otras religiones, y
-también personas que no profesan ninguna religión.
+**Creencias**: griegos y romanos eran **politeístas**, es decir, creían en muchos dioses. Cada
+dios se relacionaba con algo de la vida. Zeus, o Júpiter, era el dios principal. Atenea, o
+Minerva, era la diosa de la sabiduría. Poseidón, o Neptuno, era el dios del mar. Les construían
+grandes **templos**. Hoy en Chile hay muchas creencias distintas. Hay personas católicas,
+evangélicas, judías, musulmanas y de otras religiones. También hay personas sin religión.
 
-**Ciudades**: las ciudades griegas y romanas tenían edificios públicos importantes, como
-templos, teatros al aire libre, mercados y, en el caso romano, **anfiteatros** (como el famoso
-Coliseo de Roma, donde se realizaban espectáculos) y **acueductos** (construcciones que
-transportaban agua desde lejos hasta la ciudad). Las ciudades actuales también tienen
-edificios públicos —como municipalidades, teatros, estadios y hospitales—, pero cuentan además
-con electricidad, agua potable en cada casa, semáforos y transporte motorizado.
+**Ciudades**: las ciudades griegas y romanas tenían templos, teatros al aire libre y mercados. Los
+romanos construían además **anfiteatros**, como el Coliseo, para hacer espectáculos. También
+hacían **acueductos**, que llevaban agua desde lejos hasta la ciudad. Las ciudades de hoy tienen
+municipalidades, teatros, estadios y hospitales. Además tienen electricidad, agua en cada casa,
+semáforos y vehículos a motor.
 
-**Costumbres que se mantienen**: los **Juegos Olímpicos**, que nacieron en la antigua Grecia
-como una competencia deportiva en honor a los dioses, se siguen realizando hoy cada cuatro
-años, aunque ahora participan países de todo el mundo. El **teatro**, inventado por los
-griegos, sigue siendo una forma de arte actual. Muchas palabras de nuestro idioma provienen
-del latín, la lengua de los romanos.
+**Costumbres que se mantienen**: los **Juegos Olímpicos** nacieron en Grecia para honrar a los
+dioses. Hoy se siguen haciendo cada cuatro años, con países de todo el mundo. El **teatro** lo
+inventaron los griegos y sigue vivo. Y muchas palabras del español vienen del latín, la lengua de
+los romanos.
 
-**Costumbres que han cambiado**: la esclavitud ya no existe legalmente; antes solo votaban los
-hombres ciudadanos, y hoy en las democracias modernas, como Chile, votan tanto hombres como
-mujeres adultos; los espectáculos violentos del Coliseo, donde a veces morían personas o
-animales, hoy están prohibidos.
+**Costumbres que han cambiado**: la esclavitud ya no existe legalmente. Antes solo votaban los
+hombres ciudadanos. Hoy, en democracias como Chile, votan hombres y mujeres adultos. En el Coliseo
+a veces morían personas o animales. Hoy esos espectáculos violentos están prohibidos.
 
 #### Ejemplos resueltos
 
@@ -407,33 +393,27 @@ continentes y océanos del planeta en mapas y globos terráqueos.
 
 #### Explicación
 
-Para poder ubicarnos en cualquier parte del planeta, usamos algunas **líneas imaginarias**,
-que no existen de verdad sobre la superficie de la Tierra, pero que los mapas y globos
-terráqueos dibujan para ayudarnos a describir ubicaciones.
+Para ubicarnos en el planeta usamos **líneas imaginarias**. No existen de verdad sobre la Tierra.
+Los mapas y los globos terráqueos las dibujan para ayudarnos a describir ubicaciones.
 
-- **Línea del Ecuador**: es una línea imaginaria que rodea la Tierra justo por la mitad,
-  dividiéndola en dos partes iguales.
-- **Hemisferios**: cada una de las dos mitades en que la línea del Ecuador divide la Tierra.
-  La mitad de arriba se llama **hemisferio norte**, y la mitad de abajo, **hemisferio sur**.
-  Chile se ubica completamente en el **hemisferio sur**.
-- **Trópicos**: son dos líneas imaginarias paralelas a la línea del Ecuador, una a cada lado:
-  el **Trópico de Cáncer** (en el hemisferio norte) y el **Trópico de Capricornio** (en el
-  hemisferio sur). La zona entre ambos trópicos es la más calurosa del planeta, porque recibe
-  la luz del sol de forma más directa.
-- **Círculos polares y polos**: cerca de los extremos superior e inferior del planeta están el
-  **Círculo Polar Ártico** (norte) y el **Círculo Polar Antártico** (sur), y aún más al
-  extremo, los **polos**: el **Polo Norte** y el **Polo Sur**, las zonas más frías de la
-  Tierra.
-- **Continentes**: son las grandes masas de tierra del planeta. Son seis: **América**,
-  **Europa**, **Asia**, **África**, **Oceanía** y la **Antártica**. Chile forma parte del
-  continente **americano**.
-- **Océanos**: son las grandes masas de agua salada del planeta. Son cinco: **Pacífico**,
-  **Atlántico**, **Índico**, **Ártico** y el **Antártico** (u Océano Glacial Antártico). Chile
-  tiene costa en el **océano Pacífico**.
+- **Línea del Ecuador**: rodea la Tierra justo por la mitad. La divide en dos partes iguales.
+- **Hemisferios**: son las dos mitades que forma la línea del Ecuador. La mitad de arriba es el
+  **hemisferio norte**. La mitad de abajo es el **hemisferio sur**. Chile está completo en el
+  **hemisferio sur**.
+- **Trópicos**: son dos líneas paralelas a la línea del Ecuador, una a cada lado. El **Trópico de
+  Cáncer** está en el hemisferio norte. El **Trópico de Capricornio** está en el hemisferio sur.
+  Entre ambos está la zona más calurosa del planeta, porque recibe el sol más directo.
+- **Círculos polares y polos**: cerca de los extremos están el **Círculo Polar Ártico**, al norte,
+  y el **Círculo Polar Antártico**, al sur. Más al extremo están el **Polo Norte** y el **Polo
+  Sur**. Son las zonas más frías de la Tierra.
+- **Continentes**: son las grandes masas de tierra. Son seis: **América**, **Europa**, **Asia**,
+  **África**, **Oceanía** y la **Antártica**. Chile está en el continente **americano**.
+- **Océanos**: son las grandes masas de agua salada. Son cinco: **Pacífico**, **Atlántico**,
+  **Índico**, **Ártico** y **Antártico** (u Océano Glacial Antártico). Chile tiene costa en el
+  **océano Pacífico**.
 
-Estas líneas y elementos nos permiten describir con precisión cualquier ubicación del planeta:
-por ejemplo, podemos decir que Chile está en el hemisferio sur, en el continente americano, y
-que su costa está bañada por el océano Pacífico.
+Con estas líneas podemos describir cualquier lugar. Por ejemplo, Chile está en el hemisferio sur,
+en el continente americano. Y su costa está bañada por el océano Pacífico.
 
 #### Ejemplos resueltos
 
@@ -587,34 +567,29 @@ las personas han elaborado diferentes estrategias para habitarlos.
 
 #### Explicación
 
-Así como el planeta se puede dividir usando líneas imaginarias, también se puede dividir según
-su **clima**, es decir, según las condiciones de temperatura y lluvia que predominan en cada
-zona a lo largo del año. Existen tres grandes **zonas climáticas**:
+El planeta también se puede dividir según su **clima**. El clima es la temperatura y la lluvia
+que hay en una zona durante el año. Existen tres grandes **zonas climáticas**:
 
-- **Zona cálida**: se ubica cerca de la línea del Ecuador, entre los dos trópicos. Tiene
-  temperaturas altas durante todo el año y, en muchos lugares, abundante lluvia, lo que
-  permite la existencia de selvas tropicales con mucha vegetación. Ejemplo: la selva amazónica,
-  en América del Sur.
-- **Zona templada**: se ubica entre los trópicos y los círculos polares. Tiene **estaciones
-  del año** bien marcadas —primavera, verano, otoño e invierno— y temperaturas moderadas. La
-  mayor parte de Chile, incluyendo la zona centro y sur, se encuentra en esta zona.
-- **Zona fría**: se ubica cerca de los círculos polares y los polos. Tiene temperaturas muy
-  bajas, con hielo y nieve gran parte del año, y poca vegetación. Ejemplo: la Antártica y el
-  Ártico.
+- **Zona cálida**: está cerca de la línea del Ecuador, entre los dos trópicos. Hace calor todo el
+  año. En muchos lugares llueve bastante y hay selvas con mucha vegetación. Ejemplo: la selva
+  amazónica, en América del Sur.
+- **Zona templada**: está entre los trópicos y los círculos polares. Tiene **estaciones del año**
+  bien marcadas: primavera, verano, otoño e invierno. Las temperaturas son moderadas. La mayor
+  parte de Chile, incluidos el centro y el sur, está en esta zona.
+- **Zona fría**: está cerca de los círculos polares y los polos. Hace mucho frío y hay hielo y
+  nieve gran parte del año. Casi no hay vegetación. Ejemplo: la Antártica y el Ártico.
 
-Las personas que habitan cada zona climática han desarrollado distintas **estrategias** para
-vivir bien en ella:
+Las personas de cada zona crearon **estrategias** para vivir bien en ella:
 
-- En la **zona cálida**, las viviendas suelen ser abiertas y elevadas del suelo para permitir
-  el paso del aire y evitar la humedad e insectos; la vestimenta es liviana y de telas frescas;
-  la alimentación incluye frutas tropicales y cultivos como el plátano o la yuca.
-- En la **zona templada**, las viviendas cuentan con calefacción para el invierno y buena
-  ventilación para el verano; la vestimenta cambia según la estación (abrigada en invierno,
-  liviana en verano); la agricultura aprovecha las cuatro estaciones para distintos cultivos.
-- En la **zona fría**, las viviendas están muy bien aisladas del frío extremo, como los iglús
-  tradicionales de los pueblos inuit, hechos de bloques de hielo y nieve; la vestimenta es muy
-  abrigada, hecha con pieles y materiales que conservan el calor corporal; la alimentación se
-  basa mucho en la caza y la pesca, ya que cultivar la tierra es muy difícil por el frío.
+- En la **zona cálida**, las casas son abiertas y elevadas del suelo. Así pasa el aire y se evitan
+  la humedad y los insectos. La ropa es liviana y fresca. Se comen frutas tropicales, plátano y
+  yuca.
+- En la **zona templada**, las casas tienen calefacción para el invierno y ventilación para el
+  verano. La ropa cambia según la estación: abrigada en invierno, liviana en verano. La
+  agricultura aprovecha las cuatro estaciones.
+- En la **zona fría**, las casas están muy bien aisladas del frío. Un ejemplo son los iglús del
+  pueblo inuit, hechos con bloques de hielo y nieve. La ropa es muy abrigada, hecha con pieles.
+  Se come sobre todo lo que se caza y se pesca, porque con tanto frío es muy difícil cultivar.
 
 #### Ejemplos resueltos
 
@@ -773,38 +748,35 @@ desarrollarse, y dar ejemplos de cómo la sociedad les garantiza estos derechos.
 
 #### Explicación
 
-Todos los niños y niñas del mundo, sin importar dónde vivan, tienen **derechos**: cosas que
-merecen y necesitan para poder crecer, aprender y desarrollarse de manera sana y segura. Estos
-derechos no hay que ganárselos ni pedirlos como favor: existen por el solo hecho de ser niño o
-niña, y toda la sociedad —las familias, las escuelas, el Estado— tiene la responsabilidad de
-respetarlos y protegerlos.
+Todos los niños y niñas del mundo tienen **derechos**. Son cosas que necesitan para crecer,
+aprender y vivir sanos y seguros. No hay que ganárselos ni pedirlos como favor. Existen solo por
+ser niño o niña. Las familias, las escuelas y el Estado deben respetarlos y protegerlos.
 
-En 1989, los países del mundo, reunidos en las Naciones Unidas (ONU), aprobaron la
-**Convención sobre los Derechos del Niño**, un acuerdo internacional que reconoce estos
+En 1989, los países del mundo se reunieron en las Naciones Unidas (ONU). Allí aprobaron la
+**Convención sobre los Derechos del Niño**. Es un acuerdo internacional que reconoce estos
 derechos. Chile forma parte de este acuerdo.
 
 Algunos de estos derechos son:
 
 - Derecho a la **educación**.
 - Derecho a la **salud**.
-- Derecho a la **protección**, es decir, a estar a salvo de todo tipo de violencia o abuso.
+- Derecho a la **protección**, es decir, a estar a salvo de la violencia y el abuso.
 - Derecho al **juego** y al descanso.
 - Derecho a la **alimentación** adecuada.
-- Derecho a **opinar** y a ser escuchado en asuntos que les afectan.
+- Derecho a **opinar** y a ser escuchado en lo que les afecta.
 - Derecho a tener un **nombre**, una **nacionalidad** y a vivir en familia.
 
-En Chile existen **mecanismos concretos** —es decir, medidas reales que se cumplen— para
-garantizar estos derechos:
+En Chile hay **mecanismos concretos** para cumplir estos derechos. Son medidas reales que se
+cumplen:
 
-- La **educación es gratuita y obligatoria**: todos los niños y niñas tienen derecho a asistir
-  a la escuela sin pagar en los establecimientos públicos, y la ley obliga a que asistan.
-- Está **prohibido el trabajo infantil**: la ley chilena prohíbe que los niños y niñas trabajen
-  antes de cierta edad, para proteger su derecho a estudiar, jugar y descansar.
-- La **JUNAEB** (Junta Nacional de Auxilio Escolar y Becas) entrega **alimentación gratuita**
-  a estudiantes en muchas escuelas del país, para asegurar que los niños y niñas puedan
-  alimentarse bien.
-- Existen instituciones dedicadas especialmente a proteger a la niñez, que actúan cuando los
-  derechos de un niño o niña están siendo vulnerados, es decir, no respetados.
+- La **educación es gratuita y obligatoria**. En las escuelas públicas no se paga. Y la ley obliga
+  a que los niños y niñas asistan.
+- Está **prohibido el trabajo infantil**. La ley no deja que los niños trabajen antes de cierta
+  edad. Así se protege su derecho a estudiar, jugar y descansar.
+- La **JUNAEB** (Junta Nacional de Auxilio Escolar y Becas) da **alimentación gratuita** en muchas
+  escuelas. Así los niños y niñas pueden comer bien.
+- Hay instituciones que protegen a la niñez. Actúan cuando los derechos de un niño o niña no se
+  respetan, es decir, cuando son vulnerados.
 
 #### Ejemplos resueltos
 

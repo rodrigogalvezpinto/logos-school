@@ -179,9 +179,9 @@ d) El malestar criollo por su exclusión de los altos cargos de gobierno
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué la independencia de Estados Unidos sirvió de ejemplo para los procesos independentistas americanos?
-a) Porque Estados Unidos conquistó Chile y le impuso su forma de gobierno republicana
+a) Porque Estados Unidos conquistó Chile y le impuso su forma de gobierno republicana y federal
 b) Porque fue una monarquía muy poderosa que apoyó a la Corona española en América
-c) Porque Estados Unidos seguía siendo colonia española y luchaba junto a los criollos
+c) Porque Estados Unidos seguía siendo colonia española y luchaba junto a los criollos de América del Sur
 d) Porque demostró que una colonia podía separarse de su metrópoli europea y organizarse como república
 
 ✅ Respuesta correcta: **d) Porque demostró que una colonia podía separarse de su metrópoli europea y organizarse como república**
@@ -320,7 +320,7 @@ d) Patriotas, que buscaban la autonomía o independencia de España, y realistas
 
 **6. (Alternativas — análisis de fuente histórica)** Imagina una carta escrita en 1815 por una familia patriota exiliada en Mendoza, que describe la esperanza de que "el ejército que se está formando al otro lado de la cordillera" les permita regresar a Chile. ¿A qué etapa del proceso corresponde?
 a) A la Patria Vieja (1810-1814)
-b) A la Guerra del Pacífico
+b) A la Guerra del Pacífico (1879-1884)
 c) A la Patria Nueva (1817-1823)
 d) A la Reconquista española (1814-1817)
 
@@ -403,9 +403,9 @@ institucional que vivió el país tras 1833, en comparación con el período ant
 
 **1. (Alternativas)** ¿Qué característica tuvo la Constitución de 1833?
 a) Concentró el poder en la figura del Presidente de la República
-b) Fortaleció al Congreso por sobre el Presidente
-c) Eliminó por completo a la Iglesia católica del país
-d) Estableció el voto universal para hombres y mujeres
+b) Fortaleció al Congreso por sobre el Presidente de la República
+c) Separó a la Iglesia católica del Estado de Chile
+d) Estableció el voto universal para hombres y mujeres adultos
 
 ✅ Respuesta correcta: **a) Concentró el poder en la figura del Presidente de la República**
 *Retroalimentación:* La Constitución de 1833 dio amplias facultades al Presidente, lo que,
@@ -468,7 +468,7 @@ en varios aspectos, fortaleciendo al Congreso y separando funciones del Estado y
 **6. (Alternativas — desafiante)** ¿Por qué fue importante el debate sobre la "libertad de enseñanza" en el Chile del siglo XIX?
 a) Porque se discutía si los niños debían aprender a nadar y hacer deporte en las escuelas públicas, lo que enfrentaba a profesores, apoderados y autoridades
 b) Porque decidía la fecha de la Independencia que debía enseñarse en las escuelas, y cada bando defendía un año distinto
-c) Porque prohibía todas las escuelas privadas y religiosas del país, y dejaba la educación de los niños solo en manos de sus familias, sin ninguna participación del Estado
+c) Porque cerraba las escuelas privadas y religiosas del país, y dejaba la educación de los niños en manos del Estado y de sus profesores
 d) Porque trataba sobre quién podía impartir educación (Estado, Iglesia, particulares) y se vinculaba con la tensión entre conservadores y liberales sobre el rol de la Iglesia
 
 ✅ Respuesta correcta: **d) Porque trataba sobre quién podía impartir educación (Estado, Iglesia, particulares) y se vinculaba con la tensión entre conservadores y liberales sobre el rol de la Iglesia**
@@ -608,7 +608,7 @@ d) La incorporación de Isla de Pascua
 
 **6. (Alternativas — desafiante)** ¿Por qué el Estado de Chile tuvo especial interés en tomar posesión real de los territorios del extremo sur durante el siglo XIX?
 a) Por su importancia estratégica, cercana al Estrecho de Magallanes, ruta clave entre el Atlántico y el Pacífico antes del Canal de Panamá, y para asegurar la soberanía
-b) Porque era la zona más poblada del país y sus ciudades necesitaban la protección del Estado frente a las potencias europeas
+b) Porque era la zona más poblada del país y sus ciudades necesitaban la protección del Estado frente a las potencias europeas que la rodeaban
 c) Porque allí estaban las salitreras más ricas de Chile, que el Estado necesitaba para financiar sus gastos y su ejército durante el siglo XIX
 d) Porque tenía el clima más cálido de Chile y los mejores suelos agrícolas, ideales para abastecer de alimentos a la Zona Central
 
@@ -727,9 +727,9 @@ d) El mayor acceso a la educación
 siglo XX?
 a) Que cada vez más personas pudieron participar en la vida política, educativa y cultural del
 país
-b) Que solo los hombres alfabetizados pudieron votar por primera vez en la historia de Chile
-c) Que se eliminó por completo el sistema de partidos políticos y las elecciones
-d) Que la población disminuyó considerablemente
+b) Que los hombres alfabetizados pudieron votar por primera vez en la historia de Chile
+c) Que desaparecieron los partidos políticos y las elecciones durante varias décadas
+d) Que la población del país disminuyó considerablemente por las epidemias
 
 ✅ Respuesta correcta: **a) Que cada vez más personas pudieron participar en la vida política,
 educativa y cultural del país**
@@ -843,9 +843,9 @@ para las elecciones democráticas que se realizaron en 1989 y el retorno a la de
 
 **4. (Alternativas)** ¿Por qué es importante estudiar el quiebre democrático de 1973 usando diversas fuentes y considerando distintas visiones?
 a) Porque así se puede elegir la versión que más nos guste e ignorar las demás
-b) Porque las fuentes históricas siempre dicen lo mismo, y comparar varias permite memorizar mejor los hechos y las fechas
+b) Porque las fuentes históricas tienden a decir lo mismo, y comparar varias permite memorizar mejor los hechos y las fechas del período
 c) Porque las personas vivieron ese período de formas muy distintas, y comparar fuentes permite comprender su complejidad sin simplificarla
-d) No es importante: basta con una sola fuente oficial, porque las demás visiones solo confunden la comprensión del período
+d) Es poco importante: basta con una fuente oficial, porque las demás visiones tienden a confundir la comprensión del período estudiado
 
 ✅ Respuesta correcta: **c) Porque las personas vivieron ese período de formas muy distintas, y comparar fuentes permite comprender su complejidad sin simplificarla**
 *Retroalimentación:* Comparar fuentes evita explicaciones simplificadas de un solo punto de vista.
@@ -854,8 +854,8 @@ d) No es importante: basta con una sola fuente oficial, porque las demás vision
 
 **5. (Alternativas — análisis de fuente histórica)** Imagina dos testimonios sobre 1973: uno de un exfuncionario del gobierno derrocado, que describe la persecución sufrida, y otro de una persona que apoyó inicialmente el golpe por la crisis económica previa. ¿Qué nos enseña comparar ambos testimonios?
 a) Que un mismo hecho puede vivirse e interpretarse de formas distintas, y que comprender un período complejo requiere varios puntos de vista y fuentes
-b) Que uno de los dos testimonios es inventado, porque un mismo hecho solo puede vivirse de una manera y hay que descubrir cuál es la verdadera
-c) Que todas las interpretaciones valen lo mismo frente a hechos comprobados, de modo que los testimonios reemplazan a cualquier otra fuente
+b) Que uno de los dos testimonios es inventado, porque un mismo hecho se vive de una sola manera y hay que descubrir cuál de los dos es el verdadero
+c) Que las interpretaciones valen lo mismo frente a hechos comprobados, de modo que los testimonios reemplazan a otras fuentes históricas del período
 d) Que la historia no se puede estudiar, porque cada persona recuerda algo distinto y no hay forma de comparar las fuentes
 
 ✅ Respuesta correcta: **a) Que un mismo hecho puede vivirse e interpretarse de formas distintas, y que comprender un período complejo requiere varios puntos de vista y fuentes**
@@ -1120,8 +1120,8 @@ d) Vegetación
 ---
 
 **4. (Alternativas — análisis de mapa)** Observa un mapa político de Chile dividido en regiones. ¿Qué información habría que agregar para caracterizar geográficamente una región, además de su nombre y límites?
-a) Solo el nombre de su capital regional y de sus provincias, porque eso basta para conocer sus rasgos
-b) Solo los colores de su bandera y su escudo, que representan sus características físicas y humanas
+a) El nombre de su capital regional y de sus provincias, porque eso basta para conocer sus rasgos principales
+b) Los colores de su bandera y su escudo, que representan sus características físicas y humanas
 c) Nada más: el mapa político basta, porque los límites de cada región ya muestran su clima y su relieve
 d) Su clima, relieve, hidrografía y vegetación (rasgos físicos), y su población y actividades económicas (rasgos humanos)
 
@@ -1143,9 +1143,9 @@ d) Región Metropolitana; capital Valparaíso; glaciares y campos de hielo; la g
 
 **6. (Alternativas — desafiante)** ¿Por qué es importante que los estudiantes conozcan bien las características de su propia región?
 a) Porque así no necesitan conocer otras regiones ni compararlas con la suya
-b) Porque todas las regiones son iguales, y conocer una permite conocerlas todas
+b) Porque las regiones se parecen mucho, y conocer una permite conocer casi todas las demás
 c) Porque ayuda a comprender el entorno en que viven, valorar sus recursos y comparar con otras regiones
-d) No es importante, porque lo que se estudia en el colegio es solo la historia de Chile
+d) Es poco importante, porque lo que se estudia en el colegio es sobre todo la historia de Chile
 
 ✅ Respuesta correcta: **c) Porque ayuda a comprender el entorno en que viven, valorar sus recursos y comparar con otras regiones**
 *Retroalimentación:* Conocer la propia región sirve además como punto de comparación para entender las demás regiones de Chile.
@@ -1288,8 +1288,8 @@ d) Ninguno de los dos tiene oportunidades
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué las personas han logrado vivir durante siglos en ambientes extremos como el desértico o el patagónico?
-a) Porque esos ambientes no tienen ninguna dificultad: el agua y el alimento abundan durante todo el año y no exigen técnicas especiales
-b) Porque nadie ha vivido nunca en ellos: las personas solo los visitan por un tiempo corto para trabajar y luego vuelven a la Zona Central
+a) Porque esos ambientes tienen pocas dificultades: el agua y el alimento abundan gran parte del año y no exigen técnicas especiales para vivir allí
+b) Porque casi nadie ha vivido en ellos: las personas los visitan por un tiempo corto para trabajar y luego vuelven a sus ciudades de origen
 c) Por la capacidad de adaptación humana: tecnologías y conocimientos como el riego, la captación de agua o formas de construcción adaptadas al clima
 d) Porque el clima cambió y ahora son templados, por lo que ya no hace falta adaptar las viviendas ni las formas de obtener agua
 
@@ -1370,7 +1370,7 @@ las leyes?
 a) Poder Ejecutivo
 b) Poder Legislativo
 c) Poder Judicial
-d) Ninguno de los anteriores
+d) Tribunal Constitucional
 
 ✅ Respuesta correcta: **b) Poder Legislativo**
 *Retroalimentación:* El Poder Legislativo, representado por el Congreso Nacional (Cámara de
@@ -1401,7 +1401,7 @@ d) Concejal
 
 **4. (Alternativas)** ¿Por qué es importante que el poder del Estado esté dividido en tres poderes, y no concentrado en una sola institución?
 a) Para evitar abusos de poder: el Legislativo elabora las leyes, el Ejecutivo las aplica y el Judicial vela por su cumplimiento, controlándose entre sí
-b) Para que una sola persona tome todas las decisiones importantes del país con mayor rapidez, sin tener que consultar a nadie
+b) Para que una persona tome las decisiones importantes del país con mayor rapidez, sin tener que consultar a los demás poderes
 c) Para que no existan leyes que limiten a las autoridades, y cada poder pueda actuar como quiera en su propio ámbito
 d) Para que las elecciones no sean necesarias, porque cada poder elige a sus propias autoridades sin votación ciudadana
 
@@ -1412,9 +1412,9 @@ d) Para que las elecciones no sean necesarias, porque cada poder elige a sus pro
 
 **5. (Alternativas)** ¿Cuál de las siguientes es una forma de participación ciudadana
 mencionada en este objetivo?
-a) Ignorar completamente las decisiones políticas del país
+a) Dejar de lado las decisiones políticas del país
 b) Participar de manera activa, informada y responsable en la sociedad
-c) Depender únicamente de las decisiones de las autoridades sin informarse
+c) Depender de las decisiones de las autoridades sin informarse
 d) Votar sin conocer a los candidatos ni sus propuestas
 
 ✅ Respuesta correcta: **b) Participar de manera activa, informada y responsable en la
@@ -1425,7 +1425,7 @@ en organizaciones y espacios colectivos, y no limitarse solo al acto de votar.
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué es importante que las autoridades elegidas por votación tengan un período limitado en su cargo?
-a) Porque así nunca hay elecciones y las autoridades pueden dedicarse a gobernar sin interrupciones
+a) Porque así las elecciones son menos frecuentes y las autoridades pueden dedicarse a gobernar sin interrupciones
 b) Porque las autoridades no pueden cometer errores mientras dura su período, y al terminarlo se revisan sus leyes
 c) Porque el cargo se hereda a los hijos al terminar el período, y así se asegura que la familia siga gobernando
 d) Porque la ciudadanía puede evaluar su desempeño y decidir en nuevas elecciones, evitando que alguien se perpetúe en el poder
@@ -1524,10 +1524,10 @@ poder del Estado y protege los derechos fundamentales de todas las personas.
 ---
 
 **4. (Alternativas)** ¿Por qué se dice que la Constitución Política "instaura un sistema democrático" en Chile?
-a) Porque permite que el Presidente gobierne sin límites durante su período, mientras el Congreso y los tribunales solo lo aconsejan
+a) Porque permite que el Presidente gobierne sin grandes límites durante su período, mientras el Congreso y los tribunales lo asesoran
 b) Porque establece que Chile es una república democrática, define la división de poderes, la elección de autoridades y garantiza derechos y libertades
 c) Porque prohíbe las elecciones y establece que las autoridades se nombran entre los poderes del Estado, sin participación ciudadana
-d) Porque es una ley igual a cualquier otra, que el Congreso puede cambiar en cualquier momento por mayoría simple
+d) Porque es una ley como las demás, que el Congreso puede cambiar cuando quiera por mayoría simple
 
 ✅ Respuesta correcta: **b) Porque establece que Chile es una república democrática, define la división de poderes, la elección de autoridades y garantiza derechos y libertades**
 *Retroalimentación:* Todos esos elementos son propios de un sistema democrático.
@@ -1655,10 +1655,10 @@ d) 1-A, 2-B, 3-C
 ---
 
 **4. (Alternativas)** ¿Por qué un derecho como la educación debe ser respetado tanto por los pares como por el Estado?
-a) Porque solo el Estado puede vulnerar derechos, y las personas entre sí no tienen ninguna responsabilidad sobre ellos
+a) Porque el Estado es quien puede vulnerar derechos, y las personas entre sí tienen poca responsabilidad sobre ellos
 b) Porque el Estado debe garantizarlo institucionalmente, pero su cumplimiento también depende del respeto cotidiano de las personas
-c) Porque los pares no influyen en los derechos de los demás, ya que cada derecho depende solo de lo que diga la ley
-d) Porque los derechos solo existen en la Constitución, y si no se mencionan ahí no pueden exigirse a nadie
+c) Porque los pares influyen poco en los derechos de los demás, ya que cada derecho depende de lo que diga la ley
+d) Porque los derechos existen en la Constitución, y si no se mencionan ahí no pueden exigirse a otras personas
 
 ✅ Respuesta correcta: **b) Porque el Estado debe garantizarlo institucionalmente, pero su cumplimiento también depende del respeto cotidiano de las personas**
 *Retroalimentación:* Los derechos se cumplen plenamente cuando los respetan las instituciones y también las personas en su vida diaria.
@@ -1678,9 +1678,9 @@ d) No tienen ninguna relación: cada documento reconoce derechos distintos y no 
 
 **6. (Alternativas — desafiante)** ¿Por qué se dice que el respeto de los derechos de todas las personas "constituye la base para vivir en una sociedad justa"?
 a) Porque si no se respetaran de forma igualitaria habría discriminación y abuso; su respeto universal permite convivir en igualdad y dignidad
-b) Porque los derechos solo importan a algunos grupos, y respetarlos permite que esos grupos tengan más privilegios que el resto
+b) Porque los derechos importan sobre todo a algunos grupos, y respetarlos permite que esos grupos tengan más privilegios que el resto
 c) Porque una sociedad justa no necesita derechos: basta con que cada persona haga lo que le parezca correcto en cada momento
-d) Porque los derechos generan discriminación cuando se aplican a todos, y por eso hay que reservarlos para quienes los merecen
+d) Porque los derechos generan discriminación cuando se aplican a cada persona, y por eso hay que reservarlos para quienes los merecen
 
 ✅ Respuesta correcta: **a) Porque si no se respetaran de forma igualitaria habría discriminación y abuso; su respeto universal permite convivir en igualdad y dignidad**
 *Retroalimentación:* El respeto universal de los derechos permite que todas las personas, sin excepción, puedan desarrollarse.
@@ -1748,11 +1748,11 @@ comunidad.
 #### Autoevaluación — OA 18
 
 **1. (Alternativas)** ¿Qué significa que "los derechos generan deberes"?
-a) Que tener un derecho no implica ninguna responsabilidad hacia los demás
+a) Que tener un derecho implica poca responsabilidad hacia las demás personas
 b) Que el ejercicio de un derecho propio también implica respetar el mismo derecho en los
 demás
-c) Que solo el Estado tiene deberes con las personas, nunca las personas entre sí
-d) Que los derechos y los deberes no tienen ninguna relación entre sí en la vida diaria
+c) Que el Estado tiene deberes con las personas, pero las personas entre sí tienen pocos
+d) Que los derechos y los deberes tienen poca relación entre sí en la vida diaria de la comunidad
 
 ✅ Respuesta correcta: **b) Que el ejercicio de un derecho propio también implica respetar el
 mismo derecho en los demás**
@@ -1801,9 +1801,9 @@ d) No botar basura → derecho a la nacionalidad
 
 **5. (Alternativas)** ¿Por qué es importante cumplir los deberes que generan los derechos,
 según este objetivo?
-a) Porque de lo contrario las personas pierden automáticamente todos sus derechos
+a) Porque de lo contrario las personas pierden sus derechos
 b) Porque contribuye a la convivencia social y al bien común
-c) Porque es una exigencia que solo aplica a los adultos
+c) Porque es una exigencia que se aplica sobre todo a los adultos
 d) Porque no tiene relación con la vida en sociedad
 
 ✅ Respuesta correcta: **b) Porque contribuye a la convivencia social y al bien común**

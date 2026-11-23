@@ -286,17 +286,17 @@ fuma dentro de la casa.
    **Retroalimentación:** Las arritmias y la trombosis afectan el corazón y los vasos sanguíneos (circulatorio); el cáncer pulmonar y el asma afectan pulmones y vías respiratorias (respiratorio).
 
 4. *(Alternativas)* ¿Qué es un "fumador pasivo"?
-   a) Una persona que fuma poco, solo uno o dos cigarrillos los fines de semana
-   b) Una persona que dejó de fumar hace muchos años y ya no respira humo de tabaco
+   a) Una persona que fuma poco, uno o dos cigarrillos los fines de semana, cuando sale con sus amigos a la plaza del barrio
+   b) Una persona que dejó de fumar hace muchos años y ya no respira humo de tabaco en su casa ni en su lugar de trabajo
    c) Una persona que respira el humo de tabaco de otros sin fumar directamente, como un niño en una sala donde un adulto fuma
-   d) Una persona que fuma solo al aire libre, en el patio o en la calle, para que el humo no quede dentro de la casa ni lo respiren otros
+   d) Una persona que fuma al aire libre, en el patio o en la calle, para que el humo no quede dentro de la casa
    **Respuesta correcta:** c) Una persona que respira el humo de tabaco de otros sin fumar directamente, como un niño en una sala donde un adulto fuma.
    **Retroalimentación:** El punto clave es que el daño no requiere fumar directamente: basta con respirar el humo ajeno.
 
 5. *(Alternativas — análisis)* ¿Por qué el humo de tabaco afecta tanto al sistema respiratorio como al circulatorio, y no solo a los pulmones?
    a) Porque las sustancias tóxicas inhaladas pasan a la sangre en los pulmones y desde ahí circulan por todo el cuerpo
-   b) Porque el humo entra directamente al corazón por la boca, sin pasar por los pulmones ni por la sangre
-   c) Porque el sistema circulatorio está dentro de los pulmones, y el humo se queda guardado ahí para siempre
+   b) Porque el humo entra directamente al corazón por la boca, sin pasar por los pulmones ni por la sangre del cuerpo
+   c) Porque el sistema circulatorio está dentro de los pulmones, y el humo se queda guardado ahí durante muchos años
    d) Porque el humo solo afecta la piel y el pelo, y desde ahí llega a los demás órganos del cuerpo
    **Respuesta correcta:** a) Porque las sustancias tóxicas inhaladas pasan a la sangre en los pulmones y desde ahí circulan por todo el cuerpo.
    **Retroalimentación:** Comprender esta conexión ayuda a ver por qué fumar es dañino para más de un sistema del cuerpo a la vez.
@@ -373,16 +373,16 @@ espacios donde vivimos.
 
 4. *(Alternativas)* ¿Qué es una enfermedad infectocontagiosa?
    a) Una enfermedad que se hereda de los padres y aparece desde el nacimiento, como el daltonismo
-   b) Una enfermedad causada por un golpe o una caída, como una fractura del brazo
-   c) Una enfermedad que nunca se transmite, aunque la cause un microorganismo, como la gripe
+   b) Una enfermedad causada por un golpe o una caída, como una fractura del brazo o de la pierna
+   c) Una enfermedad causada por la mala alimentación, que no se transmite a otras personas, como la gripe
    d) Una enfermedad causada por un microorganismo que puede transmitirse de una persona a otra, como la gripe
    **Respuesta correcta:** d) Una enfermedad causada por un microorganismo que puede transmitirse de una persona a otra, como la gripe.
    **Retroalimentación:** El concepto clave es "transmisión de persona a persona", que la distingue de otras enfermedades no contagiosas.
 
 5. *(Alternativas — análisis)* ¿Por qué el lavado de manos es una de las medidas de higiene más recomendadas para prevenir enfermedades infectocontagiosas?
-   a) Porque así las manos huelen bien y se ven más limpias, aunque no cambie nada en la salud
+   a) Porque así las manos huelen bien y se ven más limpias, aunque casi no cambie nada en la salud
    b) Porque las manos tocan superficies, alimentos y la cara, y pueden transportar microorganismos que el lavado elimina
-   c) Porque el agua fría mata todos los virus del cuerpo, incluso los que ya están dentro
+   c) Porque el agua fría mata los virus del cuerpo, incluso los que ya están dentro de la nariz
    d) Porque las manos producen bacterias propias, y el lavado impide que se multipliquen en la piel
    **Respuesta correcta:** b) Porque las manos tocan superficies, alimentos y la cara, y pueden transportar microorganismos que el lavado elimina.
    **Retroalimentación:** Las manos tocan superficies, alimentos y la cara, y así pueden llevar microorganismos a la boca, la nariz o los ojos. Lavarlas con agua y jabón elimina esos microorganismos y corta el contagio.
@@ -486,7 +486,7 @@ y las instalaciones eléctricas de una casa: nunca se debe tocar un cable pelado
 6. *(Alternativas — seguridad)* ¿Por qué es peligroso tocar un cable eléctrico pelado, y qué se debe hacer frente a un artefacto dañado?
    a) Porque el plástico que queda alrededor quema al tocarlo; hay que tocarlo con la mano mojada para enfriarlo y así evitar quemarse
    b) No es peligroso si el cable es delgado, porque por un cable delgado pasa muy poca corriente; basta con tocarlo rápido y con cuidado
-   c) Porque se puede ensuciar con polvo y fallar; hay que limpiarlo con agua y un paño húmedo antes de volver a enchufar el artefacto
+   c) Porque se puede ensuciar con polvo y fallar; hay que limpiarlo con agua y un paño húmedo antes de volver a enchufar el aparato a la red eléctrica
    d) Porque el conductor queda expuesto y la corriente puede pasar a la persona; no se debe manipular y hay que avisar a un adulto o desconectarlo de forma segura
    **Respuesta correcta:** d) Porque el conductor queda expuesto y la corriente puede pasar a la persona; no se debe manipular y hay que avisar a un adulto o desconectarlo de forma segura.
    **Retroalimentación:** Reconocer el riesgo de los materiales conductores expuestos es clave para aplicar normas de seguridad frente a artefactos tecnológicos.
@@ -576,9 +576,9 @@ ríos como el Baker y el Biobío.
    **Retroalimentación:** Chile concentra importantes reservas de agua dulce en la zona sur y austral, principalmente en glaciares y lagos; el océano es agua salada.
 
 5. *(Alternativas)* ¿Por qué se dice que el agua dulce es "relativamente escasa", a pesar de que gran parte del planeta está cubierto de agua?
-   a) Porque el agua dulce se evapora y desaparece del planeta para siempre, sin volver como lluvia
+   a) Porque el agua dulce se evapora y desaparece del planeta, sin volver como lluvia a los ríos y lagos
    b) Porque la mayor parte del agua es salada, y del agua dulce, la mayoría está congelada o subterránea
-   c) Porque solo hay agua dulce en Chile, y el resto de los países usa agua de mar
+   c) Porque hay agua dulce sobre todo en Chile, y el resto de los países usa agua de mar para vivir
    d) Porque el agua salada se puede beber directamente, y por eso nadie cuida el agua dulce
    **Respuesta correcta:** b) Porque la mayor parte del agua es salada, y del agua dulce, la mayoría está congelada o subterránea.
    **Retroalimentación:** Casi toda el agua del planeta es salada (está en los océanos); del poco de agua dulce que hay, la mayor parte está congelada en glaciares o bajo el suelo, así que la que podemos usar directamente es muy poca. Por eso hay que cuidarla.
@@ -587,7 +587,7 @@ ríos como el Baker y el Biobío.
    a) Los glaciares producen agua salada que se derrite hacia el mar; las nubes la guardan y no la devuelven como lluvia
    b) Las nubes congelan los ríos durante el invierno y los glaciares los evaporan durante el verano, sin formar lluvia ni nieve
    c) Los glaciares almacenan agua dulce congelada que se libera lentamente; las nubes transportan agua evaporada y la devuelven como lluvia o nieve
-   d) No participan en el ciclo del agua: los glaciares y las nubes solo existen en las montañas más altas del país
+   d) Participan poco en el ciclo del agua: los glaciares y las nubes existen sobre todo en las montañas más altas del país
    **Respuesta correcta:** c) Los glaciares almacenan agua dulce congelada que se libera lentamente; las nubes transportan agua evaporada y la devuelven como lluvia o nieve.
    **Retroalimentación:** Los glaciares guardan agua dulce congelada que se libera de a poco al derretirse y alimenta ríos y lagos; las nubes llevan el agua evaporada y la devuelven como lluvia o nieve. Así, los depósitos de agua dulce están conectados por el ciclo del agua.
 
@@ -652,16 +652,16 @@ cursos de agua, y apoyar políticas de cuidado de cuencas hidrográficas y glaci
 
 3. *(Alternativas — clasificar)* ¿Qué forma de contaminación afecta con más frecuencia a los **ríos**?
    a) El vertido de aguas servidas sin tratar
-   b) Un derrame de petróleo de un barco
-   c) La basura plástica en la playa
+   b) Un derrame de petróleo de un barco pesquero
+   c) La basura plástica que queda en la playa
    **Respuesta correcta:** a) El vertido de aguas servidas sin tratar.
    **Retroalimentación:** Derrames de petróleo y basura plástica en la costa afectan sobre todo al océano; el vertido de aguas servidas, a los ríos. Toda contaminación del agua está conectada por el ciclo del agua.
 
 4. *(Alternativas)* ¿Por qué el retroceso de los glaciares en la Patagonia chilena es preocupante para la disponibilidad futura de agua dulce?
    a) Porque son una de las principales reservas de agua dulce del país, y si retroceden se reduce el agua disponible a largo plazo
    b) Porque los glaciares producen agua salada, y si retroceden aumenta el agua salada del mar
-   c) Porque así aumenta el agua dulce para siempre: cuando los glaciares retroceden, el agua no se acaba nunca
-   d) No es preocupante, porque el agua dulce nunca se acaba y los glaciares vuelven a crecer cada invierno
+   c) Porque así aumenta el agua dulce disponible: cuando los glaciares retroceden, el agua de los ríos crece durante muchos años
+   d) Es poco preocupante, porque el agua dulce se renueva rápido y los glaciares vuelven a crecer cada invierno
    **Respuesta correcta:** a) Porque son una de las principales reservas de agua dulce del país, y si retroceden se reduce el agua disponible a largo plazo.
    **Retroalimentación:** Conectar este tema con la distribución del agua ayuda a entender por qué proteger los glaciares es tan relevante para Chile.
 
