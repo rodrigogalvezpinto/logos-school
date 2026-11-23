@@ -78,8 +78,8 @@ d) El Congreso Nacional puede aumentar el gasto público por iniciativa propia, 
 **4.** (Alternativas — 2 puntos) ¿Cómo afecta la posibilidad de postular como **candidatura independiente** a la distribución del poder, y qué condición exige?
 
 a) Amplía quién puede acceder a cargos de representación, evitando que el poder quede monopolizado por los partidos; exige, por ejemplo, reunir firmas de respaldo
-b) Concentra el poder en los partidos políticos, porque las candidaturas independientes deben afiliarse a uno para inscribirse; no exige ninguna condición adicional
-c) Elimina los partidos políticos del sistema, porque todos los candidatos pasan a competir sin afiliación; exige haber sido militante de un partido durante cinco años
+b) Concentra el poder en los partidos políticos, porque las candidaturas independientes deben afiliarse a uno para inscribirse; exige pagar una garantía en dinero al Servel
+c) Elimina los partidos políticos del sistema, porque los candidatos pasan a competir sin afiliación; exige haber sido militante de un partido durante cinco años
 d) No afecta la distribución del poder, porque los independientes no pueden ocupar cargos de representación; exige ser abogado y tener experiencia en cargos públicos
 
 ---
@@ -138,10 +138,10 @@ d) 1-B, 2-C, 3-D, 4-A
 
 **9.** (Alternativas — 2 puntos) ¿Cómo evidencia el cambio climático los límites de un modelo de desarrollo basado en el uso intensivo de combustibles fósiles?
 
-a) No tiene relación: el cambio climático solo depende de ciclos naturales del planeta, por lo que el modelo de desarrollo puede mantenerse sin afectar la vida de las personas
+a) No tiene relación: el cambio climático depende sobre todo de ciclos naturales del planeta, por lo que el modelo de desarrollo puede mantenerse sin afectar la vida de las personas
 b) Ese uso intensivo genera el cambio climático, cuyos efectos (sequías, incendios, escasez hídrica) deterioran la vida digna de comunidades concretas y de las generaciones futuras
-c) Lo demuestra porque los combustibles fósiles son inagotables, y el problema es solo que su uso intensivo encarece la energía para las comunidades más pobres
-d) Solo afecta a la economía de otros países, que dependen más del petróleo, mientras que en Chile sus efectos sobre la vida de las comunidades son irrelevantes
+c) Lo demuestra porque los combustibles fósiles son inagotables, y el problema de su uso intensivo es que encarece la energía para las comunidades más pobres del país
+d) Afecta principalmente a la economía de otros países, que dependen más del petróleo, mientras que en Chile sus efectos sobre la vida de las comunidades son menores y pasajeros
 
 ---
 
@@ -201,8 +201,8 @@ d) 1-A, 2-D, 3-B, 4-C
 
 a) La firma no libera al empleador de su obligación de prevenir riesgos y proteger la salud y seguridad; el temor a perder el empleo muestra una asimetría de poder que limita una decisión libre
 b) Si la trabajadora firma voluntariamente el documento, el empleador queda liberado de toda obligación de prevención, porque el acuerdo escrito entre las partes prevalece sobre la ley
-c) No hay asimetría de poder, porque firmar es voluntario y la trabajadora puede buscar otro empleo; el problema es solo que el taller no compró los equipos de protección a tiempo
-d) La responsabilidad recae siempre en la trabajadora que firma, porque al aceptar las condiciones asume los riesgos del trabajo; el empleador solo debe pagarle el sueldo acordado
+c) No hay asimetría de poder, porque firmar es voluntario y la trabajadora puede buscar otro empleo; el problema es que el taller no compró a tiempo los equipos de protección necesarios
+d) La responsabilidad recae en la trabajadora que firma, porque al aceptar las condiciones asume los riesgos del trabajo; el empleador debe pagarle el sueldo y el seguro acordados en el contrato
 
 ---
 
@@ -276,9 +276,9 @@ d) Es aceptable si el alcalde pertenece a un partido con el que se está de acue
 
 **21.** ¿Cuál de los siguientes ejemplos ilustra una **virtud** de los medios y las nuevas tecnologías para la democracia?
 
-a) Una plataforma oculta quién financia sus mensajes políticos, para que los votantes se concentren solo en el contenido de las propuestas
+a) Una plataforma oculta quién financia sus mensajes políticos, para que los votantes se concentren en el contenido de las propuestas y no en quién paga
 b) Vecinos de una comuna usan una plataforma de participación digital para presentar propuestas y hacer seguimiento a la respuesta de su municipio
-c) Un algoritmo muestra a cada usuario solo el contenido que confirma lo que ya piensa, para que se sienta cómodo al informarse sobre política
+c) Un algoritmo muestra a cada usuario el contenido que confirma lo que ya piensa, para que se sienta cómodo y siga informándose sobre política
 d) Una cuenta anónima difunde rumores sin fuente durante una elección, para que los votantes conozcan versiones que los medios tradicionales no publican
 
 ---
@@ -313,9 +313,9 @@ d) 1-B, 2-C, 3-D, 4-A
 **24.** (Alternativas — 2 puntos) Sobre el uso de medios y redes sociales, ¿qué combinación clasifica correctamente una oportunidad, un riesgo y una práctica grupal de alfabetización mediática?
 
 a) Oportunidad: la desinformación, que muestra puntos de vista distintos; riesgo: participar en debates públicos; práctica: compartir todo sin leer, para que circule más información
-b) Oportunidad: exponer los datos personales para conectarse con más personas; riesgo: informarse en medios distintos; práctica: no conversar nunca en el curso sobre lo que se ve en redes
+b) Oportunidad: exponer los datos personales para conectarse con más personas; riesgo: informarse en medios distintos; práctica: evitar conversar en el curso sobre lo que se ve en redes
 c) Oportunidad: acceder a información y participar; riesgo: desinformación o exposición de datos; práctica: acordar en el curso verificar en conjunto antes de compartir
-d) Oportunidad y riesgo son lo mismo, porque toda información puede usarse bien o mal; por eso no hace falta ninguna práctica grupal, basta con que cada persona use su criterio
+d) Oportunidad y riesgo son lo mismo, porque la información puede usarse bien o mal; por eso una práctica grupal sobra, y basta con que cada persona use su propio criterio
 
 ---
 

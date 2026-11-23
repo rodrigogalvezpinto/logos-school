@@ -79,9 +79,9 @@ d) El concejo municipal fiscaliza la gestión del alcalde o alcaldesa.
 
 **4.** (Alternativas — 2 puntos) ¿Qué función cumple la Contraloría General de la República en la distribución del poder?
 
-a) Dicta las leyes de la República junto con el Congreso Nacional y el Presidente
-b) Elige a los jueces de la Corte Suprema mediante una votación popular cada cuatro años
-c) Organiza todas las elecciones del país y proclama a las autoridades que resultan electas
+a) Dicta las normas que regulan la administración pública junto con el Congreso Nacional y el Presidente
+b) Elige a los jueces de la Corte Suprema y supervisa que los tribunales cumplan los plazos de cada juicio
+c) Organiza las elecciones del país, revisa los gastos de campaña y proclama a las autoridades electas
 d) Controla la legalidad de los actos de la administración y fiscaliza el uso de los recursos públicos
 
 ---
@@ -115,9 +115,9 @@ d) Un municipio construye una nueva plaza en un barrio de la comuna
 
 **7.** Un país busca diversificar su economía para depender menos de la exportación de cobre. ¿Qué medida es coherente con ese objetivo?
 
-a) Aumentar solo la extracción de cobre para poder vender más toneladas cada año
-b) Cerrar todas las empresas del país que no estén relacionadas con la minería
-c) Prohibir las exportaciones de cualquier producto chileno que sea distinto del cobre
+a) Aumentar la extracción de cobre para vender más toneladas y aprovechar los buenos precios
+b) Concentrar la inversión pública en la minería, que es la actividad que más empleo genera hoy
+c) Subir los impuestos a las exportaciones distintas del cobre para financiar nuevas minas
 d) Fomentar nuevas industrias, como las energías renovables y los servicios tecnológicos
 
 ---
@@ -143,9 +143,9 @@ d) 1-C, 2-A, 3-D, 4-B
 **9.** (Alternativas — 2 puntos) Un proyecto minero promete muchos empleos, pero usaría grandes cantidades de agua en una zona afectada por la sequía. ¿Qué tensión del desarrollo muestra este caso?
 
 a) La tensión entre el crecimiento económico y la sustentabilidad ambiental y social de la zona
-b) Ninguna tensión, porque los empleos siempre resuelven todos los problemas de una zona
+b) La tensión entre los trabajadores y la empresa por el monto de los sueldos que se pagarán
 c) La tensión entre dos empresas mineras que compiten por el mismo yacimiento de cobre
-d) La tensión entre el Banco Central y el Congreso por la tasa de interés del país
+d) La tensión entre el Banco Central y el Congreso por la tasa de interés que fija el país cada mes
 
 ---
 
@@ -169,19 +169,19 @@ d) La participación de la comunidad local puede mejorar la calidad de las decis
 
 **11.** ¿Qué documento debe existir por escrito al comenzar una relación laboral y qué debe indicar?
 
-a) Un finiquito, con el monto que se pagará al terminar el trabajo
-b) Una boleta de honorarios, con el valor de cada hora trabajada
+a) Un finiquito, con el monto que se pagará cuando termine la relación laboral
+b) Una boleta de honorarios, con el valor de cada hora y los días trabajados
 c) Un contrato de trabajo, con las funciones, la jornada y la remuneración
-d) Un certificado de antecedentes, con la dirección de la persona
+d) Un certificado de antecedentes, con la dirección y los datos de la persona
 
 ---
 
 **12.** ¿Qué es el finiquito?
 
-a) El documento que se firma al iniciar un trabajo, con las funciones del cargo
+a) El documento que se firma al iniciar un trabajo, con las funciones y el horario del cargo
 b) El documento que pone término a la relación laboral y deja constancia de los pagos pendientes
-c) La liquidación de sueldo que el trabajador recibe todos los meses junto con su pago
-d) El reglamento interno de orden, higiene y seguridad que tiene cada empresa
+c) La liquidación de sueldo que el trabajador recibe cada mes, con el detalle de su pago y descuentos
+d) El reglamento interno de orden, higiene y seguridad que debe tener cada empresa del país
 
 ---
 
@@ -206,9 +206,9 @@ d) 1-C, 2-A, 3-D, 4-B
 **14.** (Alternativas — 2 puntos) Un empleador paga las horas extraordinarias como si fueran horas normales, sin ningún recargo. ¿Qué evaluación es correcta?
 
 a) Vulnera el derecho a que las horas extraordinarias se paguen con un recargo legal; el trabajador puede reclamar ante la Inspección del Trabajo
-b) Es correcto, porque una hora de trabajo vale siempre lo mismo, se trabaje dentro o fuera de la jornada acordada
-c) Es correcto si el trabajador no reclamó en el momento, porque así aceptó tácitamente las condiciones del empleador
-d) Solo es un problema si la empresa es muy grande, porque las empresas pequeñas no deben pagar horas extraordinarias
+b) Es correcto, porque una hora de trabajo vale lo mismo para la ley, se trabaje dentro o fuera de la jornada que se acordó en el contrato
+c) Es correcto si el trabajador no reclamó en el momento, porque así aceptó tácitamente las condiciones que le propuso el empleador ese mes
+d) Es un problema en las empresas grandes, porque las empresas pequeñas pueden pactar con sus trabajadores no pagar el recargo de las horas extra
 
 ---
 
@@ -243,8 +243,8 @@ d) Entre la igualdad formal ante la ley y la igualdad real de condiciones para e
 
 a) Vulnera el derecho a la igualdad de remuneraciones entre hombres y mujeres por un mismo trabajo
 b) Es una decisión válida, porque cada empresa fija libremente los sueldos de su personal
-c) Solo sería un problema si las trabajadoras tuvieran menos años de experiencia
-d) Es correcto si las trabajadoras firmaron su contrato aceptando esa diferencia
+c) Es válido, porque la ley permite pagar distinto según el sexo cuando lo acuerda el sindicato
+d) Es correcto si las trabajadoras firmaron su contrato aceptando esa diferencia de sueldo
 
 ---
 
@@ -261,10 +261,10 @@ d) Las acciones afirmativas buscan corregir desigualdades que han afectado hist�
 
 **19.** (Alternativas — 2 puntos) ¿Qué ejemplo ilustra mejor el principio de **solidaridad** en una política pública?
 
-a) Que cada persona pague por completo y en forma individual todos los servicios que usa
-b) Que el Estado deje de financiar la educación y la salud de toda la población
+a) Un sistema en que cada persona paga de forma individual los servicios de salud que usa, según lo que consume
+b) Un sistema en que el Estado deja de financiar la educación y la salud para que cada familia elija
 c) Un sistema de salud en que quienes tienen más recursos aportan para cubrir también a quienes tienen menos
-d) Que solo las personas con mayores ingresos puedan acceder a los hospitales públicos
+d) Un sistema en que las personas con mayores ingresos tienen prioridad para atenderse en los hospitales públicos
 
 ---
 
@@ -324,9 +324,9 @@ d) 1-D, 2-B, 3-A, 4-C
 
 **24.** (Alternativas — 2 puntos) Antes de compartir una noticia muy sorprendente que llegó por una red social, ¿qué práctica es la más responsable?
 
-a) Compartirla de inmediato, porque si es viral seguramente es verdadera
-b) Compartirla solo con los amigos más cercanos, sin revisar nada
-c) Agregarle un comentario indignado para que llegue a más personas
+a) Compartirla de inmediato, porque si muchos la comparten seguramente es verdadera
+b) Compartirla con los amigos más cercanos para preguntarles si les parece que es verdad
+c) Agregarle un comentario de advertencia y compartirla para que más personas la vean
 d) Revisar la fuente y la fecha, y contrastarla con otros medios confiables
 
 ---
