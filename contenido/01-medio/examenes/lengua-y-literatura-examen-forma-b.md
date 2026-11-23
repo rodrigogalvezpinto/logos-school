@@ -45,10 +45,10 @@ d) La decisión del padre de vender el horno de barro para pagar los estudios de
 
 **2. (Alternativas)** ¿A qué **personaje tipo** corresponde la abuela Herminia?
 
-a) El pícaro
+a) El pícaro o burlador
 b) El antagonista
 c) El sabio o mentor
-d) El avaro
+d) El avaro o codicioso
 
 **3. (Verdadero o Falso)** "Si el relato estuviera narrado en primera persona por Antonia, el lector tendría el mismo acceso a la insistencia semanal del padre sobre el horno que Antonia misma no llega a cuestionar del todo."
 
@@ -109,10 +109,10 @@ d) El parlante de música
 
 **8. (Alternativas)** ¿Qué efecto produce bajar progresivamente la luz mientras el crujido de las tablas se hace continuo?
 
-a) Indica que la obra terminó y que los actores deben salir del escenario antes del aplauso del público
-b) Sirve solo para cambiar la escenografía sin que el público lo note mientras los personajes siguen hablando, sin relación con lo que ocurre en la escena ni con el conflicto
+a) Indica que la obra terminó y que los actores deben salir del escenario antes del aplauso final del público de la sala
+b) Sirve para cambiar la escenografía sin que el público lo note mientras los personajes siguen hablando, con poca relación con lo que ocurre en la escena
 c) Refuerza visual y sonoramente el paso del tiempo hacia un desenlace incierto y peligroso, intensificando la tensión sin que los personajes lo digan
-d) No produce ningún efecto en el sentido de la obra: es una indicación técnica para el iluminador de la sala
+d) Produce poco efecto en el sentido de la obra: es una indicación técnica para el iluminador de la sala durante el ensayo de los actores
 
 **9. (Alternativas)** ¿Qué funciona como presagio, por qué Doña Rosa lo ignora y qué problema humano plantea la obra?
 
@@ -140,9 +140,9 @@ d) El mito mapuche de Kai Kai Vilu
 
 **12. (Alternativas)** ¿Con qué contexto se relaciona directamente el microcuento "Cara al mar"?
 
-a) La fundación de las primeras caletas de pescadores artesanales en el sur de Chile
+a) La fundación de las primeras caletas de pescadores artesanales en el sur de Chile y en Chiloé
 b) La colonización española del sur de Chile y la introducción de nuevas técnicas de pesca
-c) La Guerra del Pacífico y la pérdida de puertos pesqueros en el norte del país
+c) La Guerra del Pacífico y la pérdida de los puertos pesqueros del norte del país frente a Perú
 d) La sobreexplotación pesquera y el colapso documentado de especies marinas en las últimas décadas
 
 **13. (Alternativas)** ¿Qué interpretación de "Cara al mar" integra un punto de vista, una cita y la relación entre la Pincoya y la sobreexplotación pesquera?
@@ -165,7 +165,7 @@ d) Desde un punto de vista personal, el relato trata sobre una competencia de na
 **14. (Alternativas)** ¿Cuál es la tesis principal del autor de la columna?
 
 a) Prohibir el uso de IA en las tareas es razonable como primer paso, pero insuficiente si no se acompaña de educación sobre su uso con criterio
-b) La inteligencia artificial nunca debería usarse, ni dentro ni fuera del colegio, porque siempre impide que los estudiantes piensen por sí mismos
+b) La inteligencia artificial debería evitarse dentro y fuera del colegio, porque impide que los estudiantes aprendan a pensar por sí mismos
 c) La prohibición del uso de IA no tiene ningún efecto en las entregas copiadas, por lo que el colegio debería eliminarla de inmediato
 d) Los informes sobre uso de IA en las tareas no son confiables y deberían ignorarse al decidir las reglas del colegio
 
@@ -173,22 +173,22 @@ d) Los informes sobre uso de IA en las tareas no son confiables y deberían igno
 
 a) Busca que el lector responda la pregunta por escrito antes de seguir leyendo, como en una guía de ejercicios
 b) Instala la duda en el lector desde el inicio, invitándolo a cuestionar la eficacia real de la prohibición antes de presentar evidencia
-c) Demuestra que el autor no tiene ninguna postura sobre el tema y que solo quiere informar al lector de manera neutral
-d) No tiene ninguna función argumentativa relevante: es una forma de comenzar el texto que no influye en la lectura
+c) Demuestra que el autor no tiene una postura sobre el tema y que busca informar al lector de manera neutral y objetiva desde el comienzo
+d) Cumple una función menor: es una forma de comenzar el texto que llama la atención, pero no influye en la lectura de la columna
 
 **16. (Alternativas)** ¿Es suficiente el dato de la disminución del 12% en entregas copiadas o generadas automáticamente para sustentar por completo la tesis del autor?
 
-a) Es completamente suficiente: prueba la tesis del autor, porque una cifra exacta y comprobada como esa no deja lugar a dudas sobre el efecto de la prohibición en el aprendizaje real
-b) Es irrelevante para la tesis, porque la columna no habla de entregas copiadas sino del aprendizaje
-c) Es falso, porque el texto no presenta ningún dato numérico y solo se basa en opiniones del autor
+a) Es suficiente: prueba la tesis del autor, porque una cifra exacta y comprobada como esa deja poco lugar a dudas sobre el efecto de la prohibición en el aprendizaje
+b) Es irrelevante para la tesis, porque la columna no habla de entregas copiadas, sino del aprendizaje real de los estudiantes en clases
+c) Es falso, porque el texto no presenta datos numéricos y se basa en las opiniones del autor sobre el uso de la IA en las tareas escolares
 d) Es pertinente pero insuficiente: mide entregas detectadas por los docentes, no aprendizaje, y el texto reconoce otros factores como las tareas rediseñadas
 
 **17. (Alternativas — postura personal)** ¿Cuál de estas respuestas formula una postura **con un argumento propio** sobre prohibir la IA en las tareas?
 
 a) "Estoy de acuerdo con el autor, porque la prohibición, sola, ataca el síntoma y enseñar a usar la herramienta podría atacar la causa"
 b) "Creo que la prohibición debe acompañarse de educación, porque la IA seguirá existiendo fuera del colegio y necesitamos aprender a usarla con criterio"
-c) "No sé qué pensar, porque el autor da razones a favor y en contra, y prefiero no tomar ninguna postura sobre el uso de la IA"
-d) "El autor habla de la IA en el colegio y de la prohibición en las tareas, y menciona que hubo una disminución de un 12%"
+c) "No sé qué pensar, porque el autor da razones a favor y en contra, y prefiero no tomar una postura propia sobre el uso de la IA en el colegio"
+d) "El autor habla de la IA en el colegio y de la prohibición en las tareas, y menciona que hubo una disminución de un 12% en las copias"
 
 ---
 
@@ -216,24 +216,24 @@ d) Explicar en detalle el proceso de licitación de la obra y sus costos totales
 
 **19. (Alternativas)** ¿Qué evidencia principalmente la comparación entre el Texto A y el Texto B sobre la nueva ciclovía?
 
-a) Que uno de los dos textos miente completamente, porque un mismo hecho no puede mostrarse con dos énfasis distintos sin que una de las fuentes falsee la información
+a) Que uno de los dos textos miente, porque un mismo hecho no puede mostrarse con dos énfasis distintos sin que una de las fuentes falsee la información a propósito para engañar al lector
 b) Que la fuente desde la que se presenta un hecho influye en el énfasis, el tono y los recursos de persuasión usados, sin que eso signifique que una fuente sea totalmente falsa y la otra totalmente verdadera
-c) Que las redes sociales siempre son más confiables que los medios oficiales, porque los propios ciclistas graban lo que ocurre sin intermediarios ni intereses detrás
-d) Que los municipios nunca informan con cifras reales, por lo que todo dato publicado por una autoridad local debe considerarse falso hasta que se demuestre lo contrario
+c) Que las redes sociales son más confiables que los medios oficiales, porque los propios ciclistas graban lo que ocurre sin intermediarios ni intereses detrás de ellos que lo distorsionen
+d) Que los municipios tienden a exagerar sus cifras, por lo que los datos publicados por una autoridad local deben considerarse falsos hasta que se demuestre lo contrario con pruebas independientes
 
 **20. (Alternativas — recursos no lingüísticos)** ¿Qué efecto produce la fotografía del Texto A (el alcalde pedaleando junto a funcionarios con chalecos nuevos, con el tramo vacío de fondo)?
 
-a) Muestra objetivamente el uso diario de la ciclovía por parte de los vecinos, tal como ocurre cualquier día
-b) Critica la obra municipal al mostrar que la ciclovía está casi siempre vacía
+a) Muestra de forma objetiva el uso diario de la ciclovía por parte de los vecinos, tal como ocurre en un día normal
+b) Critica la obra municipal al mostrar que la ciclovía está casi vacía en las horas de mayor tránsito
 c) Construye una imagen de orden y éxito que puede ser más idealizada que el uso cotidiano de la ciclovía
-d) No produce ningún efecto: las fotos oficiales son siempre neutrales y completas
+d) Produce un efecto informativo neutral, porque las fotos oficiales muestran el lugar tal como es
 
 **21. (Alternativas)** ¿Qué opción compara correctamente las estrategias de los textos A y B y evalúa su consistencia?
 
 a) El A usa cifras para transmitir rigor institucional y el B humor y experiencia directa para cuestionar; ambos pueden ser parcialmente ciertos a la vez
-b) Ambos usan solo cifras para persuadir al lector, y como sus cifras no coinciden entre sí, uno de los dos textos es necesariamente falso y el otro completamente verdadero
-c) El A usa humor y experiencia directa y el B cifras oficiales; por eso ninguno de los dos puede ser cierto
-d) Ninguno usa estrategias de persuasión: ambos se limitan a informar los hechos de manera neutral y completa
+b) Ambos usan cifras para persuadir al lector, y como sus cifras no coinciden entre sí, uno de los dos textos tiene que ser falso y el otro verdadero
+c) El A usa humor y experiencia directa y el B cifras oficiales; por eso los dos se contradicen y no pueden ser ciertos a la vez ante el lector
+d) Los dos evitan las estrategias de persuasión: se limitan a informar los hechos de manera neutral, completa y verificable para el lector de la comuna
 
 ---
 
@@ -245,8 +245,8 @@ d) Ninguno usa estrategias de persuasión: ambos se limitan a informar los hecho
 
 a) La extensión mínima del ensayo, porque el texto debía tener al menos cinco párrafos completos sobre el tema
 b) La coherencia temática: cada párrafo debe relacionarse con la hipótesis inicial, sin desviarse hacia ideas no conectadas
-c) La ortografía acentual
-d) El uso de citas de autores reconocidos, porque todo párrafo de un ensayo debe incluir al menos una cita textual
+c) La ortografía acentual y la puntuación de cada oración del ensayo
+d) El uso de citas de autores reconocidos, porque cada párrafo de un ensayo debe incluir al menos una cita textual
 
 **23. (Varias correctas)** En un ensayo persuasivo, ¿qué problemas tiene escribir un porcentaje sin indicar de dónde salió? Marca todas las correctas.
 
