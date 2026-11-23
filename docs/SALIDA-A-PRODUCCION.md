@@ -60,8 +60,10 @@ LOGOS_E2E_WEB_URL=http://localhost:4410 npx playwright test -c playwright.ensayo
 | Render | `RESEND_REMITENTE` | Sí, con Resend | Con un dominio **verificado** en Resend; sin dominio verificado, Resend solo entrega al correo del dueño |
 | Render | `GOOGLE_CLIENT_ID` | No | Sin ella, el botón de Google no aparece |
 | Render | `LOGOS_IA_HABILITADA` + `ANTHROPIC_API_KEY` | No | Profesor IA; apagado por defecto |
+| Render | `SENTRY_DSN` | Recomendada | Aviso de errores del backend (sentry.io, plan gratis); vacío = apagado |
 | Mac (al compilar) | `LOGOS_API_URL` | Sí | URL pública del backend; `frontend.sh` también ajusta el CSP |
 | Mac (al compilar) | `LOGOS_GOOGLE_CLIENT_ID` | No | Mismo Client ID que en Render |
+| Mac (al compilar) | `LOGOS_SENTRY_DSN` | Recomendada | DSN del proyecto Sentry del frontend; `frontend.sh` agrega su origen al CSP |
 | Cloudflare | — | Sí | Pages (`npx wrangler login`) y DNS del dominio |
 | Dominio | — | Sí | `.cl` en NIC Chile u otro; `api.<dominio>` → Render |
 | UptimeRobot | — | Recomendada | Monitor sobre `https://api.<dominio>/salud` |
@@ -81,6 +83,16 @@ registra, pero al vencer el alumno sigue estudiando y nadie le cobra. Opciones p
 | **A. Beta gratuita** (recomendada para salir ya) | Se anuncia como beta abierta; se ajusta el texto de planes y de la prueba gratis | Poco: solo textos |
 | B. Prueba gratis + pago manual | Al vencer la prueba se bloquea el contenido; el dueño cobra por transferencia y activa el plan desde Admin → Cortesías | Medio: bloqueo por plan + aviso al apoderado |
 | C. Esperar la pasarela | Flow (recomendada en Chile), Mercado Pago o Webpay; requiere cuenta comercial del dueño | Mayor: tarea 15 |
+
+## 4b. Hecho después del primer ensayo (rama `desarrollo/post-lanzamiento`, 2026-11-22)
+
+- Cambiar contraseña y **eliminar la cuenta** del apoderado (con todos sus alumnos) en Configuración.
+  Reemplazan dos botones que no hacían nada.
+- Sentry en backend y frontend, sin datos personales: sin cuerpos, parámetros de URL, usuario ni migas.
+  El SDK del navegador solo se descarga si hay DSN.
+- Menú del alumno sin marcadores «pronto»; textos de prueba gratis y pagos sin promesas que la app no cumple.
+- **Vacío conocido para el bloqueo por plan:** hoy la prueba gratis se puede reactivar sin límite. No importa
+  mientras nada se bloquee, pero hay que cerrarlo al construir el bloqueo.
 
 ## 5. Antes de abrir a familias reales (dueño)
 

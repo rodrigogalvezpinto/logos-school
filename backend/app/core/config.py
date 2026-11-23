@@ -64,6 +64,9 @@ class Settings(BaseSettings):
     logos_ia_modelo: str = "claude-opus-5-5"
     logos_ia_limite_diario: int = 30
 
+    # Aviso de errores (Sentry). Vacío = apagado. Ver app/core/monitoreo.py.
+    sentry_dsn: str = ""
+
     google_client_id: str = ""
     resend_api_key: str = ""
     resend_remitente: str = "Logos School <no-responder@logos.cl>"

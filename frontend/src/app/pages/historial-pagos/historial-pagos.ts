@@ -64,8 +64,7 @@ const ETIQUETA_ORIGEN: Record<string, string> = {
     </div>
 
     <p class="nota">
-      El comprobante de pago con el monto exacto cobrado estará disponible cuando se
-      integre la pasarela de pago real.
+      Aquí aparecerán los comprobantes de pago cuando actives un plan pagado.
     </p>
   `,
   styles: [

@@ -45,7 +45,7 @@ import { AuthService, PlanRespuesta } from '../../core/auth.service';
       <button class="btn btn--primario btn--grande" [disabled]="cargando()" (click)="continuar()">
         {{ cargando() ? 'Activando…' : 'Comenzar mis 5 días gratis' }}
       </button>
-      <p class="pagina__nota">Sin tarjeta de crédito. Te avisaremos antes de que termine tu prueba.</p>
+      <p class="pagina__nota">Sin tarjeta de crédito. En el inicio del alumno verás cuántos días quedan de prueba.</p>
     </div>
   `,
   styles: [

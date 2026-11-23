@@ -57,7 +57,7 @@ const PASOS_INFO: Record<string, { etiqueta: string; ruta: string }> = {
     @if (diasRestantesPrueba(); as dias) {
       <div class="aviso-prueba" [class.aviso-prueba--urgente]="dias <= 2">
         <app-emo e="⏳" /> Tu prueba gratuita {{ dias === 0 ? 'termina hoy' : dias === 1 ? 'termina mañana' : 'termina en ' + dias + ' días' }}
-        <a routerLink="/seleccion-plan">Elegir un plan →</a>
+        — pídele a tu apoderado que elija un plan.
       </div>
     }
 

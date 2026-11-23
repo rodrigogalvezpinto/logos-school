@@ -22,7 +22,7 @@ Los precios son aproximados, con fecha 2026-11. Verifícalos al crear cada cuent
 | 6 | **Resend** (resend.com) | Correos: bienvenida, recuperar contraseña, avisos al apoderado | Gratis hasta 3.000 correos al mes | Crear una cuenta nueva para este proyecto y verificar el dominio | `RESEND_API_KEY` y `RESEND_REMITENTE` |
 | 7 | **Google Cloud** (OAuth) | Botón «Entrar con Google» | Gratis | Crear el proyecto, configurar la pantalla de consentimiento y crear un *Client ID* web con el dominio | `GOOGLE_CLIENT_ID` (backend) y `googleClientId` (`environment.prod.ts`) |
 | 8 | **Cloudflare Turnstile** | Anti-bots en el registro (reemplazo gratuito de reCAPTCHA) | Gratis | Crear un *site key* para el dominio | Pendiente de integrar: lo preparo cuando exista el dominio |
-| 9 | **Sentry** (sentry.io) | Aviso de errores en producción | Gratis (plan Developer) | Crear 2 proyectos: `logos-backend` (Python) y `logos-frontend` (Angular). Me entregas los 2 DSN | Pendiente de integrar (código detrás de variable; si está vacía, no se activa) |
+| 9 | **Sentry** (sentry.io) | Aviso de errores en producción | Gratis (plan Developer) | Crear 2 proyectos: `logos-backend` (Python) y `logos-frontend` (Angular). Me entregas los 2 DSN | Integrado (2026-11-22): `SENTRY_DSN` en Render y `LOGOS_SENTRY_DSN` al compilar el frontend; vacío = apagado |
 | 10 | **UptimeRobot** | Aviso si la app se cae | Gratis | Crear un monitor HTTP del backend cuando esté publicado | Solo en su panel |
 
 ## 2. Cobro de planes (pasarela de pago)
