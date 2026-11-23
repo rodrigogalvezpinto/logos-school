@@ -45,10 +45,10 @@ d) La decisión de Ignacio de abandonar el liceo para no volver a actuar nunca m
 
 **2. (Alternativas)** ¿Qué rol cumple la profesora Marta en el desarrollo del conflicto?
 
-a) Es quien le prohíbe a Ignacio volver a subir al escenario del liceo
+a) Es quien le prohíbe a Ignacio volver a subir al escenario del liceo este año
 b) Es quien lo ayuda a enfrentar su miedo dándole primero un papel pequeño
 c) Es quien se rió de Ignacio desde la tercera fila durante el acto de aniversario
-d) Es quien reemplaza a Ignacio en la obra porque no confía en él
+d) Es quien reemplaza a Ignacio en la obra porque no confía en que pueda actuar
 
 ---
 
@@ -68,9 +68,9 @@ d) «Solo una línea, Ignacio. Una sola. La segunda vez siempre es distinta»
 **5. (Alternativas)** ¿Qué efecto produce el salto al pasado (flashback) en la construcción del conflicto?
 
 a) Explica por qué Ignacio está tan nervioso y aumenta la tensión antes de salir a escena
-b) Hace que el lector olvide el miedo de Ignacio y se concentre solo en la obra
-c) Muestra que lo ocurrido el año anterior no tiene relación con la obra actual
-d) Elimina el suspenso, porque cuenta desde el principio cómo termina la obra
+b) Hace que el lector olvide el miedo de Ignacio y se concentre en la obra de teatro
+c) Muestra que lo ocurrido el año anterior no tiene relación con la obra de este año
+d) Elimina el suspenso, porque cuenta desde el principio cómo termina la obra del liceo
 
 ---
 
@@ -115,9 +115,9 @@ d) Que el invierno dura exactamente lo mismo que las otras estaciones
 
 **9. (Alternativas)** ¿Qué recurso de sonoridad hay en «Susurra la sombra sobre la sierra» y qué efecto produce?
 
-a) Una rima consonante entre todas las palabras, que da un tono alegre
+a) Una rima consonante entre los versos, que da un tono alegre y rápido al poema
 b) Una onomatopeya del ruido de un trueno, que crea un ambiente violento
-c) Una enumeración de lugares, que describe un viaje por la montaña
+c) Una enumeración de lugares de la montaña, que describe un viaje largo y cansador
 d) Una aliteración del sonido «s», que imita un susurro y crea un ambiente silencioso
 
 ---
@@ -135,9 +135,9 @@ d) Una aliteración del sonido «s», que imita un susurro y crea un ambiente si
 **10. (Alternativas)** ¿Cuál es el dilema principal que enfrenta Daniela en el relato?
 
 a) Elegir entre llevar los remedios de su abuela o los álbumes de fotos de su abuelo
-b) Decidir si se queda en Chaitén o se va a vivir sola a Puerto Montt
-c) Elegir entre ayudar al vecino pescador o cuidar a su abuela
-d) Decidir si escucha la radio o sale a mirar la columna de ceniza
+b) Decidir si se queda en Chaitén con su abuela o se va a vivir sola a Puerto Montt
+c) Elegir entre ayudar al vecino pescador con su bote o cuidar a su abuela enferma
+d) Decidir si escucha la radio en la casa o sale a mirar la columna de ceniza del volcán
 
 ---
 
@@ -161,10 +161,10 @@ d) No importa lo que eligió, porque al final no pasó nada grave en el pueblo
 
 **13. (Alternativas)** ¿Qué interpretación del sentido general del relato integra mejor el dilema, el contexto histórico y el final?
 
-a) Que en una erupción lo mejor es salvar los objetos de valor y dejar a las personas atrás
+a) Que en una erupción lo mejor es salvar los objetos de valor y dejar atrás a las personas mayores
 b) Que en una emergencia como la de 2008 cuidar la vida es lo primero, y los recuerdos viven en las personas
-c) Que los vecinos de Chaitén nunca se ayudaron entre sí durante la evacuación de 2008
-d) Que las fotos se perdieron todas, por lo que la decisión de Daniela fue un grave error
+c) Que los vecinos de Chaitén se ayudaron poco entre sí durante la evacuación del pueblo en el año 2008
+d) Que las fotos se perdieron en la ceniza, por lo que la decisión de Daniela fue un grave error
 
 ---
 
@@ -240,18 +240,18 @@ d) 64 equipos
 
 **20. (Alternativas)** ¿Qué prejuicio presenta el Texto B y por qué lo es?
 
-a) Un prejuicio de género, porque supone que solo las niñas saben de robótica
+a) Un prejuicio de género, porque supone que las niñas saben más de robótica que los niños
 b) Un prejuicio de edad, porque supone que los profesores son demasiado jóvenes
 c) Un prejuicio territorial, porque supone sin pruebas que quienes viven en regiones saben menos
-d) No presenta prejuicios, porque se basa en datos que aparecen en la noticia
+d) No presenta prejuicios, porque se basa en los datos que aparecen en la noticia del triunfo
 
 ---
 
 **21. (Alternativas)** ¿En qué se diferencian los propósitos del Texto A y del Texto B, y por qué importa reconocer prejuicios en las redes sociales?
 
-a) Los dos informan exactamente lo mismo; reconocer prejuicios no cambia en nada la forma de leer
+a) Los dos informan lo mismo, con distintas palabras; reconocer prejuicios cambia poco la forma de leer
 b) El A opina sin datos y el B informa con cifras; los prejuicios ayudan a entender mejor
-c) El B es una noticia oficial y el A un comentario; las redes sociales nunca tienen prejuicios
+c) El B es una noticia oficial y el A un comentario; en las redes sociales los prejuicios son poco frecuentes
 d) El A informa el triunfo con datos y el B lo desacredita; reconocer prejuicios evita difundir ideas injustas
 
 ---
