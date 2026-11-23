@@ -33,8 +33,8 @@ d) Eficiencia energética
 
 3. *(Alternativas)* Una cooperativa de Valparaíso instala biodigestores que transforman restos de comida de ferias libres en biogás para cocinar. ¿Qué beneficios ambientales logra a la vez?
 
-a) Solo produce gas para cocinar, sin ningún otro beneficio para el ambiente.
-b) Reemplaza completamente la necesidad de tratar las aguas servidas de la ciudad, porque el biodigestor procesa también los residuos de los baños.
+a) Produce gas para cocinar, pero no reduce los residuos que llegan a los vertederos ni las emisiones de la región.
+b) Reemplaza la planta de tratamiento de aguas servidas de la ciudad, porque el biodigestor procesa también los residuos de los baños.
 c) Aumenta la basura que llega a los vertederos, porque obliga a recolectar más restos de comida y a transportarlos en camiones cada día.
 d) Reduce los residuos orgánicos que van a vertederos, evita el metano que emitirían al descomponerse allí y entrega una fuente de energía.
 
@@ -55,9 +55,9 @@ d) Eficiencia energética exclusivamente
 6. *(Alternativas)* Una comunidad del sur de Chile vive del bosque nativo. ¿Qué opción representa una utilización sostenible del bosque, y no solo su protección o su explotación?
 
 a) Cerrar el bosque a toda actividad humana, incluida la recolección de frutos y hongos que hacen las familias de la comunidad
-b) Talar todos los árboles nativos y reemplazarlos por pinos de crecimiento rápido, que permiten vender más madera cada año
+b) Talar los árboles nativos y reemplazarlos por pinos de crecimiento rápido, que permiten vender más madera cada año a las forestales
 c) Recolectar hongos, frutos y leña muerta con un plan de manejo que respeta los ciclos de regeneración del bosque y deja parte sin intervenir
-d) Extraer la madera más valiosa mientras quede, sin plan de reforestación, y trasladarse a otro bosque cuando se agote
+d) Extraer la madera más valiosa mientras quede, sin un plan de reforestación, y trasladarse a otro bosque cuando ese bosque se agote
 
 7. *(Alternativas)* Un grupo de estudiantes diseña un sistema de riego por goteo para la huerta de su comuna, con buen respaldo técnico. ¿Por qué deben considerar también su costo y la participación de los vecinos?
 
@@ -69,9 +69,9 @@ d) Porque la comunidad no tiene relación con la sostenibilidad, que depende sol
 8. *(Alternativas)* Un compañero dice que el calentamiento global "es solo una teoría basada en una ola de calor". ¿En qué se basa realmente la evidencia científica del cambio climático actual?
 
 a) En múltiples líneas de evidencia que coinciden: registros de temperatura de más de un siglo, mediciones de CO₂ atmosférico, núcleos de hielo y retroceso de glaciares, además de modelos climáticos validados.
-b) En la opinión de un solo grupo de científicos de un país, no revisada por otros estudios ni comparada con datos de distintas épocas, que la prensa ha difundido como si fuera un consenso mundial sobre el clima actual
-c) En predicciones de modelos computacionales sin ninguna base en datos históricos, que solo imaginan escenarios futuros y no se comparan con las mediciones de temperatura, de CO₂ ni de los glaciares del planeta
-d) En las observaciones de un solo verano particularmente caluroso.
+b) En la opinión de un grupo de científicos de un país, no revisada por otros estudios ni comparada con datos de distintas épocas, que la prensa ha difundido como si fuera un consenso mundial sobre el clima actual
+c) En predicciones de modelos computacionales sin base en datos históricos, que imaginan escenarios futuros y no se comparan con las mediciones de temperatura, de CO₂ ni de los glaciares del planeta
+d) En las observaciones de un verano particularmente caluroso, que se repitió en varias ciudades del país y fue muy comentado en la prensa y en las redes sociales.
 
 9. *(Verdadero o falso)* La disminución de la nieve que se acumula cada invierno en la cordillera de los Andes no afecta la disponibilidad de agua en verano para el riego y el consumo humano en la zona central de Chile.
 
@@ -79,8 +79,8 @@ d) En las observaciones de un solo verano particularmente caluroso.
 
 a) Los corales migraron hacia aguas más frías y dejaron atrás sus esqueletos blancos, que quedan vacíos en el arrecife hasta que otros corales los ocupan.
 b) El aumento de temperatura del agua provocó que los corales expulsaran las algas simbióticas de las que dependen, perdiendo su color y una fuente clave de energía.
-c) Los corales absorbieron directamente el CO₂ del aire durante la ola de calor y cambiaron de color por esa reacción química en su superficie.
-d) Es un proceso normal que ocurre cada invierno cuando baja la temperatura del agua.
+c) Los corales absorbieron directamente el CO₂ del aire durante la ola de calor y cambiaron de color por esa reacción química en la superficie de su esqueleto.
+d) Es un proceso normal que ocurre cada invierno cuando baja la temperatura del agua, y los corales recuperan su color en la primavera siguiente sin sufrir daño.
 
 11. *(Alternativas)* ¿Qué opción distingue correctamente una medida de mitigación y una de adaptación frente al cambio climático en Chile?
 
@@ -93,17 +93,17 @@ d) Mitigación: electrificar el transporte público para emitir menos gases de e
 
 13. *(Alternativas — Análisis de caso)* Un gran parque solar en el desierto reducirá las emisiones del país, pero ocupará un sector usado por una comunidad atacameña para el pastoreo y donde hay sitios arqueológicos. ¿Qué evaluación es más completa?
 
-a) Solo importa la reducción de emisiones, porque el beneficio climático para todo el país justifica cualquier costo social o cultural que asuma la comunidad atacameña del sector
+a) Prioriza la reducción de emisiones, porque el beneficio climático para el país es mayor que el costo social o cultural que asumiría la comunidad atacameña del sector y su patrimonio
 b) Pondera el beneficio climático frente a los costos sociales y culturales (pastoreo, patrimonio, consulta a la comunidad) y considera alternativas de ubicación o diseño de menor impacto
-c) Solo importa la comunidad, porque el beneficio climático es secundario
-d) No tiene ningún costo, porque la energía solar es renovable y, por definición, no afecta a nadie: el terreno del desierto está vacío y no tiene usos ni valor para las personas
+c) Prioriza a la comunidad atacameña y descarta el parque, porque el beneficio climático para el país es menos importante que el pastoreo y los sitios arqueológicos de ese sector del desierto
+d) No tiene costos relevantes, porque la energía solar es renovable y no contamina: el terreno del desierto está casi vacío y tiene poco valor para las personas que viven cerca
 
 14. *(Alternativas)* Con el aumento de la temperatura, algunas especies de montaña se desplazan hacia mayor altura buscando el frío, hasta que ya no queda más montaña hacia dónde subir. ¿Por qué el cambio climático actual provoca pérdida de biodiversidad?
 
-a) Porque todas las especies pueden migrar instantáneamente a nuevos hábitats sin ningún costo, y las que no lo hacen es porque ya estaban en peligro.
+a) Porque las especies pueden migrar con rapidez a nuevos hábitats, y las que no lo hacen es porque ya estaban en peligro por otras causas, como la caza.
 b) Porque muchas especies no logran adaptarse o desplazarse con la rapidez suficiente frente a la velocidad de los cambios ambientales actuales.
-c) Porque el cambio climático no afecta la distribución de las especies.
-d) Porque la biodiversidad solo depende de la caza y la tala de bosques, sin ninguna relación con los cambios de temperatura ni con el clima.
+c) Porque el cambio climático no afecta la distribución de las especies, sino el tamaño de sus poblaciones en cada temporada.
+d) Porque la biodiversidad depende sobre todo de la caza y la tala de bosques, más que de los cambios de temperatura o del clima de cada zona.
 
 ---
 
