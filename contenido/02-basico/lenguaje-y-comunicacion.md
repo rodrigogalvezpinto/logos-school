@@ -13,7 +13,7 @@ ultima_actualizacion: 2026-10-28
 
 ## ¡Ya eres un lector o lectora con más experiencia!
 
-El año pasado aprendiste a leer y escribir tus primeras palabras y frases. Ahora vas a dar un paso más: vas a leer palabras más difíciles, cuentos más largos, cartas, artículos informativos, y vas a aprender a revisar y mejorar lo que tú mismo o tú misma escribes.
+El año pasado aprendiste a leer y escribir tus primeras palabras y frases. Ahora darás un paso más. Leerás palabras más difíciles, cuentos más largos, cartas y artículos informativos. Y aprenderás a revisar y mejorar lo que escribes.
 
 En esta asignatura vamos a:
 
@@ -36,8 +36,8 @@ Ya sabes leer sílabas simples y palabras con dígrafos como "rr", "ll", "ch" y 
 - **Hiato**: al revés que el diptongo, es cuando dos vocales están juntas pero se pronuncian **en sílabas distintas**. Por ejemplo, en "**leemos**" las dos "e" se separan: "le-e-mos".
 - **Grupo consonántico**: dos consonantes juntas antes de una vocal, en la misma sílaba, como "**tr**" en "tren", "**bl**" en "blanco" o "**gr**" en "grande".
 - Combinaciones especiales para escribir ciertos sonidos:
-  - **ce-ci** / **que-qui**: el sonido /s/ antes de "e" o "i" se escribe con "**c**" (como en "cena" o "cielo"); el sonido /k/ antes de "e" o "i" se escribe con "**qu**", sin pronunciar la "u" (como en "queso" o "quiso").
-  - **ge-gi** / **gue-gui**: el sonido /x/ (como el de la letra "j") antes de "e" o "i" se escribe con "**g**" (como en "gente" o "gigante"); el sonido /g/ (como en "gato") antes de "e" o "i" se escribe con "**gu**", sin pronunciar la "u" (como en "guerra" o "guitarra").
+  - **ce-ci** / **que-qui**: el sonido /s/ antes de "e" o "i" se escribe con "**c**", como en "cena" o "cielo". El sonido /k/ antes de "e" o "i" se escribe con "**qu**". Esa "u" no suena, como en "queso" o "quiso".
+  - **ge-gi** / **gue-gui**: el sonido /x/, como el de la "j", antes de "e" o "i" se escribe con "**g**", como en "gente" o "gigante". El sonido /g/ de "gato" antes de "e" o "i" se escribe con "**gu**". Esa "u" no suena, como en "guerra" o "guitarra".
   - **güe-güi**: cuando sí queremos pronunciar la "u" en ese mismo caso, le ponemos dos puntitos arriba (**diéresis**), como en "pin**güi**no" o "ci**güe**ña".
 
 ### Actividades resueltas
@@ -426,7 +426,7 @@ c) "cosina"
 
 ## Glosario
 
-- **Concordancia (de género y número)**: relación que deben tener las palabras de una oración para que "calcen" entre sí, siendo todas masculinas o femeninas (género) y todas singulares o plurales (número); por ejemplo, "las niñas" concuerda, pero "las niño" no.
+- **Concordancia (de género y número)**: las palabras de una oración deben "calzar" entre sí. Todas masculinas o todas femeninas (género). Todas singulares o todas plurales (número). Por ejemplo, "las niñas" concuerda, pero "las niño" no.
 - **Destinatario**: la persona a quien está dirigido un texto (por ejemplo, a quién le escribimos una carta).
 - **Diéresis**: los dos puntitos sobre la "u" (ü) que indican que esa "u" sí se debe pronunciar en las combinaciones "güe" y "güi", como en "pingüino".
 - **Diptongo**: unión de dos vocales que se pronuncian juntas, en una sola sílaba (por ejemplo, "ie" en "cielo" o "au" en "auto").
