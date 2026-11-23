@@ -191,31 +191,31 @@ def distractores_guia(archivo, oa, i, nuevos, modulo=None):
     p0 = objetivo[0][2]
     assert p0.tipo == 'alternativas'
     k = p0.opciones.index(p0.respuesta_correcta)
-    # Ancla: las primeras palabras del enunciado (última línea, sin marcadores), para acotar la búsqueda.
+    # Ancla: las últimas palabras del enunciado; si no se encuentran (marcado especial), la línea de la alternativa
+    # correcta retrocedida 1.500 caracteres. Se recalcula después de cada reemplazo.
     palabras = re.sub(r'[*_>#]', ' ', p0.enunciado).split()[-6:]
-    ancla = re.compile(r'\s+'.join(re.escape(w) for w in palabras))
-    ms_ancla = list(ancla.finditer(t))
-    if not ms_ancla:
-        # Respaldo: la línea de la alternativa correcta, retrocediendo hasta la primera alternativa («a)»).
-        cuerpo_k = r'\s+'.join(re.escape(w) for w in p0.opciones[k].split())
-        ancla = re.compile(rf'(?m)^[ \t>*-]*\(?{"abcd"[k]}\)[ \t]+{cuerpo_k}[ \t]*$')
-        ms_k = list(ancla.finditer(t))
-        ms_ancla = [type('M', (), {'end': (lambda s, v=max(0, m.start() - 1500): v)})() for m in ms_k]
-    assert ms_ancla, f'{archivo}: no ubico el enunciado de {oa}·{i}'
+    ancla_enunciado = re.compile(r'\s+'.join(re.escape(w) for w in palabras))
+    cuerpo_k = r'\s+'.join(re.escape(w) for w in p0.opciones[k].split())
+    ancla_clave = re.compile(rf'(?m)^[ \t>*-]*\(?{"abcd"[k]}\)[ \t]+{cuerpo_k}[ \t]*$')
+
+    def anclas(texto):
+        pos = [m.end() for m in ancla_enunciado.finditer(texto)]
+        return pos or [max(0, m.start() - 1500) for m in ancla_clave.finditer(texto)]
+
+    assert anclas(t), f'{archivo}: no ubico el enunciado de {oa}·{i}'
     for letra, texto in nuevos.items():
         j = 'abcd'.index(letra)
         assert j != k, f'{archivo} {oa}·{i}: «{letra}» es la clave'
         viejo = p0.opciones[j]
         cuerpo = r'\s+'.join(re.escape(w) for w in viejo.split())
         patron = re.compile(rf'(?m)^([ \t>*-]*\(?{letra}\)[ \t]+){cuerpo}[ \t]*$')
-        candidatos = [m for a in ms_ancla for m in [patron.search(t, a.end())] if m and m.start() - a.end() < 3000]
+        candidatos = [m for a in anclas(t) for m in [patron.search(t, a)] if m and m.start() - a < 3000]
         if len({c.start() for c in candidatos}) > 1:
             candidatos = [min(candidatos, key=lambda c: c.start())]
         candidatos = list({m.start(): m for m in candidatos}.values())
         assert len(candidatos) == 1, f'{archivo} {oa}·{i}: no ubico {letra}) «{viejo[:40]}» ({len(candidatos)})'
         m = candidatos[0]
         t = t[:m.start()] + m.group(1) + texto.strip() + t[m.end():]
-        ms_ancla = list(ancla.finditer(t)) or ms_ancla
     despues = _preguntas_guia(t)
     assert len(despues) == len(antes)
     for (ka, ia, pa), (kd, idd, pd) in zip(antes, despues):

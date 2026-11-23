@@ -144,8 +144,8 @@ se parecen y en qué se diferencian?
    extendida (widespread) entre los estudiantes.
 
 4. *(Alternativas — Organizador gráfico)* Read: *"The Chinese New Year lasts 15 days. Families gather for a reunion dinner, and children receive money in red envelopes called hongbao."* Duration: ___ / Main event: ___ / Gift for children: ___
-   a) 15 years / red envelopes for adults / a reunion lunch
-   b) 1 day / fireworks and parades / toys for children
+   a) 15 years / red envelopes for adults / a big reunion lunch
+   b) 1 day / fireworks, parades and dances / toys for children
    c) 15 days / hongbao dinner / money for the restaurant
    d) 15 days / reunion dinner / money in red envelopes (hongbao)
    **Respuesta correcta:** d) 15 days / reunion dinner / money in red envelopes (hongbao).
@@ -354,10 +354,10 @@ that*.
    **Retroalimentación:** La oración temática habla del impacto de la moda rápida en el ambiente; los residuos textiles son justamente un impacto ambiental, así que el detalle mantiene el tema.
 
 5. *(Alternativas — Función)* ¿Qué función cumple *"I would argue that..."*?
-   a) Citar un dato textual
-   b) Hacer una pregunta
+   a) Citar un dato textual del artículo
+   b) Hacer una pregunta al lector
    c) Dar una opinión fundamentada
-   d) Describir un lugar
+   d) Describir un lugar de la ciudad
    **Respuesta correcta:** c) Dar una opinión fundamentada.
    **Retroalimentación:** Introduce una postura personal que luego debe justificarse.
 
@@ -537,8 +537,8 @@ formal? ¿un resumen realmente resume?).
    información sobre "tradition" sin repetir el sujeto.
 
 3. *(Alternativas — Completar)* Complete with the third conditional: *"If I ___ English, I ___ to talk to my exchange friend."* (not/learn — not/be able)
-   a) didn't learn / wouldn't be able
-   b) haven't learned / won't be able
+   a) didn't learn / wouldn't be able to
+   b) haven't learned / won't have been able
    c) hadn't learned / wouldn't have been able
    d) hadn't learned / won't be able
    **Respuesta correcta:** c) hadn't learned / wouldn't have been able.
