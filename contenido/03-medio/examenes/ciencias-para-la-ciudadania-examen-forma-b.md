@@ -53,9 +53,9 @@ d) Un aumento de su estatura por dormir menos horas
 **2.** *(Alternativas)* El estrés académico crónico, a diferencia de un episodio
 puntual de estrés, se asocia principalmente a:
 
-a) Consecuencias inmediatas, como el insomnio ocasional, que desaparecen al dejar de consumir
-b) Una mejora progresiva del sistema inmune con el paso del tiempo, por adaptación
-c) Ninguna consecuencia medible en la salud física ni en el estado de ánimo
+a) Consecuencias inmediatas, como el insomnio ocasional, que desaparecen apenas termina el período de pruebas
+b) Una mejora progresiva del sistema inmune con el paso del tiempo, porque el cuerpo se adapta al estrés
+c) Consecuencias leves y pasajeras en el ánimo, que no llegan a afectar la salud física de la persona
 d) Consecuencias a largo plazo como hipertensión, alteraciones del sistema inmune y
    trastornos de ansiedad
 
@@ -70,10 +70,10 @@ d) Elimina por completo el riesgo de enfermedades crónicas, por su mayor valor 
 
 **4.** *(Alternativas)* La actividad física regular impacta principalmente:
 
-a) La dimensión física de la salud, como la salud cardiovascular
-b) Únicamente el rendimiento académico, al mejorar la concentración en clases
+a) La dimensión física de la salud, como la salud cardiovascular y muscular
+b) El rendimiento académico, sobre todo al mejorar la concentración en clases
 c) Las dimensiones física, psíquica y social de la salud de forma integrada
-d) Ninguna dimensión relacionada con el estrés o la ansiedad de las personas
+d) La dimensión social, porque permite conocer gente en clubes y equipos deportivos
 
 **5.** *(Alternativas)* La contaminación del aire en Santiago durante el invierno se clasifica principalmente como un factor de salud:
 
@@ -100,10 +100,10 @@ d) A largo plazo aumenta el riesgo de dependencia y de alterar el desarrollo cer
 
 **7.** *(Alternativas)* ¿Qué medida reduce la transmisión del virus de la hepatitis B?
 
-a) Lavarse las manos solo antes de comer y evitar saludar de beso a personas enfermas
-b) Evitar comer frutas y verduras crudas, y hervir siempre el agua antes de beberla
+a) Lavarse las manos antes de comer y evitar saludar de beso a personas que estén resfriadas
+b) Evitar comer frutas y verduras crudas, y hervir el agua antes de beberla en los viajes
 c) Vacunarse y no compartir objetos que puedan tener sangre, como agujas o máquinas de afeitar
-d) Usar bloqueador solar todos los días y evitar exponerse al sol en las horas de más calor
+d) Usar mascarilla en lugares cerrados y ventilar bien las salas durante el invierno
 
 **8.** *(Alternativas)* Usar mascarilla es una medida de prevención eficaz frente a:
 
@@ -111,7 +111,7 @@ a) Enfermedades respiratorias como la influenza, pero no el VIH, de transmisión
    sanguínea o sexual
 b) Tanto la influenza como el VIH-sida, porque ambos se transmiten por vía respiratoria
 c) El VIH-sida, porque también se transmite por vía respiratoria en espacios cerrados
-d) Ninguna enfermedad infecciosa, porque la mascarilla solo protege del polvo
+d) El polvo y el humo, pero no las enfermedades infecciosas, que se transmiten por contacto directo
 
 **9.** *(Alternativas)* La vacuna contra la influenza debe actualizarse y aplicarse
 cada año, a diferencia de la vacuna contra el sarampión, principalmente porque:
@@ -126,14 +126,14 @@ d) No existe ninguna diferencia real entre ambas vacunas, porque las dos se apli
 a) Requiere inversión pública, pero evita costos mayores en hospitalizaciones y licencias médicas
 b) No tiene ningún costo para el Estado, porque las vacunas las donan los laboratorios
 c) Aumenta los contagios durante el invierno y, con ello, las licencias médicas de los padres
-d) Solo beneficia económicamente a las farmacias que venden las vacunas en el sector privado
+d) Beneficia sobre todo a las farmacias que venden las vacunas en el sector privado de salud
 
 **11.** *(Alternativas)* Un video viral afirma que una vacuna "contiene un chip". ¿Qué es lo más adecuado para evaluar esa afirmación?
 
-a) Compartirlo para que otros opinen y ver qué dice la mayoría en los comentarios del video
+a) Compartirlo para que otros opinen y ver qué dice la mayoría de las personas en los comentarios del video
 b) Creerlo si tiene muchas visualizaciones, porque eso muestra que mucha gente confía en él
 c) Contrastarlo con información de organismos de salud y con estudios científicos revisados por pares
-d) Preguntar en un grupo de amigos qué piensan y seguir la opinión que más se repita
+d) Preguntar en un grupo de amigos qué piensan del video y seguir la opinión que más se repita entre ellos
 
 **12.** *(Alternativas, 3 puntos)* Lee la siguiente situación:
 
@@ -144,8 +144,8 @@ d) Preguntar en un grupo de amigos qué piensan y seguir la opinión que más se
 
 ¿Por qué debe analizarse a nivel nacional y mundial?
 
-a) Porque es solo un caso médico individual: basta con tratar a la persona enferma, sin necesidad de buscar contactos ni coordinarse con otros países
-b) Porque el sarampión solo existe en el extranjero, de modo que el caso no puede contagiar a nadie en Chile y la vigilancia es solo una formalidad
+a) Porque es un caso médico individual: basta con tratar a la persona enferma en el hospital, sin necesidad de buscar sus contactos ni de coordinarse con otros países
+b) Porque el sarampión circula en el extranjero y no en Chile, de modo que el caso no puede contagiar a nadie aquí y la vigilancia es una formalidad de los aeropuertos
 c) Porque la transmisión no respeta fronteras: un caso importado puede iniciar contagios locales, y la vigilancia y coordinación internacional (OMS) son parte de la prevención
 d) Porque los aeropuertos no tienen relación con la salud pública: los controles sanitarios en fronteras se eliminaron y la prevención depende de cada persona
 
@@ -173,17 +173,17 @@ d) Produce efectos distintos según la edad, pero resulta más riesgoso en mayor
 
 **15.** *(Alternativas)* Un joven toma un antihistamínico que le produce sueño y, esa noche, piensa beber alcohol antes de manejar. ¿Cuál es el riesgo?
 
-a) Ninguno adicional, porque cada sustancia actúa por separado en el cuerpo y sus efectos no se combinan ni se suman entre sí
+a) El riesgo es bajo, porque cada sustancia actúa por separado en el cuerpo y sus efectos no se combinan ni se suman durante la noche
 b) Ambas deprimen el sistema nervioso y sus efectos se suman: aumenta la somnolencia y se reducen los reflejos, con alto riesgo de accidente
 c) El alcohol anula por completo el efecto del medicamento, así que el único riesgo es que la alergia vuelva a aparecer esa noche
-d) Solo es riesgoso si toma el medicamento con el estómago vacío; si come antes, el alcohol y el antihistamínico no se afectan
+d) El riesgo aparece si toma el medicamento con el estómago vacío; si come antes, el alcohol y el antihistamínico no se afectan entre sí
 
 **16.** *(Alternativas, 2 puntos)* Una publicación asegura que "mezclar bicarbonato de sodio con vinagre en un espacio cerrado genera un gas mortal". ¿Qué evaluación es correcta?
 
 a) Es incorrecta: la reacción produce dióxido de carbono y agua, y se usa en experimentos escolares seguros
-b) Es correcta: cualquier mezcla de productos químicos en un espacio cerrado es mortal
-c) Es correcta: la reacción produce cloro gaseoso, que es tóxico al respirarse
-d) Es incorrecta porque no ocurre ninguna reacción química: el bicarbonato solo se disuelve en el vinagre
+b) Es correcta: la mezcla libera monóxido de carbono, que es mortal en un espacio sin ventilación
+c) Es correcta: la reacción produce cloro gaseoso, que es tóxico al respirarse en lugares cerrados
+d) Es incorrecta, porque la mezcla no reacciona: el bicarbonato se disuelve en el vinagre como el azúcar en agua
 
 **17.** *(Alternativas, 3 puntos)* Lee la siguiente situación:
 
@@ -192,8 +192,8 @@ d) Es incorrecta porque no ocurre ninguna reacción química: el bicarbonato sol
 
 ¿Qué riesgo genera y qué medida corresponde?
 
-a) Ningún riesgo, porque ambos son productos de limpieza y están diseñados para usarse juntos; basta con mantener el estante ordenado y bien rotulado
-b) El riesgo es que se ensucie el estante si algún envase gotea; basta con limpiarlo con frecuencia y revisar que las tapas estén bien cerradas
+a) El riesgo es bajo, porque ambos son productos de limpieza y están diseñados para usarse juntos; basta con mantener el estante ordenado y bien rotulado con sus nombres
+b) El riesgo es que se ensucie el estante si algún envase gotea; basta con limpiarlo con frecuencia y revisar que las tapas de los envases estén bien cerradas
 c) El riesgo es la falta de espacio en la bodega; hay que juntar todavía más productos en el mismo estante para dejar libres los pasillos de evacuación
 d) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad, con buena ventilación
 
@@ -210,10 +210,10 @@ d) En un lugar alto o cerrado con llave, en su envase original
 
 **19.** *(Alternativas)* Construir viviendas con normas sísmicas antes de que ocurra un terremoto es una medida de:
 
-a) Respuesta a la emergencia
+a) Respuesta durante la emergencia
 b) Prevención y mitigación del riesgo
 c) Recuperación después del desastre
-d) Ninguna relación con el riesgo
+d) Preparación para la respuesta
 
 **20.** *(Alternativas)* Respecto al origen de los incendios forestales en Chile, la
 evidencia indica que:
@@ -221,7 +221,7 @@ evidencia indica que:
 a) La mayor parte de los incendios tiene origen natural, como la caída de rayos durante el verano
 b) La mayoría tiene origen humano (antropogénico): negligencia, quemas agrícolas mal
    controladas o intencionalidad
-c) Los incendios se relacionan con la actividad humana solo de manera indirecta y poco frecuente, ya que el calor extremo basta para iniciarlos
+c) Los incendios se relacionan con la actividad humana de manera indirecta y poco frecuente, ya que el calor extremo basta para iniciarlos
 d) Ocurren con mayor frecuencia en zonas sin actividad agrícola ni forestal
 
 **21.** *(Alternativas)* La Ley N°21.364, que creó el Servicio Nacional de
@@ -231,14 +231,14 @@ a) Cambió el nombre de la institución, pero mantuvo intactos su enfoque de tra
 b) Amplió el enfoque institucional hacia la gestión integral del riesgo (prevención,
    mitigación, preparación, respuesta y recuperación)
 c) Eliminó las funciones de monitoreo de los riesgos naturales que tenía la ONEMI, que pasaron a depender de cada municipio
-d) Se aplica solo a los riesgos de origen volcánico y sísmico, y no a otros tipos de riesgo, como incendios forestales o inundaciones
+d) Se aplica a los riesgos de origen volcánico y sísmico, y deja fuera otros tipos de riesgo, como incendios forestales o inundaciones
 
 **22.** *(Alternativas, 2 puntos)* ¿Por qué es más confiable evacuar según el modelo de inundación por tsunami del SHOA que según "el tsunami de mis abuelos no llegó tan lejos"?
 
-a) Porque la experiencia personal siempre es falsa y no debe considerarse en ninguna decisión sobre emergencias
+a) Porque la experiencia personal es poco confiable y conviene no considerarla en las decisiones sobre emergencias de la comuna
 b) Porque los modelos del SHOA predicen la fecha exacta del próximo tsunami y la altura que alcanzará cada ola
 c) Porque el modelo integra múltiples variables y eventos, mientras un caso anecdótico puede no representar el peor escenario
-d) Porque los abuelos nunca vivieron tsunamis reales, y sus recuerdos corresponden a marejadas comunes de invierno
+d) Porque los abuelos vivieron marejadas comunes de invierno, y sus recuerdos no corresponden a tsunamis reales
 
 **23.** *(Varias correctas, 3 puntos)* Lee la siguiente situación:
 
