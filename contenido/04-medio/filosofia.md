@@ -168,7 +168,7 @@ una posición con razones.
 
 6. *(Alternativas — Argumentos a favor y en contra — intermedio)* El indicador pide elaborar argumentos sobre la utilidad **e inutilidad** de la filosofía. ¿Qué par presenta un argumento razonable a favor y uno razonable en contra?
    a) A favor: permite memorizar fechas y nombres de pensadores importantes para la cultura general. En contra: usa demasiadas palabras difíciles y rara vez se entiende en clases
-   b) A favor: garantiza un mejor sueldo a quienes la estudian, porque es muy valorada por las empresas. En contra: no tiene ningún método propio para examinar sus preguntas
+   b) A favor: garantiza un mejor sueldo a quienes la estudian, porque es muy valorada por las empresas. En contra: no tiene un método propio para examinar sus preguntas ni sus respuestas
    c) A favor: llega a verdades definitivas que luego se aplican en las leyes. En contra: se parece a la física, así que podría reemplazarse por más horas de clases de ciencias
    d) A favor: desarrolla pensamiento crítico, detección de falacias y deliberación sobre fines y valores. En contra: rara vez produce consensos definitivos o resultados prácticos inmediatos y medibles
    **Respuesta correcta:** d) A favor: desarrolla pensamiento crítico, detección de falacias y deliberación sobre fines y valores. En contra: rara vez produce consensos definitivos o resultados prácticos inmediatos y medibles.
@@ -411,7 +411,7 @@ pensar tu propia vida y la sociedad en la que vives.
    a) El utilitarismo es falso porque el bienestar no existe ni puede medirse, de modo que las decisiones públicas no pueden basarse en sus consecuencias para las personas afectadas por ellas
    b) Hay que dejar de lado las consecuencias, porque lo relevante es cumplir las normas establecidas por la autoridad, aunque esas normas produzcan grandes daños a muchas personas inocentes
    c) Ese razonamiento podría justificar sacrificar derechos fundamentales de una minoría o de un inocente si el bienestar agregado es mayor; ciertos principios no deberían quedar sujetos a un simple cálculo de consecuencias
-   d) La deontología prueba que el utilitarismo es absurdo, porque los deberes pesan más que las consecuencias, así que el debate entre ambas teorías éticas ya está cerrado entre los filósofos actuales
+   d) La deontología prueba que el utilitarismo es absurdo, porque los deberes pesan más que las consecuencias, así que el debate entre ambas teorías éticas ya está cerrado entre los filósofos actuales y antiguos
    **Respuesta correcta:** c) Ese razonamiento podría justificar sacrificar derechos fundamentales de una minoría o de un inocente si el bienestar agregado es mayor; ciertos principios no deberían quedar sujetos a un simple cálculo de consecuencias.
    **Retroalimentación:** Si solo importara el bienestar total, se podría sacrificar a un inocente o los derechos de una minoría cuando eso aumente el bienestar. La objeción muestra ese límite sin declarar falso al utilitarismo.
 

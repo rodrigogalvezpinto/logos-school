@@ -229,3 +229,17 @@ def distractores_guia(archivo, oa, i, nuevos, modulo=None):
     ruta.write_text(t, encoding='utf-8')
     print(f'ok {archivo} {oa}·{i} — {prob_acierto(pd.opciones, k):.0%}' if False else
           f'ok {archivo} {oa}·{i} — prob. del truco: {prob_acierto([q for q in despues if q[0][0] == oa and q[1] == i][0][2].opciones, k):.0%}')
+
+
+def seguras_guia(patron):
+    """Preguntas de guía donde el truco acierta con certeza (100 %), las más rentables de corregir."""
+    for f in sorted(glob.glob(str(RAIZ / 'contenido' / patron))):
+        rel = f.split('contenido/')[1]
+        if rel.count('/') != 1 or '/00-' in rel:
+            continue
+        for (oa, mod), i, p in _alternativas_guia(Path(f).read_text(encoding='utf-8')):
+            k = p.opciones.index(p.respuesta_correcta)
+            if prob_acierto(p.opciones, k) == 1:
+                print(f'\n{rel} [{oa}{"/" + mod if mod else ""}·{i}]')
+                for j, o in enumerate(p.opciones):
+                    print(f'   {"✔" if j == k else ("✗" if ABSOLUTAS.search(o) else " ")} {"abcd"[j]}) [{len(o)}] {o}')

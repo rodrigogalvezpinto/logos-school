@@ -547,7 +547,7 @@ sobre otras visiones de mundo y la tuya propia.
    a) things
    b) identity
    c) stuff
-   d) objects
+   d) objectives
    **Respuesta correcta:** b) identity.
    **Retroalimentación:** El término específico (*identity*) es más apropiado que una palabra genérica como *thing* para este tema.
 

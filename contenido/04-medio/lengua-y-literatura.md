@@ -163,7 +163,7 @@ d) La videollamada puede resultar agridulce para alguien migrante y llevar a otr
 a) Es correcta: los dos textos tratan la migración del mismo modo, con el mismo tono y la misma perspectiva, y lo único que cambia es la época en que ocurren
 b) Es incorrecta porque los textos tienen poco en común: uno trata sobre el exilio político y el otro sobre el trabajo, y el desarraigo aparece de paso en el segundo
 c) Es incompleta: comparten el tema del desarraigo, pero A trata un desplazamiento forzado por motivos políticos con tono elegíaco, y B uno voluntario por motivos económicos con tono agridulce y esperanzador
-d) Es correcta porque ambos están narrados en primera persona por quien vive el desplazamiento, de modo que transmiten la misma experiencia con distintas palabras
+d) Es correcta porque ambos están narrados en primera persona por quien vive el desplazamiento, de modo que transmiten la misma experiencia con distintas palabras y en distintas épocas del país
 
 *Respuesta correcta: c.* Retroalimentación: Comparar dos obras exige identificar semejanzas y diferencias con la misma precisión, evitando tanto "son iguales" como "no tienen nada en común".
 
@@ -252,7 +252,7 @@ d) Que oponerse al royalty equivale a elegir el bolsillo de los accionistas de l
 
 a) Prioriza la maximización de utilidades privadas de las mineras; reconocerla prueba que el argumento es falso, porque un texto con una visión de fondo no puede usar datos verdaderos
 b) Carece de visión de fondo: es neutral, porque se limita a citar cifras de instituciones y no hay valores en juego que el lector deba reconocer o evaluar antes de aceptar lo que dice
-c) Prioriza la redistribución hacia las regiones; reconocer esa ideología obliga a rechazarla de inmediato, porque un buen lector desconfía de los textos que defienden una postura política
+c) Prioriza la redistribución hacia las regiones; reconocer esa ideología obliga a rechazarla de inmediato, porque un buen lector desconfía de los textos que defienden una postura política sobre la minería
 d) Prioriza la redistribución de la riqueza de los recursos naturales hacia las regiones; reconocerla no invalida el argumento, porque un texto puede tener una posición de valores y usar datos y razonamientos coherentes
 
 *Respuesta correcta: d.* Retroalimentación: Identificar la ideología de un texto es un ejercicio de lectura crítica, no un intento de descalificar automáticamente sus argumentos.
@@ -351,7 +351,7 @@ Como cierre del ciclo escolar, en 4° medio vas a producir tus propios textos �
 
 **1. (Alternativas)** ¿Cuál es la principal diferencia de propósito entre la versión (a) y la versión (b) del ejemplo trabajado?
 
-a) Ambas buscan lo mismo, argumentar una comparación; cambia el idioma en que se presentan al público del liceo
+a) Ambas buscan lo mismo, argumentar una comparación; cambia el idioma en que se presentan al público del liceo y de la comuna
 b) La versión (a) busca argumentar una comparación fundamentada; la versión (b) busca despertar interés en un formato breve y oral
 c) La versión (a) es oral y busca despertar interés; la versión (b) es escrita y argumenta una comparación
 d) La versión (b) busca resumir la versión (a) para leerla más rápido, sin un propósito comunicativo propio
@@ -384,7 +384,7 @@ d) "Uno pasa en dictadura, por lo tanto el otro cuenta la historia de un joven c
 
 a) Porque las preguntas retóricas deben evitarse en los textos escritos formales, aunque en un podcast se toleran por ser oral
 b) Porque en un guion de podcast dirigido a compañeros de curso, involucrar directamente al oyente es una convención de género válida y esperada
-c) Porque las preguntas retóricas reemplazan la necesidad de un contenido interpretativo sólido en un guion breve para compañeros
+c) Porque las preguntas retóricas reemplazan la necesidad de un contenido interpretativo sólido en un guion breve para los compañeros
 d) Porque los podcasts no tienen convenciones propias de género, así que los distintos recursos resultan igual de adecuados
 
 *Respuesta correcta: b.* Retroalimentación: adecuar un texto a su audiencia implica reconocer las convenciones propias de cada género; en un podcast conversacional dirigido a jóvenes, involucrar al oyente con preguntas directas es una convención habitual y efectiva, que resultaría fuera de lugar en un párrafo de ensayo formal.
@@ -403,7 +403,7 @@ d) Propósito: evaluar si los argumentos están respaldados. Género: comentario
 a) Porque el podcast suele ser más profundo que el ensayo, ya que llega a más oyentes y permite usar la voz para transmitir emociones
 b) Porque ambas versiones pueden comunicar la misma comparación central con distinto registro, extensión y recursos: cambia la forma, no necesariamente la profundidad
 c) Porque adecuar un texto consiste en copiar el mismo ensayo y leerlo en voz alta, sin cambiar su registro, su extensión ni sus recursos
-d) Sí significa perderla: adaptar un ensayo a un podcast es simplificarlo, porque un formato oral breve no admite interpretaciones complejas
+d) Sí significa perderla: adaptar un ensayo a un podcast es simplificarlo, porque un formato oral breve no admite interpretaciones complejas ni matices
 
 *Respuesta correcta: b.* Retroalimentación: Adecuar un texto a otra audiencia y género es un ejercicio de selección y forma, no de simplificación forzosa del contenido interpretativo.
 

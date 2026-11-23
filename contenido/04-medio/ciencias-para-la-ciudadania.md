@@ -243,7 +243,7 @@ muestren que funciona?), no solo su buena intención ambiental.
 11. *(Alternativas)* ¿Cuál de las siguientes opciones representa mejor una
     "utilización sostenible" (y no solo protección) de un recurso natural?
     a) Prohibir cualquier uso del bosque nativo, incluida la recolección de frutos y de leña seca.
-    b) Explotar un recurso hídrico sin ningún límite de extracción mientras haya agua disponible en la cuenca.
+    b) Explotar un recurso hídrico sin un límite de extracción mientras haya agua disponible en la cuenca y en sus napas subterráneas.
     c) Manejar un bosque nativo con planes de manejo que permiten
        extracción controlada de madera sin comprometer su regeneración.
     d) Talar un bosque completo y luego reforestar con una sola especie exótica de rápido crecimiento.
@@ -293,7 +293,7 @@ muestren que funciona?), no solo su buena intención ambiental.
     hídrica.
 
 16. *(Alternativas)* ¿Por qué un proyecto de sostenibilidad debe considerar su viabilidad económica y la participación de la comunidad, y no solo su fundamento científico?
-    a) Porque la ciencia no importa en los proyectos de sostenibilidad: basta con que la comunidad esté de acuerdo
+    a) Porque la ciencia importa poco en los proyectos de sostenibilidad: basta con que la comunidad del barrio esté de acuerdo con ellos
     b) Porque basta con que el proyecto sea barato, aunque no tenga fundamento científico ni apoyo de la comunidad
     c) Porque la comunidad tiene poca relación con la sostenibilidad, que depende sobre todo de la tecnología usada
     d) Porque un proyecto correcto técnicamente pero muy costoso o sin apoyo comunitario difícilmente se implementará o mantendrá
@@ -415,7 +415,7 @@ mencionado).
 
 1. *(Alternativas)* La evidencia científica del cambio climático actual se
    basa principalmente en:
-   a) La opinión de un grupo de científicos, que no ha sido revisada ni contrastada con otros estudios independientes del mundo.
+   a) La opinión de un grupo de científicos de un país, que no ha sido revisada ni contrastada con otros estudios independientes del mundo.
    b) Múltiples líneas de evidencia convergentes: registros de
       temperatura, concentración de CO₂, núcleos de hielo y modelos
       climáticos validados.
@@ -467,7 +467,7 @@ mencionado).
 6. *(Alternativas — Evaluación de evidencia)* "Un invierno muy frío en una ciudad demuestra que el cambio climático no existe." ¿Por qué el argumento es débil?
    a) Porque confunde un evento puntual del tiempo atmosférico con el clima, que se refiere a tendencias de largo plazo
    b) Porque los inviernos casi no son fríos en las ciudades, y el dato del invierno debe estar equivocado
-   c) Porque el cambio climático ocurre en verano, cuando las temperaturas suben, y no afecta los inviernos
+   c) Porque el cambio climático ocurre en verano, cuando las temperaturas suben, y no afecta los inviernos de las ciudades del país
    d) No es débil: un invierno frío es una prueba concluyente sobre el clima
    **Respuesta correcta:** a) Porque confunde un evento puntual del tiempo atmosférico con el clima, que se refiere a tendencias de largo plazo.
    **Retroalimentación:** Un invierno frío es un evento del tiempo atmosférico en un lugar; el clima se refiere a tendencias de muchos años en todo el planeta. Un caso puntual no refuta una tendencia de largo plazo.
@@ -545,7 +545,7 @@ mencionado).
     b) Muchas especies no logran adaptarse o desplazarse con la rapidez
        suficiente frente a la velocidad de los cambios ambientales
        actuales.
-    c) El cambio climático afecta poco a la distribución de las especies, que depende sobre todo de la competencia entre ellas.
+    c) El cambio climático afecta poco a la distribución de las especies, que depende sobre todo de la competencia entre ellas por el alimento.
     d) La biodiversidad depende sobre todo de la acción humana directa, como la caza y la tala, más que del clima.
     **Respuesta correcta:** b.
     **Retroalimentación:** La velocidad del cambio climático actual supera

@@ -717,7 +717,7 @@ trabajadoras y movimientos sociales, no de concesiones espontáneas.
 
 **6. (Alternativas — análisis de caso)** Una app de reparto llama "socios independientes" a sus trabajadores, aunque fija sus tarifas, su disponibilidad y puede desactivarlos sin procedimiento. ¿Qué debate ilustra?
 a) El de los empleos de plataformas y la frontera entre trabajo dependiente e independiente, cuando la tecnología puede usarse para evadir protecciones laborales
-b) El debate sobre la jornada laboral de los profesores y la carga de trabajo fuera del horario de clases en los establecimientos educacionales
+b) El debate sobre la jornada laboral de los profesores y la carga de trabajo fuera del horario de clases en los colegios y liceos del país
 c) Un debate menor: los socios independientes eligen libremente cuándo trabajar y la app actúa como intermediaria entre clientes y comercios
 d) El debate sobre la propiedad de los medios de comunicación y su concentración en pocos grupos
 
@@ -940,7 +940,7 @@ d) Porque la libertad y la solidaridad significan lo mismo en una democracia
 ---
 
 **8. (Alternativas — análisis de datos)** En una región, el porcentaje de alcaldesas y concejalas es mucho menor que el de mujeres en la población. ¿Qué desafío ilustra?
-a) La desinformación electoral durante las campañas, que afecta a todos los candidatos por igual
+a) La desinformación electoral durante las campañas, que afecta a los candidatos por igual
 b) La concentración de los medios de comunicación en pocos grupos
 c) La superación de la pobreza en las comunas de la región
 d) La equidad de género: subrepresentación de mujeres en cargos de decisión política

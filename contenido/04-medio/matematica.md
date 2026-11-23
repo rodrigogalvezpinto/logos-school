@@ -124,7 +124,7 @@ d) ≈ $2.530.638
 **Pregunta 6 (alternativas — tasa efectiva).** Una cuenta ofrece 12% nominal anual capitalizado trimestralmente. ¿Cuál es la tasa efectiva anual?
 a) 12,00%
 b) ≈ 12,55%
-c) 3,00%
+c) ≈ 12,68%
 d) 48,00%
 
 **Respuesta correcta: b) ≈ 12,55%.**
