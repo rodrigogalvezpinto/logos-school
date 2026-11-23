@@ -136,8 +136,8 @@ que antes no podían formarse libremente.
 **1. (Alternativas)** ¿Cuál de las siguientes ideas corresponde al ideario liberal del siglo XIX?
 
 a) La concentración de todo el poder en un monarca absoluto, cuya autoridad proviene de Dios
-b) La eliminación total del comercio internacional para proteger la producción nacional
-c) La prohibición de cualquier forma de asociación entre ciudadanos, para evitar conflictos políticos
+b) La eliminación del comercio internacional para proteger la producción nacional de cada país
+c) La prohibición de las asociaciones entre ciudadanos, para evitar conflictos políticos en el Estado
 d) El constitucionalismo, es decir, que el poder político se ejerza dentro del marco de una
 constitución
 
@@ -496,9 +496,9 @@ d) La obtención inmediata del voto femenino en todo el mundo como premio por su
 ---
 
 **5. (Alternativas)** ¿Por qué se dice que la Primera Guerra Mundial cambió "la forma y la percepción de la guerra"?
-a) Porque fue la primera guerra sin víctimas civiles, ya que los combates se libraron solo en trincheras lejanas de las ciudades y con armas tradicionales
-b) Porque se libró solo entre dos países europeos, con ejércitos profesionales pequeños y sin participación de la población civil ni de las colonias
-c) Porque duró solo unos días
+a) Porque fue la primera guerra con pocas víctimas civiles, ya que los combates se libraron en trincheras lejanas de las ciudades europeas
+b) Porque se libró entre dos países europeos, con ejércitos profesionales pequeños y escasa participación de la población civil de esos países
+c) Porque duró pocos meses y terminó con un acuerdo de paz firmado por los reyes de Europa en 1915
 d) Por su escala planetaria, sus nuevas tecnologías destructivas (ametralladoras, gas, tanques, aviación) y la movilización de toda la sociedad civil
 
 ✅ Respuesta correcta: **d) Por su escala planetaria, sus nuevas tecnologías destructivas (ametralladoras, gas, tanques, aviación) y la movilización de toda la sociedad civil**
@@ -658,7 +658,7 @@ d) Porque Chile debió construir un orden político desde cero, con sucesivas co
 a) Porque estableció el voto universal desde su promulgación, lo que dio estabilidad, pero excluyó a los extranjeros y a los menores de edad
 b) Porque concentró el poder en un Ejecutivo fuerte y restringió la participación a hombres con renta y alfabetizados, dejando fuera a mujeres y sectores populares
 c) Porque eliminó al Poder Ejecutivo y entregó el gobierno al Congreso, lo que dio estabilidad, pero dejó sin representación a las provincias
-d) Porque entregó el poder a las regiones mediante un sistema federal, lo que dio estabilidad, pero excluyó a la elite de Santiago
+d) Porque entregó el poder a las regiones mediante un sistema federal, lo que dio estabilidad, pero excluyó a la elite de Santiago del gobierno
 
 ✅ Respuesta correcta: **b) Porque concentró el poder en un Ejecutivo fuerte y restringió la participación a hombres con renta y alfabetizados, dejando fuera a mujeres y sectores populares**
 *Retroalimentación:* El orden se logró a costa de una participación política muy restringida.
@@ -805,10 +805,10 @@ d) Porque la minería y el salitre se conectaban con mercados internacionales me
 ---
 
 **6. (Alternativas — desafiante)** ¿Cómo podían coexistir las duras condiciones del obrero salitrero con la gran importancia económica del salitre?
-a) Porque los obreros salitreros eran los principales dueños de las oficinas, y las duras condiciones se debían a que reinvertían todas las ganancias en nuevas máquinas
+a) Porque los obreros salitreros eran dueños de las oficinas, y las duras condiciones se debían a que reinvertían sus ganancias en nuevas máquinas
 b) Porque la riqueza beneficiaba principalmente al Estado (impuestos) y a los inversionistas, mientras los obreros vivían aislados y dependientes de las pulperías
-c) Porque el salitre no generaba ganancias
-d) Porque las condiciones de trabajo eran las mejores del país, y las dificultades solo aparecían en las pulperías, que no dependían de las oficinas
+c) Porque el salitre generaba pocas ganancias y el Estado debía subsidiar a las oficinas para que siguieran funcionando
+d) Porque las condiciones de trabajo eran buenas en comparación con el resto del país, y las dificultades aparecían en las pulperías
 
 ✅ Respuesta correcta: **b) Porque la riqueza beneficiaba principalmente al Estado (impuestos) y a los inversionistas, mientras los obreros vivían aislados y dependientes de las pulperías**
 *Retroalimentación:* La riqueza del salitre quedaba sobre todo en el Estado, por los impuestos, y en los inversionistas; los obreros vivían aislados en las oficinas y dependían de las pulperías. Esas condiciones alimentaron después la «cuestión social».
@@ -930,9 +930,9 @@ d) 1-B, 2-A, 3-C
 
 **4. (Alternativas — análisis de fuente)** Un documento oficial de 1883 ordena "asignar a la comunidad indígena un lote de 40 hectáreas en el sector X, y disponer las tierras restantes para su remate público a particulares". ¿Qué aspecto de la ocupación ilustra?
 a) La repartición de tierras y el confinamiento de las comunidades mapuches en reducciones, entregando el resto a particulares
-b) El reconocimiento de todo el territorio ancestral mapuche y su inscripción a nombre de las comunidades
-c) La fundación de una ciudad en el sector X, con lotes para los colonos y para la comunidad
-d) La construcción del ferrocarril al sur, que requería expropiar las tierras de las comunidades
+b) El reconocimiento del territorio ancestral mapuche y su inscripción a nombre de las comunidades
+c) La fundación de una ciudad en el sector X, con lotes para los colonos y para las comunidades
+d) La construcción del ferrocarril al sur, que requería expropiar las tierras de las comunidades mapuches y entregarlas al Estado
 
 ✅ Respuesta correcta: **a) La repartición de tierras y el confinamiento de las comunidades mapuches en reducciones, entregando el resto a particulares**
 *Retroalimentación:* Evidencia el mecanismo legal-administrativo mediante el cual se despojó a las comunidades de gran parte de su territorio.
@@ -1037,7 +1037,7 @@ la Guerra del Pacífico?
 a) El cobre
 b) El salitre
 c) El trigo
-d) La plata
+d) El carbón
 
 ✅ Respuesta correcta: **b) El salitre**
 *Retroalimentación:* La disputa por el control de la explotación salitrera del desierto de
@@ -1227,8 +1227,8 @@ d) 1-C, 2-B, 3-A
 **4. (Alternativas — análisis de fuente)** Un reportaje de 1905 describe "familias completas viviendo en una sola habitación de un conventillo, sin acceso a agua potable, mientras las epidemias se propagan con facilidad". ¿Qué aspecto de la cuestión social ilustra?
 a) El hacinamiento y la falta de servicios básicos de los sectores populares urbanos, junto con la propagación de enfermedades
 b) La riqueza de los sectores populares, que podían arrendar habitaciones en los barrios céntricos
-c) La modernización completa de las ciudades, con agua potable y alcantarillado en todos los barrios populares de la ciudad
-d) La ausencia de problemas sanitarios
+c) La modernización de las ciudades, con agua potable y alcantarillado en la mayoría de los barrios populares
+d) La ausencia de problemas sanitarios graves gracias a los hospitales públicos que se construyeron en cada barrio de la ciudad
 
 ✅ Respuesta correcta: **a) El hacinamiento y la falta de servicios básicos de los sectores populares urbanos, junto con la propagación de enfermedades**
 *Retroalimentación:* El reportaje describe familias en una sola pieza de conventillo, sin agua potable y con epidemias: muestra el hacinamiento y la falta de servicios básicos de los sectores populares urbanos, parte central de la cuestión social.
@@ -1406,7 +1406,7 @@ d) La anexión de Chile a Argentina después de la Independencia, que permitió 
 
 **5. (Alternativas)** ¿Por qué las ciencias (misiones científicas, universidades) fueron relevantes para organizar el territorio chileno en el siglo XIX?
 a) Porque las ciencias reemplazaron al gobierno en la administración del territorio, y las universidades pasaron a dictar las leyes sobre la ocupación de las regiones del país
-b) Porque solo servían para fines decorativos y de prestigio: las misiones científicas producían láminas y colecciones para los museos, sin ninguna utilidad para administrar el territorio
+b) Porque servían sobre todo para fines decorativos y de prestigio: las misiones científicas producían láminas y colecciones para los museos europeos y para las élites de Santiago
 c) Porque impidieron delimitar las fronteras del país, ya que los científicos extranjeros recomendaban no ocupar las regiones alejadas para proteger su flora y su fauna
 d) Porque el Estado necesitaba conocer con precisión su geografía, recursos y población antes de administrarlos, y las misiones como las de Gay y Domeyko y la Universidad de Chile produjeron ese conocimiento
 
@@ -1416,9 +1416,9 @@ d) Porque el Estado necesitaba conocer con precisión su geografía, recursos y 
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué la expansión de la burocracia era necesaria para que censos y misiones científicas se tradujeran en administración efectiva?
-a) Porque la burocracia reemplazaba a los censos, que dejaron de hacerse cuando hubo funcionarios suficientes en cada región
+a) Porque la burocracia reemplazaba a los censos, que dejaron de hacerse cuando hubo funcionarios suficientes en cada una de las regiones del país
 b) Porque reunir información no bastaba: se requerían funcionarios y oficinas que la procesaran, aplicaran políticas y ejercieran presencia estatal
-c) Porque los censos no producían información útil para el Estado, y la burocracia debía reunir de nuevo todos los datos
+c) Porque los censos producían poca información útil para el Estado, y la burocracia debía reunir de nuevo los datos de cada provincia
 d) Porque la burocracia impedía aplicar políticas públicas, y por eso el Estado debía reducirla antes de usar los censos
 
 ✅ Respuesta correcta: **b) Porque reunir información no bastaba: se requerían funcionarios y oficinas que la procesaran, aplicaran políticas y ejercieran presencia estatal**
@@ -1717,8 +1717,8 @@ d) Conservadurismo
 **5. (Alternativas)** ¿Cuál es la diferencia principal entre las respuestas del liberalismo y del socialismo frente a la cuestión social?
 a) El liberalismo aceptaba cierta intervención estatal manteniendo el mercado y la propiedad privada; el socialismo proponía el control estatal o social de los medios de producción
 b) El liberalismo proponía abolir la propiedad privada y entregar los medios de producción al Estado; el socialismo, defender el mercado y la propiedad privada sin ninguna intervención estatal
-c) Ambos rechazaban cualquier intervención del Estado: el liberalismo confiaba en el mercado y el socialismo en la caridad de la Iglesia y de las sociedades de beneficencia
-d) El socialismo proponía volver a la monarquía
+c) Ambos rechazaban la intervención del Estado: el liberalismo confiaba en el mercado y el socialismo en la caridad de los más ricos
+d) El socialismo proponía volver a la monarquía para proteger a los obreros
 
 ✅ Respuesta correcta: **a) El liberalismo aceptaba cierta intervención estatal manteniendo el mercado y la propiedad privada; el socialismo proponía el control estatal o social de los medios de producción**
 *Retroalimentación:* El objetivo socialista era una distribución más igualitaria de la riqueza.
@@ -1853,9 +1853,9 @@ d) 1-B, 2-A, 3-C
 
 **4. (Alternativas — análisis de fuente)** Un informe de 1890 describe la anexión de Isla de Pascua en 1888, con restricciones al desplazamiento y la propiedad de la tierra para la población Rapa Nui. ¿Qué tipo de relación ilustra?
 a) Una relación de plena autonomía para el pueblo Rapa Nui, que conservó el control de su tierra
-b) Una alianza comercial entre iguales
+b) Una alianza comercial entre iguales, con un tratado de libre comercio
 c) Una relación de conflicto, con restricciones importantes a la movilidad y la propiedad del pueblo Rapa Nui
-d) Ninguna relación entre el Estado y el pueblo Rapa Nui, porque la isla siguió siendo independiente
+d) Una relación distante, porque la isla mantuvo su propio gobierno y casi no recibió autoridades chilenas
 
 ✅ Respuesta correcta: **c) Una relación de conflicto, con restricciones importantes a la movilidad y la propiedad del pueblo Rapa Nui**
 *Retroalimentación:* Las fuentes de la época permiten evaluar el carácter de las relaciones entre el Estado y los pueblos indígenas.
@@ -1864,9 +1864,9 @@ d) Ninguna relación entre el Estado y el pueblo Rapa Nui, porque la isla sigui�
 
 **5. (Alternativas)** ¿Por qué se afirma que la relación entre los pueblos indígenas y el Estado de Chile "no ha sido uniforme"?
 a) Porque distintos pueblos vivieron procesos diferentes, con distintos grados de conflicto (Araucanía, Isla de Pascua) y de convivencia o negociación (comercio, parlamentos)
-b) Porque todos los pueblos vivieron exactamente la misma historia de conflicto con el Estado, aunque en distintas épocas, y el término uniforme se refiere solo a las fechas en que ocurrió
-c) Porque el Estado nunca se relacionó con los pueblos indígenas: cada pueblo mantuvo su propio territorio y gobierno, sin parlamentos, comercio ni conflictos con Chile
-d) Porque solo existió un pueblo indígena en Chile
+b) Porque los pueblos vivieron una historia de conflicto muy parecida con el Estado, aunque en distintas épocas, y por eso se estudian juntos
+c) Porque el Estado se relacionó poco con los pueblos indígenas: cada pueblo mantuvo su propio territorio y gobierno, con escasos contactos
+d) Porque en Chile existió un pueblo indígena principal, el mapuche, y los demás pueblos se estudian como casos menores dentro de su historia
 
 ✅ Respuesta correcta: **a) Porque distintos pueblos vivieron procesos diferentes, con distintos grados de conflicto (Araucanía, Isla de Pascua) y de convivencia o negociación (comercio, parlamentos)**
 *Retroalimentación:* No es posible describir esta relación de una sola manera para todos los pueblos y períodos.
@@ -2009,8 +2009,8 @@ d) La disminución de la población mundial por las guerras y las epidemias del 
 
 **5. (Alternativas)** ¿Cómo se vincula la industrialización de los siglos XIX y XX con el calentamiento global actual?
 a) La quema de carbón y petróleo liberó durante más de un siglo grandes cantidades de gases de efecto invernadero, cuya acumulación es una de las principales causas del calentamiento global
-b) La industrialización enfrió el planeta durante un siglo, porque el humo de las fábricas bloqueó la luz solar
-c) No existe ningún vínculo entre ambos
+b) La industrialización enfrió el planeta durante un siglo, porque el humo de las fábricas bloqueó la luz solar en las grandes ciudades
+c) El vínculo es débil, porque el cambio climático depende sobre todo de los ciclos naturales del Sol
 d) El calentamiento global se debe solo a erupciones volcánicas recientes, que liberan más gases que toda la actividad industrial; la industrialización no influyó en el clima porque sus emisiones se absorbieron
 
 ✅ Respuesta correcta: **a) La quema de carbón y petróleo liberó durante más de un siglo grandes cantidades de gases de efecto invernadero, cuya acumulación es una de las principales causas del calentamiento global**

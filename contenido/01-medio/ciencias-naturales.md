@@ -146,7 +146,7 @@ las especies están tan bien adaptadas a su ambiente.
    **Retroalimentación:** El registro fósil muestra formas de vida de distintas épocas; las estructuras homólogas, patrones anatómicos heredados de un ancestro común; la embriología, semejanzas en las primeras etapas del desarrollo, y el ADN, el grado de parentesco genético. Que fuentes independientes coincidan da solidez a la evolución.
 
 4. *(Alternativas)* ¿Qué opción describe correctamente los postulados de la selección natural?
-   a) Sobreproducción: los individuos cambian a voluntad. Variación: todos son idénticos. Adaptación: el ambiente no influye. Selección: ocurre al azar sin relación con el ambiente
+   a) Sobreproducción: los individuos cambian a voluntad según lo que necesitan. Variación: los individuos de una población son casi idénticos. Adaptación: el ambiente influye poco. Selección: los más fuertes eligen pareja
    b) Los organismos adquieren rasgos por el uso o desuso de sus órganos durante su vida y los heredan directamente a su descendencia, que nace adaptada al ambiente sin necesidad de selección
    c) Las especies no cambian con el tiempo: cada una fue creada con los rasgos que tiene hoy, y la variación entre individuos no se hereda ni influye en su supervivencia o reproducción
    d) Sobreproducción: más descendencia de la que el ambiente sostiene. Variación: diferencias heredables. Adaptación: algunas variaciones favorecen sobrevivir y reproducirse. Selección: esas variaciones se vuelven más frecuentes
@@ -163,9 +163,9 @@ las especies están tan bien adaptadas a su ambiente.
 
 6. *(Alternativas — Aportes científicos)* Darwin (viaje del Beagle) y Wallace (sudeste asiático) propusieron, de forma independiente, ideas muy similares sobre la selección natural. ¿Qué tuvieron en común sus observaciones?
    a) Observaron gran diversidad de especies emparentadas con variaciones adaptadas a ambientes distintos, como los pinzones de Galápagos
-   b) Ambos estudiaron solo fósiles de dinosaurios, y concluyeron que las especies se extinguen sin dejar descendientes en Europa y en África
+   b) Ambos estudiaron sobre todo fósiles de dinosaurios, y concluyeron que las especies se extinguen sin dejar descendientes en Europa ni en América
    c) Ambos trabajaron juntos en el mismo laboratorio de Londres, comparando muestras enviadas por otros naturalistas
-   d) Ambos observaron que las especies nunca cambian, y que cada una fue creada adaptada a su ambiente desde el inicio
+   d) Ambos observaron que las especies cambian poco, y que cada una fue creada adaptada a su ambiente desde el inicio de los tiempos
    **Respuesta correcta:** a) Observaron gran diversidad de especies emparentadas con variaciones adaptadas a ambientes distintos, como los pinzones de Galápagos.
    **Retroalimentación:** Darwin en Galápagos y Wallace en el sudeste asiático vieron muchas especies emparentadas con variaciones adaptadas a ambientes distintos, como los pinzones. Que llegaran por separado a la misma idea fortalece la teoría de la selección natural.
 
@@ -412,9 +412,9 @@ afectar gravemente a los depredadores tope, incluido el ser humano.
 
 6. *(Alternativas — Análisis de evidencia)* Aves rapaces presentan concentraciones muy altas de pesticidas aplicados en baja concentración en cultivos lejanos. ¿Qué fenómeno lo explica?
    a) La bioacumulación (biomagnificación): la concentración aumenta al subir de nivel trófico
-   b) La fotosíntesis de las aves, que transforman los pesticidas en energía
-   c) La resonancia acústica de los pesticidas en el cuerpo de los animales
-   d) La competencia intraespecífica entre las aves por los mismos alimentos
+   b) La fotosíntesis de las aves, que transforman los pesticidas en energía química
+   c) La resonancia acústica de los pesticidas en el cuerpo de los animales marinos
+   d) La competencia intraespecífica entre las aves por los mismos peces y alimentos
    **Respuesta correcta:** a) La bioacumulación (biomagnificación): la concentración aumenta al subir de nivel trófico.
    **Retroalimentación:** Cada depredador consume gran cantidad de biomasa de niveles inferiores y acumula el contaminante presente en sus presas.
 
@@ -519,10 +519,10 @@ interconectados.
    **Retroalimentación:** La forestación, la deforestación para cultivar y la creación de un área protegida son decisiones de las personas, por eso son acciones humanas; los otros cambios ocurren por procesos de la naturaleza.
 
 4. *(Alternativas)* ¿Qué diferencia hay entre un recurso natural renovable y uno no renovable?
-   a) El renovable nunca se agota, aunque se sobreexplote (agua de una cuenca, madera de un bosque); el no renovable se regenera en pocos años si se deja de usar (cobre, petróleo)
+   a) El renovable se mantiene aunque se sobreexplote (agua de una cuenca, madera de un bosque); el no renovable se regenera en pocos años si se deja de extraer
    b) El renovable puede regenerarse en escalas de tiempo humanas si se usa sustentablemente (agua de una cuenca, madera de un bosque manejado); el no renovable se agota (cobre, petróleo)
    c) El cobre y el petróleo son recursos renovables, porque se siguen formando en la corteza; el agua y la madera son no renovables, porque se agotan al usarlos
-   d) No existe diferencia entre ambos
+   d) Se diferencian poco: ambos tipos de recursos se agotan al mismo ritmo si se usan sin control, y los dos pueden regenerarse si se dejan de extraer por un tiempo
    **Respuesta correcta:** b) El renovable puede regenerarse en escalas de tiempo humanas si se usa sustentablemente (agua de una cuenca, madera de un bosque manejado); el no renovable se agota (cobre, petróleo).
    **Retroalimentación:** Que un recurso sea renovable no significa que sea inagotable: si se extrae más rápido de lo que se regenera, también puede agotarse.
 
@@ -535,10 +535,10 @@ interconectados.
    **Retroalimentación:** Evaluar una acción desde sus dimensiones ambiental, económica y social es central para el desarrollo sustentable.
 
 6. *(Alternativas — Evaluación)* Frente a sequías prolongadas, se propone construir embalses para almacenar agua de la temporada de lluvias. ¿Qué evaluación es correcta?
-   a) Solo tiene ventajas y ninguna limitación: un embalse asegura agua en cualquier circunstancia, sin costos relevantes ni efectos sobre los ecosistemas del río
-   b) Solo tiene limitaciones y ninguna ventaja: los embalses no permiten almacenar agua por más de unos días, así que no sirven para enfrentar las sequías
+   a) Tiene sobre todo ventajas: un embalse asegura agua en la mayoría de las circunstancias, sin costos relevantes ni efectos en el ecosistema
+   b) Tiene sobre todo limitaciones: los embalses permiten almacenar agua por pocos días, así que sirven poco en una sequía larga
    c) Ventaja: disponer de agua en la sequía. Limitaciones: requiere lluvias suficientes para llenarse, tiene costos y puede afectar el ecosistema del río
-   d) Garantiza agua aunque nunca llueva, porque los embalses generan agua propia a partir de la humedad del aire, sin depender de las lluvias
+   d) Asegura agua aunque no llueva, porque los embalses generan agua propia a partir de la humedad del aire, sin depender de la lluvia
    **Respuesta correcta:** c) Ventaja: disponer de agua en la sequía. Limitaciones: requiere lluvias suficientes para llenarse, tiene costos y puede afectar el ecosistema del río.
    **Retroalimentación:** Evaluar una medida de adaptación implica considerar beneficios, limitaciones y efectos secundarios.
 
@@ -826,9 +826,9 @@ iluminación.
    correcta?
    a) Un espejo convexo, como el de los retrovisores, muestra imágenes más pequeñas y un campo
       de visión más amplio
-   b) Un espejo plano siempre forma imágenes más grandes que el objeto
-   c) Una lente convergente (lupa) nunca puede ampliar la imagen de un objeto cercano
-   d) Un espejo cóncavo siempre forma imágenes más pequeñas y derechas, sin importar la distancia a la que esté el objeto
+   b) Un espejo plano forma imágenes más grandes que el objeto que refleja
+   c) Una lente convergente (lupa) reduce la imagen de los objetos que están cerca
+   d) Un espejo cóncavo forma imágenes más pequeñas y derechas, sin importar la distancia a la que esté el objeto
    **Respuesta correcta:** a) Un espejo convexo, como el de los retrovisores, muestra imágenes más pequeñas y un campo de visión más amplio.
    **Retroalimentación:** El espejo convexo forma imágenes virtuales, derechas y más pequeñas,
    útiles para ver más área. El espejo plano forma imágenes del mismo tamaño; el cóncavo y la
@@ -937,9 +937,9 @@ planetas gaseosos como Júpiter y Saturno).
    luz solar en ciertas zonas de la Tierra.
 
 3. *(Alternativas — Clasificar)* ¿Qué fenómeno se explica principalmente por la relación geométrica Tierra-Sol a lo largo del año (inclinación del eje terrestre), y no por la posición de la Luna?
-   a) Las fases lunares
-   b) El eclipse solar
-   c) El eclipse lunar
+   a) Las fases lunares del mes
+   b) El eclipse solar total
+   c) El eclipse lunar parcial
    d) Las estaciones climáticas
    **Respuesta correcta:** d) Las estaciones climáticas.
    **Retroalimentación:** Las fases y los eclipses dependen de la posición relativa de la Luna (con el Sol como fuente de luz); las estaciones dependen de la inclinación del eje terrestre respecto del Sol.
@@ -1225,15 +1225,15 @@ ambientales como la contaminación atmosférica.
 
 6. *(Alternativas — Análisis experimental)* Un frasco con levadura, azúcar y agua tibia, cerrado con un globo, infla el globo después de un tiempo. ¿Qué ocurre?
    a) La levadura fermenta el azúcar y libera dióxido de carbono; la producción de gas es evidencia de reacción química
-   b) El agua tibia se evapora con el calor y el vapor llena el globo, sin que ocurra ninguna reacción química
+   b) El agua tibia se evapora con el calor y el vapor llena el globo, sin que ocurra una reacción química en el frasco
    c) El azúcar se derrite con el agua tibia y produce aire, que sube al globo porque es más liviano
-   d) No ocurre ninguna reacción química: el globo se infla solo por la diferencia de temperatura del frasco
+   d) El globo se infla por la diferencia de temperatura del frasco, y la levadura y el azúcar se mezclan sin reaccionar
    **Respuesta correcta:** a) La levadura fermenta el azúcar y libera dióxido de carbono; la producción de gas es evidencia de reacción química.
    **Retroalimentación:** La levadura fermenta el azúcar y produce dióxido de carbono; ese gas infla el globo. La formación de un gas nuevo es evidencia de una reacción química, la misma que hace subir la masa del pan.
 
 7. *(Alternativas — Evaluación)* "Las reacciones de combustión son procesos completamente naturales y, por lo tanto, no representan ningún riesgo para el ambiente." ¿Qué evaluación es correcta?
-   a) Es correcta: todo lo natural es inofensivo, y la combustión ocurre en la naturaleza desde siempre, por lo que el ambiente se adapta a sus efectos
-   b) Es correcta: la combustión no libera gases a la atmósfera, solo produce calor y luz, por lo que no puede afectar el aire ni el clima
+   a) Es correcta: lo natural tiende a ser inofensivo, y la combustión ocurre en la naturaleza desde hace millones de años, por lo que el ambiente se adapta
+   b) Es correcta: la combustión libera pocos gases a la atmósfera y produce sobre todo calor y luz, por lo que su efecto sobre el aire es mínimo
    c) Es incorrecta: la combustión no es una reacción química sino un cambio físico, y por eso no puede calificarse como un proceso natural
    d) Es incorrecta: la combustión de combustibles fósiles a gran escala libera CO₂ y contaminantes que contribuyen al cambio climático y a la contaminación del aire
    **Respuesta correcta:** d) Es incorrecta: la combustión de combustibles fósiles a gran escala libera CO₂ y contaminantes que contribuyen al cambio climático y a la contaminación del aire.
