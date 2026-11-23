@@ -50,6 +50,12 @@ class RepositorioCuentasSQLModel:
     def contar(self) -> int:
         return self._session.exec(select(func.count()).select_from(CuentaORM)).one()
 
+    def eliminar(self, cuenta_id: int) -> None:
+        fila = self._session.get(CuentaORM, cuenta_id)
+        if fila:
+            self._session.delete(fila)
+            self._session.commit()
+
     @staticmethod
     def _a_dominio(fila: CuentaORM) -> CuentaDominio:
         return CuentaDominio(

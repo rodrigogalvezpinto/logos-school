@@ -1,7 +1,7 @@
 #!/bin/zsh
 # Compila y publica el frontend en Cloudflare Pages por «carga directa» desde este Mac, incluyendo los
 # audios pregrabados (no versionados). No se ejecuta solo: requiere `npx wrangler login` una vez.
-# Uso: LOGOS_API_URL=https://api.tu-dominio.cl [LOGOS_GOOGLE_CLIENT_ID=…] scripts/desplegar/frontend.sh [proyecto-pages]
+# Uso: LOGOS_API_URL=https://api.tu-dominio.cl [LOGOS_GOOGLE_CLIENT_ID=…] [LOGOS_SENTRY_DSN=…] scripts/desplegar/frontend.sh [proyecto-pages]
 set -e
 RAIZ=${0:A:h:h:h}
 PROYECTO=${1:-logos-school}
@@ -11,7 +11,8 @@ cd $RAIZ/frontend
 [[ -f public/audio/es/manifest.json ]] || echo "⚠️  Sin audios pregrabados: se usará la voz del dispositivo (ver scripts/voz/generar_audios.sh)."
 npx ng build --configuration production \
   --define "LOGOS_API_URL='$LOGOS_API_URL'" \
-  --define "LOGOS_GOOGLE_CLIENT_ID='${LOGOS_GOOGLE_CLIENT_ID:-}'"
+  --define "LOGOS_GOOGLE_CLIENT_ID='${LOGOS_GOOGLE_CLIENT_ID:-}'" \
+  --define "LOGOS_SENTRY_DSN='${LOGOS_SENTRY_DSN:-}'"
 SALIDA=dist/frontend/browser
 # El CSP de _headers trae el dominio de ejemplo: se reemplaza por el real del backend.
 sed -i '' "s#https://api.logos.cl#$ORIGEN_API#g" $SALIDA/_headers
@@ -22,6 +23,12 @@ if [[ -n ${LOGOS_GOOGLE_CLIENT_ID:-} ]]; then
   GSI=https://accounts.google.com/gsi/
   sed -i '' -E "s#script-src 'self'#script-src 'self' ${GSI}client#; s#style-src 'self'#style-src 'self' ${GSI}style#; s#(connect-src [^;]*)#\1 $GSI#; s#frame-ancestors#frame-src $GSI; frame-ancestors#" $SALIDA/_headers
   echo "CSP: se agregó Google Identity Services"
+fi
+# Con Sentry, el navegador debe poder enviar los errores a su servidor de ingesta (origen del DSN).
+if [[ -n ${LOGOS_SENTRY_DSN:-} ]]; then
+  ORIGEN_SENTRY=$(print -r -- $LOGOS_SENTRY_DSN | sed -E 's#^(https://)[^@]*@([^/]+).*#\1\2#')
+  sed -i '' -E "s#(connect-src [^;]*)#\1 $ORIGEN_SENTRY#" $SALIDA/_headers
+  echo "CSP: se agregó Sentry ($ORIGEN_SENTRY)"
 fi
 grep "Content-Security-Policy" $SALIDA/_headers
 npx wrangler pages deploy $SALIDA --project-name "$PROYECTO" --branch main

@@ -5,7 +5,9 @@ from pydantic import BaseModel, EmailStr, Field, field_validator
 
 from app.application.auth.casos_de_uso import (
     AgregarPerfilAlumno,
+    CambiarPassword,
     CerrarSesion,
+    EliminarCuenta,
     EliminarAlumno,
     IniciarSesion,
     IniciarSesionConGoogle,
@@ -20,6 +22,8 @@ from app.application.gamificacion.casos_de_uso import ObtenerPerfilGamificacion
 from app.application.progreso.consultas import ObtenerHistorialYNotas
 from app.core.deps import (
     get_agregar_perfil_alumno_uc,
+    get_cambiar_password_uc,
+    get_eliminar_cuenta_uc,
     get_cerrar_sesion_uc,
     get_cuenta_actual,
     get_eliminar_alumno_uc,
@@ -261,6 +265,47 @@ def listar_mis_alumnos(
         )
         for p in perfiles
     ]
+
+
+class CambioPassword(BaseModel):
+    password_actual: str | None = Field(default=None, max_length=128)
+    password_nuevo: str = Field(min_length=8, max_length=128)
+
+
+class ConfirmacionEliminarCuenta(BaseModel):
+    password: str | None = Field(default=None, max_length=128)
+    confirmacion_email: str | None = Field(default=None, max_length=320)
+
+
+@router.post("/cambiar-password", response_model=TokenRespuesta)
+@limiter.limit(f"{settings.limite_login_por_minuto}/minute")
+def cambiar_password(
+    request: Request,
+    datos: CambioPassword,
+    cuenta: Cuenta = Depends(get_cuenta_actual),
+    uc: CambiarPassword = Depends(get_cambiar_password_uc),
+):
+    try:
+        token = uc.ejecutar(cuenta.id, datos.password_actual, datos.password_nuevo)
+    except CredencialesInvalidas:
+        raise HTTPException(status_code=400, detail="La contraseña actual no es correcta")
+    return TokenRespuesta(access_token=token)
+
+
+@router.post("/eliminar-cuenta", status_code=status.HTTP_204_NO_CONTENT)
+@limiter.limit(f"{settings.limite_login_por_minuto}/minute")
+def eliminar_cuenta(
+    request: Request,
+    datos: ConfirmacionEliminarCuenta,
+    cuenta: Cuenta = Depends(get_cuenta_actual),
+    uc: EliminarCuenta = Depends(get_eliminar_cuenta_uc),
+):
+    """Borra la cuenta y todos los alumnos con su historial. Irreversible."""
+    try:
+        uc.ejecutar(cuenta.id, datos.password, datos.confirmacion_email)
+    except CredencialesInvalidas:
+        raise HTTPException(status_code=400, detail="La confirmación no es correcta")
+    return Response(status_code=status.HTTP_204_NO_CONTENT)
 
 
 @router.delete("/alumnos/{perfil_alumno_id}", status_code=status.HTTP_204_NO_CONTENT)

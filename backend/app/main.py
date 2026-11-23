@@ -7,6 +7,7 @@ from slowapi.middleware import SlowAPIMiddleware
 from app.core.config import settings
 from app.core.limiter import limiter
 from app.core.logging_config import LoggingMiddleware, configurar_logging
+from app.core.monitoreo import iniciar_monitoreo
 from app.core.security_headers import SecurityHeadersMiddleware
 from app.routers import (
     admin_auth,
@@ -35,6 +36,7 @@ from app.routers import (
 )
 
 configurar_logging()
+iniciar_monitoreo()
 
 _EN_PRODUCCION = settings.entorno == "produccion"
 app = FastAPI(

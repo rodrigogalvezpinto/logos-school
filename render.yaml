@@ -36,6 +36,8 @@ services:
         value: "false"   # Profesor IA: pasar a "true" solo con ANTHROPIC_API_KEY cargada
       - key: ANTHROPIC_API_KEY
         sync: false
+      - key: SENTRY_DSN
+        sync: false   # aviso de errores; vacío = apagado
   - type: web
     name: logos-api-prod
     runtime: python
@@ -71,3 +73,5 @@ services:
         value: "false"   # Profesor IA: pasar a "true" solo con ANTHROPIC_API_KEY cargada
       - key: ANTHROPIC_API_KEY
         sync: false
+      - key: SENTRY_DSN
+        sync: false   # aviso de errores; vacío = apagado

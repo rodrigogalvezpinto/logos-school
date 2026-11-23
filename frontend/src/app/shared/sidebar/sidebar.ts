@@ -19,11 +19,9 @@ const SIDEBAR_ALUMNO: ItemSidebar[] = [
   { etiqueta: 'Mis Logros', icono: '🏆', ruta: '/alumno/logros' },
   { etiqueta: 'Plan Lector', icono: '📖', ruta: '/alumno/plan-lector' },
   { etiqueta: 'Útiles Escolares', icono: '🎒', ruta: '/alumno/utiles-escolares' },
-  // Fuera de alcance de esta etapa a propósito (ver planificacion/27-plan-incorporacion-hallazgos-brincus.md)
-  // — marcadores de roadmap, no funcionalidad rota ni oculta sin avisar.
-  { etiqueta: 'Profesor IA', icono: '🤖', ruta: '/alumno/proximamente/profesor-ia', proximamente: true },
+  // Profesor IA vive bajo cada guía (aparece solo si está habilitado); Videos no existe. Desde 2026-11-22 el menú no
+  // muestra marcadores «pronto»: nada que la app no haga todavía.
   { etiqueta: 'Juegos', icono: '🎮', ruta: '/alumno/juegos' },
-  { etiqueta: 'Videos', icono: '🎬', ruta: '/alumno/proximamente/videos', proximamente: true },
 ];
 
 const SIDEBAR_APODERADO: ItemSidebar[] = [
