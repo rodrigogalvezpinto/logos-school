@@ -15,7 +15,13 @@ import json
 import re
 from dataclasses import dataclass
 
-from parser_contenido import RE_VARIAS, componer_enunciado, extraer_modulo, resolver_letras_varias
+from parser_contenido import (
+    RE_VARIAS,
+    capitalizar_retroalimentacion,
+    componer_enunciado,
+    extraer_modulo,
+    resolver_letras_varias,
+)
 
 RE_Q_START = re.compile(
     # Toda pregunta real cumple AL MENOS UNO de dos rasgos: (a) el número está en negrita
@@ -243,7 +249,7 @@ def _extraer_pauta_lista(texto_pauta: str) -> dict[int, RespuestaPauta]:
         cuerpo = _limpiar(bloque[:limite.start()] if limite else bloque)
         respuesta = _resolver_respuesta_pauta(cuerpo)
         resultado[numero] = RespuestaPauta(
-            respuesta_correcta=respuesta, retroalimentacion=cuerpo,
+            respuesta_correcta=respuesta, retroalimentacion=capitalizar_retroalimentacion(cuerpo),
             codigo_oa=codigos[0] if codigos else None, modulo=modulo, codigos_oa=codigos,
         )
     return resultado
@@ -322,7 +328,7 @@ def _extraer_pauta_tabla(texto_pauta: str) -> dict[int, RespuestaPauta]:
                         codigos_oa = _codigos_oa(columnas[idx_oa_ajustado])
 
                 resultado[numero] = RespuestaPauta(
-                    respuesta_correcta=respuesta, retroalimentacion=cuerpo,
+                    respuesta_correcta=respuesta, retroalimentacion=capitalizar_retroalimentacion(cuerpo),
                     codigo_oa=codigos_oa[0] if len(codigos_oa) == 1 else None,
                     modulo=modulo, codigos_oa=codigos_oa,
                     asignatura=_limpiar(columnas[idx_asignatura - 1])

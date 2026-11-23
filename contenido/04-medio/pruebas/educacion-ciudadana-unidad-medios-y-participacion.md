@@ -51,8 +51,8 @@ d) 1-C, 2-B, 3-A
 4. **(Alternativas)** Cerca del 50 % de las exportaciones de Chile corresponde a cobre, que en gran parte sale como concentrado o cátodos, con poca elaboración. ¿Qué riesgo caracteriza a este tipo de modelo económico?
 
 a) Que el país produce sobre todo bienes con alto valor agregado, porque el cobre se transforma en productos tecnológicos dentro de Chile
-b) Que el país no participa del comercio internacional, porque vende el cobre solo a empresas chilenas que lo usan en el mercado interno
-c) Que la economía depende poco de los recursos naturales, porque el cobre es un servicio y no un bien extraído de la tierra
+b) Que el país no participa del comercio internacional, porque vende el cobre a empresas chilenas que lo usan en el mercado interno de la construcción
+c) Que la economía depende poco de los recursos naturales, porque el cobre se considera un servicio y no un bien extraído de la tierra
 d) Que, al ser un modelo extractivo, la economía queda expuesta a las caídas del precio internacional del cobre y presiona los recursos naturales
 
 5. **(Varias correctas — análisis de caso)** Una ciudad debe decidir entre dos políticas para reducir las emisiones del transporte: (A) subsidiar la renovación de la flota de buses públicos con vehículos eléctricos, o (B) establecer un impuesto a los combustibles fósiles. ¿Qué afirmaciones comparan correctamente ambas políticas? Marca **todas** las correctas.
@@ -66,8 +66,8 @@ d) Ambas tienen efectos sobre el cambio climático y muestran tensiones entre la
 
 6. **(Alternativas)** ¿Cuál es la razón de fondo por la que las sociedades establecen normas
 de derechos laborales, según lo estudiado?
-a) Porque el Estado debe reemplazar completamente la negociación entre trabajadores y empleadores, fijando por ley todas las condiciones de cada empleo
-b) Porque los derechos laborales solo benefician a los sindicatos y a sus dirigentes, que necesitan normas para negociar con las empresas
+a) Porque el Estado debe reemplazar la negociación entre trabajadores y empleadores, fijando por ley las condiciones de cada empleo y de cada empresa del país
+b) Porque los derechos laborales benefician sobre todo a los sindicatos y a sus dirigentes, que necesitan normas para negociar con las empresas
 c) Porque en la relación laboral existe una asimetría de poder que sin normas mínimas puede
 traducirse en condiciones que vulneran la dignidad de quien trabaja
 d) Porque las empresas no tienen interés legítimo en definir las condiciones del trabajo que
@@ -92,9 +92,9 @@ d) 1-B, 2-A, 3-C
 9. **(Alternativas)** Carolina trabaja en una empresa con 25 trabajadoras y tuvo un hijo hace dos meses. ¿Qué derechos le reconoce la legislación laboral chilena en relación con la maternidad?
 
 a) Permiso postnatal, fuero maternal que protege su empleo y derecho a sala cuna financiada por el empleador
-b) Ninguno especial, porque la maternidad es un asunto privado y cada empresa decide si concede o no algún permiso
+b) Un permiso de dos semanas, porque la maternidad es un asunto privado y cada empresa decide si concede algo más
 c) La obligación de renunciar al trabajo para cuidar a su hijo, con derecho a volver cuando el niño entre al colegio
-d) Solo un bono único al nacer el hijo, sin permiso postnatal ni protección de su empleo durante el primer año
+d) Un bono al nacer el hijo, pero sin permiso postnatal ni protección de su empleo durante el primer año
 
 10. **(Varias correctas)** ¿Qué afirmaciones sobre la evolución de la protección laboral en Chile son correctas? Marca **todas** las correctas.
 
@@ -110,8 +110,8 @@ tecnologías ofrecen para el fortalecimiento de la democracia?
 a) La concentración de la propiedad de los medios en pocos actores, que facilita coordinar la información que recibe la ciudadanía
 b) Que organizaciones sociales y vecinos puedan comunicar demandas e incidir en decisiones
 públicas sin depender de medios tradicionales
-c) La difusión de mensajes de campaña segmentados sin transparencia, que permite a cada votante recibir solo lo que le interesa
-d) La circulación viral de contenido sin verificar, que permite que cualquier versión de los hechos llegue rápido a todos
+c) La difusión de mensajes de campaña segmentados sin transparencia, que permite a cada votante recibir los temas que más le interesan
+d) La circulación viral de contenido sin verificar, que permite que distintas versiones de los hechos lleguen rápido a la gente
 
 12. **(Alternativas — unir)** Une cada concepto con una situación:
 
@@ -130,11 +130,11 @@ d) 1-B, 2-C, 3-A
 oportunidad y un riesgo para la democracia, según cómo se use la herramienta y con qué
 criterio crítico.
 
-14. **(Alternativas)** Un liceo instala cámaras con reconocimiento facial en los pasillos y comparte las grabaciones con una empresa externa, sin informar a los estudiantes ni a sus familias para qué se usarán. ¿Qué principio ciudadano estudiado en este OA se ve comprometido?
-a) La libertad de expresión
+14. **(Alternativas)** Un liceo instala cámaras con reconocimiento facial en los pasillos y comparte las grabaciones con una empresa externa, sin informar a los estudiantes ni a sus familias para qué se usarán. ¿Qué principio ciudadano estudiado en esta unidad se ve comprometido?
+a) La libertad de expresión y opinión
 b) El resguardo de la vida privada
-c) La igualdad ante la ley
-d) La libertad de prensa
+c) La igualdad de las personas ante la ley
+d) La libertad de prensa e información
 
 15. **(Varias correctas — reflexión)** Un video viral denuncia el mal estado de una plaza y logra que el municipio la repare, pero también expone datos personales de un vecino sin su consentimiento. ¿Qué afirmaciones analizan correctamente el caso? Marca **todas** las correctas.
 
@@ -184,6 +184,6 @@ decisiones públicas sin depender de medios tradicionales. Las otras opciones de
 participación también exponen a desinformación y cámaras de eco; el resultado depende del uso
 y del criterio crítico con que se consuman.
 
-14. **b)** El resguardo de la vida privada. Recolectar y compartir datos personales —como la imagen del rostro— sin información clara ni consentimiento es uno de los riesgos centrales de este OA.
+14. **b)** El resguardo de la vida privada. Recolectar y compartir datos personales —como la imagen del rostro— sin información clara ni consentimiento es uno de los riesgos centrales de estas tecnologías.
 
 15. a, b y d — Una práctica grupal posible es acordar en el curso o la familia pautas de verificación y cuidado de datos antes de compartir contenido viral.

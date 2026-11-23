@@ -976,7 +976,7 @@ d) Ningún deber, porque no es el Estado quien impide la reunión
 ---
 
 **12. (Alternativas)** ¿Cuál de los siguientes NO es uno de los cinco principios que sustentan
-los Derechos Humanos según lo estudiado en este OA?
+los Derechos Humanos según lo estudiado?
 
 a) Universalidad
 b) Indivisibilidad
@@ -1198,7 +1198,7 @@ cambio, valora especialmente la participación cívica activa como parte de la v
 ---
 
 **10. (Alternativas)** ¿Cuál de las siguientes NO corresponde a una forma de participación
-orientada al fortalecimiento del bien común mencionada en este OA?
+orientada al fortalecimiento del bien común mencionada en esta unidad?
 
 a) Instancias de sufragio
 b) Partidos políticos y agrupaciones ciudadanas

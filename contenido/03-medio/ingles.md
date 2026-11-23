@@ -212,7 +212,7 @@ se parecen y en qué se diferencian?
     c) dates back
     d) came back
     **Respuesta correcta:** c) dates back.
-    **Retroalimentación:** El OA pide reutilizar la estructura del texto (*dates back*) en un nuevo contexto.
+    **Retroalimentación:** Se pide reutilizar la estructura del texto (*dates back*) en un nuevo contexto.
 
 12. *(Alternativas)* Read: *"Songkran, the Thai New Year, is mainly known for
     its massive water fights in the streets. The celebration also includes
@@ -391,10 +391,9 @@ that*.
 
 9. *(Verdadero o falso — desafiante)* Comparar dos artículos sobre el mismo
    tema (por ejemplo, el uso de inteligencia artificial en el colegio) y
-   señalar en qué coinciden y en qué difieren es parte de lo que exige este
-   OA.
+   señalar en qué coinciden y en qué difieren es parte de lo que se trabaja en esta unidad.
    **Respuesta correcta:** True (Verdadero).
-   **Retroalimentación:** El OA pide explícitamente "comparar información
+   **Retroalimentación:** Se pide explícitamente "comparar información
    sobre un tema específico obtenida de los textos trabajados", lo que
    incluye contrastar más de una fuente.
 
@@ -416,7 +415,7 @@ that*.
     **Respuesta correcta:** b.
     **Retroalimentación:** Identificar estructuras específicas —como la voz
     pasiva (*has been shown*)— es parte de analizar un artículo antes de
-    resumirlo, tal como pide este OA.
+    resumirlo.
 
 12. *(Alternativas — Completar)* Topic sentence: *"The article explains why many teenagers struggle to balance school and part-time jobs."* Complete: *"It mentions that working late often reduces the time available for ___."*
     a) sleeping on the beach
@@ -431,7 +430,7 @@ that*.
     formal para un profesor, es un ejemplo de "comunicar las ideas
     principales considerando el público, el contexto y el propósito".
     **Respuesta correcta:** True (Verdadero).
-    **Retroalimentación:** Este OA exige explícitamente adecuar cómo
+    **Retroalimentación:** Aquí se exige explícitamente adecuar cómo
     comunicas un mismo contenido según quién te lee y para qué escribes.
 
 14. *(Alternativas — Función)* ¿Qué función cumple *"moreover"*?
@@ -587,13 +586,13 @@ formal? ¿un resumen realmente resume?).
    **Respuesta correcta:** b.
    **Retroalimentación:** La opción b) combina una oración de relativo
    (*a small town that values...*), el tercer condicional y una reflexión
-   personal genuina sobre identidad, cumpliendo lo que pide el OA.
+   personal genuina sobre identidad.
 
 9. *(Verdadero o falso — desafiante)* Evaluar si un texto cumple su función
    —por ejemplo, revisar si un correo formal realmente mantiene un registro
-   formal de principio a fin— es parte de las habilidades que exige este OA.
+   formal de principio a fin— es parte de las habilidades de esta unidad.
    **Respuesta correcta:** True (Verdadero).
-   **Retroalimentación:** El OA pide explícitamente "evaluar el cumplimiento
+   **Retroalimentación:** Se pide explícitamente "evaluar el cumplimiento
    de la estructura de un texto, dependiendo de su función", es decir,
    revisar la coherencia entre forma y propósito.
 
@@ -638,7 +637,7 @@ formal? ¿un resumen realmente resume?).
     formal de principio a fin es un ejemplo de "evaluar el cumplimiento de
     la estructura de un texto según su función".
     **Respuesta correcta:** True (Verdadero).
-    **Retroalimentación:** Este OA pide no solo escribir el texto, sino
+    **Retroalimentación:** Aquí se pide no solo escribir el texto, sino
     también revisar si su forma (tono, estructura) corresponde a su
     función comunicativa.
 

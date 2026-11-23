@@ -95,8 +95,8 @@ d) 310
 
 ¿Dónde vive Mateo?
 
-a) En Rancagua, cerca de la cordillera y del río
-b) En Chillán, en una casa grande con un patio
+a) En Rancagua, cerca de la cordillera y del río Cachapoal
+b) En Chillán, en una casa grande con un patio y un huerto
 c) En el centro de Santiago, en un edificio alto
 d) En Castro, en una casa sobre palafitos junto al mar
 
@@ -111,7 +111,7 @@ d) La oveja
 
 ---
 
-**8. (Historia — Alternativas)** Observa el siguiente estímulo:
+**8. (Historia — Alternativas)** Observa el mapa:
 
 Mapa de Chile con tres íconos: al norte, una vasija de greda; en el centro-sur, una ruka de madera y paja, y en el extremo sur, una canoa entre islas.
 
@@ -144,13 +144,13 @@ d) sumar 10
  ¿Cómo se sintió Mateo cuando vio su bicicleta arreglada? Elige la respuesta que se apoya en lo que dice el texto.
 
 a) Muy sorprendido y feliz: se quedó inmóvil con la boca abierta y después dio un salto y abrazó a sus amigos
-b) Enojado, porque no lo dejaron ayudar a arreglar la rueda de la bicicleta con sus amigos
-c) Triste, porque se quedó inmóvil sin decir nada y después se fue solo a su casa
+b) Enojado, porque no lo dejaron ayudar a arreglar la rueda de la bicicleta con sus amigos del curso
+c) Triste, porque se quedó inmóvil sin decir nada y después se fue caminando a su casa sin sus amigos
 d) Aburrido, porque ya sabía de la sorpresa y no le importaba la bicicleta arreglada
 
 ---
 
-**11. (Historia — Alternativas)** Observa el siguiente estímulo:
+**11. (Historia — Alternativas)** Observa el mapa:
 
 ::mapa::sudamerica::A@Perú;B@Bolivia;C@Argentina::pintar=Chile;rosa=si::
 
@@ -168,9 +168,9 @@ d) Brasil
 ¿Qué le ocurre al agua cuando la viertes en recipientes de distinta forma?
 
 a) Se adapta a la forma del recipiente
-b) Cambia de color
+b) Cambia de color y de sabor
 c) Se convierte en hielo de inmediato
-d) Desaparece
+d) Desaparece dentro del vaso
 
 ---
 
@@ -218,9 +218,9 @@ d) Evaporación → precipitación → condensación
 
 **17. (Lenguaje — Alternativas)** Juan escribió esta oración: "mañana vamos al zoológico". ¿Qué le falta para estar bien escrita?
 
-a) Nada, porque ya está bien escrita así
+a) Nada, porque la oración ya está bien escrita
 b) Una mayúscula al comenzar y un punto al terminar
-c) Una coma después de la palabra "vamos"
+c) Una coma después de la palabra "vamos" y otra al final
 d) Signos de pregunta al inicio y al final
 
 ---

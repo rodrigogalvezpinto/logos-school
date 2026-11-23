@@ -166,7 +166,7 @@ social y ambiental (una definición cercana a la de la OMS).
       parcialmente otros factores de riesgo ambientales o sociales.
    d) La salud depende exclusivamente de la genética.
    **Respuesta correcta:** c.
-   **Retroalimentación:** El OA pide relacionar decisiones personales con
+   **Retroalimentación:** Se pide relacionar decisiones personales con
    factores biológicos, ambientales y sociales; ninguna decisión anula por
    completo los otros factores, pero sí puede modificar el riesgo global.
 
@@ -197,8 +197,7 @@ social y ambiental (una definición cercana a la de la OMS).
     d) Nutricional (parte de los factores biológicos/sociales asociados a la
        alimentación).
     **Respuesta correcta:** d.
-    **Retroalimentación:** La nutrición es uno de los factores explícitos
-    del OA; el etiquetado busca que las personas tomen decisiones
+    **Retroalimentación:** La nutrición es uno de los factores explícitos de esta unidad; el etiquetado busca que las personas tomen decisiones
     informadas sobre un factor que combina disponibilidad social de
     alimentos y su efecto biológico en el organismo.
 
@@ -361,7 +360,7 @@ recientes).
    c) Ambas implicancias son nulas
    d) Económica: es más barata que tratar brotes y hospitalizaciones. Ética: equilibrar la autonomía individual con la protección colectiva de quienes no pueden vacunarse
    **Respuesta correcta:** d) Económica: es más barata que tratar brotes y hospitalizaciones. Ética: equilibrar la autonomía individual con la protección colectiva de quienes no pueden vacunarse.
-   **Retroalimentación:** Analizar implicancias éticas, económicas y sociales de la prevención es parte del OA.
+   **Retroalimentación:** Analizar implicancias éticas, económicas y sociales de la prevención es parte de lo que se trabaja en esta unidad.
 
 7. *(Verdadero o falso)* El VIH-sida y la hepatitis B comparten algunas vías
    de transmisión, como el contacto con sangre o fluidos corporales durante
@@ -584,7 +583,7 @@ para proteger tanto a las personas como al ambiente.
    c) El riesgo es que se ensucie el estante con el polvo de los envases; basta con limpiarlo cada semana con los mismos productos
    d) El riesgo es la falta de espacio para nuevos productos; hay que comprar más estantes y mantener todos los productos de limpieza juntos para encontrarlos rápido
    **Respuesta correcta:** a) Si gotean, pueden reaccionar y generar gases tóxicos o reacciones corrosivas; hay que separar sustancias incompatibles según su ficha de seguridad.
-   **Retroalimentación:** Evaluar la seguridad en el trabajo, no solo en el hogar, es parte del OA.
+   **Retroalimentación:** Evaluar la seguridad en el trabajo, no solo en el hogar, es parte de lo que se trabaja en esta unidad.
 
 9. *(Alternativas)* El pictograma de "inflamable" (llama) en un envase de un
    producto de limpieza a base de alcohol indica que debe:
@@ -869,7 +868,7 @@ practican simulacros?, ¿hay planes de emergencia comunal?
     **Retroalimentación:** El cambio de ONEMI a SENAPRED no fue solo de
     nombre: la nueva ley amplía el enfoque institucional hacia la gestión
     integral del riesgo de desastres, coherente con la distinción entre
-    prevención, mitigación y adaptación que trabaja este OA.
+    prevención, mitigación y adaptación que se trabaja en esta unidad.
 
 ---
 

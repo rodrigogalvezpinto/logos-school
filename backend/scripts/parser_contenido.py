@@ -130,6 +130,30 @@ def extraer_modulo(texto: str) -> str | None:
     return next(iter(modulos), None)
 
 
+# Palabras que, al inicio, son notación matemática y no se capitalizan («sen 30°», «log₂ 8»).
+_NOTACION_INICIAL = {"sen", "cos", "tan", "log", "ln", "hip", "mcd", "mcm"}
+
+
+def capitalizar_retroalimentacion(texto: str) -> str:
+    """En la app la retroalimentación se muestra como párrafo propio (bajo «¡Correcto!» o «Respuesta correcta: …»),
+    así que debe empezar con mayúscula. En el Markdown va tras «*Retroalimentación:*» y ahí la minúscula es correcta;
+    por eso se corrige al importar y no en el archivo (2026-11-23). No toca la letra de una alternativa («b) …»,
+    «a, …», «c — …») ni la notación matemática («x²», «tan(25°)», «f(3)»)."""
+    if not texto:
+        return texto
+    m = re.match(r"([a-záéíóúñü]+)(.?)", texto)
+    if not m:
+        return texto
+    palabra, siguiente = m.group(1), m.group(2)
+    if len(palabra) == 1:
+        # «a la…» se capitaliza; «a) …», «b, …», «c — …», «x²» no.
+        if not (palabra in "ay" and siguiente == " " and re.match(r"[a-zá-úñ] ?[a-záéíóúñ]", texto[2:4] or "")):
+            return texto
+    elif palabra in _NOTACION_INICIAL or (siguiente and siguiente not in " ,.;:!?—–-"):
+        return texto
+    return texto[0].upper() + texto[1:]
+
+
 @dataclass
 class PreguntaParseada:
     tipo: str
@@ -296,7 +320,7 @@ def _parsear_bloque_preguntas(texto_bloque: str) -> list[PreguntaParseada]:
                 enunciado=enunciado,
                 opciones=opciones_finales,
                 respuesta_correcta=respuesta_correcta,
-                retroalimentacion=retroalimentacion,
+                retroalimentacion=capitalizar_retroalimentacion(retroalimentacion),
             )
         )
     return preguntas

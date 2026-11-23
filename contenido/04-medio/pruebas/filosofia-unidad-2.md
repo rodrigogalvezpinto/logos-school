@@ -45,19 +45,19 @@ d) Ad hominem.
 
 a) Pendiente resbaladiza; supone, sin evidencia, que no existe forma de poner límites claros a lo que se puede elegir
 b) Ad hominem; supone que quienes proponen las electivas son malas personas que no se preocupan por el aprendizaje
-c) Generalización apresurada; supone que todos los estudiantes eligen igual
-d) No comete falacia: la cadena de consecuencias está demostrada en todos los colegios que han probado las electivas
+c) Generalización apresurada; supone que los estudiantes de otros colegios eligen igual que los de este
+d) No comete falacia: la cadena de consecuencias se ha observado en varios colegios que han probado las electivas
 
 5. *(Alternativas)* "Una publicación con 50.000 'me gusta' asegura que la Luna influye en la personalidad de las personas según el día en que nacieron; por lo tanto, es verdad." ¿Qué problema tiene principalmente este argumento?
 
 a) Confunde popularidad con verdad: una publicación muy compartida no es una fuente fundamentada, y la cantidad de "me gusta" no es evidencia sobre la afirmación.
 b) Es un argumento bien fundamentado, porque mucha gente está de acuerdo con la publicación y la ha compartido miles de veces en distintas redes sociales.
-c) Comete la falacia ad hominem, porque descalifica a quienes no creen en la astrología y los trata como personas ignorantes o cerradas.
-d) No tiene ningún problema, porque cita una cifra precisa.
+c) Comete la falacia ad hominem, porque descalifica a quienes no creen en la astrología y los trata como personas ignorantes o cerradas de mente.
+d) Es un argumento de autoridad válido, porque la publicación cita una cifra precisa de personas que la respaldan.
 
 6. *(Alternativas — Estructura argumentativa)* "Las clases de Educación Física deberían aumentar a cinco horas semanales, porque son la única instancia del colegio en que los estudiantes hacen actividad física." ¿Qué contraargumento es pertinente, y no una simple negación de la tesis?
 
-a) No deberían aumentar porque no, y punto
+a) No deberían aumentar, porque la propuesta es mala y quienes la defienden simplemente están equivocados en lo que plantean
 b) A algunos estudiantes no les gusta la Educación Física, así que aumentar sus horas los haría sentirse peor en el colegio y faltarían más a clases
 c) La Educación Física es actividad física, así que toda la actividad física es Educación Física; por lo tanto, la premisa es verdadera y no puede discutirse en el consejo escolar
 d) Los recreos, los talleres deportivos y el trayecto en bicicleta también son instancias de actividad física, así que la premisa de que Educación Física es "la única" es discutible
@@ -71,17 +71,17 @@ d) Hay un salto argumentativo entre las premisas y la conclusión
 
 8. *(Alternativas)* En el argumento "John Stuart Mill sostiene que la única razón legítima para limitar la libertad de alguien es evitar un daño a otros; por lo tanto, prohibir a un adulto un deporte extremo que solo lo pone en riesgo a él es problemático", la primera parte (lo que dice Mill) es un ejemplo de referente:
 
-a) Empírico (se apela a datos de un experimento o estudio).
-b) De sentido común (se apela a lo que todos saben).
+a) Empírico (se apela a los datos de un experimento o de un estudio).
+b) De sentido común (se apela a lo que la mayoría de la gente cree).
 c) Teórico (se apela a una teoría filosófica reconocida y a su autor).
-d) Ninguno de los anteriores, es solo una opinión personal.
+d) Histórico (se apela a cómo se hacían las cosas en otra época).
 
 9. *(Alternativas)* El debate sobre si un pulpo, que resuelve problemas y usa herramientas, "tiene conciencia" o solo responde de forma automática corresponde, principalmente, a un problema de:
 
 a) Ética aplicada (si es correcto comer pulpo, criarlo o usarlo en experimentos).
 b) Ontología (qué tipo de ser es y si tiene una mente o experiencia propia).
-c) Lógica formal exclusivamente (validez del argumento).
-d) Estética (si el pulpo es bello o desagradable).
+c) Lógica formal (si el argumento sobre el pulpo es válido).
+d) Estética (si el pulpo es bello o desagradable a la vista).
 
 10. *(Verdadero o falso)* La pregunta de Platón sobre si confiamos en las apariencias o en lo que es real, planteada en la alegoría de la caverna, puede ayudar a analizar fenómenos actuales como las imágenes y los videos falsos creados con inteligencia artificial.
 
@@ -92,7 +92,7 @@ b) (i) É, (ii) O, (iii) E
 c) (i) E, (ii) O, (iii) É
 d) (i) É, (ii) E, (iii) O
 
-12. *(Varias correctas — Análisis de caso)* Muchas plataformas de música y videos usan algoritmos que recomiendan contenido según lo que cada persona ya consumió. ¿Qué vínculos con conceptos éticos del OA 2 son pertinentes? Marca **todas** las correctas.
+12. *(Varias correctas — Análisis de caso)* Muchas plataformas de música y videos usan algoritmos que recomiendan contenido según lo que cada persona ya consumió. ¿Qué vínculos con conceptos éticos estudiados son pertinentes? Marca **todas** las correctas.
 
 a) No tiene relación con la ética, porque es solo un tema técnico
 b) Libertad positiva: las recomendaciones pueden ampliar la capacidad real de descubrir contenido que la persona no habría encontrado sola

@@ -1,0 +1,130 @@
+"""Pistas de forma en las alternativas (auditoría de calidad 2026-11-23, docs/auditorias/CALIDAD-MATERIAL-2026-11-23.md).
+
+Un alumno que no sabe la materia puede acertar descartando las alternativas con palabras absolutas («nunca»,
+«siempre», «solo»…) y marcando la más larga de las que quedan. `adivina()` simula ese truco.
+
+    import sys; sys.path.insert(0, 'scripts/herramientas_auditoria')
+    from pistas import listar, distractores, resumen
+    listar('04-medio/examenes/filosofia-examen-forma-a.md')          # preguntas donde el truco acierta
+    distractores('04-medio/examenes/filosofia-examen-forma-a.md', 7, {'a': 'texto nuevo', 'c': '…'})
+
+`distractores` cambia SOLO alternativas incorrectas y verifica con el parser real que la clave (texto y letra),
+el tipo, el OA y las demás preguntas no cambien. Si algo cambia, aborta sin escribir.
+"""
+import glob
+import re
+import sys
+from pathlib import Path
+
+RAIZ = Path(__file__).resolve().parents[3]
+sys.path.insert(0, str(RAIZ / 'backend/scripts'))
+from parser_prueba_examen import parsear_prueba_o_examen  # noqa: E402
+
+ABSOLUTAS = re.compile(r"\b(nunca|siempre|solo|sólo|únicamente|todos|todas|ninguno|ninguna|jamás|exactamente|"
+                       r"completamente|totalmente|cualquier)\b", re.I)
+
+
+def adivina(opciones):
+    """Índice que marcaría el alumno que adivina por la forma (la más larga sin absolutos)."""
+    candidatas = [i for i, o in enumerate(opciones) if not ABSOLUTAS.search(o)] or list(range(len(opciones)))
+    return max(candidatas, key=lambda i: len(opciones[i]))
+
+
+def prob_acierto(opciones, k):
+    """Probabilidad de que el truco acierte la clave k. Una diferencia de largo menor al 10 % no se nota: entre las
+    alternativas de largo parecido a la más larga, el alumno elige al azar."""
+    candidatas = [i for i, o in enumerate(opciones) if not ABSOLUTAS.search(o)] or list(range(len(opciones)))
+    largo = max(len(opciones[i]) for i in candidatas)
+    empatadas = [i for i in candidatas if len(opciones[i]) >= 0.9 * largo]
+    return (1 / len(empatadas)) if k in empatadas else 0.0
+
+
+def _preguntas(texto):
+    return {p.numero: (p, r) for p, r in parsear_prueba_o_examen(texto)}
+
+
+def con_pista(archivo):
+    """[(n, pregunta, pauta)] de alternativas donde el truco acierta."""
+    t = (RAIZ / 'contenido' / archivo).read_text(encoding='utf-8')
+    salida = []
+    for n, (p, r) in sorted(_preguntas(t).items()):
+        if p.tipo != 'alternativas' or not p.opciones or len(p.opciones) < 3 or r.respuesta_correcta not in p.opciones:
+            continue
+        if prob_acierto(p.opciones, p.opciones.index(r.respuesta_correcta)) >= 0.5:
+            salida.append((n, p, r))
+    return salida
+
+
+def listar(archivo, enunciado=True):
+    t = (RAIZ / 'contenido' / archivo).read_text(encoding='utf-8')
+    total = sum(1 for p, r in _preguntas(t).values() if p.tipo == 'alternativas' and p.opciones and len(p.opciones) >= 3)
+    lista = con_pista(archivo)
+    print(f'{archivo}: el truco acierta {len(lista)} de {total}')
+    for n, p, r in lista:
+        k = p.opciones.index(r.respuesta_correcta)
+        print(f'\n#{n}' + (f'  {re.sub(chr(10) + "+", " ", p.enunciado)[-260:]}' if enunciado else ''))
+        for i, o in enumerate(p.opciones):
+            marca = '✔' if i == k else ('✗' if ABSOLUTAS.search(o) else ' ')
+            print(f'   {marca} {"abcd"[i]}) [{len(o)}] {o}')
+
+
+def resumen(patron='*/*/*.md'):
+    """Porcentaje de acierto del truco por curso, en pruebas y simulacros."""
+    por_curso = {}
+    for f in sorted(glob.glob(str(RAIZ / 'contenido' / patron))):
+        rel = f.split('contenido/')[1]
+        if '/pruebas/' not in rel and '/examenes/' not in rel:
+            continue
+        t = Path(f).read_text(encoding='utf-8')
+        try:
+            qs = _preguntas(t).values()
+        except Exception:
+            continue
+        for p, r in qs:
+            if p.tipo != 'alternativas' or not p.opciones or len(p.opciones) < 3 or r.respuesta_correcta not in p.opciones:
+                continue
+            c = por_curso.setdefault(rel.split('/')[0], [0, 0])
+            c[1] += 1
+            c[0] += prob_acierto(p.opciones, p.opciones.index(r.respuesta_correcta))
+    for curso, (ok, n) in por_curso.items():
+        print(f'{curso}: {100 * ok / n:.0f}% (n={n})')
+    return por_curso
+
+
+def distractores(archivo, n, nuevos):
+    ruta = RAIZ / 'contenido' / archivo
+    t = ruta.read_text(encoding='utf-8')
+    antes = _preguntas(t)
+    p0, r0 = antes[n]
+    assert p0.tipo == 'alternativas', p0.tipo
+    k = p0.opciones.index(r0.respuesta_correcta)
+    for letra, texto in nuevos.items():
+        i = 'abcd'.index(letra)
+        assert i != k, f'{archivo}#{n}: «{letra}» es la clave; solo se cambian distractores'
+        assert texto.strip() and texto.strip() != r0.respuesta_correcta
+        viejo = p0.opciones[i]
+        # Línea de la alternativa: «c) texto» (con o sin sangría/viñeta). Debe ser única en el archivo.
+        # El texto puede venir ajustado en varias líneas (con sangría): se aceptan espacios y saltos entre palabras.
+        cuerpo = r'\s+'.join(re.escape(w) for w in viejo.split())
+        patron = re.compile(rf'(?m)^([ \t>*-]*\(?{letra}\)[ \t]+){cuerpo}[ \t]*$')
+        ms = list(patron.finditer(t))
+        if len(ms) != 1:
+            # Si el texto se repite en otra pregunta, se acota al bloque de esta pregunta.
+            ini = re.search(rf'(?m)^(?:\*\*(?:Pregunta )?{n}[.* ]|{n}\. \*|\*\*{n}\.)', t)
+            assert ini, (n, 'no encontré el inicio de la pregunta')
+            ms = [m for m in patron.finditer(t, ini.start())][:1]
+        assert len(ms) == 1, f'{archivo}#{n}: no ubico la alternativa {letra}) «{viejo[:50]}»'
+        m = ms[0]
+        t = t[:m.start()] + m.group(1) + texto.strip() + t[m.end():]
+    despues = _preguntas(t)
+    p1, r1 = despues[n]
+    assert set(despues) == set(antes)
+    assert p1.tipo == p0.tipo and r1.codigo_oa == r0.codigo_oa
+    assert r1.respuesta_correcta == r0.respuesta_correcta and p1.opciones.index(r1.respuesta_correcta) == k, 'cambió la clave'
+    for letra, texto in nuevos.items():
+        assert p1.opciones['abcd'.index(letra)] == texto.strip(), (letra, p1.opciones)
+    for m2, (p, r) in antes.items():
+        if m2 != n:
+            assert (despues[m2][0].opciones, despues[m2][1].respuesta_correcta) == (p.opciones, r.respuesta_correcta), m2
+    ruta.write_text(t, encoding='utf-8')
+    print(f'ok {archivo}#{n} — prob. de acierto del truco: {prob_acierto(p1.opciones, k):.0%}')

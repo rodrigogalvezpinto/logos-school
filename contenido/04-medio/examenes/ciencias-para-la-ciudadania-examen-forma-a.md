@@ -50,10 +50,10 @@ forma_relacionada: contenido/04-medio/ciencias-para-la-ciudadania.md (guía de e
 
 **1.** *(Alternativas)* Una comuna instala paneles solares en los techos de sus escuelas públicas. ¿Qué beneficio sostenible principal tiene esta medida?
 
-a) Aumenta el consumo de electricidad de las escuelas durante la noche
+a) Reduce el gasto en calefacción, porque los paneles aíslan el techo del frío del invierno
 b) Genera energía renovable y reduce el uso de electricidad de fuentes contaminantes
-c) Elimina la necesidad de mantener los edificios de las escuelas
-d) Permite que las escuelas vendan los paneles a otras comunas cada año
+c) Permite que las escuelas dejen de pagar por completo la cuenta de luz cada mes
+d) Permite que las escuelas vendan los paneles a otras comunas y financien sus talleres
 
 ---
 
@@ -63,8 +63,8 @@ d) Permite que las escuelas vendan los paneles a otras comunas cada año
 
 **3.** *(Alternativas, 2 puntos)* Una caleta acuerda una veda temporal para la extracción de locos durante su período reproductivo. ¿Qué objetivo cumple esta medida?
 
-a) Aumentar el precio del loco para que los pescadores ganen más ese año
-b) Prohibir para siempre la pesca artesanal en toda la costa de la región
+a) Aumentar el precio del loco en el mercado para que los pescadores ganen más ese mismo año
+b) Prohibir la pesca artesanal de locos en la región hasta que su precio de mercado se recupere
 c) Permitir que la población se reproduzca y se recupere, asegurando la pesca futura
 d) Reemplazar la pesca de locos por la crianza de salmones en la caleta
 
@@ -73,17 +73,17 @@ d) Reemplazar la pesca de locos por la crianza de salmones en la caleta
 **4.** *(Alternativas)* ¿Qué es lo correcto hacer con el aceite de cocina usado en un hogar que participa en un proyecto de cuidado del agua?
 
 a) Guardarlo en botellas cerradas y llevarlo a un punto de reciclaje
-b) Botarlo por el lavaplatos con abundante agua caliente
-c) Enterrarlo en el patio, cerca de las plantas del jardín
-d) Mezclarlo con cloro antes de botarlo por el desagüe
+b) Botarlo por el lavaplatos con abundante agua caliente y detergente
+c) Enterrarlo en el patio, cerca de las plantas, para que sirva de abono
+d) Mezclarlo con cloro para desinfectarlo antes de botarlo por el desagüe
 
 ---
 
 **5.** *(Alternativas, 2 puntos)* Una junta de vecinos quiere plantar árboles en una plaza de una ciudad de la zona central, con veranos secos. ¿Qué criterio es más adecuado para elegir las especies?
 
 a) Elegir las especies más baratas del vivero de la comuna, sin importar su origen ni cuánta agua necesitan
-b) Elegir solo especies exóticas, porque siempre crecen más rápido que todas las demás especies del país
-c) Elegir especies que necesiten mucho riego, para que la plaza se vea siempre verde incluso en pleno verano
+b) Elegir especies exóticas de crecimiento rápido, porque dan sombra antes y llenan la plaza en pocos años
+c) Elegir especies que necesiten mucho riego, para que la plaza se vea verde y frondosa incluso en pleno verano
 d) Preferir especies nativas adaptadas al clima local, que requieren menos riego y favorecen la biodiversidad
 
 ---
@@ -119,9 +119,9 @@ d) Perforar nuevos pozos en los salares para aumentar la extracción
 **9.** *(Alternativas, 2 puntos)* ¿Por qué compostar los residuos orgánicos de un colegio es una práctica sostenible?
 
 a) Porque los transforma en abono y evita que generen metano en el vertedero
-b) Porque elimina por completo todos los residuos plásticos del colegio
-c) Porque permite quemar los residuos sin producir humo ni olores
-d) Porque reemplaza la necesidad de reciclar el papel y el vidrio
+b) Porque reduce los residuos plásticos que el colegio envía al vertedero
+c) Porque permite quemar los residuos en el colegio sin producir humo ni olores
+d) Porque reemplaza la necesidad de separar y reciclar el papel y el vidrio
 
 ---
 
@@ -151,9 +151,9 @@ d) Obliga a construir más estacionamientos en el centro
 
 **12.** *(Alternativas, 2 puntos)* Una comunidad recupera un estero contaminado plantando vegetación nativa en sus orillas. ¿Qué efecto tiene esta medida?
 
-a) Aumenta la erosión de las orillas y la cantidad de sedimentos en el agua
+a) Aumenta la erosión de las orillas y la cantidad de sedimentos que arrastra el agua
 b) Elimina por completo la necesidad de tratar las aguas servidas de la zona
-c) Impide que cualquier animal se acerque al estero durante todo el año
+c) Impide que los animales domésticos se acerquen al agua y la sigan contaminando
 d) Ayuda a filtrar contaminantes, estabiliza las orillas y entrega hábitat a la fauna
 
 ---
@@ -201,10 +201,10 @@ d) Ignorar las proyecciones, porque siempre tienen algún grado de incertidumbre
 
 **17.** *(Alternativas)* ¿Por qué el derretimiento del hielo del océano Ártico puede acelerar el calentamiento global?
 
-a) Porque el agua del deshielo es más caliente que el aire que la rodea
-b) Porque el hielo derretido libera oxígeno que calienta la atmósfera
+a) Porque el agua del deshielo es más caliente que el aire y entrega ese calor a la atmósfera
+b) Porque el hielo derretido libera oxígeno a la atmósfera, y ese gas retiene el calor del Sol
 c) Porque el hielo refleja la luz solar, y al derretirse el océano oscuro absorbe más calor
-d) Porque sin hielo los barcos pueden navegar y emiten todo el calor del planeta
+d) Porque sin hielo aumenta el tránsito de barcos, cuyas emisiones son la causa principal del calentamiento
 
 ---
 
@@ -214,10 +214,10 @@ d) Porque sin hielo los barcos pueden navegar y emiten todo el calor del planeta
 
 ¿Qué opción distingue correctamente una medida de adaptación y una de mitigación frente a este problema?
 
-a) Adaptación: usar más energía generada con carbón. Mitigación: regar todos los cultivos por inundación
+a) Adaptación: usar más energía generada con carbón. Mitigación: regar los cultivos por inundación para guardar agua
 b) Adaptación: tecnificar el riego para usar menos agua. Mitigación: reemplazar combustibles fósiles por energías renovables
-c) Adaptación: talar bosques nativos para sembrar más. Mitigación: aumentar el uso de autos particulares
-d) Las dos medidas son iguales, porque adaptación y mitigación significan exactamente lo mismo en este caso
+c) Adaptación: talar bosques nativos para sembrar más. Mitigación: aumentar el uso de autos particulares en la ciudad
+d) Adaptación: reducir las emisiones de las fábricas. Mitigación: construir embalses para guardar el agua de lluvia
 
 ---
 
@@ -227,9 +227,9 @@ d) Las dos medidas son iguales, porque adaptación y mitigación significan exac
 
 **20.** *(Alternativas, 2 puntos)* ¿Por qué reemplazar las centrales termoeléctricas a carbón por energía solar y eólica es una medida de **mitigación** del cambio climático?
 
-a) Porque permite construir más centrales a carbón en otras regiones
-b) Porque aumenta la cantidad de electricidad que se pierde en los cables
-c) Porque protege a las ciudades costeras del aumento del nivel del mar
+a) Porque permite trasladar la generación a carbón a otras regiones con menos población
+b) Porque disminuye la electricidad que se pierde en los cables de transmisión del país
+c) Porque protege a las ciudades costeras del aumento del nivel del mar en las próximas décadas
 d) Porque reduce las emisiones de gases de efecto invernadero que causan el calentamiento
 
 ---
@@ -273,10 +273,10 @@ d) Porque el derretimiento de los glaciares agrega ácido al agua de mar
 
 ¿Qué conclusión es más adecuada a partir de estos datos?
 
-a) Que la temperatura de la ciudad bajó en cada década del período registrado, por lo que no hay calentamiento
-b) Que los datos de esta ciudad prueban por sí solos que todo el planeta se calentó exactamente 1,1 °C en el período
+a) Que la temperatura de la ciudad bajó en cada década del período registrado, por lo que no hay señales de calentamiento allí
+b) Que los datos de esta ciudad prueban, por sí mismos, que el planeta entero se calentó 1,1 °C en el mismo período de tiempo
 c) Que hay una tendencia al aumento, coherente con el calentamiento, aunque una sola ciudad no basta para generalizar al planeta
-d) Que las variaciones de temperatura de la ciudad no tienen ninguna relación posible con el cambio climático global
+d) Que el aumento se explica por el crecimiento de la ciudad y no puede relacionarse con el cambio climático global
 
 ---
 

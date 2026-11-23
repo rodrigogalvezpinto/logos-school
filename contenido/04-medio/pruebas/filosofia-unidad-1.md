@@ -23,9 +23,9 @@ Responde todas las preguntas. En las preguntas de alternativas, marca solo una o
 1. *(Alternativas)* Una estudiante dice: «La filosofía sirve para muchas cosas». ¿Cuál de estas finalidades NO es propia del quehacer filosófico?
 
 a) Medir con instrumentos la velocidad de una reacción química en el laboratorio
-b) Examinar críticamente si nuestras creencias están bien fundadas
-c) Pensar problemas complejos que no se resuelven solo con técnica
-d) Revisar prejuicios y costumbres aceptados sin reflexión
+b) Examinar críticamente si nuestras creencias están bien fundadas en razones
+c) Pensar problemas complejos que no se pueden resolver con una técnica conocida
+d) Revisar los prejuicios y las costumbres que aceptamos sin reflexionar
 
 2. *(Verdadero o falso)* Un filósofo que se pregunta si es ético editar genes de embriones humanos necesita conocer lo que la biología ha descubierto sobre la edición genética, porque filosofía y ciencia, aunque tienen métodos distintos, se nutren mutuamente.
 
@@ -46,16 +46,16 @@ d) Un debate como el de las pensiones exige conceptos filosóficos (justicia, so
 5. *(Alternativas — Argumentos a favor y en contra)* En un foro escolar se discute si la filosofía debería seguir siendo obligatoria en 3.° y 4.° medio. ¿Qué par presenta un argumento razonable a favor y uno razonable en contra?
 
 a) A favor: sirve para memorizar nombres de filósofos y fechas importantes, lo que mejora la cultura general y ayuda en las pruebas de historia. En contra: usa palabras difíciles y abstractas que la mayoría de los estudiantes no entiende, y por eso aburre en clases y no sirve para la vida diaria
-b) A favor: asegura un trabajo bien pagado. En contra: no tiene ningún método propio
-c) A favor: siempre llega a verdades definitivas sobre la justicia, la libertad y el bien, que luego se aplican directamente en las leyes. En contra: es igual a la física y a las demás ciencias experimentales, así que podría reemplazarse por ellas sin perder nada importante en la formación de los estudiantes
+b) A favor: asegura un trabajo bien pagado a quienes la estudian en la universidad. En contra: no tiene un método propio y depende de lo que digan otras disciplinas para avanzar en sus temas
+c) A favor: llega a verdades definitivas sobre la justicia, la libertad y el bien, que luego se aplican directamente en las leyes. En contra: se parece a la física y a las demás ciencias experimentales, así que podría reemplazarse por ellas sin perder algo importante en la formación
 d) A favor: entrena el pensamiento crítico y la deliberación sobre valores que se necesitan en la vida ciudadana. En contra: sus resultados son difíciles de medir y rara vez produce consensos definitivos, por lo que podría competir con asignaturas de efectos más inmediatos
 
 6. *(Alternativas)* Un hospital tiene un solo ventilador mecánico disponible y dos pacientes graves que lo necesitan. Ninguna regla técnica resuelve por sí sola a quién asignarlo. ¿Qué finalidad del quehacer filosófico ejemplifica mejor esta situación?
 
-a) Desarrollar conceptos totalmente nuevos, sin relación con la tradición filosófica, porque los criterios anteriores sobre la justicia ya no sirven para estos casos.
+a) Desarrollar conceptos nuevos, alejados de la tradición filosófica, porque los criterios anteriores sobre la justicia ya no sirven para estos casos médicos.
 b) Superar la ignorancia sobre datos médicos, porque bastaría con conocer bien los exámenes de cada paciente para decidir quién recibe primero el tratamiento.
 c) Enfrentar problemas complejos que no admiten una solución meramente técnica y exigen deliberar sobre criterios de justicia y valor de la vida.
-d) Ninguna: es un problema exclusivamente técnico, que se resuelve con un sorteo.
+d) Resolver un problema técnico, que se zanja con un sorteo o con el orden de llegada de los pacientes al hospital.
 
 7. *(Alternativas)* ¿Cuál de las siguientes es un límite genuino y reconocido del quehacer filosófico, y no una exageración injustificada?
 
@@ -66,17 +66,17 @@ d) La filosofía nunca ha influido en la ciencia, porque sus ideas se quedan en 
 
 8. *(Alternativas)* ¿Cuál de estas preguntas pertenece al campo de la ética?
 
-a) "¿Existe el alma o solo existe el cuerpo, y qué pasa con ella al morir?"
+a) "¿Existe el alma además del cuerpo, y qué pasa con ella cuando una persona muere?"
 b) "¿Es correcto mentir en una entrevista de trabajo para conseguir el empleo, y por qué?"
 c) "¿Este razonamiento sobre la entrevista cumple las reglas de la lógica formal?"
-d) "¿Cómo transforma el ojo la luz en señales nerviosas?"
+d) "¿Cómo transforma el ojo la luz en las señales nerviosas que llegan al cerebro?"
 
 9. *(Alternativas — Pregunta filosófica)* ¿Qué pregunta sobre la vida cotidiana es **filosófica** y permite discutir una tensión ética (por ejemplo, entre el deber y las consecuencias)?
 
 a) "¿Cuánto cuesta una entrada al cine un día miércoles con descuento de estudiante en Santiago?"
 b) "¿Debo denunciar a un amigo que hizo trampa en una prueba, aunque eso termine nuestra amistad?"
-c) "¿Cuántas veces al día reviso mi celular cuando estoy en clases o estudiando?"
-d) "¿Me gusta más el verano o el invierno?"
+c) "¿Cuántas veces al día reviso mi celular cuando estoy en clases o cuando estoy estudiando?"
+d) "¿Me gusta más el verano o el invierno, y en qué estación lo paso mejor con mis amigos?"
 
 10. *(Alternativas — Unir)* Une cada teoría ética con la frase que la representa: (1) Consecuencialismo/utilitarismo, (2) Ética deontológica — (A) "No debo mentir, aunque una mentira traería mejores resultados: es mi deber ser veraz"; (B) "Debo elegir la acción que produzca el mayor bienestar para el mayor número de personas". ¿Qué combinación es correcta?
 
@@ -95,15 +95,15 @@ d) Ninguna forma de igualdad
 12. *(Alternativas — Comparar teorías)* ¿Qué análisis de "no devolver el exceso de vuelto que entregó por error un cajero" usa correctamente un concepto fundamental del utilitarismo y uno de la deontología?
 
 a) Utilitarismo: es negativo si el cajero tendrá que pagar la diferencia de su sueldo y el daño supera el beneficio de quien se lo queda (balance de bienestar). Deontología: es incorrecto en sí mismo porque viola un deber de honestidad, aunque nadie lo descubra
-b) Utilitarismo: es incorrecto solo porque lo prohíbe la ley, sin importar los efectos que tenga sobre el cajero ni sobre quien se queda con el vuelto. Deontología: es incorrecto solo si te descubren, porque el deber depende de que otros sepan lo que hiciste y de las consecuencias que eso te traiga
+b) Utilitarismo: es incorrecto porque lo prohíbe la ley, sin importar los efectos que tenga sobre el cajero ni sobre quien se queda con el vuelto. Deontología: es incorrecto si te descubren, porque el deber depende de que otros sepan lo que hiciste y de lo que eso te traiga
 c) Ambas teorías dicen que está bien quedarse con el vuelto: para el utilitarismo, quien se lo queda aumenta su bienestar sin dañar a nadie importante, y para la deontología, nadie tiene el deber de revisar las cuentas ajenas ni de corregir los errores de un cajero que no es de su familia
-d) Ninguna teoría ética se aplica a situaciones cotidianas: solo sirven para grandes dilemas sociales
+d) Las teorías éticas no se aplican a situaciones cotidianas como esta: sirven para analizar grandes dilemas sociales, como las guerras o las leyes, y no un vuelto mal entregado
 
 13. *(Alternativas — Análisis de argumento)* Una persona argumenta: "Si torturar a un detenido pudiera salvar a muchas personas, habría que hacerlo; lo único que importa es el resultado". ¿Qué objeción deontológica es legítima, sin declarar "la correcta" a ninguna postura?
 
-a) El utilitarismo es falso porque el bienestar no existe ni puede medirse
-b) Las consecuencias nunca importan: lo único relevante es cumplir las normas, aunque produzcan grandes daños a muchas personas; por eso la deontología demuestra que el utilitarismo es una teoría inmoral que debe abandonarse en cualquier debate ético
-c) La deontología prueba definitivamente que el utilitarismo es absurdo, así que el debate está cerrado: torturar es siempre incorrecto porque lo dice una regla, y no hace falta dar ninguna razón sobre la dignidad ni sobre los derechos
+a) El utilitarismo es falso porque el bienestar no existe ni puede medirse, así que su cálculo de consecuencias es imposible de hacer en este caso
+b) Las consecuencias no importan: lo relevante es cumplir las normas, aunque produzcan grandes daños a muchas personas; por eso la deontología demuestra que el utilitarismo es una teoría inmoral que debe abandonarse en los debates éticos
+c) La deontología prueba que el utilitarismo es absurdo, así que el debate está cerrado: torturar es incorrecto porque lo dice una regla, y no hace falta dar razones sobre la dignidad ni sobre los derechos
 d) Ese razonamiento podría justificar violar la dignidad y los derechos fundamentales de una persona si el bienestar agregado es mayor; ciertos principios, como la prohibición de la tortura, no deberían quedar sujetos a un cálculo de consecuencias
 
 14. *(Varias correctas — Análisis de caso)* Una municipalidad tiene presupuesto para un solo proyecto: mejorar la cancha del sector que más votos obtuvo en una consulta ciudadana, o construir una sede social en el campamento con mayor carencia de espacios comunitarios. ¿Qué afirmaciones aplican correctamente criterios de justicia distributiva? Marca **todas** las correctas.

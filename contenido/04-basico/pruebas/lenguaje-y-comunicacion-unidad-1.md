@@ -52,33 +52,33 @@ Lee este poema y responde las preguntas 6 a 9:
 
 **1. (Alternativas)** Según el texto "Los bidones de don Ruperto", ¿qué le pidió la abuela a Inés que hiciera?
 
-a) Que preparara pan amasado para tomar once con la familia
+a) Que preparara pan amasado para tomar once con toda la familia
 b) Que fuera a llenar dos bidones con agua en el estanque del pueblo
 c) Que visitara a don Ruperto para llevarle leña para su estufa
-d) Que cerrara bien todas las ventanas antes de la nevazón
+d) Que cerrara bien las ventanas y las puertas antes de la nevazón
 
 **2. (Verdadero o Falso)** "Gracias a que don Ruperto llenó los bidones, la familia tuvo agua esa noche, aunque las cañerías se congelaron." — Esta afirmación describe una **consecuencia** de una acción del texto.
 
 **3. (Alternativas — comparar personajes)** ¿Qué comparación entre Inés y don Ruperto se apoya en lo que muestra el texto?
 
 a) Inés es agradecida y don Ruperto es observador y generoso; se parecen en que ambos se preocupan por el bienestar de la familia
-b) Inés es egoísta y no agradece nada, y don Ruperto es descuidado con sus vecinos; no se parecen en nada
-c) Los dos son personajes que no ayudan a nadie, porque se quedan en sus casas mirando caer la nieve todo el día
-d) Don Ruperto es tímido y no habla con nadie del pueblo, e Inés nunca agradece lo que hacen por ella ni por su familia
+b) Inés es egoísta y no agradece nada, y don Ruperto es descuidado con sus vecinos; por eso no se parecen en nada el uno al otro
+c) Los dos son personajes que ayudan poco, porque se quedan en sus casas mirando caer la nieve gran parte del día y de la noche
+d) Don Ruperto es tímido y casi no habla con nadie del pueblo, e Inés olvida agradecer lo que hacen por ella y por su familia
 
 **4. (Alternativas)** ¿Cuál es el problema que enfrentan los personajes al inicio del texto y cómo se soluciona?
 
-a) Inés se pierde en la nieve camino al estanque; se soluciona porque su papá sale a buscarla con una linterna
-b) La estufa de la casa se rompe con el frío de la noche; se soluciona porque la abuela la arregla con sus herramientas
-c) No hay comida en la casa para la nevazón; se soluciona porque compran pan y leche en el almacén del pueblo
+a) Inés se pierde en la nieve camino al estanque; se soluciona porque su papá sale a buscarla con una linterna y una frazada
+b) La estufa de la casa se rompe con el frío de la noche; se soluciona porque la abuela la arregla con sus herramientas antiguas
+c) No hay comida en la casa para la nevazón; se soluciona porque compran pan y leche en el almacén del pueblo antes de la nieve
 d) Se acerca una nevazón y necesitan agua antes de que se congelen las cañerías; se soluciona porque don Ruperto ya había llenado los bidones
 
 **5. (Alternativas — opinión fundamentada)** Sofía dice: "Estoy de acuerdo con la forma en que actuó don Ruperto". ¿Qué fundamento usa información del texto?
 
-a) Porque me gusta el nombre Ruperto y suena como el de un abuelo simpático que vive en el campo
+a) Porque me gusta el nombre Ruperto y suena como el de un abuelo simpático que vive en el campo del sur
 b) Porque ayudó a su vecina sin esperar nada a cambio, y gracias a eso la familia tuvo agua durante la nevazón
-c) Porque en mi casa también tomamos té con pan amasado junto a la estufa cuando hace mucho frío
-d) Porque la nieve es bonita y me gustaría conocer Putre algún día con mi familia en vacaciones
+c) Porque en mi casa también tomamos té con pan amasado junto a la estufa cuando hace mucho frío en el invierno
+d) Porque la nieve es bonita y me gustaría conocer Putre algún día con mi familia en las vacaciones de verano
 
 **6. (Alternativas)** Según el poema "El glaciar", ¿de qué color es la "sábana" con que se tapa el glaciar?
 
@@ -91,7 +91,7 @@ d) Café
 
 **8. (Alternativas — lenguaje figurado)** En los versos "Cruje despacito, como una puerta vieja / que se abre de noche en la casa de mis tíos", ¿qué figura del lenguaje figurado se usa y por qué?
 
-a) Una rima, porque todas las palabras del verso terminan con el mismo sonido, como «vieja» y «tíos»
+a) Una rima, porque las palabras del final de cada verso terminan con el mismo sonido, como «vieja» y «tíos»
 b) Una pregunta, porque los versos tienen signos de interrogación y esperan una respuesta del lector
 c) Una comparación (símil), porque usa "como" para comparar el crujido del glaciar con el de una puerta vieja
 d) Una instrucción, porque los versos le dicen al lector qué hacer de noche en la casa de los tíos

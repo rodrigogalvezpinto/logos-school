@@ -205,8 +205,7 @@ forma ordenada.
    mismo texto.
    **Respuesta correcta:** True (Verdadero).
    **Retroalimentación:** *Skimming* (lectura rápida para idea general) y
-   *scanning* (búsqueda de un dato puntual) son estrategias distintas, y
-   este OA exige dominar ambas.
+   *scanning* (búsqueda de un dato puntual) son estrategias distintas, y conviene dominar ambas.
 
 10. *(Alternativas — Organizar en tabla — desafiante)* Text A (a science magazine article) explains how AI algorithms learn from data, using technical vocabulary. Text B (a teen blog post) explains the same topic using simple comparisons and jokes. Which option completes the table *Text / Audience / Tone*?
     a) Text A: teenagers, humorous. Text B: specialized readers, technical
@@ -242,7 +241,7 @@ forma ordenada.
     c) skim / scan
     d) translate / summarize
     **Respuesta correcta:** c) skim / scan.
-    **Retroalimentación:** *Skimming* se usa para captar la idea general y *scanning* para localizar un dato específico — dos estrategias de lectura distintas que exige este OA.
+    **Retroalimentación:** *Skimming* se usa para captar la idea general y *scanning* para localizar un dato específico — dos estrategias de lectura distintas que conviene dominar.
 
 14. *(Verdadero o falso)* Read: *"This text was published on a government
     website to explain new regulations about artificial intelligence in
@@ -402,7 +401,7 @@ estas estructuras con una postura personal crítica.
    especulación, es apropiado incluir una postura personal justificada (*in
    my opinion... because...*).
    **Respuesta correcta:** True (Verdadero).
-   **Retroalimentación:** El OA busca que integres el conocimiento
+   **Retroalimentación:** Se busca que integres el conocimiento
    gramatical con la construcción de una postura personal crítica, no solo
    el uso mecánico de estructuras.
 
@@ -619,8 +618,7 @@ sobre otras visiones de mundo y la tuya propia.
     **Respuesta correcta:** c) "Looking back, I realize that identity is built through both roots and new experiences. If I hadn't compared my traditions with those of other countries, I wouldn't have valued my own culture as much.".
     **Retroalimentación:** El tercer condicional usa *if + had + participio, would have + participio*; el párrafo además incluye léxico apropiado y una reflexión genuina.
 
-11. *(Verdadero o falso — desafiante)* Producir un texto "con fluidez" según
-    este OA significa únicamente escribir muchas oraciones, sin importar si
+11. *(Verdadero o falso — desafiante)* Producir un texto "con fluidez" según lo estudiado significa únicamente escribir muchas oraciones, sin importar si
     están conectadas o si mantienen un mismo tema.
     **Respuesta correcta:** False (Falso).
     **Retroalimentación:** La fluidez implica coherencia y conexión de ideas

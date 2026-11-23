@@ -450,7 +450,7 @@ asignaturas. La clave sigue siendo **organizar las ideas con conectores** y
    sobre culturas.
    **Respuesta correcta:** True (Verdadero).
    **Retroalimentación:** *In my opinion* introduce una valoración personal
-   sobre el tema de la diversidad cultural, tal como pide este OA.
+   sobre el tema de la diversidad cultural.
 
 5. *(Alternativas — Escribir siguiendo modelo)* Which option completes *"I would like to visit ___ because ___."* with a logical connection?
    a) Italy / I love pizza and I'm interested in Roman history
@@ -486,8 +486,7 @@ asignaturas. La clave sigue siendo **organizar las ideas con conectores** y
    d) I don't like plastic, and I don't like reusable bottles either, because they are heavy.
    **Respuesta correcta:** b.
    **Retroalimentación:** Esa oración combina preferencia (*I prefer*),
-   comparación (*to buying plastic ones*) y una razón (*because*), cumpliendo
-   con lo que pide el OA para escribir sobre problemas globales.
+   comparación (*to buying plastic ones*) y una razón (*because*), como corresponde al escribir sobre problemas globales.
 
 9. *(Alternativas — Preferencias)* Choose the sentence that correctly expresses a preference with a reason.
    a) I prefer read books than watch TV because quiet.

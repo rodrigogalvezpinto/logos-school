@@ -60,17 +60,17 @@ d) El villano, que causa el problema central del relato
 
 **4. (Alternativas)** ¿Por qué la brújula de bronce, cuya aguja «sigue apuntando al norte» aunque el barco gire, puede considerarse un **símbolo** en el relato?
 
-a) Porque es el objeto más valioso de la familia y Florencia teme que la Armada se lo lleve junto con el faro
+a) Porque es el objeto más valioso de la familia y Florencia teme que la Armada se lo lleve cuando cierren el faro
 b) Porque representa la firmeza y la honestidad que el abuelo enseña, lo que agrava el dilema de Florencia al ocultarle la verdad
-c) Porque solo sirve para orientarse en el mar y el relato la menciona para describir el trabajo diario del guardián
+c) Porque sirve para orientarse en el mar y el relato la menciona para describir el trabajo diario del guardián del faro
 d) Porque se rompe al final del relato, cuando Florencia decide contarle a su abuelo que el faro será automatizado
 
 ---
 
 **5. (Alternativas)** ¿Qué función cumple en el fragmento la historia del Caleuche que cuenta el abuelo?
 
-a) Es un dato decorativo sobre Chiloé, sin relación con el conflicto ni con lo que siente ninguno de los personajes
-b) Anuncia que el abuelo morirá en el mar, porque el Caleuche aparece en todos los relatos sobre faros chilenos
+a) Es un dato decorativo sobre Chiloé, con poca relación con el conflicto o con lo que sienten los personajes del relato
+b) Anuncia que el abuelo morirá en el mar, porque el Caleuche aparece en los relatos tradicionales sobre los faros chilotes
 c) Demuestra que el abuelo ya sabe del cierre del faro y que su nieta le está mintiendo por orden de la madre
 d) Conecta el relato con la tradición oral chilota y refleja el temor del abuelo a «abandonar su puesto», que es justo lo que le espera
 
@@ -126,10 +126,10 @@ d) Refuerzan visualmente el deterioro y el final del cine, intensificando la pé
 
 **9. (Alternativas)** ¿Qué revela el gesto final de Ramón al entregarle el títere a Camila?
 
-a) Que se rinde por enojo y ya no quiere saber nada de los títeres ni de su sobrina
+a) Que se rinde por enojo y ya no quiere saber nada más de los títeres ni de su sobrina Camila
 b) Que acepta el cambio y confía en que su sobrina encuentre otra forma de mantener vivo el oficio
 c) Que prefiere vender el títere a Valdés antes de que el cine se convierta en estacionamiento
-d) Que nunca le importaron las funciones y solo esperaba una excusa para dejar de trabajar
+d) Que las funciones le importaban poco y esperaba una excusa para dejar de trabajar en el cine
 
 ---
 
@@ -154,8 +154,8 @@ d) El mito del Trauco, de los bosques de Chiloé
 
 **12. (Alternativas)** ¿Qué problema de la realidad chilena aparece de fondo en el microcuento?
 
-a) El abandono de las minas de oro en el desierto de Atacama
-b) La contaminación de los ríos por la actividad minera
+a) El abandono de las minas de oro en el desierto de Atacama y en sus pueblos
+b) La contaminación de los ríos del norte por la actividad de la gran minería
 c) La sequía prolongada del Norte Chico y su efecto en la naturaleza
 d) El aumento de turistas que visitan el desierto florido cada año
 
@@ -165,7 +165,7 @@ d) El aumento de turistas que visitan el desierto florido cada año
 
 a) El texto critica a la madre por contar leyendas falsas en vez de explicar a su hija las causas científicas de la sequía
 b) El texto sostiene que las leyendas son más verdaderas que la ciencia, como muestra que el narrador no cree en los datos
-c) El texto relata la historia de amor de un minero, y la sequía aparece solo como un dato sin importancia para el sentido
+c) El texto relata la historia de amor de un minero del norte, y la sequía aparece como un dato secundario para el sentido del relato
 d) El texto usa la leyenda para expresar la pérdida que causa la sequía, como muestra la frase «la muchacha se cansó de esperar una lluvia que ya no llega»
 
 ---

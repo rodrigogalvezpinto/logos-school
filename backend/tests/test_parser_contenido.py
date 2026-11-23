@@ -268,7 +268,7 @@ def test_glosario_al_final_del_archivo_no_contamina_la_ultima_pregunta():
     encontraba con un diccionario completo de 15-20 términos pegado a la explicación."""
     objetivos = parsear_guia(TEXTO_CON_GLOSARIO)
     pregunta = objetivos[0].preguntas[0]
-    assert pregunta.retroalimentacion == "el agua es un líquido."
+    assert pregunta.retroalimentacion == "El agua es un líquido."  # mayúscula al importar (2026-11-23)
     assert "Glosario" not in pregunta.retroalimentacion
     assert "Líquido:" not in pregunta.retroalimentacion
 
@@ -491,3 +491,11 @@ d) La exclusión
     assert len(objetivos) == 1
     assert objetivos[0].codigo_oficial == "OA (Democracia y sus desafíos)"
     assert objetivos[0].preguntas[0].respuesta_correcta == "La solidaridad"
+
+
+def test_capitalizar_retroalimentacion_respeta_letras_de_alternativa_y_notacion():
+    from parser_contenido import capitalizar_retroalimentacion as c
+    assert c("puedes descomponer 78") == "Puedes descomponer 78"
+    assert c("a la noche llega") == "A la noche llega"
+    for igual in ["b) Llenar", "a, porque", "c — falso", "x² = 4", "tan(25°) ≈", "sen 30°", "f(3) = 2", "¡Muy bien!", ""]:
+        assert c(igual) == igual

@@ -114,7 +114,7 @@ d) They learned words in Mapudungun from their grandmother, feel connected to th
 3. **True (Verdadero).** *May have* expresa posibilidad, no certeza.
 4. d) *Can't have* + participio expresa que algo es imposible que haya ocurrido, según la evidencia disponible.
 5. b) Cambian el tiempo verbal (pasado simple → pasado perfecto), el pronombre (*I* → *he*) y la referencia temporal (*last summer* → *the summer before*).
-6. **True (Verdadero).** El OA busca integrar la gramática con una postura personal fundamentada.
+6. **True (Verdadero).** Se busca integrar la gramática con una postura personal fundamentada.
 7. **b.** *Might have* expresa una posibilidad razonable ante evidencia ambigua.
 8. **b.** Usa vocabulario específico del campo semántico de la identidad (*customs*, *passed down*, *sense of belonging*).
 9. c) identity. El término específico es más apropiado que una palabra genérica.

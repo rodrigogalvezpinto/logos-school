@@ -1058,7 +1058,7 @@ etnia, el sexo o el lugar de nacimiento: son los mismos para todas las personas.
 ---
 
 **3. (Alternativas)** ¿Quiénes deben respetar los derechos de las personas, según lo
-estudiado en este OA?
+estudiado en esta unidad?
 a) Solo el Estado
 b) Solo los pares (otras personas)
 c) Los pares, la comunidad y el Estado
@@ -1189,7 +1189,7 @@ colectivamente para resolver problemas comunes.
 #### Autoevaluación — OA 14
 
 **1. (Alternativas)** ¿Cuál de las siguientes es una responsabilidad del Estado, según lo
-estudiado en este OA?
+estudiado en esta unidad?
 a) Impedir que las personas se organicen en juntas de vecinos o clubes deportivos
 b) Asegurar que las personas puedan ejercer derechos como la educación y la salud
 c) Decidir quién puede o no puede votar según la opinión política de cada persona

@@ -170,7 +170,7 @@ d) rivers near cities / important global problem
 
 **18.** *(Selección múltiple — desafiante)* Estás escribiendo sobre un texto
 que leíste acerca de un músico famoso. ¿Qué oración resume mejor la
-información respetando la finalidad del OA?
+información respetando la finalidad del texto?
 
 a) Beethoven was a composer. Music. Hearing. The text.
 b) The text I read was about Beethoven, a composer who kept writing music

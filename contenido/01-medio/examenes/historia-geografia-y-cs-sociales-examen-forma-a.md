@@ -52,10 +52,10 @@ puedas practicar más de una vez sin memorizar respuestas.
 
 ¿Qué idea central defendía el liberalismo del siglo XIX?
 
-a) Concentrar todo el poder en un monarca absoluto que gobernara por derecho divino
+a) Concentrar el poder en un monarca absoluto que gobernara por derecho divino y sin parlamento
 b) Limitar el poder del Estado y garantizar libertades individuales, como la de prensa y la de culto
-c) Prohibir el comercio entre países para que cada nación produjera todo lo que consume
-d) Eliminar las constituciones para que las leyes dependieran solo de la voluntad del rey
+c) Prohibir el comercio entre países para que cada nación produjera los bienes que consume
+d) Reemplazar las constituciones por leyes que dependieran de la voluntad del rey y de la nobleza
 
 ---
 
@@ -93,8 +93,8 @@ d) La conquista de territorios en África y Asia por parte de las potencias indu
 ¿Qué consecuencia tuvo este tratado en Alemania durante la década siguiente?
 
 a) La rápida recuperación económica, gracias a los préstamos que entregaron los vencedores
-b) La desaparición completa de los partidos nacionalistas en la política alemana
-c) La anexión de Francia y Gran Bretaña al territorio del nuevo Estado alemán
+b) La desaparición de los partidos nacionalistas y el fortalecimiento de la democracia alemana
+c) La anexión de territorios de Francia y Gran Bretaña al nuevo Estado alemán como compensación
 d) Una profunda crisis económica y un resentimiento nacional que aprovecharon grupos extremistas
 
 ---
@@ -116,10 +116,10 @@ d) Entregó el voto a todos los hombres y mujeres mayores de 18 años, sin restr
 
 ¿Por qué se asocia a Diego Portales con el orden conservador que se instaló en Chile desde la década de 1830?
 
-a) Porque fue el primer presidente elegido por voto universal y redactó él solo la Constitución de 1833
+a) Porque fue el primer presidente elegido por voto universal y redactó personalmente la Constitución de 1833
 b) Porque impulsó un Estado autoritario e impersonal que priorizó el orden y la estabilidad, con apoyo de la élite
-c) Porque lideró el bando liberal que ganó la batalla de Lircay y estableció un gobierno federal
-d) Porque abolió el Ejército y entregó el orden público a las municipalidades de cada provincia
+c) Porque lideró el bando liberal que ganó la batalla de Lircay y estableció un gobierno federal en Chile
+d) Porque abolió el Ejército y entregó el orden público a las municipalidades de cada una de las provincias
 
 ---
 
@@ -140,9 +140,9 @@ d) La plata
 
 Entre 1848 y 1860, Chile exportó grandes cantidades de trigo a California y Australia, donde había fiebre del oro. ¿Qué muestra este hecho?
 
-a) Que Chile cerró su economía al comercio exterior para abastecer solo su mercado interno
-b) Que Chile importaba todo el trigo que consumía desde Estados Unidos y Australia
-c) Que la economía chilena dependía únicamente de la producción industrial de las ciudades
+a) Que Chile cerró su economía al comercio exterior para abastecer su mercado interno
+b) Que Chile importaba el trigo que consumía desde Estados Unidos y Australia
+c) Que la economía chilena dependía de la producción industrial de las ciudades
 d) Que Chile se insertó en la economía mundial como exportador de materias primas
 
 ---
@@ -304,9 +304,9 @@ d) La Ley Indígena de 1993
 
 ¿En qué se diferenciaban las respuestas del catolicismo social y del movimiento obrero socialista frente a la cuestión social?
 
-a) Ambos proponían eliminar al Estado por completo y que la Iglesia católica gobernara directamente el país
-b) El catolicismo social pedía una revolución armada y el socialismo defendía la caridad voluntaria de los ricos
-c) No había diferencias: los dos movimientos tenían exactamente las mismas propuestas y los mismos líderes
+a) Ambos proponían reducir el poder del Estado y que la Iglesia católica dirigiera la educación y la salud de todo el país
+b) El catolicismo social pedía una revolución armada y el socialismo defendía la caridad voluntaria de los más ricos de la sociedad
+c) Tenían propuestas muy parecidas y compartían a sus principales líderes, aunque usaban nombres distintos
 d) El catolicismo social proponía caridad, reformas y armonía entre clases; el socialismo, organización obrera y cambios profundos
 
 ---
@@ -319,8 +319,8 @@ d) El catolicismo social proponía caridad, reformas y armonía entre clases; el
 
 a) La prohibición de usar las lenguas indígenas en las escuelas y en los servicios públicos del país
 b) El reconocimiento de los pueblos indígenas, la protección de sus tierras y la creación de la CONADI
-c) La eliminación de todas las comunidades indígenas del registro civil y del censo de población
-d) La entrega de la isla de Rapa Nui a la administración de otro país del océano Pacífico
+c) La eliminación de las comunidades indígenas del registro civil y del censo de población
+d) La entrega de la isla de Rapa Nui a la administración de otro país del océano Pacífico Sur
 
 ---
 
@@ -328,10 +328,10 @@ d) La entrega de la isla de Rapa Nui a la administración de otro país del océ
 
 En 1888 se firmó el Acuerdo de Voluntades entre el Estado de Chile y representantes del pueblo rapanui. ¿Qué demanda actual de ese pueblo se relaciona con ese hecho?
 
-a) Que Chile pague una deuda en dinero a los descendientes de los marinos que llegaron a la isla
-b) Que la isla deje de recibir turistas y se cierre su aeropuerto de forma definitiva
+a) Que Chile pague una deuda en dinero a los descendientes de los marinos que llegaron a la isla en 1888
+b) Que la isla deje de recibir turistas y se cierre su aeropuerto para proteger sus sitios sagrados
 c) Recuperar tierras y mayor autonomía, porque entienden que en 1888 no cedieron la propiedad de su territorio
-d) Que el Estado traslade a toda la población rapanui al continente para protegerla
+d) Que el Estado traslade a la población rapanui al continente para protegerla del aislamiento
 
 ---
 
@@ -342,8 +342,8 @@ d) Que el Estado traslade a toda la población rapanui al continente para proteg
 ¿Qué impacto ambiental se asocia a las fundiciones y termoeléctricas instaladas en la zona de Quintero y Puchuncaví?
 
 a) La contaminación del aire, el suelo y el mar con metales pesados y gases que afectan la salud
-b) El aumento de la biodiversidad marina por el agua tibia que liberan las industrias
-c) La desaparición de la contaminación por el cierre de todas las industrias en 1990
+b) El aumento de la biodiversidad marina por el agua tibia que liberan las industrias de la bahía
+c) La disminución de la contaminación, porque las industrias de la zona cerraron en la década de 1990
 d) La formación de nuevos bosques nativos alrededor de las chimeneas industriales
 
 ---
@@ -355,9 +355,9 @@ d) La formación de nuevos bosques nativos alrededor de las chimeneas industrial
 
 A partir del estímulo, ¿qué opción explica el impacto de esa industrialización y propone una medida de desarrollo sostenible?
 
-a) El cierre de las oficinas no tuvo impactos, porque la pampa es un desierto sin vida; la medida es reabrir todas las oficinas tal como funcionaban en el siglo XIX
-b) Los pueblos abandonados se deben solo a terremotos de la zona; por eso no se necesita ninguna medida, ya que el desierto se recupera por sí solo en pocos años
-c) El daño desapareció cuando cerraron las oficinas; la medida es prohibir para siempre toda actividad minera en el país para que nunca vuelva a ocurrir
+a) El cierre de las oficinas tuvo poco impacto, porque la pampa es un desierto sin vida; la medida es reabrir las oficinas tal como funcionaban en el siglo XIX
+b) Los pueblos abandonados se deben sobre todo a los terremotos de la zona; por eso no se necesitan medidas, ya que el desierto se recupera por sí mismo en pocos años
+c) El daño desapareció cuando cerraron las oficinas; la medida es prohibir la actividad minera en el norte del país para que el problema no vuelva a ocurrir
 d) La explotación intensiva sin planificación dejó desechos y pueblos fantasma; una medida es exigir planes de cierre de faenas y diversificar la economía local
 
 ---

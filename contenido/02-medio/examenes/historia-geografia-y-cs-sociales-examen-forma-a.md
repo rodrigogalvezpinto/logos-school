@@ -108,8 +108,8 @@ d) Una barrera construida en 1961 que dividió Berlín y simbolizó la división
 ¿Por qué la crisis de los misiles en Cuba (1962) se considera uno de los momentos más peligrosos de la Guerra Fría?
 
 a) Porque Estados Unidos y la URSS estuvieron a punto de una guerra nuclear por los misiles soviéticos instalados en Cuba
-b) Porque Cuba invadió Estados Unidos con apoyo de las tropas soviéticas y ocupó la ciudad de Miami
-c) Porque la URSS lanzó misiles sobre Europa occidental y destruyó varias ciudades de la OTAN
+b) Porque Cuba invadió Estados Unidos con apoyo de las tropas soviéticas y ocupó durante semanas la ciudad de Miami
+c) Porque la URSS lanzó misiles sobre Europa occidental y destruyó varias ciudades de los países miembros de la OTAN
 d) Porque Estados Unidos y la URSS se aliaron para atacar a China, lo que inició una tercera guerra mundial
 
 ---
@@ -120,8 +120,8 @@ d) Porque Estados Unidos y la URSS se aliaron para atacar a China, lo que inici�
 
 ¿Qué fue la Alianza para el Progreso, lanzada por Estados Unidos en 1961?
 
-a) Un tratado militar para invadir Cuba con los ejércitos de todos los países de América Latina
-b) Un acuerdo para crear una moneda común y un banco central único en todos los países del continente
+a) Un tratado militar para invadir Cuba con los ejércitos de los países de América Latina y de Estados Unidos
+b) Un acuerdo para crear una moneda común y un banco central para los países de América Latina y el Caribe
 c) Un programa de ayuda y reformas en América Latina para frenar la influencia de la Revolución cubana
 d) Una organización de países latinoamericanos aliados con la Unión Soviética contra Estados Unidos
 
@@ -131,9 +131,9 @@ d) Una organización de países latinoamericanos aliados con la Unión Soviétic
 
 ¿Qué buscaba la Reforma Agraria aplicada en Chile entre 1962 y 1973?
 
-a) Entregar todas las tierras agrícolas a empresas extranjeras para modernizarlas
+a) Entregar las tierras agrícolas a empresas extranjeras para que modernizaran la producción del campo
 b) Redistribuir las tierras de los grandes latifundios entre los campesinos y aumentar la producción
-c) Eliminar la agricultura del valle central para construir industrias y ciudades
+c) Reducir la agricultura del valle central para construir industrias y ciudades en esas tierras fértiles
 d) Devolver a la Iglesia las tierras que le había expropiado el Estado en el siglo XIX
 
 ---
@@ -158,9 +158,9 @@ d) La disolución de la Unión Soviética
 ¿Qué caracteriza a una interpretación historiográfica?
 
 a) Explica un hecho desde una perspectiva, con fuentes, y puede diferir de otras interpretaciones
-b) Repite exactamente lo que ocurrió, sin ninguna perspectiva propia y sin usar fuentes de la época
-c) Es siempre falsa, porque los historiadores no pueden conocer nada del pasado con certeza
-d) Es una opinión personal del historiador que no necesita apoyarse en ninguna evidencia
+b) Repite lo que ocurrió tal como fue, sin una perspectiva propia y sin necesidad de usar fuentes de la época
+c) Es poco confiable, porque los historiadores no pueden conocer con certeza lo que pasó en el pasado
+d) Es una opinión personal del historiador, que puede apoyarse en sus recuerdos más que en evidencias
 
 ---
 
@@ -171,10 +171,10 @@ d) Es una opinión personal del historiador que no necesita apoyarse en ninguna 
 
 ¿Qué se puede concluir al comparar ambas interpretaciones?
 
-a) Que una de las dos es necesariamente falsa, porque un hecho tiene una sola causa
-b) Que ninguna sirve, porque los historiadores nunca se ponen de acuerdo en nada
+a) Que una de las dos es falsa, porque un hecho histórico tiene una sola causa principal
+b) Que ambas sirven poco, porque los historiadores rara vez se ponen de acuerdo sobre un hecho
 c) Que enfatizan factores distintos de un hecho complejo, que pueden complementarse
-d) Que ambas dicen exactamente lo mismo, aunque usen palabras distintas
+d) Que ambas dicen lo mismo, aunque cada una use palabras y ejemplos distintos
 
 ---
 
@@ -213,9 +213,9 @@ d) La dictadura colaboró con la Vicaría entregando toda la información sobre 
 
 ¿Qué medida caracterizó al modelo económico neoliberal aplicado en Chile durante la dictadura?
 
-a) La nacionalización de todas las empresas extranjeras del país
-b) La prohibición total de importar productos desde el extranjero
-c) El aumento del número de empresas administradas por el Estado
+a) La nacionalización de las empresas extranjeras de la gran minería del cobre
+b) La prohibición de importar productos desde el extranjero para proteger la industria
+c) El aumento del número de empresas administradas por el Estado en sectores clave
 d) La privatización de empresas estatales y la apertura al comercio exterior
 
 ---
@@ -225,9 +225,9 @@ d) La privatización de empresas estatales y la apertura al comercio exterior
 ¿Qué efecto social tuvo la crisis económica de 1982 en Chile?
 
 a) Un desempleo muy alto y muchas quiebras, que contribuyeron a las protestas nacionales desde 1983
-b) Un aumento de los salarios que permitió a todas las familias comprar viviendas propias
-c) El fin inmediato de la dictadura y el llamado a elecciones presidenciales ese mismo año
-d) La desaparición de la pobreza gracias al crecimiento acelerado de las exportaciones
+b) Un aumento de los salarios que permitió a muchas familias comprar viviendas propias en esos años
+c) El fin inmediato de la dictadura y el llamado a elecciones presidenciales ese mismo año de 1982
+d) La disminución de la pobreza gracias al crecimiento acelerado de las exportaciones de cobre
 
 ---
 
@@ -262,8 +262,8 @@ d) Salvador Allende
 ¿Qué limitación tuvo la transición chilena a la democracia en sus primeros años?
 
 a) Que no se realizaron elecciones presidenciales ni parlamentarias hasta el año 2000, por orden de la Junta
-b) Que se prohibió la existencia de todos los partidos políticos de oposición durante el gobierno de Aylwin
-c) Que el Congreso Nacional permaneció cerrado durante toda la década de 1990, sin aprobar ninguna ley
+b) Que se prohibió la existencia de los partidos políticos de oposición durante el gobierno de Patricio Aylwin
+c) Que el Congreso Nacional permaneció cerrado durante la década de 1990, mientras gobernaba la Junta Militar
 d) Que se mantuvieron enclaves autoritarios, como los senadores designados y Pinochet como comandante en jefe hasta 1998
 
 ---
@@ -313,9 +313,9 @@ d) La Carta fundacional de la alianza militar OTAN
 
 ¿Qué función cumple en Chile el Instituto Nacional de Derechos Humanos (INDH)?
 
-a) Juzgar y condenar a quienes cometen delitos comunes en el país
-b) Redactar las leyes que luego aprueba el Congreso Nacional
-c) Administrar las cárceles y los centros de detención del país
+a) Juzgar y condenar a quienes cometen delitos contra los derechos de las personas
+b) Redactar las leyes de derechos humanos que luego aprueba el Congreso Nacional
+c) Administrar las cárceles y los centros de detención del país y de cada región
 d) Promover y proteger los derechos humanos y observar que el Estado los respete
 
 ---
@@ -337,10 +337,10 @@ d) Como una medida de protección para la salud de la postulante
 
 Según la Ley 20.609 (Ley Zamudio), ¿qué puede hacer una persona que sufre una discriminación arbitraria?
 
-a) Nada, porque la ley solo recomienda no discriminar, sin establecer acciones
+a) Hacer una denuncia en Carabineros, porque la discriminación es un delito que investiga la policía
 b) Pedir que el Congreso apruebe una ley especial para su caso particular
 c) Presentar una acción de no discriminación ante un juzgado de letras
-d) Reclamar solo ante la ONU, porque los tribunales chilenos no pueden actuar
+d) Reclamar ante la ONU, porque los tribunales chilenos no pueden actuar en casos de discriminación
 
 ---
 
@@ -350,10 +350,10 @@ d) Reclamar solo ante la ONU, porque los tribunales chilenos no pueden actuar
 
 Un comentario en redes sociales culpa a «los extranjeros» del aumento del desempleo, sin dar ningún dato. ¿Qué problema tiene ese comentario?
 
-a) Ninguno, porque en redes sociales se puede opinar sin dar datos
+a) Es una opinión válida, porque en redes sociales se puede opinar sin dar datos ni fuentes
 b) Generaliza y culpa a un grupo completo, lo que alimenta prejuicios y discriminación
-c) Es correcto, porque todos los extranjeros trabajan en los mismos empleos
-d) Solo tiene un error de ortografía, porque «extranjeros» va con mayúscula
+c) Es correcto, porque la mayoría de los extranjeros trabaja en los mismos empleos en Chile
+d) Tiene un error de ortografía, porque la palabra «extranjeros» debe ir con mayúscula inicial
 
 ---
 

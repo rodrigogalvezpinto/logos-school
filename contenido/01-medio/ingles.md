@@ -480,7 +480,7 @@ Estructuras: *prefer + -ing + to + -ing*; *would rather + verbo base + than + ve
    ilustrar una idea sobre otra cultura.
    **Respuesta correcta:** True (Verdadero).
    **Retroalimentación:** *For example* introduce un ejemplo concreto que
-   apoya una idea general sobre una costumbre cultural, tal como pide este OA.
+   apoya una idea general sobre una costumbre cultural.
 
 5. *(Alternativas — Escribir siguiendo modelo)* Which option completes *"One global issue that worries me is ___. I think we should ___ to solve it."* logically?
    a) plastic pollution / buy more plastic bottles
@@ -508,7 +508,7 @@ Estructuras: *prefer + -ing + to + -ing*; *would rather + verbo base + than + ve
 
 8. *(Alternativas — desafiante)* Estás escribiendo sobre un texto que leíste
    acerca de un inventor famoso. ¿Qué oración resume mejor la información
-   respetando la finalidad del OA?
+   respetando la finalidad del texto?
    a) Thomas Edison. Inventor. Light bulb. Night. People. Changed. The text I read. Famous. America. Lived.
    b) The text I read was about Thomas Edison, an inventor who created the
       light bulb and changed how people lived at night.
@@ -516,8 +516,7 @@ Estructuras: *prefer + -ing + to + -ing*; *would rather + verbo base + than + ve
    d) I don't remember the text very well, but I think it was about a famous inventor from America who lived long ago.
    **Respuesta correcta:** b.
    **Retroalimentación:** Esa oración resume el texto leído con información
-   relevante (quién fue, qué hizo, su impacto), cumpliendo con lo que pide el
-   OA sobre escribir a partir de textos leídos.
+   relevante (quién fue, qué hizo, su impacto), como corresponde al escribir a partir de textos leídos.
 
 9. *(Alternativas — Preferencias)* Complete: *"I'd rather ___ a documentary than ___ a horror film."*
    a) watching / watching

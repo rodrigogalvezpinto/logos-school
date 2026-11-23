@@ -49,8 +49,8 @@ d) Para reemplazar a las ciencias en la explicación de la naturaleza
 
 **Pregunta 2.** *(Selección múltiple)* La apoderada sostiene que la filosofía «no enseña nada» porque no da respuestas definitivas. ¿Qué evaluación es más adecuada?
 
-a) Tiene razón, porque solo vale la pena estudiar aquello que tiene una respuesta única, definitiva y comprobable
-b) Tiene razón, porque la filosofía nunca ha influido en la ciencia, en el derecho ni en la política de ningún país
+a) Tiene razón, porque una disciplina que no llega a respuestas comprobables no aporta conocimiento útil para la vida diaria
+b) Tiene razón en parte, porque la filosofía sirvió en la Antigüedad, pero hoy sus grandes preguntas ya las resolvió la ciencia
 c) Confunde el valor de una disciplina con dar respuestas definitivas: la filosofía aporta claridad conceptual y buenos argumentos
 d) No tiene sentido evaluarla, porque toda opinión sobre la filosofía es igual de válida y no se puede discutir con razones
 
@@ -59,9 +59,9 @@ d) No tiene sentido evaluarla, porque toda opinión sobre la filosofía es igual
 **Pregunta 3.** *(Selección múltiple)* ¿Qué relación entre filosofía y ciencia apoya lo dicho por el profesor de Biología?
 
 a) Muchas ciencias nacieron de la filosofía natural, y la filosofía de la ciencia examina hoy sus fundamentos
-b) La filosofía y la ciencia nunca han tenido ninguna relación a lo largo de la historia de Occidente
-c) La ciencia moderna demostró con experimentos que todas las preguntas filosóficas carecen de sentido
-d) La filosofía solo se ocupa de la religión y la ciencia solo de los números y de los laboratorios
+b) La ciencia tomó de la filosofía sus primeras preguntas, pero hoy ambas se separaron y la filosofía dejó de aportarle
+c) La ciencia moderna demostró con experimentos que las preguntas filosóficas sobre la naturaleza carecen de sentido
+d) La filosofía se ocupa de los valores y la ciencia de los hechos, por eso no tienen puntos de contacto entre sí
 
 ---
 
@@ -100,9 +100,9 @@ d) Examinar una pregunta abierta puede aclarar las posiciones y las razones de c
 
 **Pregunta 7.** *(Selección múltiple)* ¿Qué distingue a una norma moral de una norma legal?
 
-a) Que la norma moral siempre está escrita en el Código Penal y la aplican los tribunales de justicia
-b) Que la norma legal depende solo de la conciencia de cada persona y no la dicta ninguna autoridad, mientras la moral la fija el Congreso
-c) Que ambas son exactamente iguales, las dicta el mismo órgano del Estado y su incumplimiento tiene siempre las mismas sanciones penales
+a) Que la norma moral está escrita en el Código Penal y la aplican los tribunales cuando alguien la infringe
+b) Que la norma legal depende de la conciencia de cada persona, mientras la moral la fija el Congreso mediante una ley
+c) Que ambas las dicta el Estado, pero la norma moral la aplican los colegios y la norma legal la aplican los tribunales
 d) Que la moral se funda en valores y en la conciencia, mientras la ley la dicta el Estado y su incumplimiento tiene sanción jurídica
 
 ---
@@ -127,10 +127,10 @@ d) El orden de llegada de las inscripciones a la página web del municipio
 
 **Pregunta 10.** *(Selección múltiple)* ¿Qué problema ético puede tener el criterio de entregar las bicicletas a «los primeros 100 que se inscriban por internet»?
 
-a) Que favorece siempre a las personas que más las necesitan para llegar a su trabajo
+a) Que favorece a las personas que más las necesitan para llegar a su trabajo cada día
 b) Que parece neutral, pero favorece a quienes tienen más tiempo, conexión e información
 c) Que obliga al municipio a sortear las bicicletas entre todos los vecinos de la comuna
-d) Que impide que cualquier vecino de la comuna pueda recibir una bicicleta eléctrica
+d) Que impide que los vecinos de la comuna reciban una bicicleta eléctrica este año
 
 ---
 
@@ -145,10 +145,10 @@ d) Relativista: considera que cualquier criterio vale lo mismo para todos
 
 **Pregunta 12.** *(Alternativas — 3 pts)* Un vecino reclama: «Es injusto que yo, que pago más impuestos, no reciba una bicicleta». ¿Qué concepto de justicia invoca y qué se le puede responder?
 
-a) Invoca la justicia distributiva según la necesidad; se le puede responder que él es, sin duda, quien más la necesita en toda la comuna
-b) Invoca la igualdad estricta entre los vecinos; se le puede responder que el sorteo siempre lo favorece a él por sobre los demás
+a) Invoca la justicia distributiva según la necesidad; se le puede responder que él, por pagar más, es quien más necesita la bicicleta en la comuna
+b) Invoca la igualdad estricta entre los vecinos; se le puede responder que el sorteo le da a él las mismas opciones de ganar que al resto de los inscritos
 c) Invoca una justicia según lo que cada uno aporta; se le puede responder que los bienes públicos suelen repartirse según criterios de necesidad o igualdad
-d) No invoca ningún concepto de justicia, porque los impuestos que paga una persona no tienen ninguna relación con lo justo
+d) Invoca la justicia como respeto a la ley; se le puede responder que la ordenanza municipal no menciona los impuestos que paga cada vecino de la comuna
 
 ---
 
@@ -196,18 +196,18 @@ d) Una apelación a las emociones, porque cita un estudio
 
 **Pregunta 17.** *(Selección múltiple)* ¿Qué evaluación es más adecuada del ejemplo de Finlandia que usa la autora?
 
-a) Prueba con total certeza que eliminar las tareas mejora los resultados educativos en cualquier país del mundo
+a) Prueba que eliminar las tareas mejora los resultados, porque Finlandia las redujo y hoy tiene muy buenos resultados
 b) Es un dato de otro contexto: no prueba que la falta de tareas cause los resultados, porque influyen muchos otros factores
 c) Es una falacia ad hominem, porque ataca personalmente a los profesores que dan tareas en los colegios de Chile
-d) Es irrelevante, porque los datos educativos de otros países nunca sirven para nada en ninguna discusión
+d) Es una prueba suficiente, porque un país con buenos resultados es un modelo que los demás países deben imitar
 
 ---
 
 **Pregunta 18.** *(Alternativas — 3 pts)* La autora concluye que las tareas deben eliminarse **por completo**. ¿Qué supuesto implícito tiene esta conclusión y por qué conviene hacerlo explícito?
 
 a) Que ningún tipo de tarea puede ser beneficioso; hacerlo explícito permite discutir alternativas, como tareas breves o voluntarias
-b) Que las tareas son siempre beneficiosas; hacerlo explícito permite aumentar su cantidad en todos los cursos
-c) Que los niños no deberían ir al colegio; hacerlo explícito permite cerrar las escuelas por la tarde
+b) Que las tareas largas son mejores que las breves; hacerlo explícito permite aumentar su duración en la enseñanza básica
+c) Que los niños no deberían ir al colegio en la tarde; hacerlo explícito permite acortar la jornada escolar completa
 d) Que Finlandia es un país muy frío; hacerlo explícito permite comparar el clima de ambos países
 
 ---
@@ -229,8 +229,8 @@ d) Como el argumento tiene falacias, queda demostrado que las tareas son buenas
 
 **Pregunta 20.** *(Selección múltiple)* El algoritmo del consultorio da prioridad a quienes han consultado más veces en el pasado. ¿Qué problema ético puede generar?
 
-a) Que atiende a todos los pacientes exactamente en el mismo orden de llegada al consultorio, sin excepciones
-b) Que obliga a los médicos a revisar cada caso sin ninguna ayuda tecnológica ni registro de datos
+a) Que atiende a los pacientes según su orden de llegada al consultorio, como se hacía antes de usar el sistema
+b) Que obliga a los médicos a revisar cada caso a mano, sin la ayuda de un registro de datos de los pacientes
 c) Que puede postergar a quienes antes tuvieron menos acceso a la salud, reproduciendo desigualdades
 d) Que impide que los pacientes de la comuna reciban atención médica durante el fin de semana
 
@@ -248,17 +248,17 @@ d) Dogmática, porque aceptan la información sin examinarla
 **Pregunta 22.** *(Selección múltiple)* Que la red social ordene las noticias según lo que más tiempo mantiene conectado a cada usuario plantea principalmente un problema de:
 
 a) Autonomía: el sistema puede orientar la atención y las opiniones sin que la persona lo note
-b) Propiedad: los usuarios pierden el derecho a comprar su propio teléfono celular
-c) Igualdad: todos los usuarios reciben exactamente las mismas noticias, en el mismo orden
-d) Salud física: las noticias producen enfermedades contagiosas en quienes las leen
+b) Veracidad: el sistema inventa noticias falsas para mantener a las personas conectadas más tiempo
+c) Privacidad: la red social publica los mensajes privados de los usuarios sin pedirles permiso
+d) Salud física: el uso prolongado del teléfono produce cansancio visual en quienes leen noticias
 
 ---
 
 **Pregunta 23.** *(Alternativas — 3 pts)* El algoritmo del consultorio fue entrenado con datos de un hospital de Santiago y se usa en una comuna rural. ¿Qué problema de razonamiento hay en aplicarlo sin revisarlo?
 
-a) Ninguno, porque los datos de salud de las personas son exactamente iguales en todas las comunas del país
+a) No hay problema, porque los datos biológicos de los pacientes son parecidos en Santiago y en la comuna rural
 b) Generaliza desde una muestra que no representa a la población rural, por lo que sus conclusiones pueden ser erróneas allí
-c) Es una falacia ad hominem, porque ataca personalmente a los médicos que trabajan en la comuna rural
+c) Es una falacia ad hominem, porque descalifica a los médicos rurales en vez de discutir los datos del hospital de Santiago
 d) Es un argumento deductivo válido, porque usa datos reales de pacientes de un hospital de Santiago
 
 ---

@@ -2004,7 +2004,7 @@ discapacidad, entre otras.
 
 Toda sociedad humana es, por naturaleza, **diversa**: sus integrantes difieren en su origen
 étnico, su religión o creencias, su situación socioeconómica, su género, su orientación sexual,
-su condición de discapacidad, entre muchas otras características. Este OA plantea que esa
+su condición de discapacidad, entre muchas otras características. Lo estudiado plantea que esa
 diversidad debe entenderse como una **manifestación de la libertad y de la dignidad humana**, y
 no como un problema a resolver mediante la homogeneización forzada de la sociedad.
 
@@ -2097,7 +2097,7 @@ en Chile.
 que las sociedades homogéneas —sin diferencias entre sus integrantes— son el ideal a alcanzar.
 
 ✅ Respuesta correcta: **Falso**
-*Retroalimentación:* Este OA plantea exactamente lo contrario: la diversidad debe entenderse
+*Retroalimentación:* Lo estudiado plantea exactamente lo contrario: la diversidad debe entenderse
 como una manifestación positiva de la libertad y la dignidad humana, no como un problema a
 eliminar mediante la homogeneización forzada.
 

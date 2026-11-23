@@ -36,8 +36,8 @@ basado_en: >
 
 **1. (Matemática)** ¿Cuál es el valor posicional del dígito 6 en el número 6.813?
 
-a) Unidad
-b) Decena
+a) Unidad simple
+b) Decena de mil
 c) Centena
 d) Unidad de mil
 
@@ -52,9 +52,9 @@ Observa el mapa de América. En la **Zona A** se han encontrado pirámides, sist
 ¿A qué civilización(es) corresponde principalmente la **Zona A** del mapa?
 
 a) Mayas y aztecas
-b) Incas
-c) Solo los incas y los mayas
-d) Ninguna civilización americana se desarrolló ahí
+b) Incas y mapuches
+c) Los incas y los mayas
+d) Mapuches y aymaras
 
 ---
 
@@ -63,7 +63,7 @@ d) Ninguna civilización americana se desarrolló ahí
 a) Peces
 b) Algas
 c) Piedras
-d) Ninguno de los anteriores
+d) Plantas acuáticas
 
 ---
 
@@ -133,8 +133,8 @@ Lee el siguiente poema:
 
 ¿Qué figura del lenguaje figurado es la expresión "sus aguas son cristales que corren sin parar"?
 
-a) Comparación, porque usa la palabra "como"
-b) No es lenguaje figurado, es información explícita
+a) Comparación, porque usa la palabra "como" para unir dos ideas
+b) No es lenguaje figurado, sino información explícita sobre el río
 c) Personificación, porque le da una acción humana al río
 d) Metáfora, porque nombra el agua directamente como "cristales"
 
@@ -250,8 +250,8 @@ d) 4
 
 a) La municipalidad de su comuna
 b) El Congreso Nacional (Parlamento)
-c) La junta de vecinos
-d) Los tribunales de justicia
+c) La junta de vecinos del barrio
+d) Los tribunales de justicia del país
 
 ---
 
@@ -284,7 +284,7 @@ Transcribe aquí la letra que elegiste en cada pregunta. Si una pregunta pide ma
 |----|------------|------------------------------------------|-----------------------------------|
 | 1 | Matemática | **d) Unidad de mil.** El 6 es el primer dígito de un número de 4 cifras, por lo tanto vale 6.000. | OA 1 — Representar y describir números hasta el 10.000 |
 | 2 | Historia | **a) Mayas y aztecas.** La Zona A corresponde al espacio mesoamericano (México y Centroamérica). | OA 4 — Civilizaciones americanas |
-| 3 | Ciencias Naturales | **c) Piedras.** Es el único elemento no vivo entre los observados. | OA 1 — Ecosistemas: elementos vivos y no vivos |
+| 3 | Ciencias Naturales | **c) Piedras.** Las piedras no nacen, no crecen ni se reproducen: no son seres vivos. Los peces, las algas y las plantas acuáticas sí lo son. El agua y la luz solar tampoco son seres vivos, pero no aparecen entre las alternativas. | OA 1 — Ecosistemas: elementos vivos y no vivos |
 | 4 | Lenguaje | **c)** El texto dice explícitamente que le pidió a Matías "que recorriera la orilla para buscarlas". | OA N°4 — información explícita en narraciones |
 | 5 | Matemática | **d) 833.** 347 + 486: unidades 7+6=13 (escribe 3, reserva 1); decenas 4+8+1=13 (escribe 3, reserva 1); centenas 3+4+1=8. | OA 3 — Comprender la adición y sustracción hasta 1.000 |
 | 6 | Historia | **c) Tropical.** Altas temperaturas y lluvias abundantes todo el año. | OA 8 — Paisajes de América |

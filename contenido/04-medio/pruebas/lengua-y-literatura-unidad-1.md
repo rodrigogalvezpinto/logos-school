@@ -43,8 +43,8 @@ d) El traslado obligado de familias de un valle inundado por la construcción de
 
 3. *(Alternativas)* ¿Cómo influye el contexto de producción del Texto A —el traslado obligado— en la elección del frasco de tierra como objeto central del fragmento?
 
-a) El contexto no influye: el frasco podría representar cualquier cosa, porque lo importante es la relación entre la abuela y su nieta, que se quieren mucho
-b) El frasco solo indica que la abuela era ordenada y guardaba con cuidado los objetos de su casa
+a) El contexto influye poco: el frasco representa sobre todo la relación entre la abuela y su nieta, que se quieren mucho y comparten recuerdos
+b) El frasco indica que la abuela era ordenada y guardaba con cuidado los objetos de su antigua casa del valle que trajo en el traslado al pueblo nuevo
 c) El frasco funciona como símbolo de una espera sin salida, porque volver al valle ya no depende de la voluntad de la abuela: el lugar quedó bajo el agua
 d) El frasco muestra que la familia podía volver al valle cuando quisiera, porque conservaba sus tierras y su casa, aunque prefirió quedarse en el pueblo nuevo
 
@@ -59,24 +59,24 @@ d) Desde la mirada de la empresa que construyó la represa
 
 6. *(Alternativas)* ¿Cómo se orienta temporalmente el desarraigo en cada texto?
 
-a) Ambos textos miran solo hacia el futuro: la abuela planea volver al valle cuando baje el agua de la represa y Mahina construye nuevas amistades en el liceo de la ciudad
+a) Ambos textos miran hacia el futuro: la abuela planea volver al valle cuando baje el agua de la represa y Mahina construye nuevas amistades en el liceo de la ciudad de Santiago, donde estudia
 b) El Texto A mira hacia el futuro que se construye (la nueva vida de la abuela en el pueblo y los vecinos que conoce allí); el Texto B, hacia el pasado perdido (la isla que Mahina dejó y su familia)
-c) Ninguno de los dos trata el tiempo: ambos describen solo el presente de los personajes
+c) Los dos textos se centran en el presente de los personajes, sin referirse a lo que vivieron antes ni a lo que esperan del futuro en sus nuevos lugares
 d) El Texto A mira principalmente hacia el pasado perdido (el valle, los nombres de los cerros); el Texto B, hacia el futuro que se construye (amigas que "pronto" serán reales, la vida armada día a día)
 
 7. *(Alternativas)* ¿Qué efecto produce que el Texto B esté narrado en tercera persona muy cercana a la experiencia interior de Mahina, en vez de en primera persona como el Texto A?
 
-a) Hace imposible conocer lo que siente Mahina, porque la tercera persona solo describe sus acciones desde fuera, como lo haría una cámara que la sigue por la ciudad
+a) Hace difícil conocer lo que siente Mahina, porque la tercera persona describe sus acciones desde fuera, como lo haría una cámara que la sigue por la ciudad
 b) Permite mostrar lo que Mahina siente y, a la vez, cierta distancia irónica sobre sus estrategias de adaptación, como la mentira piadosa a su abuela
 c) Convierte el relato en una noticia objetiva sin emociones sobre los estudiantes que migran desde Rapa Nui para estudiar en el continente
-d) No produce ningún efecto distinto de la primera persona
+d) Produce el mismo efecto que la primera persona: el lector conoce lo que siente Mahina sin distancia alguna entre ella y quien narra
 
 8. *(Alternativas)* ¿Qué elemento comparten ambos textos, a pesar de tratar el desarraigo desde contextos de producción distintos?
 
-a) Ambos ocurren en el mismo año y en la misma ciudad, con personajes que se conocen
+a) Ambos ocurren en el mismo año y en la misma ciudad, con personajes que se conocen entre sí
 b) Ambos abordan la reconstrucción de una identidad y de vínculos familiares tras dejar el lugar de origen
 c) Ambos critican explícitamente a una autoridad y piden que se reconozcan los derechos de las familias desplazadas
-d) Ambos están narrados en primera persona
+d) Ambos están narrados en primera persona por una nieta que recuerda
 
 9. *(Varias correctas)* Considerando la situación hipotética de producción (A en 2005 y B en 2026) y distintas audiencias de recepción, ¿qué afirmaciones son pertinentes y no atribuyen reacciones idénticas a toda una audiencia? Marca **todas** las correctas.
 
@@ -98,8 +98,8 @@ d) Es correcta porque ambos están narrados en primera persona por quien vive el
 
 a) El efecto estético elegíaco y la sensación de duelo prolongado propios de una pérdida sin posibilidad de retorno
 b) Un tono humorístico e irónico, similar al del Texto B, que aliviana la pérdida del valle y de la casa
-c) La idea de que la abuela había decidido libremente no volver nunca al valle donde nació y creció
-d) Un dato histórico verificable sobre el número de familias trasladadas
+c) La idea de que la abuela había decidido libremente no regresar al valle donde nació y donde creció con su familia
+d) Un dato histórico verificable sobre el número de familias trasladadas desde el valle inundado
 
 ---
 

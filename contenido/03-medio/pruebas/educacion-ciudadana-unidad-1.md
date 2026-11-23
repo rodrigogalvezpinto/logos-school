@@ -28,29 +28,29 @@ verdadero o falso, decide si la afirmación es verdadera o falsa.
 **Pregunta 1.** *(Alternativas)* Un centro de estudiantes redacta los principios de su reglamento inspirándose en los fundamentos de la democracia. ¿Cuál de estas frases NO corresponde a un fundamento democrático?
 
 a) "Las decisiones importantes las toma la asamblea de estudiantes, porque el poder reside en sus integrantes"
-b) "Todos los estudiantes serán tratados con respeto a sus derechos, sin discriminación"
+b) "Los estudiantes serán tratados con respeto a sus derechos, sin discriminación por su curso, origen o creencias"
 c) "La lista que gane la elección tendrá autoridad permanente sobre las demás listas, que no podrán volver a postular"
-d) "Cada estudiante tiene igual valor y dignidad, cualquiera sea su curso"
+d) "Cada estudiante tiene igual valor y dignidad, cualquiera sea su curso, su edad o su rendimiento"
 
 **Pregunta 2.** *(Alternativas — análisis de caso)* En un país se respetan la prensa libre y los tribunales independientes, pero el presidente posterga por decreto las elecciones parlamentarias "hasta que la situación económica mejore", sin fecha. ¿Cumple con los atributos de una democracia?
 
 a) No plenamente: aunque hay libertades y tribunales independientes, se suspenden las elecciones periódicas, que permiten a la ciudadanía renovar a sus autoridades
 b) Sí, porque basta con que exista prensa libre y tribunales independientes para que un país sea democrático, aunque no haya elecciones
 c) Sí, porque un presidente elegido puede postergar las elecciones cuando lo considere necesario para la economía
-d) No, porque en una democracia el presidente no puede tomar ninguna decisión sin consultar antes a la ciudadanía en un plebiscito nacional
+d) No, porque en una democracia el presidente debe consultar a la ciudadanía en un plebiscito nacional antes de tomar decisiones económicas importantes
 
 **Pregunta 3.** *(Alternativas)* La dignidad de la persona, el respeto a los Derechos Humanos y la soberanía popular son fundamentos de la democracia. ¿Cuál de las siguientes opciones corresponde, en cambio, a un **atributo** que permite observar si una democracia funciona?
 
-a) Que las personas tengan un valor propio por el solo hecho de ser personas
-b) Que los Derechos Humanos sean anteriores al Estado
-c) Que el poder resida en la nación
+a) Que las personas tengan un valor propio por el hecho de ser personas
+b) Que los Derechos Humanos sean anteriores y superiores al Estado
+c) Que el poder resida en la nación y emane de ella
 d) Que existan elecciones libres y periódicas con alternativas reales
 
 **Pregunta 4.** *(Alternativas — análisis de caso)* En un país, la ley exige que todo candidato a diputado sea aprobado previamente por una comisión nombrada por el gobierno, que rechaza a quienes critican al presidente. ¿Qué fundamento de la democracia se vulnera?
 
-a) La igualdad de voto, porque cada persona sigue teniendo un solo voto
-b) Ninguno, porque igual se realizan elecciones periódicas y la ciudadanía puede votar libremente por los candidatos que quedaron
-c) El Estado de Derecho, porque existe una ley que regula a los candidatos y el gobierno solo la está aplicando con rigor
+a) La igualdad de voto, porque los candidatos críticos no pueden recibir votos de la ciudadanía
+b) Se vulnera poco, porque igual se realizan elecciones periódicas y la ciudadanía puede votar libremente por los candidatos que quedaron habilitados
+c) El Estado de Derecho, porque existe una ley que regula a los candidatos y el gobierno la está aplicando con todo el rigor que exige
 d) La soberanía popular, porque es el gobierno, y no la ciudadanía, quien decide en la práctica entre qué opciones se puede elegir
 
 **Pregunta 5.** *(Varias correctas)* Un grupo de jóvenes de 18 años decide informarse sobre los candidatos a concejal, votar en la elección municipal y luego asistir a las sesiones públicas del concejo. ¿Por qué estas acciones fortalecen la democracia? Marca **todas** las correctas.
@@ -80,23 +80,23 @@ d) A ninguna, porque en los juicios civiles siempre hay que pagar un abogado par
 
 **Pregunta 8.** *(Alternativas)* Un tribunal de primera instancia rechaza la demanda de una persona, que no está de acuerdo con el fallo y lo apela. ¿Qué tribunal revisará esa decisión?
 
-a) El Ministerio Público
+a) El Ministerio Público de la región
 b) La Corte de Apelaciones correspondiente
-c) La Defensoría Penal Pública
+c) La Defensoría Penal Pública regional
 d) La Contraloría General de la República
 
 **Pregunta 9.** *(Alternativas — análisis de caso)* Un joven de 19 años es detenido y formalizado por un delito, y su familia no puede pagar un abogado. ¿Qué institución debe asegurarle una defensa?
 
 a) El Ministerio Público, porque es la misma institución que lo acusa
-b) La Corporación de Asistencia Judicial, porque atiende solo causas penales
+b) La Corporación de Asistencia Judicial, porque atiende las causas de quienes no pueden pagar
 c) La Defensoría Penal Pública, porque garantiza defensa a todo imputado que no tenga abogado
-d) Ninguna, porque si no puede pagar un abogado, el juicio se hace sin defensa
+d) El mismo juez de la causa, que asume su defensa si la familia no puede pagar un abogado
 
 **Pregunta 10.** *(Alternativas — análisis de datos)* Una encuesta en una comuna rural muestra que la mayoría de los vecinos no presenta reclamos ante la justicia porque el tribunal más cercano queda a tres horas de viaje y no hay atención en línea. ¿Qué se concluye sobre el "acceso a la justicia"?
 
 a) Que no basta con que los tribunales y mecanismos existan: también deben estar al alcance real de las personas, incluso en lo geográfico
-b) Que los vecinos no tienen conflictos que resolver, porque si los tuvieran viajarían
-c) Que el acceso a la justicia está plenamente garantizado en el país, porque la ley creó tribunales en todas las regiones y comunas
+b) Que los vecinos tienen pocos conflictos que resolver, porque si los tuvieran harían el viaje hasta el tribunal
+c) Que el acceso a la justicia está garantizado en el país, porque la ley creó tribunales en las distintas regiones y provincias de Chile
 d) Que en las comunas rurales las personas no tienen derechos que reclamar ante los tribunales, porque allí casi no hay conflictos
 
 ---
@@ -139,10 +139,10 @@ d) Función fiscalizadora: el Banco Central fiscaliza a las empresas y el gobier
 
 **Pregunta 15.** *(Alternativas — análisis de caso)* Una cadena de cafeterías anuncia que paga a los productores de café un precio estable y superior al del mercado, con condiciones laborales dignas, y lo certifica con un sello. Al mismo tiempo, el Estado sanciona a quienes usan sellos falsos para engañar a los consumidores. ¿Qué concepto y qué función del Estado están presentes?
 
-a) La inflación; el Estado imprime dinero para pagar mejor a los productores
+a) La inflación; el Estado imprime más dinero para que se pueda pagar mejor a los productores de café
 b) El desarrollo sustentable; el Estado no participa en las relaciones entre empresas y consumidores
 c) El comercio justo; el Estado cumple una función reguladora o fiscalizadora al sancionar los sellos falsos
-d) La soberanía popular; el precio del café se fija por plebiscito
+d) La soberanía popular; el precio justo del café lo fijan los consumidores mediante una votación
 
 ---
 

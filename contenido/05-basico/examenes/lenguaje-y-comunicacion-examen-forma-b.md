@@ -67,17 +67,17 @@ d) Que lo valioso requiere tiempo y no se puede apurar; es una metáfora, porque
 
 **3. (Alternativas)** En el Texto 2, cuando Rosario le dice a Tomás "Hiciste bien en traerlo rápido y no intentar alimentarlo tú mismo", ¿qué se puede inferir sobre su actitud hacia lo que hizo Tomás?
 
-a) Que está molesta porque Tomás tocó a un animal silvestre sin permiso y debió dejarlo donde estaba
-b) Que no le interesa lo que le pasó al quique, porque atiende a muchos animales heridos cada semana
-c) Que prefiere que los niños nunca se acerquen a los animales silvestres, aunque los vean heridos en el camino
+a) Que está molesta porque Tomás tocó a un animal silvestre sin permiso y debió dejarlo donde lo encontró en el campo
+b) Que no le interesa lo que le pasó al quique, porque atiende a muchos animales heridos cada semana en la clínica
+c) Que prefiere que los niños no se acerquen a los animales silvestres, aunque los vean heridos en el camino a la escuela
 d) Que valora la decisión de Tomás de pedir ayuda experta, aunque también le enseña sobre los cuidados que él no conocía
 
 **4. (Alternativas)** Vuelve a leer el Texto 2 completo. Según el relato, ¿por qué la alegría que siente Tomás al ver al quique alejarse libre es distinta a cualquier otra que hubiera sentido antes? ¿Y qué relación tiene esa idea con el mensaje de tata Segundo en el Texto 1 sobre que "las cosas que valen la pena... no se hacen con apuro"?
 
 a) Porque proviene de haber ayudado a un ser vivo a recuperarse con tiempo, cuidado y paciencia, igual que el mensaje de tata Segundo: lo valioso no se hace con apuro
-b) Porque Tomás ganó un premio del pueblo por encontrar al quique herido; no tiene relación con el mensaje de tata Segundo
-c) Porque el quique era su mascota desde hace años y por fin volvió a casa; se relaciona con que la greda se quiebra si se seca rápido
-d) Porque Tomás no tuvo que hacer ningún esfuerzo para que el quique sanara, igual que Antonia, que aprendió alfarería en un solo día
+b) Porque Tomás ganó un premio del pueblo por encontrar al quique herido en el camino; no tiene relación con el mensaje de tata Segundo sobre la greda
+c) Porque el quique era su mascota desde hace años y por fin volvió a casa; se relaciona con que la greda se quiebra si se seca muy rápido al sol
+d) Porque Tomás hizo poco esfuerzo para que el quique sanara, igual que Antonia, que aprendió alfarería en un solo día con tata Segundo sin equivocarse
 
 ---
 
@@ -113,17 +113,17 @@ d) "y el mar responde con un suave murmullo"
 
 **7. (Alternativas)** El primer verso del poema dice "El sol se asoma detrás del muelle". ¿Qué figura de lenguaje figurado se usa y qué imagen transmite?
 
-a) Una comparación: usa "como" para comparar el sol con una persona, y transmite miedo a la noche
-b) Una rima: "asoma" rima con "aurora", y transmite ruido y prisa en el puerto
-c) Una hipérbole: exagera el calor del sol al mediodía, y transmite cansancio en los pescadores
+a) Una comparación: usa "como" para comparar el sol con una persona, y transmite miedo a la noche que termina
+b) Una rima: "asoma" rima con "aurora", y transmite el ruido y la prisa de los pescadores en el puerto
+c) Una hipérbole: exagera el calor del sol al mediodía, y transmite el cansancio de los pescadores del puerto
 d) Una personificación: el sol "se asoma" como una persona, y transmite una imagen delicada y curiosa del amanecer
 
 **8. (Alternativas)** Observa los versos "pintando de cobre las olas quietas" (estrofa 1, verso 2) y "Los pescadores salen con manos curtidas" (estrofa 2, verso 1). ¿Qué afirmación es correcta sobre la rima entre "quietas" y "curtidas", y sobre el sentido y la atmósfera del verso "y el mar responde con un suave murmullo"?
 
-a) Riman en consonante, porque las dos palabras terminan en -as; "el mar responde con un suave murmullo" apela a la vista
+a) Riman en consonante, porque las dos palabras terminan en -as; "el mar responde con un suave murmullo" apela a la vista del lector
 b) "Quietas" y "curtidas" no riman (e-a / i-a); "el mar responde con un suave murmullo" apela al oído y construye una atmósfera de calma
 c) Riman en asonante, porque coinciden las vocales a-a; "el mar responde con un suave murmullo" apela al gusto y crea una atmósfera de miedo
-d) No riman; "el mar responde con un suave murmullo" apela al olfato y crea una atmósfera de fiesta
+d) No riman; "el mar responde con un suave murmullo" apela al olfato y crea una atmósfera de fiesta en el puerto pesquero
 
 ---
 
@@ -152,17 +152,17 @@ Ballena sei          Aysén                       Febrero - Marzo
 
 **9. (Alternativas)** Según el texto, ¿por qué llegan las ballenas a las costas del sur de Chile entre diciembre y abril?
 
-a) Porque buscan aguas más cálidas para reproducirse en verano
-b) Porque siguen las corrientes cálidas que vienen desde el norte
-c) Porque escapan de los barcos pesqueros que trabajan en otras zonas
+a) Porque buscan aguas más cálidas para tener a sus crías durante el verano
+b) Porque siguen las corrientes cálidas que llegan desde el norte de Chile
+c) Porque escapan de los barcos pesqueros que trabajan en otras zonas del mar
 d) Porque las aguas frías del Pacífico se llenan de kril, su alimento principal
 
 **10. (Alternativas)** El texto no explica directamente por qué es importante proponer nuevas rutas de navegación para los barcos en el golfo de Corcovado durante el verano y el otoño. ¿Qué combinación de información del texto y conocimiento previo permite inferirlo?
 
-a) Que en verano y otoño el mar está más tranquilo y los barcos pueden pasear por el golfo sin peligro
-b) Que las ballenas atacan a los barcos en otoño cuando se sienten amenazadas por el ruido de los motores
+a) Que en verano y otoño el mar está más tranquilo y los barcos pueden pasear por el golfo sin peligro para los turistas
+b) Que las ballenas atacan a los barcos en otoño cuando se sienten amenazadas por el ruido de los motores y las hélices
 c) Que en esos meses se concentran muchas ballenas y que las colisiones con barcos son una amenaza; cambiar rutas donde hay muchos animales reduce los choques
-d) Que el texto dice explícitamente que hay que cambiar las rutas de los barcos en verano y otoño, por lo que no es necesario relacionar ninguna información para responder
+d) Que el texto dice explícitamente que hay que cambiar las rutas de los barcos en verano y otoño, por lo que basta con copiar esa oración para responder
 
 **11. (Alternativas)** Según la tabla, ¿qué especie de ballena se observa en una región distinta a las demás y durante meses distintos a los de las otras tres especies?
 
@@ -210,16 +210,16 @@ d) Presentar el reglamento oficial de la rayuela y del trompo
 **15. (Alternativas)** Imagina que quieres saber "cuánto cuesta cada anticucho o cada vaso de mote con huesillo" en el encuentro. ¿Qué afirmación es correcta?
 
 a) Sí: el afiche indica el precio de cada anticucho y de cada vaso
-b) No la entrega, y no hay ninguna forma de averiguarlo antes del día del evento
+b) No la entrega, y habría que esperar al día del evento para conocer los precios
 c) Sí: todo es gratis, porque el afiche dice que la entrada es liberada
 d) No la entrega; habría que consultar al Centro de Padres y Apoderados, emisor del afiche
 
 **16. (Alternativas)** ¿Cuál de las siguientes afirmaciones sobre el destinatario de los textos es correcta?
 
-a) Todos los textos están dirigidos exactamente al mismo tipo de destinatario, sin importar su propósito
+a) Los textos están dirigidos al mismo tipo de destinatario, sin importar su propósito
 b) El destinatario de un texto depende de su propósito y del contexto en que fue producido
-c) Los afiches nunca tienen un destinatario definido
-d) Solo las cartas tienen destinatario
+c) Los afiches tienen un destinatario poco definido, porque los lee cualquiera
+d) Las cartas y los correos son los únicos textos con destinatario
 
 **17. (Varias correctas)** Relee el afiche completo. ¿Qué expresiones del afiche muestran que está dirigido a un público amplio (no solo a un grupo reducido de personas)?
 
@@ -236,10 +236,10 @@ d) "Entrada liberada para toda la comunidad"
 
 **18. (Alternativas)** ¿Cuál de las siguientes afirmaciones sobre las descripciones del ambiente en un cuento es correcta?
 
-a) Solo sirven para alargar el texto, sin ningún propósito para la historia
+a) Sirven sobre todo para alargar el texto y llegar a la cantidad de líneas que se pide
 b) Ayudan a quien lee a imaginar el lugar y el momento en que ocurre la historia, y pueden reforzar la atmósfera del relato
-c) Nunca deben incluir detalles sensoriales, como sonidos, olores o colores, porque distraen a quien lee de la acción principal
-d) Deben ubicarse siempre después del desenlace, para no interrumpir la acción
+c) Deben evitar los detalles sensoriales, como sonidos, olores o colores, porque distraen a quien lee de la acción principal
+d) Deben ubicarse después del desenlace, para no interrumpir la acción de los personajes
 
 **19. (Alternativas)** ¿Qué descripción del ambiente de una feria costumbrista de invierno en el sur de Chile, un día de lluvia, usa al menos dos detalles sensoriales?
 
@@ -268,7 +268,7 @@ d) "Al principio, Sofía bailó en el gimnasio. Después, Sofía cantó. Luego, 
 
 **22. (Alternativas)** ¿Cuál de las siguientes afirmaciones sobre la organización de un artículo informativo es correcta?
 
-a) Todas las ideas del artículo pueden desarrollarse en un solo párrafo extenso, siempre que el texto sea breve
+a) Las ideas del artículo pueden desarrollarse en un solo párrafo extenso, cuando el texto es breve
 b) Cada párrafo debe organizarse en torno a una idea central, y los párrafos deben relacionarse entre sí mediante conectores
 c) Los párrafos de un artículo informativo no deben usar conectores, para que cada uno se lea por separado
 d) Un artículo informativo no necesita organizarse en párrafos, porque basta con que la información sea verdadera
@@ -285,8 +285,8 @@ d) Un artículo informativo no necesita organizarse en párrafos, porque basta c
 
 **23. (Alternativas)** Según el artículo "El picaflor de Arica, un tesoro en peligro", ¿cuál es la idea central del segundo párrafo?
 
-a) Que el picaflor de Arica mide apenas seis centímetros y que, según el último conteo, quedan menos de 200 ejemplares en libertad
-b) Que el picaflor ayuda a polinizar las flores del valle de Azapa y que, por eso, beneficia directamente a los agricultores de la zona
+a) Que el picaflor de Arica mide apenas seis centímetros y que, según el último conteo, quedan menos de 200 ejemplares en libertad en el valle
+b) Que el picaflor ayuda a polinizar las flores del valle de Azapa y que, por eso, beneficia directamente a los agricultores de la zona, según los expertos
 c) Que Arica está en el extremo norte de Chile y que su clima seco y caluroso permite que el picaflor viva allí todo el año
 d) Las causas de la disminución del picaflor (pérdida de hábitat, plaguicidas, competencia con otra especie) y los programas de reforestación para protegerlo
 
@@ -295,7 +295,7 @@ d) Las causas de la disminución del picaflor (pérdida de hábitat, plaguicidas
 a) "Ahorrar energía es bueno. Ahorrar energía ayuda. Ahorrar energía es importante."
 b) "Ahorrar energía en el hogar reduce el gasto familiar, disminuye la contaminación y contribuye a cuidar los recursos naturales."
 c) "Ahorrar ahorrar ahorrar energía en el hogar es lo mejor lo mejor para la familia."
-d) "La energía energía energía se debe cuidar cuidar cuidar en todas las casas de Chile, porque la energía es la energía del hogar."
+d) "La energía energía energía se debe cuidar cuidar cuidar en las casas de Chile, porque la energía es la energía del hogar y de la familia."
 
 **25. (Alternativas)** Imagina que debes escribir un artículo informativo breve sobre "la alimentación saludable en tu colegio". ¿Qué planificación es más adecuada?
 

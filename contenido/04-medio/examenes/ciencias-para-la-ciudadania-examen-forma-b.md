@@ -65,25 +65,25 @@ la comunidad lo acepta.
 **3.** *(Alternativas, 2 puntos)* Una reserva marina permite pesca artesanal regulada en algunas zonas y prohíbe toda extracción en otras (zona núcleo). ¿Qué afirmación distingue correctamente "proteger totalmente" de "utilizar de forma sostenible"?
 
 a) Proteger totalmente es no permitir ninguna extracción (zona núcleo); utilizar de forma sostenible es permitir una actividad regulada que no compromete la regeneración del recurso
-b) Son lo mismo: en ambos casos se prohíbe pescar en toda la reserva, y la diferencia es solo el nombre que se usa en cada plan de manejo
-c) Utilizar de forma sostenible es extraer todo lo posible mientras haya recurso, y proteger totalmente es cerrar la zona solo cuando el recurso ya se agotó
-d) Proteger totalmente es permitir la pesca con cuotas en la zona núcleo; utilizar de forma sostenible es pescar sin límites en el resto de la reserva
+b) Son dos nombres para el mismo plan: en ambas zonas se permite pescar con cuotas anuales, y la diferencia está en qué organismo fiscaliza cada sector de la reserva
+c) Utilizar de forma sostenible es extraer lo más posible mientras haya recurso, y proteger totalmente es cerrar la zona cuando el recurso ya se agotó en la reserva
+d) Proteger totalmente es permitir la pesca con cuotas en la zona núcleo; utilizar de forma sostenible es pescar sin límites de captura en el resto de la reserva marina
 
 **4.** *(Alternativas)* Una fábrica genera baterías usadas y solventes químicos como
 parte de sus residuos. Desde el criterio de gestión de residuos, la medida más
 adecuada es:
 
 a) Mezclarlos con los residuos domiciliarios comunes para reducir costos de transporte
-b) Verterlos en un curso de agua cercano, ya que se diluyen naturalmente
+b) Verterlos en un curso de agua cercano, ya que se diluyen naturalmente con la corriente
 c) Entregarlos a un gestor autorizado para su disposición final segura como residuos
    peligrosos
-d) Almacenarlos indefinidamente en el mismo lugar sin ningún tratamiento
+d) Almacenarlos en un galpón de la misma fábrica hasta que se acumule una cantidad mayor
 
 **5.** *(Alternativas, 2 puntos)* Un colegio quiere reducir su consumo eléctrico, pero solo cuenta con el comentario de un auxiliar de que "las salas quedan con la luz encendida todo el día". ¿Qué debería hacer antes de diseñar un proyecto de eficiencia energética?
 
-a) Instalar paneles solares de inmediato en todas las salas, sin medir nada, porque cualquier proyecto de eficiencia energética reduce el consumo de la misma forma
-b) Confiar en el comentario del auxiliar y apagar todas las luces del colegio durante la jornada, porque el diagnóstico ya está hecho y medir solo retrasaría la solución
-c) Esperar a que suba la cuenta de electricidad para decidir, porque solo un aumento del gasto demuestra que existe un problema que justifique diseñar un proyecto
+a) Instalar paneles solares de inmediato en las salas, porque un proyecto de eficiencia energética reduce el consumo de la misma forma en los distintos colegios del país
+b) Confiar en el comentario del auxiliar y apagar las luces de las salas durante la jornada, porque el diagnóstico ya está hecho y medir el consumo retrasaría la solución
+c) Esperar a que suba la cuenta de electricidad para decidir, porque un aumento del gasto es la señal que demuestra que existe un problema que justifique un proyecto
 d) Medir el consumo real (por sala u horario), identificar los focos de mayor gasto y compararlo con un período de referencia, para dirigir la solución y evaluar después su efectividad
 
 **6.** *(Varias correctas, 3 puntos)* Lee la siguiente situación:
@@ -109,16 +109,16 @@ una población de pumas, dificultando su desplazamiento entre dos áreas de bosq
 nativo. ¿Cuál de las siguientes medidas responde mejor al criterio de conservación de
 ecosistemas?
 
-a) Aumentar la velocidad máxima permitida en el tramo
-b) No tomar ninguna medida, ya que la fauna se adaptará por sí sola
-c) Eliminar toda la vegetación cercana a la carretera para mejorar la visibilidad
+a) Aumentar la velocidad máxima permitida para que los vehículos crucen el tramo más rápido
+b) No tomar medidas por ahora, ya que la fauna suele adaptarse a los cambios por sí sola
+c) Eliminar la vegetación cercana a la carretera para mejorar la visibilidad de los conductores
 d) Construir un corredor biológico (paso de fauna) que conecte ambas áreas de bosque
 
 **9.** *(Alternativas, 2 puntos)* Un vertedero municipal captura el metano generado por la descomposición de residuos orgánicos y lo usa como biogás. ¿Por qué el proyecto combina gestión de residuos y reducción de emisiones?
 
 a) Porque elimina los residuos sin dejar rastro y, al quemarlos, evita que se liberen gases a la atmósfera, de modo que ya no es necesario reducir la basura
 b) Porque aumenta la cantidad de residuos orgánicos que llegan al vertedero, lo que genera más biogás y, por lo tanto, más energía para la comuna
-c) Porque el metano no es un gas de efecto invernadero, así que liberarlo no afecta el clima, y capturarlo solo sirve para aprovecharlo como combustible
+c) Porque el metano es un gas de efecto invernadero débil, así que liberarlo afecta poco el clima, y capturarlo sirve sobre todo para aprovecharlo como combustible
 d) Porque gestiona el residuo con control y, al capturar el metano en vez de dejarlo escapar, reduce un gas de efecto invernadero potente y lo transforma en energía útil
 
 **10.** *(Varias correctas, 3 puntos)* Lee la siguiente situación:
@@ -147,10 +147,10 @@ d) Solo puede aplicarse en zonas con abundante lluvia, donde no existen problema
 
 **12.** *(Alternativas, 2 puntos)* Una comunidad rural restaura una ladera degradada plantando bosque nativo (en vez de una plantación exótica de rápido crecimiento). ¿Qué beneficios combina el proyecto?
 
-a) Solo produce madera para vender rápidamente, porque el bosque nativo crece más rápido que el exótico
+a) Produce madera para vender en pocos años, porque el bosque nativo crece más rápido que una plantación exótica de pino
 b) Aumenta las emisiones de CO₂, porque los árboles nativos respiran más de lo que capturan durante su crecimiento
 c) Restablece hábitat y biodiversidad propia del lugar y, además, el bosque en crecimiento captura CO₂ como sumidero de carbono
-d) No tiene relación con el cambio climático ni con la biodiversidad: solo evita la erosión de la ladera
+d) Evita la erosión de la ladera, pero no tiene efectos sobre el clima ni sobre la biodiversidad de la comunidad rural
 
 **13.** *(Varias correctas, 3 puntos)* Lee la siguiente situación:
 
@@ -173,10 +173,10 @@ d) Consulta y participación real de la comunidad afectada en la decisión
 la Patagonia chilena, medido mediante imágenes satelitales durante varias décadas, es
 considerado una línea de evidencia del cambio climático porque:
 
-a) Se basa en una sola medición aislada, tomada en un año especialmente cálido, sin comparación en el tiempo
+a) Se basa en una medición aislada, tomada en un año especialmente cálido, que no se compara con lo ocurrido en otros años
 b) Corresponde a un registro sostenido en el tiempo, consistente con el aumento de
    temperatura documentado por otras fuentes independientes
-c) Es solo la opinión de un grupo reducido de guías turísticos que observan los glaciares cada temporada
+c) Se basa en las observaciones de los guías turísticos que recorren los glaciares cada temporada y anotan lo que ven en sus cuadernos
 d) No tiene relación con las mediciones de temperatura global, porque los glaciares retroceden por la erosión del viento
 
 **15.** *(Verdadero o falso)* Que las proyecciones climáticas presenten un rango de incertidumbre significa que el calentamiento global no está ocurriendo.
@@ -205,17 +205,17 @@ d) Porque los corales no tienen ninguna relación con la temperatura del agua
 ¿Qué evaluación considera tanto la mitigación climática como la biodiversidad?
 
 a) (a) captura carbono más rápido y barato, pero genera un ecosistema poco diverso; (b) captura más lento, pero restaura hábitat, biodiversidad y resiliencia a largo plazo
-b) (a) es mejor en todo sentido, porque crece más rápido y captura más carbono, y además forma un ecosistema tan diverso como el bosque nativo original
+b) (a) es mejor en todo sentido, porque crece más rápido y captura más carbono, y además forma un ecosistema tan diverso como el bosque nativo que existía antes
 c) (b) no captura nada de carbono, porque los árboles nativos crecen demasiado lento; su único aporte es estético y no tiene efectos en la biodiversidad
-d) Ambas opciones tienen exactamente el mismo efecto en la biodiversidad y en el clima, porque cualquier árbol restaura el ecosistema de la misma forma
+d) Ambas opciones tienen el mismo efecto en la biodiversidad y en el clima, porque los árboles restauran el ecosistema de la misma forma sin importar su especie
 
 **19.** *(Verdadero o falso)* La decisión de instalar una planta desalinizadora para enfrentar la sequía puede analizarse de forma rigurosa considerando solo su costo económico.
 
 **20.** *(Alternativas, 2 puntos)* ¿Por qué reducir las emisiones de metano de la actividad ganadera es una medida de **mitigación** del cambio climático, y cómo podría lograrse?
 
-a) Porque es una medida de adaptación a las olas de calor que sufre el ganado; por ejemplo, construyendo sombra en los potreros para proteger a los animales
-b) Porque el metano enfría la atmósfera, y reducir sus emisiones ayuda a mantener temperaturas estables; por ejemplo, disminuyendo el número de animales en invierno
-c) Porque aumenta la producción de carne y leche, lo que permite financiar otras medidas contra el calentamiento; por ejemplo, plantar árboles en los campos ganaderos
+a) Porque es una medida de adaptación a las olas de calor que sufre el ganado; por ejemplo, construyendo sombra y bebederos en los potreros para proteger a los animales en verano
+b) Porque el metano enfría la atmósfera, y reducir sus emisiones ayuda a mantener temperaturas estables; por ejemplo, disminuyendo el número de animales en los campos durante el invierno
+c) Porque aumenta la producción de carne y leche, lo que permite financiar otras medidas contra el calentamiento; por ejemplo, plantar árboles en los campos ganaderos de la zona sur del país
 d) Porque el metano retiene mucho más calor que el CO₂ en el corto plazo, y reducirlo ataca una causa del calentamiento; por ejemplo, cambiando la alimentación del ganado o capturando biogás del estiércol
 
 **21.** *(Varias correctas, 3 puntos)* Lee la siguiente información:
@@ -235,19 +235,19 @@ d) Lluvias más intensas y esporádicas sobre suelos áridos con poca vegetació
 para mantener la Tierra habitable. Lo que preocupa a la comunidad científica respecto
 al cambio climático actual es que:
 
-a) El efecto invernadero natural ha desaparecido por completo, y por eso la Tierra pierde calor más rápido que antes, lo que produce cambios extremos en el clima
+a) El efecto invernadero natural ha desaparecido por completo, y por eso la Tierra pierde calor más rápido que antes, lo que produce inviernos y veranos cada vez más extremos en el planeta
 b) Las actividades humanas han intensificado el efecto invernadero al aumentar la
    concentración atmosférica de gases como el CO₂, elevando la temperatura media del
    planeta más allá de su variabilidad natural
-c) El efecto invernadero solo ocurre en los países industrializados, donde se concentran las fábricas, y no afecta la temperatura del resto del planeta
-d) El aumento de CO₂ atmosférico no tiene ninguna relación con la actividad humana: se debe a la variación natural del clima, que ha sido igual de rápida en otras épocas
+c) El efecto invernadero ocurre sobre todo en los países industrializados, donde se concentran las fábricas, y casi no afecta la temperatura del resto del planeta ni de sus océanos
+d) El aumento de CO₂ atmosférico se debe principalmente a la variación natural del clima, que ha sido igual de rápida en otras épocas, y la actividad humana influye muy poco en él
 
 **23.** *(Alternativas, 2 puntos)* ¿Por qué la deforestación de grandes extensiones de bosque contribuye también al cambio climático?
 
-a) Porque los árboles emiten más CO₂ del que capturan durante su vida, así que eliminarlos debería reducir el carbono atmosférico
+a) Porque los árboles emiten más CO₂ del que capturan durante su vida, así que eliminarlos debería reducir el carbono que hay en la atmósfera del planeta
 b) Porque se pierde un sumidero de carbono y parte del carbono almacenado en la biomasa puede liberarse a la atmósfera, por ejemplo al quemar los árboles talados
-c) Porque los cultivos que reemplazan al bosque absorben todo el carbono que absorbía el bosque, por lo que el efecto es nulo
-d) No contribuye al cambio climático: la deforestación solo elimina hábitat y afecta a las especies que vivían en el bosque
+c) Porque los cultivos que reemplazan al bosque absorben todo el carbono que antes absorbía el bosque, por lo que el efecto sobre el clima es nulo
+d) Contribuye poco al cambio climático: la deforestación afecta sobre todo el hábitat de las especies que vivían en el bosque, no la cantidad de carbono
 
 **24.** *(Alternativas, 3 puntos)* Lee la siguiente información:
 
@@ -256,10 +256,10 @@ d) No contribuye al cambio climático: la deforestación solo elimina hábitat y
 
 ¿Qué explicación y qué riesgo biológico son correctos?
 
-a) Las aves adelantan su llegada porque el clima se enfría y buscan refugio antes de tiempo; no hay ningún riesgo biológico, porque las demás especies se adaptan al mismo ritmo
-b) El fenómeno no tiene relación con el clima, sino con el aumento de alimento en las ciudades; el riesgo es que las aves dejen de migrar y se vuelvan sedentarias en las zonas urbanas
+a) Las aves adelantan su llegada porque el clima se enfría y buscan refugio antes de tiempo; el riesgo es bajo, porque las demás especies del ecosistema se adaptan al mismo ritmo cada temporada
+b) El fenómeno no tiene relación con el clima, sino con el aumento de alimento en las ciudades; el riesgo es que las aves dejen de migrar y se vuelvan sedentarias en las zonas urbanas y costeras
 c) El adelanto de las temperaturas primaverales puede inducir el cambio; el riesgo es un desacople temporal: si el insecto o la planta de la que se alimentan no adelanta su ciclo, faltará alimento y se afectará la reproducción
-d) El adelanto de las temperaturas primaverales garantiza más alimento para las aves, porque los insectos y las plantas siempre adelantan su ciclo exactamente al mismo ritmo
+d) El adelanto de las temperaturas primaverales asegura más alimento para las aves, porque los insectos y las plantas de las que se alimentan adelantan su ciclo al mismo ritmo, sin riesgo para su reproducción
 
 **25.** *(Varias correctas, 3 puntos)* La electromovilidad y la ampliación del transporte público se mencionan como medidas de mitigación en las ciudades chilenas. ¿Qué afirmaciones evalúan correctamente esta solución? Marca **todas** las correctas.
 

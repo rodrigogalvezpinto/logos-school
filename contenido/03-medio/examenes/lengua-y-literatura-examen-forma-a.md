@@ -35,10 +35,10 @@ relacionado_con: contenido/03-medio/lengua-y-literatura.md (banco de contenido)
 
 **1. (Alternativas)** En la expresión «la radio de mi abuelo era la ventana por donde entraba el mundo», ¿qué figura literaria se reconoce?
 
-a) Hipérbole: exagera el tamaño real del aparato de radio
+a) Hipérbole: exagera el tamaño real del aparato de radio del abuelo
 b) Metáfora: identifica la radio con una ventana que comunica con el mundo
-c) Anáfora: repite la misma palabra al inicio de varias frases
-d) Onomatopeya: imita el sonido que hacía la radio al encenderse
+c) Anáfora: repite la misma palabra al inicio de varias frases del texto
+d) Onomatopeya: imita el sonido que hacía la radio al encenderse cada día
 
 ---
 
@@ -59,8 +59,8 @@ d) Demuestra que el abuelo era locutor profesional y el narrador, un periodista 
 
 a) Porque su identidad está en su función de comunicar y de vincular a personas aisladas
 b) Porque el abuelo no sabía leer y la radio era su único trabajo pagado en el pueblo
-c) Porque el narrador nunca vio a su abuelo y solo conoce su voz por grabaciones
-d) Porque en el sur de Chile todas las personas se conocen por sus nombres
+c) Porque el narrador conoció a su abuelo de niño y lo recuerda por las grabaciones
+d) Porque en el sur de Chile las personas de un pueblo se conocen por sus nombres
 
 ---
 
@@ -106,27 +106,27 @@ d) Profundizar en las causas y en el contexto del problema que trata
 **9. (Alternativas)** ¿Qué información del reportaje es verificable y cuál depende solo de lo que afirma una de las partes?
 
 a) Las familias abastecidas, atribuidas al municipio, se pueden verificar; que la empresa «cumple con la ley» es una afirmación de una de las partes
-b) Todo el reportaje depende solo de la opinión de la periodista, porque no cita a ninguna fuente identificable ni entrega datos de ningún organismo
+b) El reportaje depende de la opinión de la periodista, porque no cita fuentes identificables ni entrega datos de un organismo público
 c) Las dos afirmaciones son igual de verificables, porque aparecen en el mismo reportaje y las dos fueron dichas por personas que viven en la zona
-d) Ninguna información se puede verificar, porque los reportajes nunca entregan datos ni fuentes sobre los hechos que informan a sus lectores
+d) La información es difícil de verificar, porque los reportajes rara vez entregan datos o fuentes sobre los hechos que informan
 
 ---
 
 **10. (Alternativas)** ¿Por qué es relevante, para la audiencia chilena, que el reportaje mencione la megasequía y el debate sobre el agua como derecho humano?
 
 a) Porque así el reportaje se vuelve más largo y parece más serio para los lectores
-b) Porque el agua es un tema que solo interesa a los habitantes de la provincia de Petorca
-c) Porque todos los reportajes deben terminar con una opinión del periodista sobre la ley
+b) Porque el agua es un tema que interesa sobre todo a los habitantes de la provincia de Petorca
+c) Porque los reportajes deben terminar con una opinión del periodista sobre la ley vigente
 d) Porque vincula el caso local con un problema nacional y con una discusión pública vigente
 
 ---
 
 **11. (Alternativas)** ¿Qué propósito cumple contrastar la declaración de la empresa («usa riego tecnificado») con el testimonio de Gladys Tapia («cincuenta litros por persona al día»)?
 
-a) Demostrar que la empresa miente siempre y que la vecina dice toda la verdad sobre el agua
+a) Demostrar que la empresa miente y que la vecina dice la verdad sobre el uso del agua del valle
 b) Mostrar la tensión entre distintos usos del agua y que una declaración no basta para cerrar el problema
 c) Explicar con detalle técnico cómo funciona el riego tecnificado en la agricultura del valle
-d) Entretener al lector con dos historias distintas que no tienen ninguna relación entre sí
+d) Entretener al lector con dos historias distintas que tienen poca relación entre sí en el reportaje
 
 ---
 
@@ -134,8 +134,8 @@ d) Entretener al lector con dos historias distintas que no tienen ninguna relaci
 
 a) Cambiarían el lenguaje y los recursos (imágenes, sonido, entrevistas en cámara), pero se mantendrían el tema, las fuentes y el propósito
 b) Cambiaría el tema, porque en video no se puede hablar de la sequía, pero se mantendría el texto escrito palabra por palabra
-c) No cambiaría nada, porque un reportaje escrito y uno audiovisual usan exactamente los mismos recursos
-d) Se mantendrían solo las imágenes, y se eliminarían los testimonios y los datos del municipio por ser aburridos
+c) Cambiaría poco, porque un reportaje escrito y uno audiovisual usan los mismos recursos para informar al público
+d) Se mantendrían las imágenes, y se eliminarían los testimonios y los datos del municipio por ser poco atractivos
 
 ---
 
@@ -151,10 +151,10 @@ d) Se mantendrían solo las imágenes, y se eliminarían los testimonios y los d
 
 **13. (Alternativas)** ¿Qué rol asume @historiador_local en el hilo?
 
-a) El de un vecino que se queja sin aportar información
-b) El de una autoridad que decide el nombre de la plaza
+a) El de un vecino que se queja sin aportar información nueva
+b) El de una autoridad que decide el nombre de la plaza del barrio
 c) El de un especialista que aporta información histórica con su fuente
-d) El de un usuario que insulta a quienes piensan distinto
+d) El de un usuario que insulta a quienes piensan distinto en el foro
 
 ---
 
@@ -165,8 +165,8 @@ d) El de un usuario que insulta a quienes piensan distinto
 **15. (Alternativas)** ¿Qué función cumple la intervención de @junta_vecinos_oficial?
 
 a) Insultar a quienes se oponen al cambio de nombre de la plaza
-b) Contar la historia de los primeros pobladores del barrio
-c) Anunciar que el nombre de la plaza ya fue cambiado ayer
+b) Contar la historia de los primeros pobladores del barrio y de la plaza
+c) Anunciar que el nombre de la plaza ya fue cambiado ayer por el concejo
 d) Aclarar el procedimiento formal y corregir la idea de que nadie preguntará
 
 ---
@@ -175,8 +175,8 @@ d) Aclarar el procedimiento formal y corregir la idea de que nadie preguntará
 
 a) Razona a partir de evidencia documental: las actas municipales de 1965
 b) Razona por analogía, comparando la plaza con otra ciudad del país
-c) Generaliza a partir de su experiencia personal en el barrio
-d) Apela a las emociones de los vecinos, sin entregar ningún dato
+c) Generaliza a partir de su experiencia personal como vecino del barrio
+d) Apela a las emociones de los vecinos, sin entregar datos que lo respalden
 
 ---
 
@@ -210,8 +210,8 @@ d) El comentario de @anonimo_99 sobre quienes defienden el nombre antiguo
 
 **19. (Alternativas)** La estudiante debe transformar su párrafo analítico (versión a) en el guion de un video corto para la cuenta de la biblioteca. ¿Qué decisión es la más adecuada?
 
-a) Leer el párrafo completo frente a la cámara, sin cambiar ninguna palabra
-b) Eliminar la idea central y mostrar solo fotos del sur de Chile con música
+a) Leer el párrafo completo frente a la cámara, sin cambiar sus palabras
+b) Eliminar la idea central y mostrar fotos del sur de Chile con música de fondo
 c) Mantener la idea central del contraste, con frases breves y apoyos visuales
 d) Agregar opiniones sobre otros cuentos que no tienen relación con el análisis
 

@@ -27,8 +27,8 @@ y diversidad étnica, cultural y sexual).
 1. **(Alternativas)** ¿Cuál de las siguientes es la función principal del Poder Judicial en la
 institucionalidad democrática chilena?
 a) Dirigir la administración del país y promulgar las leyes aprobadas
-b) Elaborar y aprobar las leyes que rigen al país
-c) Fiscalizar la legalidad del uso de los recursos públicos
+b) Elaborar, discutir y aprobar las leyes que rigen a todo el país
+c) Fiscalizar la legalidad del uso de los recursos públicos del Estado
 d) Resolver conflictos aplicando las leyes y garantizar juicios imparciales
 
 2. **(Verdadero o Falso)** El Tribunal Constitucional es un órgano autónomo cuya función es
@@ -61,9 +61,9 @@ firmas de respaldo.
 6. **(Alternativas — análisis de caso)** Una gobernación regional destina recursos públicos a un programa que la normativa no autorizaba. Un grupo de consejeros regionales solicita que un órgano autónomo revise la legalidad de ese gasto. ¿Qué órgano está llamado a pronunciarse y por qué?
 
 a) La Contraloría General de la República, porque fiscaliza la legalidad del uso de los recursos públicos por parte de la administración del Estado
-b) El Tribunal Constitucional, porque revisa si las leyes y los actos de la administración regional contradicen la Constitución
-c) El Servicio Electoral, porque administra el registro electoral y fiscaliza el gasto de las autoridades electas en cada región
-d) La Cámara de Diputadas y Diputados, porque aprueba el presupuesto de cada región y puede revisar su ejecución
+b) El Tribunal Constitucional, porque revisa si las leyes y los actos de la administración regional contradicen lo que establece la Constitución
+c) El Servicio Electoral, porque administra el registro electoral y fiscaliza el gasto de las autoridades electas en cada una de las regiones
+d) La Cámara de Diputadas y Diputados, porque aprueba el presupuesto de cada región y puede revisar en detalle su ejecución año a año
 
 7. **(Alternativas)** ¿Qué significa que en una democracia "el poder controla al poder" (pesos y contrapesos), y por qué se vincula con el bien común?
 
@@ -75,10 +75,10 @@ d) Cada órgano está sometido a reglas y a la fiscalización de otros, de modo 
 ## Parte B — OA N°5: Libertad, igualdad y solidaridad (preguntas 8 a 15)
 
 8. **(Alternativas)** Un programa público entrega preuniversitario gratuito y transporte a estudiantes de liceos rurales, para que puedan competir por un cupo en la universidad en condiciones parecidas a las de estudiantes de la ciudad. ¿Qué principio busca concretar?
-a) Que todas las personas reciban exactamente el mismo ingreso cada mes, sin importar su trabajo
+a) Que las personas reciban el mismo ingreso cada mes, sin importar el trabajo que realicen en su vida
 b) La igualdad de oportunidades: que las personas partan con condiciones similares para desarrollarse
-c) Que la ley trate de forma distinta a cada grupo según su riqueza y el barrio donde vive
-d) Que el Estado no intervenga nunca en la educación
+c) Que la ley trate de forma distinta a cada grupo según su riqueza y según el barrio donde vive
+d) Que el Estado deje la educación en manos de cada familia y no intervenga en ella
 
 9. **(Verdadero o Falso)** Una persona tiene plena libertad positiva para estudiar en la universidad si ninguna ley se lo prohíbe, aunque no tenga cómo pagar el arancel ni el transporte.
 
@@ -96,9 +96,9 @@ c) 1-C, 2-A, 3-B
 d) 1-B, 2-C, 3-A
 
 11. **(Alternativas)** ¿Cuál de los siguientes es un ejemplo de "libertad positiva"?
-a) Que ninguna ley prohíba a una persona ciega participar en una elección, aunque no existan votos en braille para que lo haga sola
+a) Que la ley no prohíba a una persona ciega participar en una elección, aunque no existan votos en braille para que lo haga sola
 b) Que el Estado disponga votos en braille y accesos para que las personas con discapacidad visual puedan votar de forma autónoma
-c) Que nadie te obligue a afiliarte a un partido político
+c) Que nadie te obligue a afiliarte a un partido político para poder votar o ser candidato
 d) Que puedas publicar tu opinión en redes sociales sin censura previa del Estado ni de las empresas que administran las plataformas
 
 12. **(Verdadero o Falso)** Como existe un debate legítimo sobre cómo enfrentar la migración, es aceptable en democracia que una política migratoria niegue la atención de salud de urgencia a las personas migrantes.
@@ -111,16 +111,16 @@ c) Igualdad de trato
 d) Solidaridad tributaria
 
 14. **(Alternativas — análisis de datos)** Un estudio muestra que, en los directorios de las grandes empresas del país, menos del 20% de los cargos están ocupados por mujeres, aunque ellas son más de la mitad de las personas con título profesional. ¿Qué desafío ilustra?
-a) La desinformación electoral durante las campañas municipales
-b) La concentración de los medios de comunicación en pocas manos
-c) La superación de la pobreza en las comunas más vulnerables
+a) La desinformación electoral durante las campañas municipales del país
+b) La concentración de los medios de comunicación en pocas empresas privadas
+c) La superación de la pobreza en las comunas más vulnerables de la región
 d) La equidad de género: subrepresentación de mujeres en espacios de decisión
 
 15. **(Alternativas)** Una comunidad aymara pide que la información sobre trámites públicos esté también en su lengua y que se respeten sus formas de organización. ¿Por qué esta demanda es un desafío democrático y no solo una cuestión de "buena voluntad"?
-a) Porque solo depende de la buena voluntad de cada funcionario público, sin ninguna responsabilidad del Estado ni de sus instituciones, y cada servicio decide si atiende o no en lengua indígena
+a) Porque depende de la buena voluntad de cada funcionario público, más que de una responsabilidad del Estado, y cada servicio decide si atiende o no en lengua indígena
 b) Porque el reconocimiento de la diversidad étnica y cultural se vincula con la igual dignidad y los derechos de los pueblos originarios, y requiere normas y políticas públicas, no favores
 c) Porque los pueblos originarios no tienen derechos políticos plenos en Chile, y por eso cada autoridad decide libremente si los atiende y si respeta sus costumbres y su lengua
-d) Porque es un tema exclusivamente privado que no requiere políticas públicas
+d) Porque es un tema privado de cada comunidad, que se resuelve con sus propias organizaciones y dirigentes, sin necesidad de normas ni de políticas públicas del Estado
 
 ---
 

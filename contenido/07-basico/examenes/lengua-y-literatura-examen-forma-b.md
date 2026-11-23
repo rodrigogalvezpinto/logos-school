@@ -47,8 +47,8 @@ d) La discusión entre la abuela y Camila por ordenar las pertenencias del altil
 
 **2. (Alternativas)** ¿Qué rol cumple la abuela en el desarrollo del conflicto entre Camila y Tomás?
 
-a) Ninguno importante, porque no estaba presente cuando ocurrió la pelea entre los hermanos y solo se entera años después
-b) Es la narradora que cuenta toda la historia en primera persona, desde el día del violín hasta la carta final
+a) Tiene un papel menor, porque no estaba presente cuando ocurrió la pelea entre los hermanos y se entera de lo ocurrido años después
+b) Es la narradora que cuenta toda la historia en primera persona, desde el día del violín hasta la carta final del cuento
 c) Es quien obliga a los hermanos a pedirse perdón de inmediato, el mismo día en que se rompe el violín del altillo
 d) Es quien realmente dejó mal apoyado el violín, pero calla la verdad, permitiendo que el conflicto entre los hermanos se prolongue
 
@@ -63,9 +63,9 @@ d) "Ninguno de los dos dio su brazo a torcer"
 
 **5. (Alternativas)** ¿Qué efecto produce el salto temporal (flashback) en la construcción del conflicto, en comparación con un relato en orden estrictamente cronológico?
 
-a) Hace que la historia sea más corta y fácil de seguir, sin cambiar su efecto, porque el orden de los hechos no influye en cómo se lee
+a) Hace que la historia sea más corta y fácil de seguir, sin cambiar su efecto, porque el orden de los hechos no influye en cómo la lee el público joven
 b) Elimina la intriga, porque el lector conoce desde la primera línea quién dejó mal apoyado el violín y por qué los hermanos se distanciaron
-c) No produce ningún efecto en la lectura: es solo un detalle técnico que la autora usa para separar las partes del cuento en el papel
+c) Produce poco efecto en la lectura: es un detalle técnico que la autora usa para separar las partes del cuento y facilitar la lectura, sin afectar la intriga
 d) Al mostrar primero las consecuencias (el violín agrietado, la distancia entre los hermanos) antes de revelar la causa, genera intriga y refuerza el impacto emocional
 
 ---
@@ -101,16 +101,16 @@ d) Aliteración
 **8. (Alternativas)** ¿Qué idea transmite la metáfora "el mar guarda en sus olas el cansancio de todos los amaneceres vividos"?
 
 a) Que el mar está literalmente cansado después de cada tormenta del invierno, y por eso sus olas se mueven cada vez más lento al llegar al puerto
-b) Que las olas se detienen cada mañana, cuando los pescadores salen del puerto a trabajar con sus redes
-c) Que en el puerto nunca amanece del todo, porque la niebla y el frío cubren el mar durante todo el día
+b) Que las olas se detienen cada mañana, cuando los pescadores salen del puerto a trabajar con sus redes y sus botes de madera
+c) Que en el puerto casi no amanece, porque la niebla y el frío de la costa cubren el mar durante gran parte del día y de la noche
 d) Que el mar acumula simbólicamente el esfuerzo y el paso de generaciones de pescadores, como si cada amanecer dejara una huella en sus olas
 
 **9. (Alternativas)** ¿Qué recurso de sonoridad hay en "El viento zumba, zigzagueante, entre las velas" y qué efecto produce?
 
-a) Una rima consonante entre los versos, que marca un ritmo rápido y alegre
-b) Una enumeración de colores del puerto, que crea una imagen visual del amanecer
+a) Una rima consonante entre los versos, que marca un ritmo rápido y alegre en el poema
+b) Una enumeración de colores del puerto, que crea una imagen visual del amanecer en el mar
 c) Una aliteración del sonido "z", que imita el sonido del viento moviéndose entre las velas
-d) Una pregunta retórica, que interpela al lector sobre el trabajo de los pescadores
+d) Una pregunta retórica, que interpela al lector sobre el trabajo diario de los pescadores
 
 ---
 
@@ -128,8 +128,8 @@ d) Una pregunta retórica, que interpela al lector sobre el trabajo de los pesca
 
 a) Elegir entre ayudar a su madre, que estaba en la casa con sus hermanos, o a su padre, que trabajaba en el puerto cuando comenzó el terremoto
 b) Decidir si corre a un lugar seguro de inmediato o vuelve al local en riesgo para salvar los documentos que aseguran la subsistencia de su familia
-c) Decidir si sigue trabajando en la tienda de su familia o se va a estudiar a Santiago después del terremoto
-d) Elegir entre dos vecinos que se pelearon por una deuda y que le pidieron que los ayudara a resolverla
+c) Decidir si sigue trabajando en la tienda de su familia o se va a estudiar a Santiago después del terremoto, como quería su madre
+d) Elegir entre dos vecinos que se pelearon por una deuda después del terremoto y que le pidieron que los ayudara a resolverla
 
 **11. (Alternativas)** ¿Con qué hecho histórico real se relaciona directamente el desenlace del relato?
 
@@ -141,14 +141,14 @@ d) La llegada del ferrocarril a Chile
 **12. (Alternativas — postura fundamentada)** Frente al dilema de Rosa, ¿cuál de estas respuestas es una **postura fundamentada** en el texto?
 
 a) "Creo que acertó, porque sin esos ahorros y el registro de deudas su familia no habría tenido cómo sobrevivir el invierno, aunque arriesgó mucho"
-b) "Creo que acertó porque sí, porque las personas valientes siempre hacen lo correcto y no tienen que pensar en los riesgos antes de actuar"
-c) "No me gustó el cuento, porque los terremotos me dan miedo y prefiero las historias con finales felices"
-d) "Rosa es un nombre bonito y el relato está bien escrito, así que su decisión me parece buena"
+b) "Creo que acertó porque sí, porque las personas valientes hacen lo correcto y no tienen que pensar en los riesgos antes de actuar en una emergencia"
+c) "No me gustó el cuento, porque los terremotos me dan miedo y prefiero las historias con finales felices y sin peligros"
+d) "Rosa es un nombre bonito y el relato está bien escrito, así que su decisión de volver al local me parece buena"
 
 **13. (Alternativas)** ¿Qué interpretación del sentido general del relato integra mejor el dilema de Rosa, el contexto histórico y la visión de mundo?
 
-a) El relato es solo una historia de aventuras inventada para entretener, sin vínculo con ningún hecho real de la historia de Chile; Rosa actúa por impulso y el cuento no transmite ninguna visión sobre la comunidad
-b) El relato muestra que los bienes materiales nunca importan frente a una catástrofe: en el terremoto de Valdivia de 1960, Rosa se equivoca al volver por la caja, porque arriesgó su vida por algo que no tenía valor
+a) El relato es una historia de aventuras inventada para entretener, sin vínculo con hechos reales de la historia de Chile; Rosa actúa por impulso y el cuento no transmite una visión clara sobre la comunidad
+b) El relato muestra que los bienes materiales importan poco frente a una catástrofe: en el terremoto de Valdivia de 1960, Rosa se equivoca al volver por la caja, porque arriesgó su vida por algo sin valor
 c) El relato trata sobre una tienda que cerró por malas ventas antes del terremoto de 1960; Rosa vuelve al local para despedirse, y el cuento transmite nostalgia por los negocios familiares
 d) En el terremoto y maremoto de Valdivia de 1960, Rosa arriesga su seguridad para proteger el sustento de su familia; el relato transmite una visión de solidaridad y resiliencia de la comunidad frente a la catástrofe
 
@@ -164,10 +164,10 @@ d) En el terremoto y maremoto de Valdivia de 1960, Rosa arriesga su seguridad pa
 
 **14. (Alternativas)** ¿Cuál es la postura principal del autor de la columna?
 
-a) La municipalidad debe encargarse sola de recoger a todos los perros callejeros, porque los vecinos no tienen la responsabilidad ni los recursos para hacerlo
+a) La municipalidad debe encargarse sola de recoger a los perros callejeros de la comuna, porque los vecinos no tienen la responsabilidad ni los recursos para hacerlo
 b) El problema de los perros callejeros se resuelve mejor si los propios vecinos se organizan para esterilizar, vacunar y dar en adopción, además de la labor municipal
 c) Los perros callejeros no representan ningún problema para la comunidad, porque la mayoría son tranquilos y los vecinos ya los alimentan
-d) Las juntas de vecinos no deberían involucrarse en este tema, porque las campañas de esterilización solo empeoran el problema
+d) Las juntas de vecinos no deberían involucrarse en este tema, porque las campañas de esterilización hechas por vecinos empeoran el problema de los perros
 
 **15. (Verdadero o Falso)** "La frase 'según cifras del Servicio Nacional de Salud Animal, Chile tiene una de las poblaciones de perros callejeros más altas de Sudamérica' corresponde a un hecho verificable, y no a una opinión del autor."
 
@@ -180,8 +180,8 @@ d) Que la columna se publicó en redes sociales y recibió muchos comentarios de
 
 **17. (Alternativas)** ¿Por qué es importante distinguir entre los hechos y las opiniones al leer una columna como esta?
 
-a) Porque las opiniones siempre son falsas y deben rechazarse, mientras que los hechos son siempre verdaderos
-b) Porque los hechos no sirven en un texto argumentativo, ya que lo que convence al lector son solo las opiniones
+a) Porque las opiniones tienden a ser falsas y deben rechazarse, mientras que los hechos son verdaderos
+b) Porque los hechos sirven poco en un texto argumentativo, ya que lo que convence al lector son las opiniones
 c) Porque permite evaluar si la postura del autor está bien fundamentada y formarse un juicio crítico propio
 d) No es importante: todo lo que dice una columna publicada es un hecho, porque fue revisada antes de publicarse
 
@@ -208,10 +208,10 @@ Agosto    780
 
 **18. (Alternativas)** ¿Cuál es el propósito **implícito** del Texto B?
 
-a) Informar objetivamente sobre la gestión de la nueva biblioteca y sus horarios de atención al público
+a) Informar objetivamente sobre la gestión de la nueva biblioteca, sus horarios y los libros disponibles para el público
 b) Cuestionar la capacidad de las personas jóvenes para ejercer cargos de responsabilidad, basándose en un prejuicio etario
-c) Felicitar a Constanza Millapán por su nombramiento y desearle éxito en su nuevo cargo en la biblioteca
-d) Explicar el funcionamiento de las bibliotecas comunitarias y cómo se elige a quienes las dirigen
+c) Felicitar a Constanza Millapán por su nombramiento y desearle éxito en su nuevo cargo en la biblioteca comunal
+d) Explicar el funcionamiento de las bibliotecas comunitarias y cómo se elige a quienes las dirigen cada año
 
 **19. (Alternativas — texto discontinuo)** Según el gráfico del Texto A, ¿cuántas visitas más tuvo la biblioteca en agosto que en mayo?
 
@@ -222,9 +222,9 @@ d) 170 visitas
 
 **20. (Alternativas)** ¿Qué prejuicio presenta el Texto B y por qué lo es?
 
-a) Una crítica fundada en los resultados de la gestión anterior de Constanza Millapán, que habría cerrado otra biblioteca
-b) Un dato verificable sobre la cantidad de visitas que ha recibido la biblioteca desde que asumió la nueva directora
-c) Una felicitación a la nueva directora, expresada con ironía para destacar lo joven que es para un cargo tan importante
+a) Una crítica fundada en los resultados de la gestión anterior de Constanza Millapán, que habría cerrado otra biblioteca de la comuna
+b) Un dato verificable sobre la cantidad de visitas que ha recibido la biblioteca desde que asumió la nueva directora y desde que se inauguró
+c) Una felicitación a la nueva directora, expresada con ironía para destacar lo joven que es para un cargo tan importante en la comuna
 d) Un prejuicio etario: supone que una persona joven "no tiene la madurez" para el cargo, sin considerar la trayectoria real de Constanza Millapán
 
 **21. (Alternativas)** ¿En qué se diferencian los propósitos del Texto A y del Texto B, y por qué importa reconocer prejuicios en redes sociales?
@@ -232,7 +232,7 @@ d) Un prejuicio etario: supone que una persona joven "no tiene la madurez" para 
 a) Ambos informan de manera objetiva sobre el nombramiento; los prejuicios no influyen en nadie que lea con atención, así que no es necesario reconocerlos
 b) El A informa con tono favorable sobre la nueva directora y el B expresa una crítica basada en un prejuicio etario; reconocerlo evita dejarse influir por juicios injustos
 c) El A expresa una opinión sobre la directora y el B entrega datos verificables sobre su gestión; los prejuicios son ciertos cuando muchas personas los comparten
-d) Ninguno de los dos tiene un propósito definido; las publicaciones en redes sociales no necesitan leerse críticamente, porque son solo comentarios personales
+d) Los dos tienen el mismo propósito, informar; las publicaciones en redes sociales no necesitan leerse críticamente, porque son comentarios personales de los vecinos
 
 ---
 
@@ -240,10 +240,10 @@ d) Ninguno de los dos tiene un propósito definido; las publicaciones en redes s
 
 **22. (Alternativas)** ¿Cuál es la función principal de los conectores dentro de un texto?
 
-a) Reemplazar el uso de mayúsculas al inicio de una oración
+a) Reemplazar el uso de mayúsculas al inicio de cada oración y de cada párrafo
 b) Unir ideas y secciones del texto de manera clara, aportando coherencia y cohesión
-c) Sustituir la necesidad de planificar el texto antes de escribirlo
-d) Cambiar automáticamente el registro de un texto de formal a informal
+c) Sustituir la necesidad de planificar el texto antes de comenzar a escribirlo
+d) Cambiar el registro de un texto de formal a informal según quién lo lea
 
 **23. (Alternativas — aplicación)** ¿Cuál es la versión corregida de "Los niño le devolvió a las profesor el libro que había escribido, porque las hoja estaban rompido"?
 
@@ -255,9 +255,9 @@ d) Los niños les devolvieron a las profesoras el libro que habían escribido, p
 **24. (Alternativas)** ¿Por qué es importante planificar antes de escribir un texto?
 
 a) Porque permite organizar las ideas centrales y su orden, evitando un texto desordenado y facilitando el uso de conectores
-b) Porque así el texto queda más largo y cumple con la cantidad de palabras que pide el profesor
+b) Porque así el texto queda más largo y cumple con la cantidad de palabras que pide el profesor en la pauta
 c) Porque planificar reemplaza la revisión final, de modo que ya no es necesario releer el texto escrito
-d) No es importante: es mejor escribir de corrido y ordenar las ideas solo si al final sobra tiempo
+d) Porque así se puede escribir de corrido y dejar para el final el orden de las ideas, si es que sobra tiempo
 
 **25. (Alternativas)** Para una carta a la junta de vecinos proponiendo una feria de intercambio de libros en la plaza, ¿qué párrafo cuida un registro formal, usa un conector y no tiene errores de concordancia?
 

@@ -148,7 +148,7 @@ que preguntarse qué significa exactamente "justicia".
    **Retroalimentación:** El quehacer filosófico depende de la actitud de examinar las propias creencias, no del vocabulario técnico.
 
 5. *(Alternativas — intermedio)* ¿Cuál de las siguientes NO es una
-   característica del quehacer filosófico según el OA?
+   característica del quehacer filosófico según lo estudiado?
    a) Partir de la experiencia cotidiana.
    b) Clarificar conceptos antes de discutirlos.
    c) Aceptar la autoridad de un experto sin más como prueba suficiente.
@@ -224,7 +224,7 @@ que preguntarse qué significa exactamente "justicia".
     **Retroalimentación:** El quehacer filosófico no arranca en el vacío ni
     en la pura erudición: toma una experiencia vivida (la percepción
     subjetiva del tiempo) y la convierte en una pregunta que exige
-    reflexión conceptual, tal como indica el OA.
+    reflexión conceptual.
 
 12. *(Alternativas — Análisis de caso — intermedio)* Una estudiante reza antes de comer por costumbre familiar, sin haberse preguntado nunca por qué. ¿Qué tendría que cambiar para que fuera un acto de reflexión filosófica?
     a) Dejar de rezar inmediatamente, porque la reflexión filosófica exige abandonar toda costumbre por completo
