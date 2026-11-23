@@ -260,10 +260,10 @@ d) Resume una obra literaria leída en clases sobre el campo chileno y sus tradi
 
 **24. (Alternativas — planificación)** Para un ensayo sobre "¿Debería prohibirse el uso del celular durante los recreos escolares?", ¿qué planificación es adecuada?
 
-a) Hipótesis: el tema es polémico y conviene evitar una postura. Recurso: la opinión personal sobre el uso del celular en los recreos del liceo
+a) Hipótesis: el tema es polémico y conviene evitar una postura personal. Recurso: la opinión personal sobre el uso del celular en los recreos del liceo, sin otros apoyos
 b) Hipótesis: los recreos no deberían existir, porque se pierde tiempo de clases. Recurso: una receta de cocina para preparar colaciones saludables
 c) Hipótesis: más que prohibir, conviene ofrecer actividades atractivas en los recreos. Recurso: una anécdota de un recreo con juegos organizados, contada a partir de la experiencia del propio curso
-d) Hipótesis: prohibir el celular es la mejor solución para la convivencia. Recurso: escribir sin planificar, para expresar las ideas de manera más espontánea y sincera
+d) Hipótesis: prohibir el celular es la mejor solución para la convivencia escolar. Recurso: escribir sin planificar, para expresar las ideas de manera más espontánea, rápida y sincera
 
 **25. (Alternativas — texto integrado)** Para el ensayo sobre "¿Debería prohibirse el uso del celular durante los recreos escolares?", con la hipótesis "más que prohibir, conviene ofrecer actividades atractivas en los recreos", ¿qué par de párrafos (introducción y conclusión) presenta la hipótesis, considera un contraargumento y cierra retomándola?
 
