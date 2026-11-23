@@ -79,18 +79,18 @@ d) A es eucarionte vegetal: tiene núcleo y cloroplastos; B es procarionte: no t
 
 **4.** *(Alternativas)* ¿Qué estructuras de la raíz aumentan la superficie para absorber agua y sales minerales del suelo?
 
-a) Los estomas
+a) Los estomas de las hojas
 b) Los pelos absorbentes
-c) Los cloroplastos
-d) Los pétalos
+c) Los cloroplastos de la raíz
+d) Los pétalos de la flor
 
 ---
 
 **5.** *(Alternativas)* ¿A través de qué estructuras de la hoja entra el dióxido de carbono y sale el oxígeno?
 
 a) Los estomas
-b) El xilema
-c) Las raíces
+b) Los vasos del xilema
+c) Los pelos de las raíces
 d) Las semillas
 
 ---
@@ -98,9 +98,9 @@ d) Las semillas
 **6.** *(Alternativas, 3 puntos)* ¿Qué opción describe correctamente lo que transportan el xilema y el floema de una planta?
 
 a) Xilema: azúcares desde las hojas a la raíz; floema: oxígeno desde la raíz hacia las flores
-b) Ambos llevan solo agua, uno hacia arriba y otro hacia abajo, sin ninguna otra sustancia
+b) Ambos llevan agua, uno desde la raíz hacia arriba y el otro desde las hojas hacia abajo
 c) Xilema: agua y sales desde la raíz a las hojas; floema: azúcares de las hojas al resto de la planta
-d) Floema: absorbe la luz del sol; xilema: la reparte desde las hojas hacia todas las raíces
+d) Floema: absorbe la luz del sol en las hojas; xilema: la reparte desde las hojas hacia las raíces
 
 ---
 
@@ -108,8 +108,8 @@ d) Floema: absorbe la luz del sol; xilema: la reparte desde las hojas hacia toda
 
 **7.** *(Alternativas)* ¿En qué órgano del sistema digestivo se absorbe la mayor parte de los nutrientes hacia la sangre?
 
-a) En el estómago
-b) En el esófago
+a) En el estómago, con los jugos gástricos
+b) En el esófago, al tragar el alimento
 c) En el intestino grueso
 d) En el intestino delgado
 
@@ -127,8 +127,8 @@ d) Producir los jugos que digieren los alimentos
 **9.** *(Alternativas, 2 puntos)* ¿Cómo trabajan juntos el sistema respiratorio y el circulatorio?
 
 a) Los pulmones captan oxígeno, la sangre lo lleva a las células y devuelve el CO₂ para eliminarlo
-b) El corazón produce el oxígeno y los pulmones lo bombean hacia todos los músculos del cuerpo
-c) Los dos sistemas trabajan por separado y no comparten ninguna sustancia entre ellos nunca
+b) El corazón produce el oxígeno y los pulmones lo bombean hacia los músculos y los órganos del cuerpo
+c) Los dos sistemas trabajan por separado: los pulmones limpian el aire y el corazón mueve la sangre
 d) La sangre fabrica el aire dentro de los pulmones y los riñones lo distribuyen por el cuerpo
 
 ---
@@ -169,9 +169,9 @@ d) Tomar bebidas azucaradas en lugar de agua
 **13.** *(Alternativas, 2 puntos)* Una adolescente afirma: «Las bebidas energéticas me ayudan a estudiar toda la noche sin dormir, así que no me hacen daño». ¿Por qué esta afirmación no es sustentable?
 
 a) Porque tienen mucha cafeína y azúcar, alteran el sueño y el corazón, y no reemplazan el descanso
-b) Porque las bebidas energéticas no tienen ningún efecto conocido sobre el cuerpo humano
-c) Porque estudiar de noche es siempre más efectivo que estudiar de día, con o sin bebidas
-d) Porque el cuerpo puede vivir sin dormir nunca si recibe suficiente azúcar cada día
+b) Porque las bebidas energéticas tienen un efecto tan pequeño que el cuerpo casi no lo nota al estudiar
+c) Porque estudiar de noche es más efectivo que estudiar de día, con o sin bebidas energéticas
+d) Porque el cuerpo puede pasar varios días sin dormir si recibe suficiente azúcar y cafeína
 
 ---
 
@@ -192,7 +192,7 @@ d) 165 A
 
 a) Aumenta, porque hay más ampolletas iluminando al mismo tiempo
 b) Se mantiene igual, porque en serie cada ampolleta recibe el voltaje completo
-c) Las tres se apagan, porque un circuito en serie solo admite dos ampolletas
+c) Se apagan, porque al agregar una tercera ampolleta en serie la pila deja de entregar corriente
 d) Disminuye, porque el voltaje de la pila se reparte entre más ampolletas
 
 ---
@@ -259,7 +259,7 @@ d) Como un núcleo con protones y neutrones, sin electrones
 
 **22.** *(Alternativas)* ¿Qué aporte hizo el modelo atómico de Bohr?
 
-a) Propuso que el átomo es una esfera sólida, maciza e indivisible
+a) Propuso que el átomo es una esfera sólida, maciza e indivisible, como una bolita
 b) Descubrió que el átomo tiene un núcleo pequeño con carga positiva
 c) Propuso que los electrones giran en órbitas o niveles de energía definidos
 d) Propuso que los electrones están incrustados en una masa con carga positiva
@@ -269,8 +269,8 @@ d) Propuso que los electrones están incrustados en una masa con carga positiva
 **23.** *(Alternativas, 2 puntos)* ¿Por qué el modelo atómico fue cambiando desde Dalton hasta Bohr?
 
 a) Porque cada científico quería contradecir a los anteriores sin realizar experimentos
-b) Porque los átomos cambiaron de forma con el paso de los años
-c) Porque los primeros modelos fueron prohibidos y hubo que inventar otros
+b) Porque los átomos cambiaron de forma y de tamaño con el paso de los siglos
+c) Porque los primeros modelos fueron prohibidos por la Iglesia y hubo que inventar otros nuevos
 d) Porque nuevos experimentos aportaron evidencias que los modelos anteriores no podían explicar
 
 ---
@@ -279,10 +279,10 @@ d) Porque nuevos experimentos aportaron evidencias que los modelos anteriores no
 
 **24.** *(Alternativas)* ¿Qué tienen en común los elementos que pertenecen a un mismo **grupo** (columna) de la tabla periódica?
 
-a) Tienen exactamente la misma masa atómica y el mismo número de neutrones
+a) Tienen la misma masa atómica y el mismo número de neutrones en el núcleo de sus átomos
 b) Tienen propiedades químicas parecidas, por su igual número de electrones de valencia
 c) Fueron descubiertos el mismo año por el mismo científico en el mismo país
-d) Son todos gases a temperatura ambiente y ninguno de ellos conduce la electricidad
+d) Son gases a temperatura ambiente y no conducen la electricidad ni el calor como los metales
 
 ---
 
@@ -296,10 +296,10 @@ d) Son todos gases a temperatura ambiente y ninguno de ellos conduce la electric
 
 El rubidio (Rb) también pertenece al grupo 1 y se ubica debajo del potasio. ¿Qué se puede predecir sobre su reacción con el agua y por qué?
 
-a) No reaccionará con el agua, porque es el elemento más pesado de la tabla
-b) Reaccionará de forma más lenta que el litio, porque está más abajo en el grupo
+a) No reaccionará con el agua, porque es un elemento más pesado que el potasio y el sodio
+b) Reaccionará de forma más lenta que el litio, porque está más abajo en el grupo de la tabla
 c) Reaccionará aún con más fuerza, porque en el grupo 1 la reactividad aumenta al bajar en la columna
-d) Reaccionará igual que el sodio, porque todos los metales reaccionan del mismo modo
+d) Reaccionará igual que el sodio, porque los metales del grupo 1 reaccionan con la misma rapidez
 
 ---
 
