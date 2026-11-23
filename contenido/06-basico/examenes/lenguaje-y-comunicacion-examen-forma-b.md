@@ -65,9 +65,9 @@ d) Falso: Wara actúa preocupada al ver a su abuelo triste y silencioso por el c
 
 **4. (Alternativas)** ¿Qué opción presenta una opinión fundamentada sobre la actitud de Wara al organizar la ayuda sin que nadie se lo pidiera, y una conclusión sustentada en el Texto 2 sobre el valor de las costumbres comunitarias?
 
-a) Su actitud fue egoísta, porque quería que la reconocieran; y las costumbres comunitarias ya no sirven
+a) Su actitud fue egoísta, porque quería que la reconocieran; y las costumbres comunitarias ya no sirven en el pueblo de hoy
 b) Su actitud fue un error, porque debió esperar a que su abuelo pidiera ayuda; y cada persona debe resolver sola sus problemas
-c) Wara no hizo nada importante, porque los vecinos habrían ayudado igual; y el ayni es solo un juego
+c) Wara hizo algo poco importante, porque los vecinos habrían ayudado igual; y el ayni es un juego tradicional del pueblo
 d) Su actitud muestra iniciativa y empatía; y el ayni permite resolver en comunidad problemas que una persona sola no podría enfrentar
 
 ---
@@ -90,9 +90,9 @@ d) Su actitud muestra iniciativa y empatía; y el ayni permite resolver en comun
 
 **5. (Alternativas)** ¿Qué figura del lenguaje figurado se usa en el verso "**como un caballo que galopa en el mar**"?
 
-a) Metáfora
-b) Hipérbole
-c) Onomatopeya
+a) Metáfora (imagen)
+b) Hipérbole (exageración)
+c) Onomatopeya (sonido)
 d) Comparación (símil)
 
 **6. (Alternativas)** ¿Cuál de las siguientes afirmaciones sobre el poema corresponde a información **explícita** (dicha directamente en el texto)?
@@ -148,7 +148,7 @@ d) Década de 2000, España
 a) Que es una técnica reconocida y utilizada en distintas partes del mundo
 b) Que fue inventada en esos países y que Israel después la copió de ellos
 c) Que en Chile ya no se usa el riego por goteo en los campos
-d) Que solo funciona en países muy lluviosos
+d) Que funciona en los países con mucha lluvia durante el año
 
 **11. (Alternativas)** Según la tabla del Texto A, ¿cuál es el **promedio** de litros ahorrados por semana considerando los cuatro meses registrados (marzo, junio, septiembre y diciembre)?
 
@@ -161,15 +161,15 @@ d) 160 litros
 
 a) Verdadero: el Texto A explica cómo funciona el goteo en Israel y el B, cómo cambió la vida de las familias en Pica
 b) Falso: es al revés; el Texto B explica cómo funciona el goteo y el Texto A describe el impacto en las familias de Pica
-c) Falso: ninguno de los dos textos habla de riego
-d) Verdadero: los dos textos dicen exactamente lo mismo sobre el riego por goteo, solo que con distintas palabras
+c) Falso: los dos textos hablan del riego en Israel, pero no de Pica
+d) Verdadero: los dos textos dicen lo mismo sobre el riego por goteo, aunque usan distintas palabras y ejemplos
 
 **13. (Alternativas)** ¿Qué opción identifica correctamente qué tienen en común el Texto A y el Texto B (más allá del tema general) y da una opinión fundamentada en ambos sobre usar el riego por goteo en otros valles secos de Chile?
 
-a) No tienen nada en común; el goteo no podría usarse en ningún otro valle de Chile, porque cada lugar tiene un clima distinto y el texto solo habla de Pica e Israel
-b) Ambos dicen que el goteo sirve igual para todos los cultivos y todos los climas; por eso debería usarse en todo Chile, incluso en las zonas más lluviosas del sur del país, sin ninguna excepción
+a) Tienen poco en común; el goteo no podría usarse en otros valles de Chile, porque cada lugar tiene un clima distinto y los textos hablan de Pica y de Israel en sus ejemplos
+b) Ambos dicen que el goteo sirve igual para los distintos cultivos y climas; por eso debería usarse en el país entero, incluso en las zonas más lluviosas del sur, sin excepciones
 c) Ambos destacan que el goteo usa menos agua y que es útil donde el agua escasea; podría aplicarse en otros valles secos, por su beneficio para las familias (Texto A) y su respaldo técnico (Texto B)
-d) Ambos hablan de los glaciares como fuente de agua; el goteo solo serviría en la Antártica
+d) Ambos hablan de los glaciares como fuente de agua; el goteo serviría en las zonas con hielo y nieve del sur de Chile
 
 ---
 
@@ -195,17 +195,17 @@ d) Un vecino de los pasajes cercanos que reclama por el ruido
 
 **15. (Alternativas)** ¿Cuál de las siguientes afirmaciones es **verdadera** según la Fuente 2?
 
-a) Todos los vecinos están de acuerdo con la nueva plaza y nadie ha reclamado por ella
+a) La mayoría de los vecinos está de acuerdo con la nueva plaza y casi nadie ha reclamado por ella
 b) Las familias y algunos vecinos de los pasajes cercanos tienen opiniones distintas sobre la obra
 c) La Municipalidad decidió cerrar la plaza por los reclamos de los vecinos
-d) La plaza recibe exactamente 10.000 visitas al día, según el conteo municipal
+d) La plaza recibe cerca de 10.000 visitas al día, según el conteo que hizo la municipalidad
 
 **16. (Alternativas)** Si quisieras saber "cuántos vecinos exactamente reclaman por el ruido de la plaza", ¿qué afirmación es correcta?
 
 a) Ninguna fuente da una cifra exacta: la Fuente 2 solo dice "varios vecinos"; habría que consultar a la junta de vecinos o hacer una encuesta
-b) Sí, la Fuente 1 dice que son exactamente 25 vecinos, y la Fuente 2 confirma esa misma cifra con sus entrevistas
-c) Sí, la Fuente 2 entrega la cifra exacta, porque entrevistó a todos los vecinos de los pasajes cercanos a la plaza uno por uno
-d) No se puede saber nunca, porque esa información no existe en ninguna parte y nadie podría averiguarla, ni siquiera con una encuesta
+b) Sí, la Fuente 1 dice que son 25 vecinos, y la Fuente 2 confirma esa misma cifra con las entrevistas que hizo en los pasajes
+c) Sí, la Fuente 2 entrega la cifra exacta, porque entrevistó a los vecinos de los pasajes cercanos a la plaza, casa por casa
+d) No se puede saber, porque esa información no la tiene nadie y tampoco podría averiguarse con una encuesta a los vecinos
 
 **17. (Alternativas)** ¿Qué opción describe correctamente el propósito de la Fuente 1 y de la Fuente 2, y por qué es importante identificar el propósito de quien emite un texto antes de aceptar su información como completa u objetiva?
 
@@ -221,16 +221,16 @@ d) La Fuente 1 informa destacando positivamente una obra de la propia Municipali
 **18. (Alternativas)** ¿Qué característica debe tener siempre el **conflicto** de un buen relato?
 
 a) Debe resolverse de alguna manera a lo largo de la historia
-b) Nunca debe mencionarse cómo se resuelve
-c) Debe repetirse exactamente igual varias veces, sin cambios
-d) Debe ser completamente ignorado por los personajes
+b) No debe mencionarse cómo se resuelve, para dejar intriga
+c) Debe repetirse igual varias veces, sin cambios en la historia
+d) Debe ser ignorado por los personajes hasta el final del cuento
 
 **19. (Alternativas)** En el fragmento: "Camila y Fernanda llegaron a la casa de campo. Ella dejó su mochila en el suelo y salió a explorar el patio, mientras que ella se quedó revisando unas cajas viejas en el living", ¿cuál es el problema de referentes presente?
 
 a) No se sabe con claridad si "ella" se refiere a Camila o a Fernanda
 b) Faltan conectores que muestren el orden temporal de las acciones
-c) El texto no incluye ningún diálogo entre las dos personajes
-d) No hay ninguna descripción del ambiente de la casa de campo
+c) El texto no incluye diálogos entre las dos personajes de la historia
+d) Falta una descripción del ambiente de la casa de campo donde están
 
 **20. (Alternativas)** ¿Qué opción es un buen **inicio** de relato, que presenta personaje y ambiente, usa al menos un conector y no tiene ambigüedad en los referentes?
 
@@ -267,9 +267,9 @@ d) Para que el texto parezca más extenso e importante de lo que realmente es
 **24. (Alternativas)** ¿Por qué es importante desarrollar **una idea central por párrafo** (usando punto aparte) en un artículo informativo, y qué problema podría generar mezclar varias ideas distintas dentro de un mismo párrafo?
 
 a) Ayuda al lector a seguir el hilo y distinguir los aspectos del tema; mezclar ideas puede confundirlo y desordenar la información
-b) Así el artículo queda más largo y ordenado a la vista, aunque las ideas de cada párrafo se repitan
-c) No importa: se pueden mezclar todas las ideas en un mismo párrafo si el texto usa muchos conectores
-d) Para que cada párrafo tenga una sola oración, que es la extensión adecuada en un artículo informativo
+b) Así el artículo queda más largo y ordenado a la vista, aunque las ideas de cada párrafo se repitan varias veces
+c) Da lo mismo: se pueden mezclar las ideas en un mismo párrafo si el texto usa muchos conectores distintos y variados
+d) Para que cada párrafo tenga una sola oración, que es la extensión adecuada en un artículo informativo breve
 
 **25. (Varias correctas)** Imagina que debes escribir un artículo informativo breve sobre "la importancia de separar la basura en tu hogar". ¿Qué elementos debería incluir tu planificación?
 
