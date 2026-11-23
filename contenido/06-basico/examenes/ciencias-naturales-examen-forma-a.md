@@ -71,9 +71,9 @@ d) Producirá más oxígeno, porque sin agua la fotosíntesis ocurre con mucha m
 
 **4.** *(Alternativas)* ¿Qué función cumple un organismo **productor** en una cadena alimentaria?
 
-a) Se alimenta solo de otros animales y ocupa el último eslabón de la cadena
-b) Descompone los restos de seres vivos y devuelve nutrientes al suelo
-c) Se alimenta de plantas y es comido por los carnívoros de la cadena
+a) Se alimenta de otros animales y ocupa el último eslabón de la cadena alimentaria
+b) Descompone los restos de seres vivos y devuelve los nutrientes al suelo del bosque
+c) Se alimenta de plantas y es comido por los carnívoros que están en la cadena
 d) Fabrica su propio alimento mediante la fotosíntesis y es el primer eslabón de la cadena
 
 ---
@@ -90,9 +90,9 @@ d) No cambiaría nada, porque los zorros no comen pasto
 **6.** *(Alternativas, 3 puntos)* ¿Por qué una **red** alimentaria representa mejor lo que ocurre en un ecosistema que una sola cadena alimentaria?
 
 a) Porque muestra que un ser vivo puede comer y ser comido por varios otros seres vivos
-b) Porque en una red cada animal se alimenta de una sola especie y nunca cambia de alimento
-c) Porque las redes solo incluyen a los productores y dejan fuera a todos los consumidores
-d) Porque una red tiene siempre exactamente cuatro eslabones, ni más ni menos que eso
+b) Porque en una red cada animal se alimenta de una especie y no cambia de alimento en el año
+c) Porque las redes incluyen a los productores y dejan fuera a los consumidores de la cadena
+d) Porque una red tiene cuatro eslabones fijos, desde el productor hasta el descomponedor
 
 ---
 
@@ -111,17 +111,17 @@ d) El cuerpo deja de crecer por completo a los 10 años
 
 a) Una enfermedad que aparece a los 12 años y que se cura con medicamentos
 b) La etapa de la vejez en que el cuerpo empieza a perder fuerza
-c) Un cambio del cuerpo que solo ocurre en las mujeres y nunca en los hombres
+c) Un cambio del cuerpo que ocurre en las mujeres y no en los hombres, entre los 10 y 12 años
 d) La etapa en que el cuerpo y las emociones cambian al pasar de la niñez a la adultez
 
 ---
 
 **9.** *(Alternativas, 2 puntos)* Joaquín tiene 12 años y está preocupado porque varios de sus amigos ya son más altos y tienen la voz más grave que él. ¿Qué idea le ayudaría a entender su situación?
 
-a) Algo está mal en su cuerpo, porque todos deben cambiar exactamente a la misma edad
+a) Algo está mal en su cuerpo, porque los niños de su edad deben cambiar al mismo tiempo que ella
 b) Debe dejar de hacer deporte para que su cuerpo crezca más rápido que el de sus amigos
 c) Cada persona vive la pubertad a su propio ritmo; es normal y puede conversarlo con un adulto de confianza
-d) Debe ocultar lo que siente, porque de los cambios del cuerpo no se habla con nadie
+d) Debe ocultar lo que siente, porque de los cambios del cuerpo es mejor no hablar con los adultos
 
 ---
 
@@ -130,9 +130,9 @@ d) Debe ocultar lo que siente, porque de los cambios del cuerpo no se habla con 
 **10.** *(Alternativas)* ¿Por qué en la pubertad se vuelve especialmente importante ducharse todos los días?
 
 a) Porque aumentan el sudor y la grasa de la piel, y lavarse evita el mal olor e infecciones
-b) Porque el agua hace que el cuerpo crezca más rápido durante la pubertad
+b) Porque el agua tibia hace que el cuerpo crezca más rápido durante la pubertad
 c) Porque en la pubertad la piel deja de producir sudor y se reseca con mucha facilidad
-d) Porque ducharse todos los días reemplaza la necesidad de hacer actividad física
+d) Porque ducharse cada día reemplaza la necesidad de hacer actividad física en la semana
 
 ---
 
@@ -147,9 +147,9 @@ d) Solo los días de clases de educación física
 
 **12.** *(Alternativas, 2 puntos)* ¿Qué opción describe correctamente beneficios de practicar actividad física de forma regular?
 
-a) Hace innecesario comer frutas y verduras durante la semana
-b) Evita por completo resfriarse y enfermarse durante todo el año
-c) Solo sirve para bajar de peso y no tiene otros efectos en la salud
+a) Hace innecesario comer frutas y verduras durante la semana escolar
+b) Evita resfriarse y enfermarse de la garganta durante el invierno
+c) Sirve sobre todo para bajar de peso, sin otros efectos importantes en la salud
 d) Fortalece el corazón y los pulmones, ayuda a dormir mejor y disminuye el estrés
 
 ---
@@ -198,8 +198,8 @@ d) El agua de los ríos
 
 **17.** *(Alternativas)* ¿Qué ventaja tienen las fuentes de energía renovables frente a las no renovables?
 
-a) Siempre son más baratas y funcionan igual en cualquier lugar del mundo
-b) Producen energía sin necesidad de ninguna instalación ni aparato
+a) Son más baratas que el petróleo y funcionan igual en los distintos lugares del mundo
+b) Producen energía sin necesidad de instalaciones, cables ni aparatos especiales
 c) No se agotan con el uso y, en general, contaminan menos el aire
 d) Pueden guardarse en barriles igual que el petróleo
 
@@ -238,10 +238,10 @@ d) La evaporación del agua, que pasa de líquido a gas
 
 **21.** *(Alternativas, 3 puntos)* Un cubo de hielo se derrite sobre un plato a temperatura ambiente. ¿Qué ocurre con sus partículas durante este cambio?
 
-a) Pierden calor, se quedan quietas y se convierten en partículas de otra sustancia
+a) Pierden calor, se quedan quietas y se convierten en partículas de otra sustancia distinta
 b) Absorben calor, se mueven más y dejan sus posiciones fijas, pero siguen siendo partículas de agua
-c) Desaparecen poco a poco, porque el agua líquida no tiene partículas
-d) Se agrandan cada una al calentarse, por eso el agua líquida ocupa todo el plato
+c) Desaparecen poco a poco, porque el agua líquida no está formada por partículas
+d) Se agrandan cada una al calentarse, por eso el agua líquida ocupa más espacio en el plato
 
 ---
 
@@ -261,9 +261,9 @@ d) Núcleo
 **23.** *(Alternativas, 2 puntos)* Una fábrica vierte sus desechos sin tratar en un río. ¿Qué capa de la Tierra se afecta directamente y qué medida ayudaría a protegerla?
 
 a) La hidrosfera; tratar las aguas residuales antes de devolverlas al río
-b) La atmósfera; prohibir que las personas se bañen en el río
+b) La atmósfera; prohibir que las personas se bañen en el río en verano
 c) La litosfera; cambiar el nombre del río por uno nuevo
-d) El núcleo; construir la fábrica a mayor altura sobre el río
+d) El núcleo; construir la fábrica a mayor altura y más lejos del río
 
 ---
 
