@@ -47,17 +47,17 @@ d) Calcular con exactitud cuántos años han pasado desde que se tomó la fotogr
 
 **Pregunta 2.** *(Selección múltiple)* De las siguientes preguntas que podrían surgir al mirar la fotografía, ¿cuál es propiamente **filosófica**?
 
-a) ¿En qué año exacto se tomó la fotografía y cuántos años tenía la niña en ese momento, según los registros de la familia?
-b) ¿Qué cámara se usó para tomarla y por qué los colores de las fotografías antiguas se ven distintos a los de las actuales?
+a) ¿En qué año exacto se tomó la fotografía y cuántos años tenía la niña en ese momento, según los registros que guarda la familia?
+b) ¿Qué cámara se usó para tomarla y por qué los colores de las fotografías antiguas se ven tan distintos a los de las actuales?
 c) ¿Qué hace que dos personas —la niña de la foto y la joven de hoy— cuenten como "la misma persona" pese a haber cambiado casi por completo?
 d) ¿Cuántas fotografías de esa época conserva la familia y en qué condiciones de humedad y luz deberían guardarse para que duren?
 
 **Pregunta 3.** *(Selección múltiple)* Un compañero de curso dice: "yo no necesito filosofar sobre nada de esto, simplemente no lo he pensado nunca y no me interesa". ¿Qué distingue mejor a esta actitud del quehacer filosófico, según lo estudiado?
 
-a) La diferencia es únicamente de información: el filósofo maneja más datos y lecturas que esta persona, y por eso puede opinar sobre temas como la identidad con más autoridad que ella.
-b) No hay ninguna diferencia real: no pensar en una pregunta y examinarla son formas igual de válidas de relacionarse con ella, porque en filosofía cada uno decide qué le parece verdadero.
+a) La diferencia es de información: el filósofo maneja más datos y lecturas que esta persona, y por eso puede opinar sobre temas como la identidad con más autoridad que ella y que el resto de sus compañeros de curso.
+b) No hay una diferencia real: no pensar en una pregunta y examinarla son formas igual de válidas de relacionarse con ella, porque en filosofía cada uno decide qué le parece verdadero según su propia experiencia de vida.
 c) La diferencia está en la actitud: quien no sabe y tampoco busca saber permanece en la ignorancia, mientras que el quehacer filosófico consiste en examinar, preguntar y buscar razones, incluso partiendo de reconocer lo poco que se sabe.
-d) La diferencia es el resultado: el filósofo siempre termina llegando a una respuesta definitiva sobre la identidad personal, mientras que quien no se interesa en el tema nunca la alcanza.
+d) La diferencia es el resultado: el filósofo termina llegando a una respuesta definitiva sobre la identidad personal, mientras que quien no se interesa en el tema se queda sin ella para el resto de su vida.
 
 **Pregunta 4.** *(Alternativas — 3 pts)* Una canción te parece excelente y a un amigo le resulta mala. ¿Cuál de estas es una pregunta **filosófica** sobre esa experiencia?
 
@@ -68,8 +68,8 @@ d) "¿En qué año se lanzó la canción y quién fue su productor musical?"
 
 **Pregunta 5.** *(Selección múltiple)* ¿Cuál de las siguientes preguntas corresponde a una de las "grandes preguntas" propias del quehacer filosófico?
 
-a) "¿Cuántas fotografías tiene guardadas esta familia y en qué álbumes las conserva?"
-b) "¿Qué marca de cámara era más común hace diez años entre las familias chilenas?"
+a) "¿Cuántas fotografías tiene guardadas esta familia y en qué álbumes o cajas las conserva hoy?"
+b) "¿Qué marca de cámara era más común hace diez años entre las familias chilenas de clase media?"
 c) "¿A qué edad exacta se tomó la fotografía y en qué ciudad vivía entonces la familia?"
 d) "¿Puede una vida tener sentido genuino aunque nadie más le haya dado un propósito o una función?"
 
@@ -77,7 +77,7 @@ d) "¿Puede una vida tener sentido genuino aunque nadie más le haya dado un pro
 
 a) Tiene razón: las fotos son registros de hechos, y lo único que se puede preguntar sobre ellas es cuándo y dónde se tomaron
 b) Su respuesta es un ejemplo de asombro filosófico, porque reconoce con humildad que no hay nada que pensar ante algo tan cotidiano
-c) Su respuesta demuestra que la identidad personal no existe, porque si existiera realmente, todas las personas se harían preguntas sobre ella al mirar una fotografía antigua de sí mismas
+c) Su respuesta demuestra que la identidad personal no existe, porque si existiera realmente, las personas se harían preguntas sobre ella al mirar una fotografía antigua de sí mismas
 d) Da por sentado sin examinarlo que no hay pregunta, cerrando una cuestión genuina sobre la identidad personal; antes habría que clarificar qué significa "ser la misma persona"
 
 ---
@@ -109,24 +109,24 @@ d) Materialismo.
 
 **Pregunta 10.** *(Alternativas — 3 pts)* Muchas personas sostienen que los números y las verdades matemáticas "existen" aunque no se puedan tocar. ¿Por qué es una pregunta ontológica legítima?
 
-a) Porque los números se pueden tocar cuando los escribimos o los representamos con objetos, igual que cualquier otra cosa material
-b) Porque solo los matemáticos pueden responderla, y lo hacen con un dato preciso obtenido mediante cálculos y demostraciones
-c) No es legítima: los números son solo palabras que inventamos, así que preguntarse si existen es una pregunta sin sentido alguno
+a) Porque los números se pueden tocar cuando los escribimos o los representamos con objetos, igual que una piedra o una mesa del mundo material
+b) Porque la responden los matemáticos, con un dato preciso que se obtiene mediante cálculos y demostraciones formales en cada caso
+c) No es legítima: los números son palabras que inventamos para contar, así que preguntarse si existen es una pregunta sin sentido para la filosofía
 d) Porque pregunta si las entidades abstractas existen de un modo propio, distinto al de los objetos físicos, un problema abierto (el de los universales)
 
 **Pregunta 11.** *(Selección múltiple)* Un personaje creado dentro de un videojuego tiene nombre, historia y decisiones dentro del mundo del juego, pero no existe como un objeto físico que se pueda tocar fuera de la pantalla. ¿Qué problema ontológico plantea mejor este caso?
 
-a) Un problema puramente técnico sobre cómo se programan los personajes de videojuegos, que no tiene relevancia filosófica porque todo depende del código.
-b) Una pregunta que la informática ya resolvió por completo: el personaje es solo un conjunto de datos, así que no admite ninguna discusión filosófica sobre su existencia.
-c) Un problema exclusivamente psicológico sobre por qué a las personas les gustan los videojuegos y se encariñan con sus personajes favoritos.
+a) Un problema puramente técnico sobre cómo se programan los personajes de videojuegos, sin relevancia filosófica, porque depende del código que escribe el programador.
+b) Una pregunta que la informática ya resolvió: el personaje es un conjunto de datos guardados en un servidor, así que su existencia no admite una discusión filosófica seria.
+c) Un problema psicológico sobre por qué a las personas les gustan los videojuegos y se encariñan tanto con sus personajes favoritos durante años.
 d) La pregunta por los distintos **modos o tipos de existencia**: si entidades no físicas pueden ser reales de una manera distinta —pero no por eso menos real— que los objetos materiales.
 
 **Pregunta 12.** *(Alternativas — 5 pts)* "La única persona 'real' es la que existe fuera de las redes; el perfil en línea es pura fachada." ¿Qué objeción es filosóficamente pertinente?
 
-a) Ninguna: la afirmación es evidente, porque lo que una persona muestra en redes siempre es falso y lo que muestra en persona siempre es verdadero
-b) Que las redes sociales no existen realmente, porque son solo información en servidores, y por eso nada de lo que pasa en ellas tiene que ver con la identidad
+a) La afirmación es evidente, porque lo que una persona muestra en redes tiende a ser falso y lo que muestra en persona tiende a ser verdadero para quienes la conocen
+b) Que las redes sociales no existen realmente, porque son información guardada en servidores, y por eso lo que pasa en ellas no tiene que ver con la identidad de nadie
 c) Supone una única identidad "verdadera", cuando la identidad puede construirse y expresarse de maneras distintas según el contexto, sin que una sola versión agote quién es alguien
-d) Que la persona fuera de línea tampoco es real, porque toda identidad es una actuación, de modo que no hay ninguna diferencia entre ambas versiones
+d) Que la persona fuera de línea tampoco es real, porque cada identidad es una actuación, de modo que no hay diferencia alguna entre ambas versiones de alguien
 
 ---
 
@@ -143,37 +143,37 @@ d) Puramente empírica, sin ninguna postura epistemológica de fondo sobre el co
 
 **Pregunta 14.** *(Selección múltiple)* La actitud de **Benjamín** ("no le creo a ningún médico, todos están de acuerdo con los laboratorios") ejemplifica mejor una postura epistemológica:
 
-a) Dogmática: confía de manera absoluta en su propia opinión sobre los laboratorios, sin revisarla.
-b) Crítica: examina los conflictos de interés de la medicina antes de aceptar sus recomendaciones.
+a) Dogmática: confía de manera absoluta en su propia opinión sobre los laboratorios, sin revisarla ni contrastarla.
+b) Crítica: examina los conflictos de interés de la medicina antes de aceptar las recomendaciones de cada médico.
 c) Escepticismo radical: rechaza en bloque toda una fuente de conocimiento, sin distinguir casos ni evaluar evidencia particular.
-d) Ninguna postura epistemológica: es solo una desconfianza personal, sin relevancia filosófica alguna.
+d) Empirista: acepta lo que puede comprobar con su experiencia y desconfía de lo que dicen los médicos sobre los laboratorios.
 
 **Pregunta 15.** *(Selección múltiple)* La actitud de **Antonia** (revisar distintas fuentes serias y la evidencia disponible antes de decidir) representa mejor una postura epistemológica:
 
-a) Dogmática, porque una vez revisadas las fuentes termina aceptando una decisión que ya no está dispuesta a cambiar.
-b) Escéptica radical, porque duda de todas las fuentes por igual y por eso necesita revisar tantas antes de decidir.
+a) Dogmática, porque una vez revisadas las fuentes termina aceptando una decisión que ya no está dispuesta a cambiar ni a discutir.
+b) Escéptica radical, porque duda de las fuentes por igual y por eso necesita revisar tantas antes de tomar una decisión sobre su salud.
 c) Crítica: acepta que el conocimiento puede estar mejor o peor justificado según la evidencia, y permanece abierta a revisar su postura.
-d) Ninguna de las anteriores, porque revisar varias fuentes impide llegar a una conclusión propia sobre el tema.
+d) Empirista, porque acepta lo que puede observar por sí misma y no confía en las fuentes de los expertos que revisa.
 
 **Pregunta 16.** *(Alternativas — 3 pts)* Benjamín dice: "no le creo a ningún médico, todos están de acuerdo con los laboratorios que les pagan". ¿Qué evaluación es correcta?
 
 a) Es un escepticismo radical; lo crítico es evaluar cada recomendación según la evidencia y examinar los conflictos de interés caso a caso
-b) Es una postura crítica razonable, porque desconfiar de todos los médicos por igual protege de los conflictos de interés
-c) Es dogmatismo; lo correcto sería creerle todo a cualquier médico, porque su título garantiza que sus recomendaciones son verdaderas
-d) Es correcta: si los laboratorios financian a los médicos, la medicina no puede ofrecer ninguna evidencia confiable
+b) Es una postura crítica razonable, porque desconfiar de los médicos por igual protege a las personas de los conflictos de interés
+c) Es dogmatismo; lo correcto sería creerle a cada médico lo que recomienda, porque su título garantiza que sus recomendaciones son verdaderas
+d) Es correcta: si los laboratorios financian a los médicos, la medicina pierde la capacidad de ofrecer evidencia confiable a los pacientes
 
 **Pregunta 17.** *(Selección múltiple)* ¿Cuál de las siguientes afirmaciones es **verdadera** respecto de la diferencia entre el escepticismo radical y la postura crítica (criticismo)?
 
-a) Son exactamente la misma actitud frente al conocimiento: ambas dudan de todo, solo que el criticismo usa un nombre más técnico para referirse a ella.
+a) Son la misma actitud frente al conocimiento: ambas dudan de lo que se afirma, aunque el criticismo usa un nombre más técnico para referirse a esa duda en los debates académicos.
 b) El escepticismo radical niega que sea posible tener conocimiento seguro sobre algo (o sobre cualquier cosa); la postura crítica sí acepta creencias justificadas por evidencia, aunque revisables.
-c) El escepticismo radical es más riguroso que la postura crítica, porque al no aceptar ninguna creencia nunca se equivoca, mientras que la crítica sí puede equivocarse.
-d) La postura crítica exige tener certeza absoluta antes de aceptar cualquier creencia, igual que el dogmatismo, y solo se diferencia de él en que revisa más fuentes.
+c) El escepticismo radical es más riguroso que la postura crítica, porque al rechazar las creencias evita equivocarse, mientras que la postura crítica sí puede equivocarse al aceptar alguna.
+d) La postura crítica exige tener certeza absoluta antes de aceptar una creencia, igual que el dogmatismo, y se diferencia de él en que revisa más fuentes antes de decidir.
 
 **Pregunta 18.** *(Alternativas — 5 pts)* A dice: "la ciencia médica demuestra verdades absolutas, hay que obedecerla sin cuestionar"; B dice: "como las recomendaciones cambian, nunca ha dicho nada verdadero". ¿Qué evaluación es correcta?
 
 a) Ambas posturas son correctas: A tiene razón en que la ciencia demuestra verdades y B, en que sus recomendaciones cambian con el tiempo
-b) Solo A es problemática; B tiene razón, porque si una recomendación médica cambió con el tiempo, la anterior era falsa, y nada asegura que la nueva no vaya a resultar falsa también
-c) Solo B es problemática; A tiene razón, porque la ciencia médica, cuando demuestra algo, lo hace de manera absoluta y definitiva
+b) A es la postura problemática; B tiene razón, porque si una recomendación médica cambió con el tiempo, la anterior era falsa, y no hay garantía de que la nueva no vaya a resultar falsa también
+c) B es la postura problemática; A tiene razón, porque la ciencia médica, cuando demuestra algo, lo hace de manera absoluta y definitiva para los pacientes
 d) A es dogmática y B excesivamente escéptica; la postura crítica sostiene que la información médica está bien justificada según la evidencia de cada momento, sin ser absoluta
 
 ---
@@ -212,21 +212,21 @@ d) Ninguna: es un argumento sólido, porque el presidente del centro de alumnos 
 
 **Pregunta 23.** *(Selección múltiple)* Un estudiante decide, en cambio, describir con detalle cómo se siente subjetivamente ensayar bajo presión, sin partir de ninguna teoría previa sobre el estrés. Otro decide hacer preguntas sucesivas a un compañero hasta que este descubra una contradicción en lo que piensa sobre el compromiso con el curso. ¿Qué métodos filosóficos corresponden, respectivamente, a estas dos actitudes?
 
-a) Axiomática y experimento mental: partir de principios aceptados sin demostración, e imaginar una situación hipotética para poner a prueba una idea.
+a) Axiomática y experimento mental: partir de principios aceptados sin demostración, e imaginar una situación hipotética para poner a prueba una idea sobre el estrés.
 b) Fenomenología y mayéutica: describir la experiencia vivida tal como se siente, y hacer preguntas sucesivas para que el interlocutor descubra contradicciones en sus propias creencias.
-c) Mayéutica y axiomática: hacer preguntas sucesivas para revelar contradicciones, y deducir conclusiones a partir de principios aceptados como punto de partida.
-d) Experimento mental y fenomenología: imaginar situaciones hipotéticas para evaluar una idea, y describir la experiencia vivida tal como se presenta.
+c) Mayéutica y axiomática: hacer preguntas sucesivas para revelar contradicciones, y deducir conclusiones a partir de principios aceptados como punto de partida del análisis.
+d) Experimento mental y fenomenología: imaginar situaciones hipotéticas para evaluar una idea, y describir la experiencia vivida tal como se presenta a la conciencia.
 
 **Pregunta 24.** *(Alternativas — 3 pts)* "Los últimos cinco lunes que llovió hubo más atrasos en el paradero; probablemente la próxima vez que llueva un lunes también los haya." ¿Por qué su conclusión es solo probable?
 
-a) Porque es deductiva, y en una deducción la conclusión solo es probable aunque las premisas sean verdaderas
+a) Porque es deductiva, y en una deducción la conclusión es probable aunque las premisas sean verdaderas
 b) Porque es inductiva: generaliza desde casos observados y podrían aparecer casos futuros que la contradigan
 c) Porque sus premisas son falsas: no es posible observar con certeza si hubo más atrasos los días de lluvia
-d) Porque es una falsa dicotomía: plantea solo dos opciones, llover o no llover, para explicar los atrasos
+d) Porque es una falsa dicotomía: plantea dos opciones, llover o no llover, como las únicas para explicar los atrasos
 
 **Pregunta 25.** *(Alternativas — 5 pts)* ¿Por qué la geometría se construye mejor con el método axiomático que con el mayéutico?
 
-a) Porque la mayéutica es más rigurosa para construir sistemas formales, pero es demasiado lenta para enseñar geometría en el colegio
+a) Porque la mayéutica es más rigurosa para construir sistemas formales, pero es demasiado lenta para enseñar geometría en el colegio a estudiantes de enseñanza media
 b) Porque la geometría se construye mediante el diálogo socrático, en el que maestro y alumno conversan hasta ponerse de acuerdo sobre qué figuras existen y qué propiedades les corresponden
 c) Porque deriva deductivamente un sistema desde principios explícitos aceptados sin demostración, mientras la mayéutica examina mediante preguntas las creencias de un interlocutor
 d) Porque ambos métodos son idénticos: los dos parten de preguntas y llegan a demostraciones, así que da lo mismo cuál se use

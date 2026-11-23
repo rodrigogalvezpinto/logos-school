@@ -59,9 +59,9 @@ d) ¿Cuánto dinero recaudó la película en los cines de todo el mundo?
 **Pregunta 3.** *(Selección múltiple)* La prima afirma que la pregunta del estudiante «no sirve para nada». Desde la filosofía, ¿qué se puede responder?
 
 a) Que la filosofía valora preguntas que no buscan una utilidad inmediata, sino comprender el sentido de las cosas
-b) Que la prima tiene razón, porque solo vale la pena pensar en aquello que sirve para ganar dinero o resolver algo práctico
-c) Que la pregunta es inútil porque las máquinas actuales ya piensan y sienten exactamente igual que las personas
-d) Que la filosofía solo se ocupa de preguntas que tienen una única respuesta exacta, comprobable en un laboratorio
+b) Que la prima tiene razón, porque una pregunta merece atención cuando ayuda a ganar dinero o a resolver algo práctico
+c) Que la pregunta es inútil porque las máquinas actuales ya piensan y sienten igual que las personas, según la ciencia
+d) Que la filosofía se ocupa de preguntas con una respuesta exacta, que se pueda comprobar en un laboratorio
 
 ---
 
@@ -87,7 +87,7 @@ d) ¿Cuántos habitantes tiene la ciudad de Temuco?
 
 a) Descarta la pregunta por su falta de utilidad práctica sin examinarla, y así cierra una cuestión genuina sobre la mente y la conciencia
 b) Es una respuesta filosófica correcta, porque toda buena pregunta debe tener una aplicación económica inmediata y medible en dinero
-c) Es la mejor respuesta posible, porque demuestra con evidencia científica que las máquinas nunca podrán pensar ni sentir
+c) Es la mejor respuesta posible, porque demuestra con evidencia científica que las máquinas no podrán pensar ni sentir como las personas
 d) Es una respuesta científica, porque calcula con exactitud cuánto cuesta un computador moderno en las tiendas del país
 
 ---
@@ -108,9 +108,9 @@ d) ¿Quién tiene mejores notas en Filosofía, Ignacio o Valentina?
 **Pregunta 8.** *(Selección múltiple)* ¿Qué sostiene el **dualismo**, la postura que se acerca a la de Valentina?
 
 a) Que la realidad está compuesta de dos sustancias distintas: la materia y la mente
-b) Que solo existe la materia y que todo se explica por procesos físicos y químicos
+b) Que la materia es lo único real y que la mente se explica por procesos físicos y químicos
 c) Que nada existe fuera de la propia mente de la persona que está pensando
-d) Que la pregunta por lo que existe no tiene ningún sentido para la filosofía
+d) Que la pregunta por lo que existe carece de sentido para la filosofía actual
 
 ---
 
@@ -128,7 +128,7 @@ d) Idealismo (de tipo platónico)
 a) Porque se puede responder midiendo con un instrumento la cantidad exacta de colores del arcoíris
 b) Porque pregunta si algo existe con independencia de un observador, un problema central de la ontología
 c) Porque pregunta por las condiciones del clima en que suele aparecer un arcoíris en el cielo
-d) Porque es una pregunta de física que la ontología no puede responder de ninguna manera
+d) Porque es una pregunta de física sobre la luz, que la ontología no está en condiciones de responder
 
 ---
 
@@ -144,9 +144,9 @@ d) Una pregunta ética, sobre cómo usar bien el tiempo libre
 **Pregunta 12.** *(Alternativas — 5 pts)* «Solo existe lo que se puede tocar; por lo tanto, el amor no existe.» ¿Qué evaluación de este argumento es más adecuada?
 
 a) Parte de un supuesto materialista no examinado y confunde no ser tangible con no existir, contradiciendo experiencias reales
-b) Es correcto, porque todo lo que existe se puede tocar con las manos, sin ninguna excepción posible en la realidad
-c) Es correcto, porque el amor es solo una palabra inventada por los poetas y las palabras no tienen ningún significado real
-d) Es incorrecto solo porque el amor sí se puede tocar cuando dos personas se dan la mano o se abrazan con cariño
+b) Es correcto, porque lo que existe tiene que poder tocarse con las manos, y el amor no cumple esa condición básica
+c) Es correcto, porque el amor es una palabra inventada por los poetas para nombrar sensaciones que no son reales
+d) Es incorrecto porque el amor sí se puede tocar cuando dos personas se dan la mano o se abrazan con cariño
 
 ---
 
@@ -156,9 +156,9 @@ d) Es incorrecto solo porque el amor sí se puede tocar cuando dos personas se d
 
 **Pregunta 13.** *(Selección múltiple)* La actitud de **Matías** («si lo comparte tanta gente, debe ser cierto») ejemplifica mejor:
 
-a) El escepticismo radical, que duda de toda información
-b) El criticismo, que evalúa la evidencia disponible
-c) El método científico, que pone a prueba las hipótesis
+a) El escepticismo radical, que duda de la información que recibe
+b) El criticismo, que evalúa la evidencia disponible antes de creer
+c) El método científico, que pone a prueba las hipótesis con datos
 d) Una aceptación dogmática, que cree sin examinar la justificación
 
 ---
@@ -166,9 +166,9 @@ d) Una aceptación dogmática, que cree sin examinar la justificación
 **Pregunta 14.** *(Selección múltiple)* La actitud de **Fernanda** («nada de lo que sale en internet es verdad; no creo en nada») corresponde a:
 
 a) Un escepticismo radical, que rechaza en bloque toda información
-b) Un criticismo, que evalúa cada fuente con evidencia
-c) Un dogmatismo, que acepta todo lo que lee sin dudar
-d) Un empirismo, que solo acepta lo que se observa
+b) Un criticismo, que evalúa cada fuente con la evidencia disponible
+c) Un dogmatismo, que acepta lo que lee en internet sin dudarlo
+d) Un empirismo, que acepta lo que se puede observar directamente
 
 ---
 
@@ -194,16 +194,16 @@ d) Es una postura dogmática, porque cree en todo lo que lee en internet sin exa
 
 a) Que el conocimiento es lo que cree la mayoría de las personas
 b) Que el conocimiento es una creencia verdadera y justificada
-c) Que el conocimiento nunca puede revisarse ni corregirse
-d) Que el conocimiento depende solo de lo que cada uno siente
+c) Que el conocimiento es una creencia que ya no puede revisarse
+d) Que el conocimiento depende de lo que cada persona siente
 
 ---
 
 **Pregunta 18.** *(Alternativas — 5 pts)* Un estudiante dice: «Lo que yo siento que es verdad, es verdad para mí, y nadie puede discutirlo». ¿Qué evaluación es más adecuada?
 
-a) Es una postura crítica, porque cada persona revisa sus creencias con evidencia de manera rigurosa
-b) Es una postura científica, porque se basa en la experiencia personal de quien observa los hechos
-c) Es una postura dogmática, porque acepta sin dudar todo lo que dicen los demás sobre un tema
+a) Es una postura crítica, porque cada persona revisa sus creencias con evidencia de manera rigurosa y personal
+b) Es una postura científica, porque se basa en la experiencia personal de quien observa los hechos directamente
+c) Es una postura dogmática, porque acepta sin dudar lo que dicen los demás sobre un tema discutido en clases
 d) Es un relativismo extremo: impide distinguir opiniones mejor o peor justificadas y vuelve imposible el diálogo racional
 
 ---
@@ -215,18 +215,18 @@ d) Es un relativismo extremo: impide distinguir opiniones mejor o peor justifica
 **Pregunta 19.** *(Selección múltiple)* El razonamiento de **Rocío** («en los tres cursos que los prohibieron subieron las notas; probablemente en el nuestro también») es:
 
 a) Inductivo: generaliza desde casos observados y su conclusión es probable
-b) Deductivo: su conclusión se sigue necesariamente de las premisas
-c) Una falacia de autoridad, porque cita al director del liceo
-d) Una falsa dicotomía, porque presenta solo dos opciones extremas
+b) Deductivo: su conclusión se sigue necesariamente de las premisas dadas
+c) Una falacia de autoridad, porque se apoya en la opinión del director
+d) Una falsa dicotomía, porque presenta dos opciones como si fueran las únicas
 
 ---
 
 **Pregunta 20.** *(Selección múltiple)* ¿Qué se puede decir del argumento de **Camila**?
 
 a) Es válido, porque sus dos premisas son verdaderas y, por lo tanto, la conclusión también lo es necesariamente
-b) Es inductivo, porque generaliza a partir de muchos liceos observados en distintas regiones del país
+b) Es inductivo, porque generaliza a partir de muchos liceos observados en distintas regiones y ciudades del país
 c) Es inválido: que los liceos de excelencia prohíban el celular no implica que todo liceo que lo prohíba sea de excelencia
-d) Es una falacia ad hominem, porque ataca personalmente a los liceos que no son considerados de excelencia
+d) Es una falacia ad hominem, porque ataca personalmente a los liceos que no son considerados de excelencia en Chile
 
 ---
 
@@ -241,9 +241,9 @@ d) Una falacia ad hominem
 
 **Pregunta 22.** *(Selección múltiple)* ¿Qué caracteriza a un argumento deductivo **válido**?
 
-a) Que su conclusión es probable, aunque no completamente segura
+a) Que su conclusión es probable, aunque no del todo segura para quien la sostiene
 b) Que, si las premisas son verdaderas, la conclusión es necesariamente verdadera
-c) Que sus premisas siempre son verdaderas en la realidad, sin excepción
+c) Que sus premisas son verdaderas en la realidad y pueden comprobarse con datos
 d) Que convence a la mayoría de las personas que lo escuchan en un debate
 
 ---
@@ -259,19 +259,19 @@ d) La dialéctica
 
 **Pregunta 24.** *(Alternativas — 3 pts)* «Todos los días que estudié escuchando música me fue mal en la prueba; por lo tanto, la música me hace mal para estudiar.» ¿Qué evaluación es más adecuada?
 
-a) Es un argumento deductivo válido, porque la conclusión se sigue necesariamente de lo observado
-b) Es una falacia de autoridad, porque se basa en lo que dice un experto en educación
+a) Es un argumento deductivo válido, porque la conclusión se sigue necesariamente de lo que observó el estudiante
+b) Es una falacia de autoridad, porque se basa en lo que dice un experto en educación sobre la música
 c) Es una inducción débil que confunde correlación con causa: pudo haber otras razones para los malos resultados
-d) Es un argumento perfecto, porque se basa en la experiencia personal de quien lo formula
+d) Es un argumento sólido, porque se basa en la experiencia personal y repetida de quien lo formula
 
 ---
 
 **Pregunta 25.** *(Alternativas — 5 pts)* ¿Por qué un debate en el Congreso sobre una ley compleja puede beneficiarse del método dialéctico (tesis, antítesis y síntesis) más que de imponer una sola postura?
 
-a) Porque el método dialéctico permite que gane siempre la postura de la mayoría, sin necesidad de escuchar a la minoría
+a) Porque el método dialéctico permite que gane la postura de la mayoría, sin necesidad de escuchar a la minoría
 b) Porque al confrontar posturas opuestas se pueden integrar sus aspectos valiosos en una síntesis más completa
-c) Porque el método dialéctico elimina todas las diferencias de opinión antes de que comience el debate
-d) Porque el método dialéctico solo sirve para resolver problemas de matemáticas y de geometría
+c) Porque el método dialéctico elimina las diferencias de opinión antes de que comience el debate en la sala
+d) Porque el método dialéctico sirve sobre todo para resolver problemas de matemáticas y de geometría
 
 ---
 
