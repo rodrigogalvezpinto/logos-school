@@ -29,10 +29,10 @@ y evaluación crítica de argumentos estadísticos.
 
 1. *(Alternativas)* ¿Cuál de las siguientes situaciones se modela mejor con una distribución binomial?
 
-a) La temperatura máxima de cada día de un mes en una ciudad del norte
+a) La temperatura máxima de cada día de un mes en una ciudad del norte del país
 b) El número de semillas que germinan de 20 sembradas, si cada una germina con probabilidad 0,7
 c) El tiempo que se espera el bus en un paradero durante la hora punta, medido en minutos cada día
-d) La masa de 40 manzanas de una caja
+d) La masa de 40 manzanas de una caja comprada en la feria
 
 2. *(Verdadero o falso)* Si las notas de una prueba siguen una distribución normal con media 5,0 y desviación estándar 0,5, aproximadamente el 68% de los estudiantes obtuvo entre 4,5 y 5,5.
 
@@ -52,8 +52,8 @@ d) aleatoria; fija
 
 5. *(Alternativas — probabilidad binomial)* Una basquetbolista encesta un triple con probabilidad 0,4. En 3 lanzamientos independientes, ¿cuál es la probabilidad de encestar exactamente 2?
 
-a) 0,16
-b) 0,8
+a) 0,160
+b) 0,800
 c) 0,096
 d) 0,288
 
@@ -67,24 +67,24 @@ d) Entre 0 y 170 cm
 7. *(Alternativas — elegir modelo)* En un experimento con 30 macetas se estudia (1) si la semilla de cada maceta germina o no, y (2) la altura que alcanza cada planta a las cuatro semanas. ¿Qué modelos corresponden?
 
 a) (1) normal; (2) binomial
-b) Ambos binomiales
+b) (1) y (2) binomiales
 c) (1) binomial; (2) normal
-d) Ambos normales
+d) (1) y (2) normales
 
 8. *(Alternativas — probabilidad binomial)* Un estudiante responde al azar 4 preguntas de alternativas, cada una con 4 opciones y una sola correcta. ¿Cuál es la probabilidad de acertar las 4?
 
 a) ≈ 0,0039
-b) 0,25
-c) 1
+b) 0,2500
+c) ≈ 0,0156
 d) 0,0625
 
 9. *(Verdadero o falso — límites de un argumento)* Una encuesta en línea respondida por 2.000 integrantes del club de fans de un cantante concluye que "el 90% de los jóvenes chilenos prefiere a ese cantante". Esta conclusión está bien fundamentada, porque la muestra es grande.
 
 10. *(Alternativas — correlación y causalidad)* Al revisar muchos incendios se observa que, mientras más bomberos acuden, mayores son los daños. ¿Se puede concluir que los bomberos causan los daños?
 
-a) Sí: una correlación fuerte entre dos variables prueba siempre una causalidad
+a) Sí: una correlación fuerte entre dos variables prueba que una causa la otra
 b) Sí: los bomberos dañan las casas al apagar el fuego con mucha agua
-c) No: no existe ninguna correlación entre ambas variables
+c) No: la relación entre ambas variables se debe al puro azar
 d) No: ambas variables dependen de una tercera, el tamaño del incendio
 
 11. *(Alternativas — comparar experimentos)* Se siembran 20 semillas de cada variedad: la variedad A germina con p = 0,55 y la B, con p = 0,8. ¿Qué número promedio de semillas germinadas se espera en cada una?
@@ -96,10 +96,10 @@ d) Ambas 20
 
 12. *(Alternativas — límites de una encuesta)* Una encuesta respondida solo por usuarios de una aplicación para registrar entrenamientos concluye que "los chilenos hacen ejercicio cinco veces por semana". ¿Qué límite tiene?
 
-a) Ninguno: cualquier muestra grande representa a toda la población, sin importar cómo se eligió
+a) Es confiable, porque una muestra muy grande representa bien a la población chilena
 b) Que hubo demasiados encuestados y eso aumenta el margen de error de la encuesta
 c) Sesgo de muestra: quienes usan esa aplicación no son representativos de toda la población
-d) Que las encuestas en aplicaciones son ilegales
+d) Que las encuestas en aplicaciones no tienen validez legal en Chile
 
 13. *(Alternativas — al menos uno)* La probabilidad de que una ampolleta falle durante el primer año es 0,2. Si se instalan 2 ampolletas que funcionan de forma independiente, ¿cuál es la probabilidad de que al menos una falle durante el primer año?
 

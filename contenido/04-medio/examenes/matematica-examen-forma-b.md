@@ -58,9 +58,9 @@ d) el tipo de cambio del dólar respecto al peso chileno en el mercado internaci
 
 **Pregunta 4 (alternativas).** Al comparar dos créditos de igual monto y plazo, el indicador más confiable para decidir cuál conviene más es:
 
-a) la tasa de interés anunciada, porque siempre refleja el costo total del crédito para quien lo pide
+a) la tasa de interés anunciada, porque es la que determina el valor de cada cuota que se paga
 b) el nombre o prestigio de la institución que lo ofrece, porque las más grandes cobran menos
-c) el monto total del crédito, sin considerar ninguna tasa, porque ambos créditos tienen el mismo plazo
+c) el monto total del crédito, porque ambos créditos tienen el mismo plazo y la misma cuota
 d) el CAE, porque incorpora los intereses y otros cargos en una sola tasa comparable
 
 ---
@@ -76,9 +76,9 @@ d) $936.000
 
 **Pregunta 6 (Alternativas).** Una tarjeta de crédito cobra una tasa nominal anual del 20%, capitalizada mensualmente (n=12). ¿Cuál es, aproximadamente, la tasa efectiva anual (TEA)?
 
-a) 20%
+a) 20,00%
 b) 1,67%
-c) 240%
+c) 240,00%
 d) 21,94%
 
 ---
@@ -169,9 +169,9 @@ d) Máxima 33 °C, mínima 21 °C, período 12 horas
 **Pregunta 16 (Alternativas).** Un analista debe modelar (1) el nivel de un río que sube y baja con las mareas cada día y (2) la cantidad de una sustancia radiactiva que se reduce a la mitad cada cierto tiempo fijo. ¿Qué modelo corresponde a cada uno?
 
 a) (1) exponencial decreciente, porque el nivel baja cada día; (2) trigonométrico periódico, porque la sustancia se repite
-b) Ambos son trigonométricos periódicos, porque los dos fenómenos cambian en intervalos de tiempo fijos
+b) Ambos son trigonométricos periódicos, porque los dos fenómenos cambian en intervalos de tiempo fijos y regulares
 c) (1) trigonométrico periódico, porque se repite en ciclos; (2) exponencial decreciente, porque decae sin oscilar
-d) Ambos son lineales, porque en los dos casos la cantidad cambia en la misma medida cada día
+d) Ambos son lineales, porque en los dos casos la cantidad cambia en la misma medida cada día y cada hora
 
 ---
 
@@ -208,15 +208,15 @@ d) 0,4
 
 a) el tamaño de la muestra es demasiado grande para que el resultado sea válido estadísticamente
 b) la muestra tiene sesgo de selección: son seguidores del producto, no representan a toda la población
-c) las encuestas hechas en redes sociales nunca pueden analizarse estadísticamente, sin importar a quién se pregunte
-d) no es posible calcular porcentajes a partir de una encuesta, porque solo entregan opiniones individuales
+c) las encuestas hechas en redes sociales no pueden analizarse estadísticamente, porque las responden personas anónimas
+d) no es posible calcular porcentajes a partir de una encuesta de opinión, porque cada respuesta es individual
 
 ---
 
 **Pregunta 21 (Alternativas).** Un examen tiene 8 preguntas de verdadero/falso y un estudiante responde todas al azar (p = 0,5). ¿Cuál es la probabilidad de que acierte exactamente 6?
 
 a) 28/256 ≈ 10,94%
-b) 6/8 = 75%
+b) 6/8 = 75,00%
 c) (0,5)⁶ ≈ 1,56%
 d) 1/256 ≈ 0,39%
 
@@ -245,16 +245,16 @@ d) Entre 57 y 63 minutos
 a) Las canchas de fútbol causan la apertura de farmacias, porque el deporte aumenta las lesiones en la comuna
 b) Las farmacias causan la construcción de canchas, porque promueven la vida sana entre sus clientes
 c) No se puede concluir causalidad: ambas variables probablemente dependen de una tercera, como el tamaño de la población
-d) La correlación demuestra que ambas variables no tienen ninguna relación entre sí, ni directa ni indirecta
+d) La correlación demuestra que una de las dos variables causa la otra, aunque no se sepa todavía cuál de ellas
 
 ---
 
 **Pregunta 25 (Alternativas).** Una empresa de delivery tiene dos zonas: la Zona Norte despacha el 60% de los pedidos, con 5% de retrasos; la Zona Sur, el 40%, con 12% de retrasos. ¿Qué regla se usa y cuál es la probabilidad de que un pedido al azar salga retrasado?
 
 a) Probabilidad total: 0,60×0,05 + 0,40×0,12 = 0,078 (7,8%)
-b) Regla de la suma: 0,05 + 0,12 = 0,17 (17%)
-c) Promedio simple: (0,05 + 0,12)/2 = 0,085 (8,5%)
-d) Regla del producto: 0,05×0,12 = 0,006 (0,6%)
+b) Regla de la suma: 0,05 + 0,12 = 0,17 (es decir, 17%)
+c) Promedio simple: (0,05 + 0,12) ÷ 2 = 0,085 (es decir, 8,5%)
+d) Regla del producto: 0,05 × 0,12 = 0,006 (es decir, 0,6%)
 
 ---
 

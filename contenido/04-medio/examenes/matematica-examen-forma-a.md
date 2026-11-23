@@ -31,36 +31,36 @@ fuente curricular: Bases Curriculares, Decreto 193/2019 "Plan Común" (Mineduc/U
 
 **Pregunta 1 (alternativas).** ¿Qué caracteriza al interés compuesto?
 
-a) Los intereses se calculan siempre solo sobre el capital inicial
+a) Los intereses se calculan sobre el capital inicial en cada período
 b) Los intereses se suman al capital y generan nuevos intereses
-c) Los intereses son iguales en todos los períodos del depósito
-d) Los intereses se pagan solo al final, sin ninguna capitalización
+c) Los intereses son iguales en cada uno de los períodos del depósito
+d) Los intereses se pagan al final del plazo, sin capitalizarse antes
 
 ---
 
 **Pregunta 2 (alternativas).** Dos créditos tienen la misma tasa nominal anual: uno capitaliza diariamente y el otro una vez al año. Para la persona que pide el crédito, ¿cuál resulta más caro?
 
-a) El que capitaliza una vez al año, porque cobra todos los intereses juntos
+a) El que capitaliza una vez al año, porque cobra los intereses de una sola vez
 b) Los dos cuestan lo mismo, porque tienen la misma tasa nominal anual
 c) El que capitaliza diariamente, porque su tasa efectiva anual es mayor
-d) Ninguno, porque la capitalización no afecta el costo de un crédito
+d) Depende del monto, porque con montos bajos la capitalización no importa
 
 ---
 
 **Pregunta 3 (alternativas).** ¿Qué es la Unidad de Fomento (UF)?
 
 a) Una unidad de cuenta que se reajusta según la inflación, para mantener el valor real
-b) Una moneda de papel que se usa en lugar del peso chileno en las tiendas
-c) Un impuesto que se cobra cada mes a quienes tienen una cuenta bancaria
-d) Un tipo de crédito que entregan los bancos sin cobrar ningún interés
+b) Una moneda de papel que se usa en lugar del peso chileno en las tiendas y bancos del país
+c) Un impuesto mensual que se cobra a quienes tienen una cuenta en un banco del país
+d) Un tipo de crédito que entregan los bancos con una tasa fija durante todo el plazo
 
 ---
 
 **Pregunta 4 (alternativas).** ¿Qué es la inflación?
 
 a) La disminución de la cantidad de dinero que imprime el Banco Central
-b) El aumento del sueldo mínimo que se fija cada año por ley
-c) El precio de un producto en particular en un supermercado
+b) El aumento del sueldo mínimo que se fija cada año por ley en el país
+c) El alza del precio de un producto en particular en un supermercado
 d) El aumento sostenido y generalizado de los precios en una economía
 
 ---
@@ -77,9 +77,9 @@ d) $1.380.000
 **Pregunta 6 (alternativas).** Un crédito tiene una tasa nominal anual del 12 %, capitalizada mensualmente (n = 12). ¿Cuál es, aproximadamente, la tasa efectiva anual (TEA)?
 
 a) 12,68 %
-b) 12 %
-c) 1 %
-d) 144 %
+b) 12,00 %
+c) 1,00 %
+d) 144,00 %
 
 ---
 
@@ -123,8 +123,8 @@ d) El desplazamiento horizontal de la curva hacia la derecha o la izquierda
 
 **Pregunta 11 (alternativas).** ¿Qué ocurre con el período de f(x) = sen(2x) en comparación con el de g(x) = sen(x)?
 
-a) Se duplica: pasa de 360° a 720°
-b) Se mantiene igual: sigue siendo 360°
+a) Se duplica: pasa de 360° a 720° en cada ciclo
+b) Se mantiene igual: sigue siendo de 360°, como el de g
 c) Se reduce a la mitad: pasa de 360° a 180°
 d) Desaparece: la función deja de ser periódica
 
@@ -132,9 +132,9 @@ d) Desaparece: la función deja de ser periódica
 
 **Pregunta 12 (alternativas).** El área de un cuadrado se modela como A(l) = l². Si el lado se triplica, ¿qué ocurre con el área?
 
-a) Se triplica
+a) Se multiplica por 3
 b) Se multiplica por 6
-c) Se mantiene igual
+c) Se reduce a un tercio
 d) Se multiplica por 9
 
 ---
@@ -150,10 +150,10 @@ d) f(4) = 512; aumenta en un factor de 6
 
 **Pregunta 14 (alternativas).** La intensidad de la luz de una ampolleta a una distancia d (metros) se modela como I(d) = 900/d². ¿Qué ocurre al pasar de 3 a 6 metros?
 
-a) Pasa de 100 a 50: se reduce a la mitad
+a) Pasa de 100 a 50: se reduce a la mitad de la intensidad
 b) Pasa de 100 a 25: se reduce a la cuarta parte
-c) Pasa de 300 a 150: se reduce a la mitad
-d) Pasa de 100 a 200: se duplica
+c) Pasa de 300 a 150: se reduce a la mitad de la intensidad
+d) Pasa de 100 a 200: se duplica la intensidad de la luz
 
 ---
 
@@ -168,9 +168,9 @@ d) Máxima 7.000, mínima 5.000 y período de 24 meses
 
 **Pregunta 16 (alternativas).** Una analista debe modelar (1) las horas de luz solar de cada día a lo largo de varios años y (2) el área de un terreno cuadrado según la medida de su lado. ¿Qué modelos son adecuados?
 
-a) (1) potencia y (2) periódico, porque ambos crecen sin límite
-b) (1) lineal y (2) exponencial, porque cambian con el tiempo
-c) (1) exponencial y (2) lineal, porque ambos tienen valor inicial
+a) (1) potencia y (2) periódico, porque los dos cambian de forma regular
+b) (1) lineal, porque aumenta cada día, y (2) exponencial, porque A crece rápido
+c) (1) exponencial, porque cambia con el tiempo, y (2) lineal, porque A depende de l
 d) (1) periódico, porque se repite cada año, y (2) potencia, porque A = l²
 
 ---
@@ -180,7 +180,7 @@ d) (1) periódico, porque se repite cada año, y (2) potencia, porque A = l²
 **Pregunta 17 (alternativas).** ¿Cuál de las siguientes situaciones se modela mejor con una distribución **binomial**?
 
 a) El número de caras al lanzar 10 veces una moneda
-b) La estatura de los estudiantes de un liceo
+b) La estatura de los estudiantes de un liceo grande
 c) El tiempo que demora un bus en llegar al paradero
 d) La temperatura máxima de cada día del año
 
@@ -206,8 +206,8 @@ d) 8
 
 **Pregunta 20 (alternativas).** Una encuesta realizada solo a socios de un gimnasio concluye que «el 80 % de los chilenos hace ejercicio cada semana». ¿Cuál es el principal problema de esta conclusión?
 
-a) Que la encuesta debió hacerse por teléfono y no en persona, para que fuera más rápida
-b) Que el 80 % es un número demasiado alto para aparecer en una encuesta seria del país
+a) Que la encuesta debió hacerse por teléfono y no en persona, para que respondieran más personas
+b) Que el 80 % es un porcentaje demasiado alto para aparecer en una encuesta seria del país
 c) Que los gimnasios no tienen permiso legal para hacer encuestas a las personas que entrenan
 d) Que la muestra no es representativa: los socios de un gimnasio hacen más ejercicio que el promedio
 
@@ -216,9 +216,9 @@ d) Que la muestra no es representativa: los socios de un gimnasio hacen más eje
 **Pregunta 21 (alternativas).** Un estudiante responde al azar 5 preguntas de verdadero o falso (p = 0,5). ¿Cuál es la probabilidad de que acierte exactamente 3?
 
 a) 10/32 = 31,25 %
-b) 3/5 = 60 %
-c) 1/32 ≈ 3,1 %
-d) 5/32 ≈ 15,6 %
+b) 3/5 = 60,00 %
+c) 1/32 ≈ 3,13 %
+d) 5/32 ≈ 15,63 %
 
 ---
 
@@ -251,9 +251,9 @@ d) No se puede concluir causalidad: ambas aumentan por una tercera variable, el 
 
 **Pregunta 25 (alternativas).** Una tienda en línea recibe el 70 % de sus productos del proveedor A, con un 2 % de devoluciones, y el 30 % del proveedor B, con un 10 % de devoluciones. ¿Qué regla se usa y cuál es la probabilidad de que un producto al azar sea devuelto?
 
-a) Regla de la suma simple: 2 % + 10 % = 12 %
-b) Promedio de las tasas: (2 % + 10 %) ÷ 2 = 6 %
-c) Regla del producto: 2 % · 10 % = 0,2 %
+a) Regla de la suma simple: 0,02 + 0,10 = 0,12 (12 %)
+b) Promedio de las tasas: (0,02 + 0,10) ÷ 2 = 0,06 (6 %)
+c) Regla del producto: 0,02 · 0,10 = 0,002 (0,2 %)
 d) Probabilidad total: 0,70 · 0,02 + 0,30 · 0,10 = 4,4 %
 
 ---

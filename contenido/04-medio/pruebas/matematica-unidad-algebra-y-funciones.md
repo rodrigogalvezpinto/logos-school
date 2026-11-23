@@ -46,15 +46,15 @@ d) $1.500.000
 4. *(Alternativas — completar)* Un arriendo de 12 UF se mantiene igual en UF todo el año, pero en pesos cada mes cuesta un poco más. ¿Por qué ocurre y en qué tipo de contratos conviene usar la UF?
 
 a) Porque la UF se reajusta según el IPC (inflación); se usa en contratos de largo plazo para que el valor no pierda poder adquisitivo
-b) Porque la UF sigue el valor del dólar; se usa en contratos de corto plazo para protegerse de las alzas del tipo de cambio
-c) Porque la UF sigue el sueldo mínimo; se usa en compras diarias para que los precios suban junto con los salarios
-d) Porque la UF sigue el precio del cobre; se usa en exportaciones para que el valor dependa de la venta del metal
+b) Porque la UF sigue el valor del dólar; se usa en contratos de corto plazo para protegerse de las alzas del tipo de cambio cada mes
+c) Porque la UF sigue el sueldo mínimo; se usa en compras diarias para que los precios suban junto con los salarios de las personas
+d) Porque la UF sigue el precio del cobre; se usa en exportaciones para que el valor dependa de lo que se obtenga por el metal
 
 5. *(Alternativas — tasa efectiva)* Un depósito ofrece 8% nominal anual capitalizado semestralmente. ¿Cuál es la tasa efectiva anual?
 
-a) 8%
-b) 4%
-c) 16%
+a) 8,00%
+b) 4,00%
+c) 16,00%
 d) 8,16%
 
 6. *(Alternativas — comparar CAE)* Para comprar un refrigerador, el Crédito X anuncia una tasa de 18% anual con un CAE de 26%; el Crédito Y anuncia 20% con un CAE de 22%. ¿Cuál conviene y por qué?
@@ -88,7 +88,7 @@ d) f(x) = 2⁻ˣ
 
 9. *(Alternativas — Calcular)* Si f(x) = 2x⁴, ¿cuál es el valor de f(3)?
 
-a) 24
+a) 1296
 b) 54
 c) 81
 d) 162
@@ -96,15 +96,15 @@ d) 162
 10. *(Alternativas — completar)* La temperatura de un día se modela con f(x) = A·sen(B(x − C)) + D. El parámetro ___ indica cuántos grados sube o baja la temperatura respecto del ___.
 
 a) A (amplitud); valor medio D
-b) B; desfase C
+b) B (período); desfase C
 c) C (desfase); período
 d) D (valor medio); amplitud A
 
 11. *(Alternativas — período)* ¿Cuál es el período de f(x) = 3·cos(4x)?
 
 a) 2π
-b) 3
-c) 8π
+b) 3π
+c) π/4
 d) π/2
 
 12. *(Alternativas — rueda de la fortuna)* La altura de una cabina de una rueda de la fortuna se modela como h(t) = 10·sen((π/15)t) + 12 (h en metros, t en minutos). ¿Cuáles son la altura máxima, la mínima y el período?
@@ -123,10 +123,10 @@ d) Son iguales para todo x positivo, porque ambas son funciones potencia con coe
 
 14. *(Alternativas — coseno vs. seno)* Un péndulo se suelta en t = 0 desde su punto más alejado del centro (su desplazamiento máximo). ¿Qué modelo conviene usar, f(t) = A·sen(Bt) o g(t) = A·cos(Bt), y por qué?
 
-a) f, porque el seno alcanza valores más altos que el coseno y modela mejor la marea alta del puerto a cualquier hora del día
+a) f, porque el seno alcanza valores más altos que el coseno y por eso modela mejor un desplazamiento máximo como este
 b) g, porque el coseno completa su ciclo en la mitad del tiempo que el seno, aunque comience en cero
 c) g, porque el coseno comienza en su valor máximo; ambas describen la misma oscilación con distinto punto de partida (desfase)
-d) Ninguna, porque el coseno no puede modelar fenómenos periódicos
+d) f, porque toda oscilación debe partir desde cero y el seno es la función que comienza en el punto de equilibrio
 
 ---
 
