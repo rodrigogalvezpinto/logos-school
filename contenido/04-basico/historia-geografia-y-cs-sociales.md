@@ -154,8 +154,8 @@ compartían una sociedad jerárquica, un gobierno monárquico y una economía ag
 
 **4. (Alternativas)** ¿Qué afirmación presenta correctamente una **semejanza** y una **diferencia** entre la civilización azteca y la inca?
 a) Semejanza: ambas eran monarquías politeístas de economía agrícola. Diferencia: los aztecas se desarrollaron en Mesoamérica (México) y los incas en la zona andina
-b) Semejanza: ambas vivían en la zona andina, cerca de la cordillera. Diferencia: solo los incas eran agricultores y los aztecas vivían de la caza
-c) Semejanza: ambas tenían como capital la ciudad de Cusco. Diferencia: solo los aztecas eran politeístas, y los incas creían en un solo dios
+b) Semejanza: ambas vivían en la zona andina, cerca de la cordillera. Diferencia: los incas eran agricultores y los aztecas vivían sobre todo de la caza y la pesca
+c) Semejanza: ambas tenían como capital la ciudad de Cusco. Diferencia: los aztecas eran politeístas, y los incas creían en un dios único y creador
 d) Semejanza: ambas cultivaban en chinampas sobre los lagos. Diferencia: los incas vivían en México y los aztecas en la zona andina
 
 ✅ Respuesta correcta: **a) Semejanza: ambas eran monarquías politeístas de economía agrícola. Diferencia: los aztecas se desarrollaron en Mesoamérica (México) y los incas en la zona andina**
@@ -178,10 +178,10 @@ d) Zona A: mayas y aztecas (espacio mesoamericano); Zona B: incas (espacio andin
 ---
 
 **6. (Alternativas — desafiante)** El Camino del Inca (Qhapaq Ñan) cruzaba el desierto de Atacama y llegaba hasta la zona central de Chile. ¿Qué nos dice este dato sobre el imperio inca?
-a) Que era un imperio pequeño que solo ocupaba el desierto de Atacama y sus alrededores
+a) Que era un imperio pequeño que ocupaba el desierto de Atacama y sus alrededores
 b) Que los incas no sabían construir caminos y usaban los que encontraban en el desierto
 c) Que era muy extenso y bien organizado, capaz de conectar territorios muy alejados con una red de caminos
-d) Que los incas vivían solo en Chile y desde ahí viajaban a otros territorios de América
+d) Que los incas vivían en Chile y desde ahí viajaban a otros territorios de América
 
 ✅ Respuesta correcta: **c) Que era muy extenso y bien organizado, capaz de conectar territorios muy alejados con una red de caminos**
 *Retroalimentación:* El imperio inca abarcó varios países actuales y construyó caminos que cruzaban incluso un desierto. Esto también explica por qué encontramos huellas incas en el norte de nuestro país.
@@ -269,8 +269,8 @@ nunca, lo que lo convierte en uno de los desiertos más áridos del planeta.
 **3. (Alternativas)** ¿Cuál de estos climas se caracteriza por veranos secos e inviernos
 lluviosos, y se encuentra en la zona central de Chile?
 a) Mediterráneo
-b) Tropical
-c) Polar
+b) Tropical lluvioso
+c) Polar frío
 d) Desértico
 
 ✅ Respuesta correcta: **a) Mediterráneo**
@@ -304,8 +304,8 @@ d) Lima está en medio de la selva amazónica, tiene clima frío de montaña y e
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué el continente americano puede tener paisajes tan distintos, como el desierto de Atacama y la selva amazónica, que están relativamente cerca en el mapa?
-a) Porque en América no llueve nunca, y por eso el desierto y la selva dependen solo de los ríos que bajan de la cordillera
-b) Porque todos los paisajes de América son iguales, y las diferencias solo aparecen en los mapas por los colores que se usan
+a) Porque en América llueve muy poco, y por eso el desierto y la selva dependen de los ríos que bajan de la cordillera
+b) Porque los paisajes de América son muy parecidos, y las diferencias aparecen en los mapas por los colores que se usan
 c) Porque la selva y el desierto están en continentes distintos, aunque en el mapa parezcan cerca por el tamaño del dibujo
 d) Porque América es muy extensa, recorre distintas latitudes y tiene relieves muy diferentes, lo que genera climas y paisajes distintos
 
@@ -391,8 +391,8 @@ usan más rápido de lo que la naturaleza los regenera.
 **3. (Alternativas — análisis de mapa)** Observa el mapa de América con símbolos: una gota de agua sobre Brasil (bosques y agua), un casco de minero sobre el norte de Chile (minería), un grano de café sobre Colombia, y un pez sobre la costa de Perú y Chile. ¿Qué relación existe entre la ubicación de cada símbolo y el recurso que representa?
 
 ::mapa::america::💧@-7,-56;⛏️@-23,-68.6;☕@4.5,-74;🐟@-15,-80::
-a) Los símbolos se ubicaron al azar, sin relación con el territorio, solo para decorar el mapa con dibujos
-b) Todos los países tienen exactamente los mismos recursos, y el mapa muestra solo uno por falta de espacio
+a) Los símbolos se ubicaron al azar, sin relación con el territorio, para decorar el mapa con dibujos de colores
+b) Los países tienen los mismos recursos, y el mapa muestra uno por zona porque no hay espacio para dibujar todos
 c) Cada símbolo marca el recurso natural más característico de esa zona, según su clima, relieve y condiciones naturales
 d) Los símbolos indican dónde viven más personas y cuáles son las ciudades más grandes de cada país
 
@@ -415,10 +415,10 @@ el sur, lo que favorece una gran cantidad de vida marina frente a las costas de 
 ---
 
 **5. (Alternativas)** ¿Por qué es importante cuidar los recursos naturales en el marco del desarrollo sostenible?
-a) Para venderlos todos lo antes posible y ganar más dinero ahora, antes de que otros países los aprovechen
-b) Porque los recursos naturales no se acaban nunca, aunque se usen mucho, y cuidarlos los hace más bonitos
+a) Para venderlos lo antes posible y ganar más dinero ahora, antes de que otros países los aprovechen
+b) Porque los recursos naturales no se terminan, aunque se usen mucho, y cuidarlos los hace más bonitos
 c) Para que sigan existiendo para las generaciones futuras, por ejemplo, no sobreexplotando la pesca
-d) Para que solo algunas personas puedan usarlos y las demás no, y así los recursos duren un poco más
+d) Para que algunas personas puedan usarlos y las demás no, y así los recursos duren un poco más
 
 ✅ Respuesta correcta: **c) Para que sigan existiendo para las generaciones futuras, por ejemplo, no sobreexplotando la pesca**
 *Retroalimentación:* Cuidar el agua, no sobreexplotar la pesca, reforestar bosques o usar el cobre de forma responsable permite que los recursos sigan existiendo en el futuro.
@@ -520,9 +520,9 @@ caminos, ciudades y tranques que cambian el entorno natural original.
 ---
 
 **3. (Alternativas)** ¿Qué pareja une bien una característica del paisaje de una región de Chile con una adaptación de las personas?
-a) Sequía en el norte → techos inclinados para la nieve
+a) Sequía en el norte → techos inclinados para la nieve que cae
 b) Mucha lluvia en el sur → canales de riego para un desierto
-c) Cercanía al mar → terrazas para cultivar en la nieve
+c) Cercanía al mar → terrazas para cultivar en la nieve de los cerros
 d) Mucha lluvia en el sur → techos inclinados para que escurra el agua
 
 ✅ Respuesta correcta: **d) Mucha lluvia en el sur → techos inclinados para que escurra el agua**
@@ -557,7 +557,7 @@ específico.
 ---
 
 **6. (Alternativas — desafiante)** Compara una transformación del paisaje típica de una gran ciudad (como Santiago) con una de una zona rural agrícola (como el valle central). ¿Qué afirmación es correcta?
-a) Solo la ciudad transforma el paisaje, con edificios, calles y puentes; el campo nunca lo transforma, porque allí todo es natural y nadie construye nada
+a) La ciudad transforma el paisaje con edificios, calles y puentes; el campo casi no lo transforma, porque allí el paisaje es natural y nadie construye nada nuevo
 b) Las dos transforman el paisaje de la misma forma, con edificios, rascacielos y autopistas, porque ambas tienen muchos habitantes
 c) Ambas buscan satisfacer necesidades humanas, pero en la ciudad se construyen edificios, calles y puentes, y en el campo canales de riego, tranques y terrenos cultivados
 d) El campo construye rascacielos y autopistas para la cosecha, y la ciudad construye canales de riego y tranques para sus edificios
@@ -682,8 +682,8 @@ encargado de discutir, elaborar y aprobar las leyes del país.
 
 **5. (Alternativas)** ¿Cuál es la diferencia entre un diputado y un alcalde?
 a) El diputado dirige una comuna y arregla sus plazas, y el alcalde integra el Congreso y crea leyes para todo el país
-b) El diputado es nombrado por el alcalde para que lo ayude en la municipalidad, y solo el alcalde es elegido por votación
-c) No hay diferencia: los dos dirigen la municipalidad de una comuna, ambos son nombrados por el Presidente de la República y ninguno participa en crear leyes
+b) El diputado es nombrado por el alcalde para que lo ayude en la municipalidad, y el alcalde es quien es elegido por votación en la comuna
+c) Se diferencian poco: los dos dirigen la municipalidad de una comuna, ambos son nombrados por el Presidente de la República y trabajan juntos
 d) Ambos son elegidos por votación, pero el diputado integra el Congreso y trabaja a nivel nacional (crear leyes), y el alcalde dirige una municipalidad en una comuna
 
 ✅ Respuesta correcta: **d) Ambos son elegidos por votación, pero el diputado integra el Congreso y trabaja a nivel nacional (crear leyes), y el alcalde dirige una municipalidad en una comuna**

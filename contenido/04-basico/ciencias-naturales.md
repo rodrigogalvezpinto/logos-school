@@ -113,25 +113,25 @@ el ecosistema marino de la Corriente de Humboldt, entre otros.
 
 4. *(Alternativas — aplicación)* En un estero de la zona central hay peces pequeños, algas, piedras, agua y luz solar. ¿Qué afirmación describe correctamente una interacción entre un elemento vivo y uno no vivo?
    a) La luz solar permite que las algas hagan fotosíntesis y produzcan oxígeno que respiran los peces
-   b) Las piedras se alimentan de las algas y así crecen dentro del agua del estero
-   c) Los peces producen la luz solar del estero, que permite que las algas crezcan
-   d) El agua necesita a los peces para existir, porque ellos la fabrican al respirar
+   b) Las piedras se alimentan de las algas y así crecen dentro del agua fría del estero
+   c) Los peces producen la luz del estero, que permite que las algas crezcan en el fondo del agua
+   d) El agua necesita a los peces para existir, porque ellos la fabrican al respirar dentro del estero
    **Respuesta correcta:** a) La luz solar permite que las algas hagan fotosíntesis y produzcan oxígeno que respiran los peces.
    **Retroalimentación:** La luz solar (no viva) permite que las algas (vivas) hagan fotosíntesis y liberen oxígeno, que luego respiran los peces. Así, un elemento no vivo hace posible la vida de los seres vivos del estero.
 
 5. *(Alternativas)* ¿Qué ecosistema chileno es característico por tener pingüinos de
    Humboldt, chungungos y lobos marinos?
-   a) Desierto
+   a) Desierto costero
    b) Bosque templado
    c) Ecosistema marino
-   d) Estepa
+   d) Estepa altiplánica
    **Respuesta correcta:** c) Ecosistema marino.
    **Retroalimentación:** Estos animales viven en las costas y aguas frías de la
    Corriente de Humboldt, típica del litoral chileno.
 
 6. *(Alternativas — predicción)* Si en el altiplano chileno la temperatura bajara mucho durante varios días seguidos, ¿qué podría pasar con las plantas y los animales del lugar?
-   a) Nada, porque la temperatura no afecta a los seres vivos; solo afecta a los elementos no vivos como el agua
-   b) Las plantas crecerían más rápido por el frío, y los animales, como las vicuñas, tendrían más alimento
+   a) Nada importante, porque el frío afecta sobre todo a los elementos no vivos, como el agua y las rocas del altiplano
+   b) Las plantas crecerían más rápido por el frío, y los animales, como las vicuñas, tendrían más alimento cada día
    c) Los animales se volverían elementos no vivos por el frío, y las plantas seguirían creciendo igual
    d) Las plantas podrían dañarse por el frío y algunos animales, como las vicuñas, buscarían refugio o cambiarían su conducta
    **Respuesta correcta:** d) Las plantas podrían dañarse por el frío y algunos animales, como las vicuñas, buscarían refugio o cambiarían su conducta.
@@ -175,9 +175,9 @@ un pelaje más grueso en invierno que en verano.
 **Banco de preguntas de autoevaluación**
 
 1. *(Alternativas)* ¿Por qué el cactus tiene espinas en vez de hojas anchas?
-   a) Solo para defenderse de otros animales
-   b) Para crecer más rápido
-   c) Para atraer más lluvia
+   a) Para defenderse de los animales que las comen
+   b) Para crecer más rápido en verano
+   c) Para atraer más lluvia al desierto
    d) Para reducir la pérdida de agua
    **Respuesta correcta:** d) Para reducir la pérdida de agua.
    **Retroalimentación:** Las hojas anchas pierden mucha agua por evaporación; las
@@ -290,17 +290,17 @@ los guanacos en la Patagonia— esto afecta a todos los demás niveles: los puma
 
 4. *(Alternativas)* ¿Qué pasaría con la población de pumas en la Patagonia si disminuyera bruscamente la cantidad de guanacos?
    a) Podría disminuir, porque los pumas tendrían menos alimento disponible
-   b) Aumentaría, porque habría más espacio libre para cazar
-   c) No cambiaría, porque los pumas comen pasto y no guanacos
-   d) Los pumas se convertirían en productores y harían su alimento
+   b) Aumentaría, porque habría más espacio libre para que los pumas cacen
+   c) No cambiaría, porque los pumas comen pasto y pocas veces guanacos
+   d) Los pumas se convertirían en productores y harían su propio alimento
    **Respuesta correcta:** a) Podría disminuir, porque los pumas tendrían menos alimento disponible.
    **Retroalimentación:** Esto muestra cómo un cambio en un nivel de la cadena afecta a los niveles siguientes: los pumas dependen de los guanacos como fuente principal de alimento.
 
 5. *(Alternativas)* ¿Cuál de estos organismos es un productor?
-   a) Puma
-   b) Hongo
+   a) Puma andino
+   b) Hongo del bosque
    c) Alga marina
-   d) Zorro
+   d) Zorro culpeo
    **Respuesta correcta:** c) Alga marina.
    **Retroalimentación:** Las algas, al igual que las plantas, producen su propio
    alimento mediante fotosíntesis, por eso son productoras.
@@ -369,8 +369,8 @@ músculos, y mejora la coordinación de todo el sistema.
 
 3. *(Alternativas)* Usando el ejemplo del brazo, ¿cómo actúan juntos los huesos, músculos y tendones para doblar el codo?
    a) El bíceps se contrae, el tendón transmite esa fuerza al hueso del antebrazo y la articulación del codo permite el giro
-   b) El hueso del brazo se contrae y se acorta, mientras el músculo se queda quieto y el tendón lo empuja
-   c) El tendón piensa y da la orden de moverse, y el hueso del antebrazo se dobla solo por la mitad
+   b) El hueso del brazo se contrae y se acorta, mientras el músculo se queda quieto y el tendón empuja el antebrazo
+   c) El tendón piensa y da la orden de moverse, y el hueso del antebrazo se dobla por la mitad para subir la mano
    d) La articulación del codo empuja al músculo hacia el hombro, y el hueso se estira para alcanzar la mano
    **Respuesta correcta:** a) El bíceps se contrae, el tendón transmite esa fuerza al hueso del antebrazo y la articulación del codo permite el giro.
    **Retroalimentación:** Una buena respuesta menciona las tres estructuras y su rol específico en el movimiento: el músculo genera la fuerza, el tendón la transmite y el hueso con la articulación permiten moverse.
@@ -437,10 +437,10 @@ inmediato se genera la orden de retirar la mano.
 **Banco de preguntas de autoevaluación**
 
 1. *(Alternativas)* ¿Cuál es la función principal del cerebro?
-   a) Transportar la sangre
+   a) Transportar la sangre por el cuerpo
    b) Elaborar y controlar la información
    c) Producir energía para el cuerpo
-   d) Digerir los alimentos
+   d) Digerir los alimentos que comemos
    **Respuesta correcta:** b) Elaborar y controlar la información.
    **Retroalimentación:** El cerebro es el centro de control del sistema nervioso:
    procesa la información que recibe y genera las órdenes para el resto del cuerpo.
@@ -453,8 +453,8 @@ inmediato se genera la orden de retirar la mano.
    músculos.
 
 3. *(Alternativas — ubicar estructuras)* En un esquema del cuerpo humano, ¿qué combinación ubica bien cada estructura del sistema nervioso?
-   a) Cabeza: médula espinal. Columna: cerebro. Todo el cuerpo: nervios
-   b) Cabeza: nervios. Columna: cerebro. Todo el cuerpo: médula espinal
+   a) Cabeza: médula espinal. Dentro de la columna: cerebro. Por todo el cuerpo: nervios
+   b) Cabeza: nervios. Dentro de la columna: cerebro. Por todo el cuerpo: médula espinal
    c) Cabeza: cerebro. Columna: nervios. Todo el cuerpo: médula espinal
    d) Cabeza: cerebro. Dentro de la columna: médula espinal. Por todo el cuerpo: nervios
    **Respuesta correcta:** d) Cabeza: cerebro. Dentro de la columna: médula espinal. Por todo el cuerpo: nervios.
@@ -463,16 +463,16 @@ inmediato se genera la orden de retirar la mano.
 4. *(Alternativas)* ¿Qué ocurre en tu sistema nervioso cuando tocas accidentalmente algo muy caliente y retiras la mano rápidamente?
    a) El cerebro siente el calor directamente a través de la piel, sin usar los nervios, y la mano se mueve sola
    b) Los nervios de la mano detectan el calor y envían la señal a la médula espinal y al cerebro, que generan la orden de retirar la mano
-   c) Los músculos del brazo deciden solos retirar la mano, sin enviar ninguna señal a la médula ni al cerebro
+   c) Los músculos del brazo deciden retirar la mano por su cuenta, sin enviar una señal a la médula espinal ni al cerebro
    d) La piel guarda el calor hasta que el cerebro lo olvida, y entonces los nervios dejan de sentir el dolor
    **Respuesta correcta:** b) Los nervios de la mano detectan el calor y envían la señal a la médula espinal y al cerebro, que generan la orden de retirar la mano.
    **Retroalimentación:** Este es un buen ejemplo de cómo se conduce y elabora la información: nervios (conducción), médula espinal (conducción) y cerebro (elaboración y control).
 
 5. *(Alternativas)* La médula espinal se encuentra protegida dentro de:
-   a) El cráneo
-   b) Las costillas
+   a) El cráneo de la cabeza
+   b) Las costillas del pecho
    c) La columna vertebral
-   d) El fémur
+   d) El fémur de la pierna
    **Respuesta correcta:** c) La columna vertebral.
    **Retroalimentación:** La columna vertebral protege la médula espinal, que es una
    estructura delicada y muy importante para conducir información en todo el cuerpo.
@@ -651,16 +651,16 @@ general, mientras más profunda es una capa, mayor es su temperatura.
 
 4. *(Alternativas)* ¿Qué descripción ordena bien las capas de la Tierra desde la más externa a la más interna?
    a) Núcleo (el más frío, de hielo) → manto (líquido, de agua caliente) → corteza (la más caliente, de metales)
-   b) Manto (la más externa y rígida) → corteza (de roca líquida que fluye) → núcleo (la capa más fría)
+   b) Manto (la más externa y rígida) → corteza (de roca líquida que fluye rápido) → núcleo (la capa más fría de todas)
    c) Corteza (rígida, la más fría) → manto (predominantemente sólido, fluye muy lentamente) → núcleo (metales, la más caliente)
    d) Corteza (líquida y caliente, con lava) → núcleo (metales, el más frío) → manto (roca rígida y delgada)
    **Respuesta correcta:** c) Corteza (rígida, la más fría) → manto (predominantemente sólido, fluye muy lentamente) → núcleo (metales, la más caliente).
    **Retroalimentación:** De afuera hacia adentro: la corteza es rígida y la más fría; el manto es casi todo sólido pero fluye muy lentamente; el núcleo, de metales, es la capa más caliente. Las otras opciones cambian el orden o dicen que hay capas de agua o hielo.
 
 5. *(Alternativas)* El manto terrestre se caracteriza por:
-   a) Ser sólido y frío, formado por hielo y rocas que nunca se mueven
+   a) Ser sólido y frío, formado por hielo y rocas que casi no se mueven
    b) Estar formado por roca caliente, predominantemente sólida, que fluye muy lentamente
-   c) Ser la capa más externa, donde están los océanos y las montañas
+   c) Ser la capa más externa, donde están los océanos, los ríos y las montañas
    d) Tener la temperatura más baja de las tres capas, por estar lejos del Sol
    **Respuesta correcta:** b) Estar formado por roca caliente, predominantemente sólida, que fluye muy lentamente.
    **Retroalimentación:** Aunque es mayormente sólido, el manto puede deformarse y
@@ -669,7 +669,7 @@ general, mientras más profunda es una capa, mayor es su temperatura.
 6. *(Alternativas — aplicación)* ¿Por qué la corteza terrestre, siendo tan delgada en comparación con las otras capas, puede tener montañas, volcanes y océanos?
    a) Porque es sólida y rígida, y sus movimientos e interacciones con el manto (como el movimiento de placas) generan esas formas del relieve
    b) Porque es la capa más gruesa de la Tierra, y su gran espesor le permite acumular montañas, volcanes y océanos encima
-   c) Porque está hecha solo de agua y de lava, que al enfriarse forman las montañas y al calentarse forman los océanos
+   c) Porque está hecha de agua y de lava, que al enfriarse forman las montañas y al calentarse forman los océanos de la Tierra
    d) Porque el núcleo está en la superficie y su calor derrite la corteza, formando volcanes y océanos donde se hunde
    **Respuesta correcta:** a) Porque es sólida y rígida, y sus movimientos e interacciones con el manto (como el movimiento de placas) generan esas formas del relieve.
    **Retroalimentación:** La corteza es delgada pero sólida y rígida, y está dividida en placas que se mueven sobre el manto: al chocar o separarse, forman montañas, volcanes y fondos oceánicos. No es la capa más gruesa ni está hecha de agua o lava.

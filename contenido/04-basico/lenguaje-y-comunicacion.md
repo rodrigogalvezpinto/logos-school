@@ -82,7 +82,7 @@ d) Que fuera a buscar leña para la estufa
 **2. (Alternativas — información implícita)** ¿Por qué Wladimir juntó la leña antes de que se lo pidieran? (No está escrito directamente: tienes que deducirlo con pistas del texto).
 
 a) Porque vio las nubes negras y pensó que la familia de Valentina necesitaría ayuda: es un vecino atento
-b) Porque quería vender la leña a la abuela de Valentina antes de que empezara el invierno
+b) Porque quería vender la leña a la abuela de Valentina antes de que empezara el invierno frío
 c) Porque la abuela le pagó para hacerlo, aunque el texto no lo dice directamente
 d) Porque a él le gustaba ensuciarse las manos y estar afuera, aunque estuviera lloviendo
 
@@ -94,17 +94,17 @@ d) Porque a él le gustaba ensuciarse las manos y estar afuera, aunque estuviera
 
 **4. (Alternativas — comparar personajes)** ¿Qué comparación entre Valentina y Wladimir se apoya en lo que muestra el texto?
 
-a) Valentina es egoísta y Wladimir es descuidado con sus vecinos; no se parecen en nada, porque cada uno piensa solo en sí mismo
+a) Valentina es egoísta y Wladimir es descuidado con sus vecinos; no se parecen, porque cada uno piensa en sí mismo
 b) Los dos son personajes que no ayudan a nadie durante la tormenta, porque se quedan en sus casas mirando la lluvia
-c) Wladimir es tímido y no habla con nadie, y Valentina nunca agradece nada de lo que hacen por ella y su familia
+c) Wladimir es tímido y casi no habla con nadie, y Valentina olvida agradecer lo que hacen por ella y su familia
 d) Valentina es agradecida y Wladimir es observador y generoso; se parecen en que ambos se preocupan por el bienestar de la familia
 
 *Respuesta correcta: d.* Retroalimentación: comparar personajes significa identificar tanto semejanzas como diferencias en su forma de ser o de actuar, apoyándose siempre en lo que el texto muestra (Valentina abraza a Wladimir en agradecimiento; él junta la leña sin que se lo pidan).
 
 **5. (Alternativas)** ¿Cuál de las siguientes opciones describe mejor el **ambiente** donde ocurre la historia?
 
-a) Una ciudad grande con muchos edificios, autos y semáforos, lejos del mar
-b) Una playa del norte de Chile, con desierto y mucho sol durante todo el año
+a) Una ciudad grande con muchos edificios, autos y semáforos, lejos del mar y del bosque
+b) Una playa del norte de Chile, con desierto y mucho sol durante gran parte del año
 c) Un colegio en el centro de Santiago, con pasillos largos y un patio de cemento
 d) Un pueblo del sur de Chile conectado por pasarelas de madera, cerca del mar y el bosque
 
@@ -113,8 +113,8 @@ d) Un pueblo del sur de Chile conectado por pasarelas de madera, cerca del mar y
 **6. (Alternativas — problema y solución)** ¿Cuál es el problema que enfrentan los personajes al inicio del texto y cómo se soluciona?
 
 a) Valentina se pierde en las pasarelas durante la tormenta; la encuentra su mamá con una linterna
-b) No hay comida en la casa para la tormenta; compran sopaipillas en el almacén del pueblo
-c) La estufa se rompe con el frío; la arregla la abuela con las herramientas de Wladimir
+b) No hay comida en la casa para la tormenta; compran sopaipillas y pan en el almacén del pueblo
+c) La estufa se rompe con el frío; la arregla la abuela con las herramientas viejas de Wladimir
 d) Se acerca una tormenta y necesitan leña para la estufa; se soluciona porque Wladimir ya había juntado la leña
 
 *Respuesta correcta: d.* Retroalimentación: al inicio se acerca una tormenta y la familia necesita leña para la estufa (problema); se soluciona porque Wladimir ya había juntado la leña (solución). Reconocer el problema y su solución te ayuda a seguir el hilo de cualquier historia.
@@ -180,7 +180,7 @@ Además, vamos a practicar cómo **extraer información explícita e implícita*
 **1. (Alternativas)** Según el poema, ¿de qué color es el "manto" que se pone el volcán?
 
 a) Verde
-b) Gris
+b) Gris oscuro
 c) Blanco
 d) Café
 
@@ -201,19 +201,19 @@ d) Menciona una tetera que hierve en la mañana, como en el sur
 
 **4. (Alternativas — lenguaje figurado)** En el verso "Ronca despacito, un humito gris, como una tetera que hierve en la mañana", ¿qué figura del lenguaje se usa y por qué?
 
-a) Una rima, porque todas las palabras del verso terminan con el mismo sonido
+a) Una rima, porque las palabras del final de cada verso terminan con el mismo sonido
 b) Una pregunta, porque tiene signos de interrogación y espera una respuesta
-c) Una instrucción, porque dice qué hacer cuando el volcán ronca en la mañana
+c) Una instrucción, porque dice qué hacer cuando el volcán ronca en la mañana fría
 d) Una comparación (símil), porque usa la palabra "como" para comparar el volcán con una tetera
 
 *Respuesta correcta: d.* Retroalimentación: la palabra "como" es la pista más clara para reconocer una comparación. ("Ronca" también le da al volcán una acción humana, pero la figura que se pregunta aquí es la que usa "como").
 
 **5. (Alternativas)** ¿Cuál de los siguientes versos es un ejemplo de **personificación**?
 
-a) "Sus laderas verdes parecen un poncho"
+a) "Sus laderas verdes parecen un poncho tejido"
 b) "Como una tetera que hierve en la mañana"
 c) "El volcán se puso su manto blanco y se acostó a dormir"
-d) "El pueblo entero mira hacia el monte"
+d) "El pueblo entero mira hacia el monte en silencio"
 
 *Respuesta correcta: c.* Retroalimentación: "ponerse un manto" y "acostarse a dormir" son acciones humanas que aquí se le atribuyen al volcán, por eso es personificación. La opción a) es una comparación (usa "parecen"), y la b) también es comparación (usa "como").
 
