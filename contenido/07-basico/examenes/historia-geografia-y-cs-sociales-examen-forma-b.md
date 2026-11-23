@@ -46,10 +46,9 @@ Corrección final) busca acercarte a la experiencia del examen real.
 **Pregunta 1.** (1 punto)
 ¿Dónde y cómo se originó la Revolución neolítica?
 
-a) Ocurrió en un único lugar del planeta (Medio Oriente) y luego se difundió hacia todas las
-   demás regiones
+a) Ocurrió primero en Medio Oriente y desde allí se difundió hacia Europa, Asia y América a través de las migraciones de los pueblos
 b) Ocurrió primero en el continente americano, con el cultivo del maíz, y desde allí se difundió a Asia y a Medio Oriente por el comercio
-c) Ocurrió de manera simultánea y de la misma forma en todos los continentes, porque el clima cambió al mismo tiempo en todo el planeta
+c) Ocurrió en distintos continentes al mismo tiempo y de la misma forma, porque el clima cambió a la vez en el planeta entero
 d) Fue un proceso independiente que ocurrió en distintos lugares del planeta —como Medio
    Oriente, China y América— en momentos diferentes
 
@@ -74,7 +73,7 @@ civilizaciones, como Mesopotamia o Egipto, es correcta?
 
 a) Los sistemas religiosos solían estar estrechamente vinculados al ejercicio del poder
    político, legitimando la autoridad del gobernante
-b) Los sistemas religiosos estaban completamente separados del poder político: los gobernantes no intervenían en asuntos religiosos
+b) Los sistemas religiosos estaban separados del poder político: los gobernantes evitaban intervenir en los asuntos de los templos
 c) Las primeras civilizaciones no desarrollaron religiones organizadas, sino creencias individuales que cada familia practicaba en su hogar
 d) Los sacerdotes no tenían influencia social ni política, porque su función se limitaba a cuidar los templos y las ofrendas
 
@@ -84,7 +83,7 @@ d) Los sacerdotes no tenían influencia social ni política, porque su función 
 ¿Por qué la organización en torno a ciudades fue clave para el desarrollo de los demás rasgos de las primeras civilizaciones (centralización, estratificación social, sistemas religiosos, escritura y contabilidad)?
 
 a) Porque las ciudades concentraron población, recursos y poder, lo que facilitó la administración centralizada, la diferenciación de roles, la construcción de templos y el registro sistemático de información
-b) Porque en las ciudades todas las personas realizaban exactamente la misma tarea, lo que facilitaba que todos obedecieran al gobernante por igual y que no existieran diferencias sociales entre ellas
+b) Porque en las ciudades las personas realizaban la misma tarea agrícola, lo que facilitaba que obedecieran al gobernante por igual y que hubiera pocas diferencias sociales entre ellas, sin sacerdotes ni escribas
 c) Porque las ciudades eliminaron la necesidad de producir alimentos, ya que se abastecían del comercio con pueblos nómades, y así la población pudo dedicarse a construir templos y escribir
 d) Porque las ciudades se trasladaban constantemente siguiendo las crecidas de los ríos, lo que permitía controlar nuevos territorios y registrar las cosechas de cada lugar que ocupaban
 
@@ -108,9 +107,9 @@ d) Oligarquía
 **Pregunta 6.** (1 punto)
 ¿Qué papel cumplió la esclavitud en la economía romana?
 
-a) Fue irrelevante, ya que la economía romana se basó exclusivamente en el trabajo libre de campesinos y artesanos pagados por el Estado
-b) Se limitó a tareas domésticas en las casas de las familias más ricas, sin relevancia en la agricultura, la minería ni las obras públicas
-c) Solo existió durante los primeros años de la república y luego fue abolida por el Senado, que la reemplazó por el trabajo asalariado
+a) Fue poco relevante, ya que la economía romana se basó en el trabajo libre de campesinos y artesanos pagados por el Estado y por las familias ricas
+b) Se limitó a tareas domésticas en las casas de las familias más ricas, sin relevancia en la agricultura, la minería ni las obras públicas o en los caminos
+c) Existió durante los primeros años de la república y luego fue abolida por el Senado, que la reemplazó por el trabajo asalariado de los campesinos
 d) Fue fundamental: la economía romana dependió en gran medida del trabajo de personas
    esclavizadas, muchas de ellas obtenidas mediante las conquistas militares
 
@@ -119,9 +118,9 @@ d) Fue fundamental: la economía romana dependió en gran medida del trabajo de 
 **Pregunta 7.** (2 puntos)
 ¿Por qué la difusión del cristianismo —primero perseguido y luego establecido como culto oficial del imperio— fue importante para la historia posterior de Europa?
 
-a) Porque desapareció completamente tras la caída de Roma, y Europa volvió a las religiones antiguas, lo que explica la diversidad de creencias de la Europa medieval
-b) Porque fue prohibido para siempre en Europa occidental después de su oficialización, y solo sobrevivió en el norte de África y en Medio Oriente
-c) Porque se practicó solo en la ciudad de Atenas, donde influyó en la filosofía griega clásica, sin difundirse al resto del territorio romano
+a) Porque desapareció tras la caída de Roma, y Europa volvió a las religiones antiguas, lo que explica la diversidad de creencias que hubo en la Europa medieval y moderna
+b) Porque fue prohibido en Europa occidental después de su oficialización, y sobrevivió en el norte de África y en Medio Oriente, desde donde volvió siglos después
+c) Porque se practicó sobre todo en la ciudad de Atenas, donde influyó en la filosofía griega clásica, sin difundirse mucho al resto del territorio romano
 d) Porque, al ser culto oficial, se difundió por todo el territorio romano y sobrevivió a la caída del imperio, transformándose en un elemento central de la civilización europea medieval
 
 ---
@@ -146,7 +145,7 @@ d) Bizantina
 ¿Cuál de las siguientes opciones corresponde a una **innovación tecnológica** que contribuyó a
 las transformaciones de Europa a partir del siglo XII?
 
-a) La fundación de las primeras universidades
+a) La fundación de las primeras universidades en París y Bolonia
 b) El crecimiento de las ciudades como centros de comercio
 c) La acumulación de capitales por parte de comerciantes y artesanos
 d) Mejoras en el arado y el uso de molinos de agua y de viento
@@ -157,9 +156,9 @@ d) Mejoras en el arado y el uso de molinos de agua y de viento
 ¿Por qué el surgimiento de las universidades fue importante no solo para la Edad Media, sino también para el desarrollo posterior de Europa?
 
 a) Porque sentaron las bases institucionales para producir, conservar y difundir conocimiento, un modelo que se mantiene hasta hoy y que fue clave para movimientos culturales posteriores
-b) Porque se cerraron al terminar la Edad Media, y su modelo fue reemplazado por las academias militares de los nuevos Estados nacionales
-c) Porque estaban dedicadas solo a la formación militar de los caballeros, lo que fortaleció a los ejércitos de los reinos europeos posteriores
-d) Porque impidieron el desarrollo de movimientos culturales posteriores, ya que solo enseñaban a repetir de memoria los textos religiosos, sin cuestionarlos ni investigar nada nuevo
+b) Porque se cerraron al terminar la Edad Media, y su modelo fue reemplazado por las academias militares y los monasterios de los nuevos Estados nacionales
+c) Porque estaban dedicadas a la formación militar de los caballeros, lo que fortaleció a los ejércitos de los reinos europeos de los siglos posteriores
+d) Porque frenaron el desarrollo de movimientos culturales posteriores, ya que enseñaban a repetir de memoria los textos religiosos, sin cuestionarlos ni investigar ideas nuevas
 
 ---
 
@@ -182,9 +181,9 @@ desarrollo de las civilizaciones maya y azteca?
 
 a) Porque permitieron adaptar entornos naturales desafiantes (selva tropical, zona lacustre)
    para producir suficiente alimento y sostener a poblaciones numerosas en ciudades
-b) Porque servían exclusivamente como símbolos religiosos dedicados a los dioses del agua, sin ninguna utilidad práctica para la alimentación
-c) Porque se usaban únicamente con fines militares, para defender las ciudades de los ataques de pueblos vecinos que llegaban por agua
-d) Porque impedían el comercio entre distintas regiones de Mesoamérica, lo que obligaba a cada ciudad a producir todo lo que necesitaba
+b) Porque servían sobre todo como símbolos religiosos dedicados a los dioses del agua, con poca utilidad práctica para la alimentación de la población de las ciudades
+c) Porque se usaban con fines militares, para defender las ciudades de los ataques de los pueblos vecinos que llegaban en canoas por el agua o a través de la selva
+d) Porque impedían el comercio entre distintas regiones de Mesoamérica, lo que obligaba a cada ciudad a producir los alimentos que necesitaba su población
 
 ---
 
@@ -197,7 +196,7 @@ iglesias en muchas ciudades latinoamericanas actuales?
 a) Civilización maya y azteca
 b) Civilización grecorromana
 c) Civilización europea medieval
-d) Civilización inca
+d) Civilización inca de los Andes
 
 ---
 
@@ -209,10 +208,10 @@ d) Civilización inca
 
 A partir del estímulo, ¿por qué es importante proteger el patrimonio cultural heredado de las civilizaciones estudiadas, y qué ejemplo **distinto al del estímulo** muestra un legado presente en la cultura latinoamericana actual?
 
-a) Porque así se evita que los turistas visiten el país y dañen los sitios arqueológicos; ejemplo: los templos mayas, que deberían cerrarse al público
-b) Porque el patrimonio solo es valioso si se puede vender o exhibir en museos extranjeros; ejemplo: las piezas de cerámica que se subastan en Europa
+a) Porque así se evita que los turistas visiten el país y dañen los sitios arqueológicos; ejemplo: los templos mayas, que deberían cerrarse al público para conservarlos intactos frente a la erosión
+b) Porque el patrimonio es valioso cuando se puede vender o exhibir en museos extranjeros; ejemplo: las piezas de cerámica precolombina que se subastan en las casas de remate de Europa y de Estados Unidos
 c) Porque forma parte de la identidad histórica de los pueblos latinoamericanos y su pérdida significaría perder conocimiento sobre el pasado; ejemplo: el maíz y el cacao en la alimentación actual (legado maya/azteca)
-d) No es importante protegerlo, porque esas civilizaciones desaparecieron hace siglos y no dejaron ningún legado en la vida actual; ejemplo: ninguno, ya que el maíz y el cacao llegaron desde Europa
+d) Es poco importante protegerlo, porque esas civilizaciones desaparecieron hace siglos y dejaron poco legado en la vida actual; ejemplo: el maíz y el cacao, que llegaron desde Europa con los españoles
 
 ---
 
@@ -224,8 +223,8 @@ d) No es importante protegerlo, porque esas civilizaciones desaparecieron hace s
 ¿Qué factor de asentamiento ilustra el caso de una ciudad construida cerca de un volcán
 activo, expuesta al riesgo de erupciones?
 
-a) Cercanía a zonas fértiles para cultivar
-b) Disponibilidad de recursos naturales cercanos
+a) Cercanía a zonas fértiles para cultivar alimentos
+b) Disponibilidad de recursos naturales cercanos a la ciudad
 c) Vulnerabilidad de la población ante amenazas del entorno
 d) Fragilidad del medio natural ante la acción de la población
 
@@ -235,7 +234,7 @@ d) Fragilidad del medio natural ante la acción de la población
 ¿Qué factor de asentamiento ilustra el caso de un ecosistema de selva gravemente dañado por la
 deforestación excesiva realizada por una comunidad humana?
 
-a) Cercanía a zonas fértiles
+a) Cercanía a zonas fértiles para cultivar
 b) Fragilidad del medio ante la acción humana
 c) Vulnerabilidad ante amenazas naturales
 d) Disponibilidad de recursos minerales
@@ -256,11 +255,10 @@ d) La confianza en la tecnología: las nuevas bombas permiten extraer toda el ag
 **Pregunta 18.** (1 punto)
 ¿Qué impacto tuvo la Revolución agrícola del neolítico sobre el medio natural?
 
-a) Ningún impacto, ya que las sociedades de esa época eran demasiado pequeñas para transformar
-   el entorno
+a) Tuvo un impacto muy pequeño, ya que las sociedades de esa época eran demasiado pequeñas para transformar el entorno
 b) Generó impactos importantes, como la tala de bosques para cultivar y la modificación de
    cursos de agua para el riego
-c) Solo afectó a los animales domesticados, que cambiaron de tamaño, sin modificar el paisaje ni los bosques
+c) Afectó sobre todo a los animales domesticados, que cambiaron de tamaño, sin modificar mayormente el paisaje ni los bosques
 d) Provocó la desaparición completa de la agricultura en los siglos posteriores, por el agotamiento de los suelos
 
 ---
@@ -268,9 +266,9 @@ d) Provocó la desaparición completa de la agricultura en los siglos posteriore
 **Pregunta 19.** (2 puntos)
 Al comparar la deforestación de comunidades neolíticas para cultivar pequeñas parcelas con la deforestación actual de grandes extensiones de selva para agricultura industrial, ¿qué continuidad y qué cambio se identifican?
 
-a) Continuidad: la tecnología usada para talar es la misma que en el Neolítico. Cambio: hoy ya no se cultiva, sino que solo se extrae madera de la selva
-b) Continuidad: ninguna, porque son procesos sin relación. Cambio: en el Neolítico no se talaban bosques, ya que las comunidades vivían solo de la caza
-c) Continuidad: la escala del impacto es idéntica, porque en ambos casos se tala la misma superficie de bosque. Cambio: ninguno, salvo el tipo de cultivo
+a) Continuidad: la tecnología usada para talar es la misma que en el Neolítico. Cambio: hoy ya no se cultiva, sino que se extrae madera de la selva para venderla
+b) Continuidad: escasa, porque son procesos sin relación. Cambio: en el Neolítico no se talaban bosques, ya que las comunidades vivían de la caza y la recolección
+c) Continuidad: la escala del impacto es idéntica, porque en ambos casos se tala la misma superficie de bosque. Cambio: el tipo de cultivo que se siembra después
 d) Continuidad: en ambos casos se transforma el medio con fines agrícolas. Cambio: la escala del impacto y la tecnología son mucho mayores hoy, gracias a la maquinaria industrial
 
 ---
@@ -298,9 +296,9 @@ d) Un sistema de gobierno sin participación ciudadana, en que un dictador elegi
 
 ¿Con qué tipo de organización actual se puede comparar este gremio, y por qué?
 
-a) Con un club deportivo, porque organiza campeonatos entre sus miembros y entrena a los jugadores más jóvenes del barrio
+a) Con un club deportivo, porque organiza campeonatos entre sus miembros y entrena a los jugadores más jóvenes del barrio cada semana
 b) Con un sindicato o un colegio profesional, porque agrupan a personas de un mismo oficio para regular su actividad y representar sus intereses
-c) Con una municipalidad, porque elige alcalde y dicta normas para todos los habitantes de la comuna, tengan o no un oficio
+c) Con una municipalidad, porque elige alcalde y dicta normas para los habitantes de la comuna, tengan o no un oficio o un negocio
 d) Con un partido político, porque presenta candidatos a Presidente y defiende un programa de gobierno para todo el país
 
 ---
@@ -326,10 +324,10 @@ d) La introducción del árabe como lengua oficial de Europa
 
 ¿Qué nos muestra este ejemplo sobre el valor de la diversidad cultural?
 
-a) Que la cultura árabe no hizo ningún aporte a Europa, porque los textos traducidos solo repetían conocimientos que los europeos ya tenían
+a) Que la cultura árabe hizo un aporte menor a Europa, porque los textos traducidos repetían en gran parte conocimientos que los europeos ya tenían desde la Antigüedad
 b) Que en la Edad Media no existían traducciones, por lo que este texto debe haber sido escrito en latín y atribuido después a autores árabes
 c) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a ambas sociedades, más allá de sus diferencias religiosas o políticas
-d) Que el conocimiento solo se producía en Europa occidental, y que los textos árabes servían únicamente para difundir la religión musulmana
+d) Que el conocimiento se producía sobre todo en Europa occidental, y que los textos árabes servían para difundir la religión musulmana entre los cristianos
 
 ---
 
@@ -339,12 +337,11 @@ d) Que el conocimiento solo se producía en Europa occidental, y que los textos 
 ¿Qué estrategia utilizaron tanto el imperio romano como el imperio incaico para mantener la
 estabilidad dentro de territorios extensos y culturalmente diversos?
 
-a) La imposición de una única lengua y religión obligatoria para todos los pueblos
-   conquistados
+a) La imposición obligatoria de la lengua y la religión del imperio a los pueblos conquistados
 b) La tolerancia religiosa, permitiendo que los pueblos conquistados mantuvieran sus propias
    creencias
-c) La expulsión de todos los pueblos conquistados hacia otros territorios
-d) La prohibición total del comercio con los pueblos conquistados
+c) La expulsión de los pueblos conquistados hacia otros territorios lejanos del imperio
+d) La prohibición del comercio con los pueblos conquistados para debilitarlos
 
 ---
 
@@ -357,9 +354,9 @@ d) La prohibición total del comercio con los pueblos conquistados
 A partir del estímulo, ¿qué muestra este caso sobre las relaciones entre pueblos, y por qué el respeto, la tolerancia y la resolución pacífica de conflictos siguen siendo importantes hoy?
 
 a) Que convivencia y conflicto pueden coexistir incluso entre partes de una misma tradición cultural; y esas actitudes siguen siendo fundamentales para prevenir conflictos y construir respeto mutuo entre culturas
-b) Que las dos mitades del imperio nunca tuvieron contacto entre sí después de dividirse; y la tolerancia ya no es necesaria hoy, porque los pueblos actuales viven separados por fronteras
-c) Que las relaciones entre pueblos de una misma tradición son siempre pacíficas; y los conflictos entre pueblos distintos solo pueden resolverse mediante la guerra y la conquista
-d) Que solo hubo conflicto, sin ninguna colaboración, entre ambas partes del imperio; y la tolerancia fue útil únicamente en la Antigüedad, no en las sociedades del presente
+b) Que las dos mitades del imperio perdieron el contacto después de dividirse; y la tolerancia es menos necesaria hoy, porque los pueblos actuales viven separados por fronteras bien definidas y vigiladas
+c) Que las relaciones entre pueblos de una misma tradición tienden a ser pacíficas; y los conflictos entre pueblos distintos se resuelven mediante la guerra y la conquista del más fuerte en cada época
+d) Que hubo conflicto y poca colaboración entre ambas partes del imperio; y la tolerancia fue útil en la Antigüedad, pero ya no en las sociedades del presente ni del futuro
 
 ---
 

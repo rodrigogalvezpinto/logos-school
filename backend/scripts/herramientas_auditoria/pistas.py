@@ -104,7 +104,9 @@ def distractores(archivo, n, nuevos):
         assert texto.strip() and texto.strip() != r0.respuesta_correcta
         viejo = p0.opciones[i]
         # Línea de la alternativa: «c) texto» (con o sin sangría/viñeta). Debe ser única en el archivo.
-        patron = re.compile(rf'(?m)^([ \t>*-]*\(?{letra}\)[ \t]+){re.escape(viejo)}[ \t]*$')
+        # El texto puede venir ajustado en varias líneas (con sangría): se aceptan espacios y saltos entre palabras.
+        cuerpo = r'\s+'.join(re.escape(w) for w in viejo.split())
+        patron = re.compile(rf'(?m)^([ \t>*-]*\(?{letra}\)[ \t]+){cuerpo}[ \t]*$')
         ms = list(patron.finditer(t))
         if len(ms) != 1:
             # Si el texto se repite en otra pregunta, se acota al bloque de esta pregunta.
