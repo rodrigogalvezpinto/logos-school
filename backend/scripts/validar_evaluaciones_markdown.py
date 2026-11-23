@@ -83,6 +83,10 @@ def _compare(question_no: int, letter: str, answer: str,
     # para revisión semántica humana, no se marcan como discrepancia automática.
     compact_answer = len(normalised_answer) <= 32
     compact_option = len(normalised_option) <= 32
+    # Si la alternativa misma termina en un paréntesis aclaratorio («El Servicio Electoral (Servel)»), la clave
+    # completa, sin recortar, ya coincide: no es una discrepancia (falso positivo corregido el 2026-11-23).
+    if _normalise(answer.strip()) == normalised_option:
+        return []
     if compact_answer and compact_option and normalised_answer != normalised_option:
         # Permitir que la clave contenga una respuesta seguida de una aclaración
         # no parentética; se considera equivalente si la alternativa completa
