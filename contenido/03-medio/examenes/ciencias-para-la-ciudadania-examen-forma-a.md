@@ -54,19 +54,19 @@ d) Solo un efecto en la vista, sin relación con el resto del cuerpo
 
 **2.** *(Alternativas)* ¿Qué indican los sellos negros «ALTO EN» que aparecen en algunos alimentos en Chile?
 
-a) Que el alimento es más nutritivo y recomendable que los demás
-b) Que el alimento fue producido en Chile con ingredientes naturales
+a) Que el alimento es más nutritivo y recomendable que otros productos parecidos
+b) Que el alimento fue producido en Chile con ingredientes naturales y sin aditivos
 c) Que el alimento supera los límites de azúcares, sodio, grasas saturadas o calorías
-d) Que el alimento tiene más proteínas de lo que el cuerpo necesita
+d) Que el alimento tiene más proteínas y vitaminas de lo que el cuerpo necesita al día
 
 ---
 
 **3.** *(Alternativas)* Según la evidencia científica disponible, ¿qué efecto tiene el uso de cigarrillos electrónicos (vapeo) en adolescentes?
 
-a) Ninguno, porque el vapor es solo agua con sabor a frutas
+a) No tiene efectos relevantes, porque el vapor está compuesto sobre todo de agua con saborizantes
 b) Expone a la nicotina, que es adictiva y afecta el desarrollo del cerebro
 c) Mejora la capacidad pulmonar porque reemplaza al cigarrillo común
-d) Solo tiene efectos en personas mayores de 60 años de edad
+d) Afecta a los fumadores adultos, pero no tiene efectos en el desarrollo de los adolescentes
 
 ---
 
@@ -81,10 +81,10 @@ d) Un estado de bienestar físico, mental y social, no solo la ausencia de enfer
 
 **5.** *(Alternativas)* El nivel de ingresos de una familia y su acceso a atención médica son factores de salud de tipo:
 
-a) Genético
-b) Hereditario
+a) Genético y biológico
+b) Ambiental y climático
 c) Socioeconómico
-d) Infeccioso
+d) Infeccioso y contagioso
 
 ---
 
@@ -108,9 +108,9 @@ d) Incorporar actividad física regular, que mejora el ánimo y el sueño
 **7.** *(Alternativas)* ¿Qué medidas previenen la infección por el virus del papiloma humano (VPH)?
 
 a) La vacunación contra el VPH y el uso de preservativo
-b) Tomar antibióticos cada vez que hay un resfrío
-c) Lavarse los dientes después de cada comida
-d) Evitar el contacto con animales domésticos
+b) Tomar antibióticos cada vez que hay un resfrío fuerte
+c) Lavarse los dientes y usar enjuague después de cada comida
+d) Evitar el contacto con animales domésticos y sus pelos
 
 ---
 
@@ -126,27 +126,27 @@ d) Las lesiones y fracturas producidas por golpes o caídas en el colegio
 **9.** *(Alternativas)* ¿Por qué el uso innecesario de antibióticos es un problema de salud pública?
 
 a) Porque los antibióticos curan los resfríos virales y se agotan rápido
-b) Porque los antibióticos son caros y no se venden en farmacias
-c) Porque los antibióticos producen enfermedades hereditarias
+b) Porque los antibióticos son caros y escasean en las farmacias de regiones
+c) Porque los antibióticos producen enfermedades hereditarias en los hijos
 d) Porque favorece la aparición de bacterias resistentes a esos medicamentos
 
 ---
 
 **10.** *(Alternativas)* ¿Qué implicancia social tiene mantener una alta cobertura de vacunación contra el sarampión en la población?
 
-a) Que las personas vacunadas ya no necesitan lavarse las manos
-b) Que el sarampión deja de existir en todo el mundo para siempre
+a) Que las personas vacunadas ya no necesitan lavarse las manos ni usar mascarilla
+b) Que el sarampión desaparece del planeta y ya no hace falta seguir vacunando
 c) Que protege también a quienes no pueden vacunarse, por la inmunidad colectiva
-d) Que solo se benefician las personas que pagan la vacuna en forma particular
+d) Que se benefician las personas que pagan la vacuna en forma particular en clínicas
 
 ---
 
 **11.** *(Alternativas)* Una página web vende un «suplemento natural que elimina todos los virus del cuerpo en tres días». ¿Qué señal indica que la información no es confiable?
 
-a) Que el producto se presenta como natural y viene en un envase atractivo
+a) Que el producto se presenta como natural y viene en un envase atractivo y colorido
 b) Que promete resultados absolutos sin estudios ni fuentes verificables, y busca vender
-c) Que el sitio web tiene muchas fotos de personas sonriendo con el producto
-d) Que el suplemento se vende por internet y no en una farmacia de barrio
+c) Que el sitio web tiene muchas fotos de personas sonriendo mientras usan el producto
+d) Que el suplemento se vende por internet y no en una farmacia de barrio o de cadena
 
 ---
 
@@ -170,8 +170,8 @@ d) La varicela solo se transmite por los alimentos, así que todos debieron comp
 **13.** *(Alternativas)* En la etiqueta de un producto aparece un pictograma con una calavera sobre dos huesos cruzados. ¿Qué indica?
 
 a) Que el producto es inflamable y puede encenderse con facilidad
-b) Que el producto es corrosivo y puede quemar la piel
-c) Que el producto contamina el agua y daña a los peces
+b) Que el producto es corrosivo y puede quemar la piel o los ojos
+c) Que el producto contamina el agua y daña a los peces y a las algas
 d) Que el producto es tóxico y puede causar una intoxicación grave
 
 ---
@@ -196,10 +196,10 @@ d) Ninguno, porque los medicamentos de farmacia son siempre seguros
 
 **16.** *(Alternativas, 2 puntos)* Una publicación asegura que «el vinagre desinfecta igual que el cloro cualquier superficie». ¿Qué evaluación es correcta?
 
-a) Es correcta: el vinagre es un ácido y por eso desinfecta exactamente igual que el cloro en cualquier superficie de la casa
+a) Es correcta: el vinagre es un ácido y por eso desinfecta igual que el cloro en las superficies de la cocina y del baño
 b) Es incorrecta: el vinagre limpia, pero su efecto contra microorganismos es limitado y no reemplaza a un desinfectante
-c) Es correcta: todos los productos de la cocina desinfectan, porque se usan con los alimentos y no pueden ser peligrosos
-d) Es incorrecta solo porque el vinagre tiene un olor desagradable que nadie soporta dentro de la casa durante el día
+c) Es correcta: los productos de la cocina desinfectan, porque se usan con los alimentos y no pueden ser peligrosos
+d) Es incorrecta porque el vinagre tiene un olor desagradable que pocas personas soportan dentro de la casa
 
 ---
 
@@ -229,9 +229,9 @@ d) Esperar en la casa a que aparezcan síntomas antes de llamar a alguien para p
 
 **19.** *(Alternativas)* El mensaje de alerta que llega a los celulares para avisar de un tsunami es una medida de:
 
-a) Reconstrucción después del desastre
-b) Mitigación del daño a los edificios
-c) Recuperación de la economía local
+a) Reconstrucción y recuperación después del desastre
+b) Mitigación del daño estructural a los edificios
+c) Recuperación de la economía y del turismo local
 d) Alerta temprana y preparación de la población
 
 ---
@@ -247,10 +247,10 @@ d) Respetar las zonas de inundación definidas en el plan regulador del municipi
 
 **21.** *(Alternativas)* En las ciudades de la costa chilena hay señales con una ola y una flecha. ¿Qué indican?
 
-a) La ubicación de las playas aptas para el baño
-b) La dirección del viento predominante en la zona
+a) La ubicación de las playas aptas para el baño en verano
+b) La dirección del viento predominante en la zona costera
 c) La vía de evacuación hacia una zona segura ante un tsunami
-d) El lugar donde se puede estacionar frente al mar
+d) El lugar donde se puede estacionar frente al mar sin pagar
 
 ---
 
