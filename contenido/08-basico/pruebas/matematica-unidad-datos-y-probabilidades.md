@@ -17,7 +17,7 @@ ultima_actualizacion: 2026-10-28
 **Instrucciones:** responde todas las preguntas. Haz tus cálculos en el cuaderno antes de elegir cada alternativa. Tiempo sugerido: 30-35 minutos.
 
 **Pregunta 1 (alternativas).** El peso de un recién nacido está en el percentil 80 de su grupo. ¿Qué significa?
-a) Que pesa 80 kilos
+a) Que pesa 80 kilos más que el promedio de los recién nacidos del país
 b) Que está entre los 80 bebés más pesados del país que nacieron ese mismo año
 c) Que le falta un 80% del peso para llegar al peso ideal de un recién nacido
 d) Que su peso es igual o mayor que el de aproximadamente el 80% de los recién nacidos
@@ -25,10 +25,10 @@ d) Que su peso es igual o mayor que el de aproximadamente el 80% de los recién 
 **Pregunta 2 (verdadero o falso).** El primer cuartil (Q1) deja aproximadamente el 25% de los datos por debajo de él.
 
 **Pregunta 3 (calcular).** Ordena y calcula la mediana de este conjunto de datos: 14, 7, 11, 18, 9, 16.
-a) 11
+a) 11,5
 b) 12,5
-c) 14
-d) 9
+c) 14,0
+d) 9,5
 
 **Pregunta 4 (Alternativas — calcular Q1 y Q3).** Estaturas ordenadas de 8 estudiantes (cm): 140, 144, 148, 150, 153, 156, 160, 166. ¿Cuánto valen Q1 y Q3?
 
@@ -50,17 +50,17 @@ d) 50%
 
 ::caja::8°A=4,2/5,1/5,6/6/6,4;8°B=3,6/4,4/5/5,9/6,9::x=Nota::
 
-a) 8°B tiene un rendimiento típico más alto en todos los casos, porque su bigote llega más arriba
+a) 8°B tiene un rendimiento típico más alto en general, porque su bigote superior llega más arriba
 b) 8°A tiene un rendimiento típico más alto, pero 8°B tiene al menos un estudiante con la nota más alta
-c) Ambos cursos tienen exactamente el mismo rendimiento, porque sus bigotes terminan cerca
+c) Ambos cursos tienen el mismo rendimiento típico, porque sus bigotes terminan en notas parecidas
 d) 8°A tiene la nota máxima más alta, porque su mediana es mayor que la de 8°B
 
 **Pregunta 7 (Alternativas — problema no rutinario).** Un conjunto de datos tiene mínimo 1, Q1 = 10, mediana = 12, Q3 = 14 y máximo 16. ¿Qué parte del diagrama de cajón será más larga y qué sugiere?
 
 a) El bigote superior (2 unidades): un valor muy alto que se aleja mucho del resto de los datos del curso
-b) La caja (4 unidades): todos los datos son iguales y están concentrados al centro
+b) La caja (4 unidades): los datos son iguales y están concentrados al centro del gráfico
 c) El bigote inferior (9 unidades): datos más dispersos o un valor bajo atípico en la parte inferior
-d) Todas las partes miden lo mismo
+d) Las partes del gráfico miden lo mismo, así que no hay dispersión
 
 **Pregunta 8 (alternativas).** ¿Cuál de las siguientes es una forma de **engañar** con un gráfico de barras?
 a) Rotular claramente los ejes y las categorías del gráfico, con sus unidades
@@ -72,10 +72,10 @@ d) Empezar el eje vertical en 0 para comparar las barras
 
 **Pregunta 10 (identificar manipulación).** Un gráfico de las ventas de una tienda tiene el eje vertical que empieza en 900 y no en 0. Así, una diferencia pequeña entre dos meses parece enorme. ¿Qué problema presenta el gráfico?
 
-a) Falta de título y de nombres en los ejes
+a) Falta de título y de nombres en los ejes del gráfico
 b) Uso de colores poco adecuados en las barras
 c) Distorsión visual porque el eje no comienza en cero
-d) Tiene demasiados datos para un solo gráfico
+d) Exceso de datos para un solo gráfico de barras simple
 
 **Pregunta 11 (Alternativas — elegir gráfico).** Una municipalidad quiere mostrar qué parte de su presupuesto anual se destina a salud, educación, áreas verdes y seguridad. ¿Qué gráfico conviene?
 
@@ -95,9 +95,9 @@ d) Exagera la diferencia (la barra de 2025 se ve el triple de alta, aunque el au
 
 **Pregunta 13 (Alternativas — comparar gráficos).** Se quiere mostrar cómo cambió el número de visitantes de un museo mes a mes durante un año. ¿Qué gráfico es más apropiado?
 
-a) Circular, porque muestra partes de un todo
+a) Circular, porque muestra las partes de un todo anual
 b) De líneas, porque muestra la evolución en el tiempo
-c) Circular, porque compara los doce meses del año
+c) Circular, porque compara los doce meses del año juntos
 d) Ninguno, porque son demasiados datos
 
 **Pregunta 14 (Alternativas — manipulación en publicidad).** Un aviso afirma que "9 de cada 10 dentistas recomiendan" una pasta, pero en letra pequeña dice que se encuestó a solo 10 dentistas elegidos por la empresa. ¿Qué problema tiene la información?
