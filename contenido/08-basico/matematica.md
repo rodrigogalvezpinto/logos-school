@@ -887,7 +887,7 @@ d) (−5, 3)
 a) (3, 5)
 b) (−3, 5)
 c) (−3, −5)
-d) (5, −3)
+d) (−5, −3)
 
 **Respuesta correcta: c) (−3, −5).**
 *Retroalimentación:* al reflejar respecto al eje x cambia el signo de y y se mantiene x.

@@ -884,7 +884,7 @@ d) Una reunión diplomática en que la Corona española reconoció el río Biob�
 ---
 
 **5. (Alternativas — análisis de fuente)** Un relato colonial describe a comerciantes españoles cruzando el Biobío para intercambiar textiles por ganado con familias mapuches en tiempos de tregua. ¿Qué aspecto de la sociedad de frontera ilustra?
-a) Que en la frontera predominaba la guerra, y los comerciantes cruzaban el río para espiar al otro bando
+a) Que en la frontera predominaba la guerra, y los comerciantes cruzaban el río Biobío para espiar al otro bando
 b) La convivencia y el intercambio comercial que, junto al conflicto armado, formaban parte de la vida en la frontera
 c) Que no existía ningún contacto entre españoles y mapuches, salvo durante las batallas en la frontera
 d) Que los mapuches dependían del comercio con Europa para obtener ganado, armas y alimentos
@@ -1014,7 +1014,7 @@ d) 1-C, 2-A, 3-B
 ---
 
 **4. (Alternativas)** ¿Por qué las ideas ilustradas implicaron una fuerte crítica al absolutismo?
-a) Porque defendían que el rey tuviera todo el poder, siempre que lo ejerciera con razón y en beneficio del pueblo, sin leyes ni instituciones que lo limitaran
+a) Porque defendían que el rey tuviera el poder completo, mientras lo ejerciera con razón y en beneficio del pueblo, sin leyes ni instituciones que lo limitaran
 b) Porque rechazaban la existencia de leyes escritas y proponían que cada persona se gobernara según su propia razón, sin autoridades
 c) Porque proponían volver al feudalismo, devolviendo el poder a los señores locales y a la nobleza de cada región del reino
 d) Porque defendían un poder limitado por leyes, dividido entre instituciones y legitimado por el pueblo, incompatible con un rey que concentraba todo el poder
@@ -1191,7 +1191,7 @@ d) 1-B, 2-C, 3-A
 ---
 
 **5. (Alternativas — análisis de mapa)** Un mapa de América a comienzos del siglo XIX muestra las zonas donde hubo procesos independentistas entre 1808 y 1825, desde México hasta el sur de Sudamérica. ¿Qué característica ilustra?
-a) Que Chile se independizó en ese período, mientras el resto de América siguió siendo colonia de España
+a) Que Chile se independizó en ese período, mientras el resto de América siguió siendo colonia de España por varias décadas
 b) Que la independencia ocurrió en un solo día en todo el continente, gracias a un acuerdo firmado con España
 c) Que los procesos fueron hechos aislados, sin relación entre sí ni causas comunes entre los países
 d) Que la independencia hispanoamericana fue un proceso continental, más o menos simultáneo en distintos territorios
@@ -1352,7 +1352,7 @@ d) Una región político-administrativa
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué es útil analizar un territorio con distintos tipos de región y no solo con uno?
-a) Porque los tipos de región muestran lo mismo, y usar varios sirve para confirmar los datos del mapa principal del país
+a) Porque los tipos de región muestran lo mismo, y usar varios sirve para confirmar los datos del mapa principal del país en cada región
 b) Porque cada tipo pone el foco en aspectos distintos (clima, cultura, economía, organización), y combinarlos permite una comprensión más completa
 c) Porque solo la región político-administrativa es válida, y los otros tipos sirven solo para dibujar mapas más completos y coloridos
 d) Porque así se evita estudiar el territorio en detalle, ya que cada tipo de región resume la información de las demás
@@ -1433,7 +1433,7 @@ región o localidad?
 a) La cantidad de habitantes que tiene la región o la localidad cada año
 b) Las redes de transporte y comunicaciones, y el acceso a bienes, servicios e información
 c) El clima de la región y la cantidad de lluvia que recibe cada año
-d) Solamente la cantidad de universidades y colegios presentes en la región
+d) La cantidad de universidades y colegios presentes en la región y en sus comunas
 
 ✅ Respuesta correcta: **b) Las redes de transporte y comunicaciones, y el acceso a bienes,
 servicios e información**
@@ -1483,7 +1483,7 @@ d) Cierre de todos los servicios de salud, porque los adultos mayores se traslad
 
 **5. (Alternativas)** ¿Cómo puede afectar la relación centro-periferia a las personas que viven en regiones alejadas de Santiago?
 a) Tienen siempre más servicios que quienes viven en Santiago, porque el Estado invierte más en las regiones alejadas para compensar la distancia
-b) Les afecta poco, porque hoy los servicios, la inversión y el empleo están distribuidos de forma bastante equitativa en el territorio nacional
+b) Les afecta poco, porque hoy los servicios, la inversión y el empleo están distribuidos de forma bastante equitativa en el territorio nacional, incluidas las regiones extremas
 c) Las obliga a trasladarse a vivir en la capital, porque en las regiones alejadas los servicios y el empleo son escasos durante el año
 d) Al concentrarse servicios, inversión y empleo en el centro, pueden tener menor acceso a ellos o deben trasladarse largas distancias, generando desigualdades territoriales
 
@@ -1572,7 +1572,7 @@ equilibrar la actividad productiva actual con el cuidado ambiental de largo plaz
 a) El ingreso económico promedio de la población del país
 b) Salud (esperanza de vida), educación y nivel de vida (ingreso)
 c) La cantidad de exportaciones que realiza cada región
-d) La superficie territorial y la población de cada región
+d) La superficie territorial y la población total de cada región
 
 ✅ Respuesta correcta: **b) Salud (esperanza de vida), educación y nivel de vida (ingreso)**
 *Retroalimentación:* El IDH permite comparar el bienestar de regiones o países considerando más
@@ -1620,7 +1620,7 @@ d) Ninguna, porque el IDH solo se calcula para países y no para regiones
 
 **5. (Alternativas)** ¿Qué significa que una región tenga una "ventaja comparativa" en una actividad productiva?
 a) Que produce los bienes mejor y más barato que las demás regiones, por lo que no necesita comerciar con ellas ni con otros países del mundo
-b) Que no exporta ningún producto, porque consume dentro de la misma región todo lo que produce gracias a sus condiciones naturales, humanas o tecnológicas
+b) Que exporta pocos productos, porque consume dentro de la misma región casi todo lo que produce gracias a sus condiciones naturales y a su población
 c) Que depende de las importaciones, porque se especializa en una sola actividad productiva y debe comprar afuera casi todo lo que consume su población
 d) Que puede producir cierto bien de forma relativamente más eficiente que otras, por sus condiciones naturales, humanas o tecnológicas, como una región minera especializada en minería
 
@@ -1630,7 +1630,7 @@ d) Que puede producir cierto bien de forma relativamente más eficiente que otra
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué puede existir tensión entre el desarrollo productivo de una región y el desarrollo sustentable?
-a) Porque el desarrollo productivo afecta poco al ambiente, pero las normas de sustentabilidad imponen costos que hacen menos rentables las actividades económicas de la región
+a) Porque el desarrollo productivo afecta poco al ambiente, pero las normas de sustentabilidad imponen costos que hacen menos rentables las actividades económicas de la región y de sus empresas
 b) Porque actividades rentables en el corto plazo, como la explotación intensiva de un recurso, pueden generar impactos ambientales que comprometen esa actividad y la calidad de vida a largo plazo
 c) Porque la sustentabilidad prohíbe las actividades económicas que usan recursos naturales, de modo que una región debe desarrollarse con servicios y turismo
 d) La tensión entre ambos es menor, porque una región puede crecer y cuidar el ambiente sin tener que elegir entre las dos cosas
@@ -1756,7 +1756,7 @@ d) 1-B, 2-C, 3-A
 
 **4. (Alternativas)** Según la declaración de 1789, ¿en qué consiste el principio de soberanía nacional?
 a) En que la autoridad política reside en la nación, y nadie puede ejercer un poder que no provenga de su voluntad, rompiendo con el derecho divino del rey
-b) En que el poder del rey proviene directamente de Dios, y por eso la nación debe obedecerlo sin cuestionar sus decisiones ni su autoridad
+b) En que el poder del rey proviene directamente de Dios, y por eso la nación debe obedecerlo sin cuestionar sus decisiones ni sus leyes
 c) En que la nobleza debe gobernar, porque es el grupo más preparado de la nación para ejercer el poder en nombre de los demás habitantes
 d) En que la nación debe obedecer al rey, que representa su voluntad y concentra los poderes del Estado de manera absoluta y hereditaria
 

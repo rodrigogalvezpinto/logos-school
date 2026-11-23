@@ -95,7 +95,7 @@ d) La decisión del narrador de mudarse a Quirihue para cuidar a su tío y hered
 
 a) Pasa de la incomprensión y el prejuicio compartido con el pueblo a una mirada adulta, autocrítica y comprensiva, al descubrir tras la muerte de Custodio el motivo de su forma de vivir
 b) Admira a su tío desde el comienzo, a diferencia del pueblo, y no cambia de opinión, porque desde niño supo el motivo de su forma de vivir aislado
-c) Comienza comprendiéndolo y defendiéndolo frente al pueblo, pero termina despreciándolo al descubrir, tras su muerte, que había escondido dinero a su familia
+c) Comienza comprendiéndolo y defendiéndolo frente al pueblo, pero termina despreciándolo al descubrir, tras su muerte, que había ocultado la verdad a toda la familia
 d) Tiene poca relación con su tío: lo conoce por lo que cuenta el pueblo y su mirada sobre él cambia poco a lo largo del relato, hasta el final
 
 *Respuesta correcta: a.* Retroalimentación: describir la evolución de un personaje implica comparar cómo era y pensaba al inicio con cómo termina.
@@ -202,7 +202,7 @@ d) Indica que el poema tiene errores de redacción que el autor no alcanzó a co
 a) Que el regreso del hablante al mar es constante, cíclico y casi inevitable, como una dependencia difícil de romper aunque le haya causado dolor
 b) Que el hablante casi no vuelve al mar: lo recuerda desde lejos, porque el dolor que le causó le impide regresar a la costa
 c) Que la marea está detenida y el mar ya no se mueve, igual que la vida del pescador después de abandonar su oficio
-d) Que el hablante prefiere la montaña y vuelve a ella una y otra vez, para escapar del mar que le ha causado tanto dolor
+d) Que el hablante prefiere la montaña y vuelve a ella una y otra vez, para escapar del mar que le ha causado tanto dolor a su familia
 
 *Respuesta correcta: a.* Retroalimentación: La marea siempre vuelve a la orilla; al compararse con ella y repetir «vuelvo», el hablante muestra que su regreso al mar es constante y casi inevitable, como una dependencia difícil de romper aunque le haya causado dolor.
 
@@ -422,7 +422,7 @@ d) Expresar un deseo sobre algo que no ocurre, criticando indirectamente la fisc
 
 a) "En mi opinión, esta ley llegó tarde, pero llegó para quedarse en nuestro país"
 b) "Chile generaba, antes de la ley, más de tres mil millones de bombillas plásticas desechadas al año", según cifras oficiales
-c) "No basta con cambiar la ley: hay que cambiar también la costumbre de cada persona"
+c) "No basta con cambiar la ley: hay que cambiar también la costumbre de cada persona", dice el autor al cerrar su columna
 d) "Nuestra oportunidad de cambiar el hábito, en cambio, es ahora"
 
 *Respuesta correcta: b.* Retroalimentación: la cifra respaldada por una fuente oficial (el Ministerio del Medio Ambiente) corresponde a un dato verificable, a diferencia de las otras opciones, que expresan valoraciones o llamados del autor.
@@ -431,7 +431,7 @@ d) "Nuestra oportunidad de cambiar el hábito, en cambio, es ahora"
 
 a) "Estoy de acuerdo con el autor, porque lo que dice sobre la fiscalización me parece bien"
 b) "Creo que ayuda, porque los locales cuidan más su reputación cuando saben que los clientes pueden reclamar"
-c) "No sé si la fiscalización ciudadana ayuda o no, porque cada persona tiene su propia opinión"
+c) "No sé si la fiscalización ciudadana ayuda o no, porque cada persona tiene su propia opinión sobre el tema"
 d) "El autor dice que hay que exigir a los locales que cumplan la ley y reclamar si no lo hacen"
 
 *Respuesta correcta: b.* Retroalimentación: La respuesta toma posición («creo que ayuda») y da una razón propia que no está en la columna: los locales cuidan su reputación cuando saben que los clientes pueden reclamar.
@@ -518,7 +518,7 @@ d) Explicar en detalle el proceso técnico de reparación del liceo después del
 a) El A es informativo y neutro, apoyado en una fuente oficial; el B es crítico y urgente, y busca exigir información y expresar la molestia de las familias
 b) Ambos tienen el mismo tono informativo y el mismo propósito: comunicar a las familias, de manera neutral, la fecha de regreso a clases
 c) El A es crítico y urgente, porque exige respuestas al municipio; el B es neutro e informativo, porque se apoya en una fuente oficial
-d) Los dos tienen un propósito poco definido: se limitan a reproducir la misma información sobre el cierre, sin grandes diferencias de tono
+d) Los dos tienen un propósito poco definido: se limitan a reproducir la misma información sobre el cierre, sin grandes diferencias de tono entre ellos
 
 *Respuesta correcta: a.* Retroalimentación: El Texto A informa con tono neutro y se apoya en una fuente oficial; el Texto B es crítico y urgente porque lo escriben familias molestas que exigen información. Tratan la misma noticia con propósitos distintos.
 
@@ -535,7 +535,7 @@ d) 800 estudiantes (420 + 380); no indica cuántas familias tienen internet para
 
 a) Que uno de los dos textos necesariamente miente, porque un mismo hecho no puede contarse con énfasis distintos
 b) Que la fuente desde la que se presenta un hecho puede influir en el énfasis, el tono y la sensación de suficiencia de la información entregada
-c) Que las redes sociales son una fuente poco válida de información, porque cualquiera puede publicar sin verificar los datos
+c) Que las redes sociales son una fuente poco válida de información, porque cualquiera puede publicar en ellas sin verificar los datos que comparte
 d) Que los medios de comunicación oficiales entregan información completa, porque citan a las autoridades del municipio
 
 *Respuesta correcta: b.* Retroalimentación: comparar fuentes distintas sobre un mismo hecho no busca determinar cuál "miente", sino reconocer que cada fuente enfatiza aspectos distintos según su perspectiva y su propósito.
@@ -552,7 +552,7 @@ d) No, porque es un texto de ficción
 **7. (Alternativas — análisis integrado)** ¿Por qué conviene comparar distintas fuentes antes de opinar sobre un hecho noticioso?
 
 a) Porque las fuentes dicen lo mismo, y comparar sirve para memorizar mejor la noticia
-b) Porque basta con la primera noticia que se lee, y las demás solo sirven para confirmar la opinión que ya tenemos
+b) Porque basta con la primera noticia que se lee, y las demás sirven sobre todo para confirmar la opinión que ya tenemos
 c) Porque permite detectar qué informa cada una, sus vacíos y su tono, evitando una visión parcial
 d) Porque las fuentes oficiales tienden a ocultar información a las familias
 
@@ -565,7 +565,7 @@ d) Porque las fuentes oficiales tienden a ocultar información a las familias
 a) Muestra que las visitas aumentaron de 20 mil en 2021 a 45 mil en 2023, lo que respalda la afirmación del texto
 b) Muestra que las visitas bajaron un poco cada año entre 2021 y 2023, a pesar de los talleres
 c) Indica cuántos talleres gratuitos hubo cada año en la biblioteca, sin mostrar las visitas
-d) No tiene relación con el texto, porque solo es decorativo y se agregó para que la noticia se vea más atractiva
+d) Tiene poca relación con el texto, porque es decorativo y se agregó para que la noticia se vea más atractiva
 
 *Respuesta correcta: a.* Retroalimentación: el gráfico entrega datos precisos que el texto solo menciona en general («cada año más visitas»). Interpretarlo exige leer los valores de cada barra.
 

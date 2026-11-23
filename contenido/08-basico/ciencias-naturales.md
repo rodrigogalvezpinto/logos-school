@@ -249,7 +249,7 @@ específicos sean distintos.
 
 5. *(Alternativas — Comparación)* ¿Qué opción señala correctamente una similitud y una diferencia entre el transporte de sustancias en una planta y el sistema circulatorio humano?
    a) Similitud: ambos tienen un corazón que bombea líquido por tubos especializados. Diferencia: la planta no transporta agua desde la raíz, solo nutrientes elaborados en las hojas
-   b) Similitud: los dos transportan sobre todo gases y no nutrientes. Diferencia: la planta tiene una sangre verde que circula por el tallo gracias a la clorofila de las hojas
+   b) Similitud: los dos transportan sobre todo gases y no nutrientes. Diferencia: la planta tiene una sangre verde que circula por el tallo gracias a la clorofila de las hojas y de las raíces
    c) Tienen poca similitud: la planta carece de tejidos especializados y el agua sube por el tallo por sí misma, mientras el humano usa el corazón y los vasos sanguíneos
    d) Similitud: ambos transportan sustancias por tejidos especializados. Diferencia: el humano usa el corazón como bomba; en la planta el ascenso de agua depende de la transpiración y la capilaridad
    **Respuesta correcta:** d) Similitud: ambos transportan sustancias por tejidos especializados. Diferencia: el humano usa el corazón como bomba; en la planta el ascenso de agua depende de la transpiración y la capilaridad.
@@ -621,7 +621,7 @@ prácticos para el hogar, ya que una sola falla apaga todo el sistema.
    a) Aumenta el voltaje de la red para que los artefactos de la casa funcionen mejor y más rápido
    b) Interrumpe el circuito al detectar sobrecarga o fuga eléctrica, evitando incendios o descargas a las personas
    c) Convierte la corriente eléctrica en calor para calefaccionar la vivienda en invierno
-   d) Cumple una función menor mientras el circuito funcione bien, por lo que puede retirarse de la casa
+   d) Cumple una función menor mientras el circuito funcione bien, por lo que puede retirarse de la casa sin mayores riesgos
    **Respuesta correcta:** b) Interrumpe el circuito al detectar sobrecarga o fuga eléctrica, evitando incendios o descargas a las personas.
    **Retroalimentación:** Sin estos dispositivos, una falla podría no detectarse a tiempo, aumentando el riesgo de accidentes.
 
@@ -917,8 +917,8 @@ acumulativa.
    b) Que la materia está formada por átomos indivisibles; los átomos de un mismo elemento son
       iguales entre sí, y en las reacciones químicas los átomos se combinan o reordenan, pero
       no se crean ni se destruyen
-   c) Que el átomo es una esfera positiva con electrones incrustados, como un budín con pasas
-   d) Que la materia es continua y puede dividirse infinitamente sin llegar nunca a partículas, idea que Dalton defendió con el experimento de la lámina de oro y que Thomson confirmó al medir la carga de los electrones
+   c) Que el átomo es una esfera positiva con electrones incrustados, como un budín con pasas, idea que Dalton propuso a partir de sus experimentos con gases y con la electricidad
+   d) Que la materia es continua y puede dividirse infinitamente sin llegar a partículas indivisibles, idea que Dalton defendió con el experimento de las proporciones fijas en el agua y en el aire
    **Respuesta correcta:** b) Que la materia está formada por átomos indivisibles; los átomos de un mismo elemento son iguales entre sí, y en las reacciones químicas los átomos se combinan o reordenan, pero no se crean ni se destruyen.
    **Retroalimentación:** Dalton retomó la idea de átomo con base en evidencia de reacciones
    químicas (proporciones fijas). Luego Thomson descubrió el electrón y mostró que el átomo sí
