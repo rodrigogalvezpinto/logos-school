@@ -225,8 +225,8 @@ d) Que los recorridos nuevos suelen funcionar mal en su primera semana, por lo q
 **20. (Alternativas)** ¿Qué efecto producen los recursos no lingüísticos de cada texto?
 
 a) La infografía verde con bus y flecha ascendente del Texto A transmite progreso y control; las capturas de la app del Texto B funcionan como evidencia cuantitativa verificable
-b) Ambos textos usan palabras, sin recursos visuales, para convencer a los vecinos de que el nuevo recorrido funciona tal como se anunció en el comunicado
-c) La infografía del Texto B muestra desorden y las capturas del Texto A transmiten control y progreso en la gestión del transporte municipal
+b) Ambos textos usan palabras, sin recursos visuales, para convencer a los vecinos de que el nuevo recorrido funciona tal como se anunció en el comunicado de la municipalidad
+c) La infografía del Texto B muestra desorden y las capturas del Texto A transmiten control y progreso en la gestión del transporte municipal de la comuna y de la región
 d) Los dos producen un efecto menor en el lector: las imágenes son decorativas y casi no influyen en cómo se interpreta la información de cada texto
 
 **21. (Alternativas)** ¿Qué fortalece y qué riesgo tiene el uso de datos cronometrados y capturas en el Texto B?
@@ -248,22 +248,22 @@ d) Le dan un respaldo cuantitativo difícil de refutar; el riesgo es evaluar un 
 
 a) Una receta de completos y sopaipillas, para hacer el texto más entretenido y cercano al lector
 b) Un dato sobre la reducción de accidentes y emisiones en ciudades que construyeron ciclovías
-c) La biografía de un futbolista famoso
+c) La biografía de un ciclista famoso que ganó varias competencias internacionales
 d) Una lista de marcas de bicicletas con sus precios y las tiendas donde se venden
 
 **23. (Alternativas)** ¿Qué función cumple en el ensayo modelo la referencia a los subsidios de fomento agrícola sustentable?
 
-a) Es un dato decorativo, sin relación con la hipótesis, que solo hace más extenso el ensayo modelo y le da un tono más técnico
+a) Es un dato decorativo, sin relación con la hipótesis, que hace más extenso el ensayo modelo y le da un tono más técnico frente al lector
 b) Es evidencia no literaria que muestra mecanismos reales para compatibilizar producción y conservación, reforzando que no hay que elegir entre ambas
-c) Contradice la hipótesis del ensayo, porque muestra que producir y conservar el bosque nativo son actividades incompatibles
+c) Contradice la hipótesis del ensayo, porque muestra que producir madera y conservar el bosque nativo son actividades que no pueden convivir
 d) Resume una obra literaria leída en clases sobre el campo chileno y sus tradiciones, para que el lector la recuerde antes de la conclusión
 
 **24. (Alternativas — planificación)** Para un ensayo sobre "¿Debería prohibirse el uso del celular durante los recreos escolares?", ¿qué planificación es adecuada?
 
-a) Hipótesis: ninguna, porque el tema es polémico. Recurso: ninguno, porque basta con la opinión personal sobre el uso del celular
+a) Hipótesis: el tema es polémico y conviene evitar una postura. Recurso: la opinión personal sobre el uso del celular en los recreos del liceo
 b) Hipótesis: los recreos no deberían existir, porque se pierde tiempo de clases. Recurso: una receta de cocina para preparar colaciones saludables
 c) Hipótesis: más que prohibir, conviene ofrecer actividades atractivas en los recreos. Recurso: una anécdota de un recreo con juegos organizados, contada a partir de la experiencia del propio curso
-d) Hipótesis: prohibir el celular siempre es la mejor solución para la convivencia. Recurso: ninguno, porque escribir sin planificar permite expresar las ideas de manera más espontánea y sincera
+d) Hipótesis: prohibir el celular es la mejor solución para la convivencia. Recurso: escribir sin planificar, para expresar las ideas de manera más espontánea y sincera
 
 **25. (Alternativas — texto integrado)** Para el ensayo sobre "¿Debería prohibirse el uso del celular durante los recreos escolares?", con la hipótesis "más que prohibir, conviene ofrecer actividades atractivas en los recreos", ¿qué par de párrafos (introducción y conclusión) presenta la hipótesis, considera un contraargumento y cierra retomándola?
 
