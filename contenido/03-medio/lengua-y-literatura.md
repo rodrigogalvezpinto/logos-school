@@ -135,7 +135,7 @@ d) Ambas son poemas sobre el mar y los pescadores; se diferencian en que Sub ter
 a) Ambas tratan sobre la astronomía como pasatiempo de los habitantes del norte, y el cuento usa el cielo del desierto solo como fondo de las escenas familiares
 b) Solo coinciden en que ocurren en el norte de Chile: la película habla de los observatorios y el cuento de la minería, sin ningún tema en común entre ambas
 c) Ambas entienden el territorio del norte como un espacio que guarda la memoria de quienes trabajaron y sufrieron en él, que la generación siguiente debe interpretar
-d) Tienen poca relación: una habla del cielo y la otra del trabajo, así que comparten el lugar, el norte de Chile, pero no un tema que las una
+d) Tienen poca relación: una habla del cielo y la otra del trabajo, así que comparten el lugar, el norte de Chile, pero no un tema que las una ni un mismo tono
 
 *Respuesta correcta: c.* Retroalimentación: Nostalgia de la luz y el cuento comparten una idea profunda: el desierto del norte guarda la memoria de quienes trabajaron y sufrieron en él, y la generación siguiente debe interpretarla.
 
@@ -423,7 +423,7 @@ d) Autoridad del establecimiento educacional, que informa decisiones oficiales d
 
 a) Insinúa sin evidencia que una alumna organizó la toma, lo que facilita identificarla y exponerla a acoso (doxxing)
 b) Ninguna, porque no menciona nombres ni muestra fotos y, por lo tanto, no puede afectar a ninguna persona de la comunidad
-c) Que el comentario es muy largo y desvía la conversación hacia temas que no son centrales para el liceo
+c) Que el comentario es muy largo y desvía la conversación hacia temas que no son centrales para el liceo y su comunidad
 d) Que usa demasiados emojis y un registro informal, poco adecuado para un debate serio
 
 *Respuesta correcta: a.* Retroalimentación: no se requiere un nombre explícito: basta con que el discurso facilite la exposición de alguien.
@@ -615,7 +615,7 @@ d) "Papá minero lápiz hija."
 
 a) Porque los emojis siempre deben evitarse en cualquier texto escrito, aunque en las redes sociales se toleran
 b) Porque en una publicación de red social dirigida a estudiantes, el emoji es una convención de género válida y esperada por esa audiencia
-c) Porque los emojis reemplazan la necesidad de un contenido interpretativo sólido en una publicación breve para estudiantes
+c) Porque los emojis reemplazan la necesidad de un contenido interpretativo sólido en una publicación breve para los compañeros
 d) Porque las redes sociales no tienen convenciones propias, así que cualquier recurso resulta igualmente adecuado
 
 *Respuesta correcta: b.* Retroalimentación: adecuar un texto a su audiencia implica reconocer las convenciones propias de cada género; en redes sociales dirigidas a jóvenes, el uso puntual de emojis es una convención aceptada que sería inadecuada, en cambio, en un ensayo escolar formal.
@@ -631,10 +631,10 @@ d) Propósito: argumentar que urge regular el trabajo en plataformas. Género: c
 
 **7. (Alternativas)** ¿Por qué adecuar un texto a otra audiencia (de un ensayo escolar a un post) no significa necesariamente perder profundidad?
 
-a) Porque los posts siempre son más profundos que los ensayos, ya que usan menos palabras para decir lo mismo y llegan a más lectores en las redes sociales
+a) Porque los posts suelen ser más profundos que los ensayos, ya que usan menos palabras para decir lo mismo de manera directa
 b) Porque ambas versiones pueden comunicar el mismo hallazgo interpretativo; cambia la forma (registro, extensión, recursos), no necesariamente la profundidad
-c) Porque adecuar un texto exige eliminar toda interpretación y dejar solo los datos del hallazgo
-d) Porque la audiencia no importa
+c) Porque adecuar un texto exige eliminar la interpretación y dejar los datos del hallazgo, para que el post sea más corto y fácil de leer en el celular
+d) Porque la audiencia de las redes sociales importa poco, y el texto puede mantener el mismo registro que el ensayo original
 
 *Respuesta correcta: b.* Retroalimentación: adecuar es un ejercicio de selección y forma, no de simplificación forzosa.
 
@@ -676,7 +676,7 @@ d) La coherencia: si las ideas se organizan en torno a un tema central
 **13. (Alternativas — Aplicación)** ¿Qué planificación de un video corto sobre las problemáticas éticas del hilo de la toma es coherente?
 
 a) Propósito: argumentar que difundir rumores sobre una compañera es dañino. Género: video tipo reels con voz en off. Audiencia: estudiantes de media en redes. Convención: lenguaje directo, ejemplos del hilo y menos de un minuto
-b) Propósito: vender ropa a los estudiantes del liceo usando el tema de la toma. Género: ensayo académico de cinco páginas. Audiencia: abogados y jueces. Convención: lenguaje técnico y citas legales
+b) Propósito: vender ropa a los estudiantes del liceo usando el tema de la toma. Género: ensayo académico de diez páginas. Audiencia: profesores. Convención: lenguaje técnico
 c) Propósito: difundir el rumor sobre quién organizó la toma para que todos lo sepan. Género: chiste breve. Audiencia: estudiantes del liceo. Convención: nombres y fotos de los involucrados en la toma del liceo
 d) Grabar sin planificar
 

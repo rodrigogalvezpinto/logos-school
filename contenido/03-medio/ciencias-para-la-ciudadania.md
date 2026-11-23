@@ -143,8 +143,8 @@ social y ambiental (una definición cercana a la de la OMS).
    manifiestan después de un periodo extendido de exposición al factor de
    riesgo.
 5. *(Alternativas)* ¿Por qué la salud se considera un estado con dimensiones física, psíquica, social y ambiental, y no solo la ausencia de enfermedad?
-   a) Porque la salud depende solo de los hospitales y de los médicos, que definen en cada consulta cuáles dimensiones considerar para cada paciente
-   b) Porque basta con no tener síntomas físicos para estar sano, y las dimensiones psíquica, social y ambiental solo describen el estilo de vida de cada persona
+   a) Porque la salud depende sobre todo de los hospitales y de los médicos, que definen en cada consulta qué dimensiones considerar para cada paciente
+   b) Porque basta con no tener síntomas físicos para estar sano, y las dimensiones psíquica, social y ambiental describen el estilo de vida más que la salud
    c) Porque el ambiente influye poco en la salud de las personas, que depende sobre todo de la herencia genética y de la edad de cada una
    d) Porque una persona sin enfermedad diagnosticada puede no estar en equilibrio si tiene problemas emocionales, de convivencia o vive en un ambiente dañino
    **Respuesta correcta:** d) Porque una persona sin enfermedad diagnosticada puede no estar en equilibrio si tiene problemas emocionales, de convivencia o vive en un ambiente dañino.
@@ -356,7 +356,7 @@ recientes).
 
 6. *(Alternativas)* ¿Qué pareja señala correctamente una implicancia económica y una ética de la vacunación masiva y gratuita?
    a) Económica: aumenta el gasto en hospitalizaciones, porque las vacunas provocan efectos adversos frecuentes. Ética: ninguna, porque vacunarse es una decisión solo individual
-   b) Económica: ninguna, porque las vacunas gratuitas no cambian el gasto en salud. Ética: obliga a vacunar también a los animales domésticos de cada hogar
+   b) Económica: menor, porque las vacunas gratuitas casi no cambian el gasto en salud. Ética: obliga a vacunar también a los animales domésticos de cada familia
    c) Ambas implicancias son menores, porque la vacuna es gratuita y voluntaria, y la mayoría de las personas igual decide vacunarse cada año
    d) Económica: es más barata que tratar brotes y hospitalizaciones. Ética: equilibrar la autonomía individual con la protección colectiva de quienes no pueden vacunarse
    **Respuesta correcta:** d) Económica: es más barata que tratar brotes y hospitalizaciones. Ética: equilibrar la autonomía individual con la protección colectiva de quienes no pueden vacunarse.
@@ -402,7 +402,7 @@ recientes).
     cobertura de vacunación local no es suficientemente alta.
 
 11. *(Alternativas — Análisis de caso)* Un viajero contagiado de sarampión en el extranjero llega a Chile en incubación y las autoridades contactan a los pasajeros cercanos. ¿Por qué el caso se analiza a nivel nacional y mundial?
-    a) Porque solo es un caso médico individual, y las autoridades contactan a los pasajeros para informarles por cortesía, sin coordinación con otros países ni con la OMS
+    a) Porque es un caso médico individual, y las autoridades contactan a los pasajeros para informarles por cortesía, sin coordinación con otros países
     b) Porque el sarampión circula sobre todo en el extranjero, así que el caso interesa más a otros países que a Chile y a sus servicios de salud pública
     c) Porque la transmisión no respeta fronteras: un caso importado puede iniciar contagios locales, y la vigilancia y coordinación internacional (OMS) son parte de la prevención
     d) Porque los aeropuertos no tienen relación con la salud pública, y el caso se analiza a nivel mundial solo para registrar estadísticas de turismo y de viajes internacionales
@@ -418,7 +418,7 @@ recientes).
     **Retroalimentación:** La revisión por pares y los datos verificables son criterios centrales de calidad.
 
 13. *(Alternativas)* ¿Qué implicancia ambiental tiene la prevención del hantavirus en zonas rurales del sur?
-    a) Ninguna: es solo un problema médico que se resuelve en los hospitales, con tratamiento y vacunas, sin necesidad de modificar el entorno de las viviendas ni del paisaje rural
+    a) Es sobre todo un problema médico que se resuelve en los hospitales, con tratamiento y vacunas, sin necesidad de modificar el entorno de las viviendas rurales
     b) Exige talar los bosques cercanos a las casas para que los roedores no tengan dónde esconderse ni de qué alimentarse durante el año
     c) Requiere aumentar la basura orgánica alrededor de las casas, para que los roedores se alimenten ahí y no entren a las viviendas, y talar los bosques cercanos
     d) Requiere manejar el entorno: evitar basura orgánica que atraiga roedores, despejar los alrededores y considerar que alterar el paisaje cambia las poblaciones del ratón colilargo

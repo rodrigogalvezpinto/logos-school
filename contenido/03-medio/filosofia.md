@@ -179,8 +179,8 @@ que preguntarse qué significa exactamente "justicia".
 
 8. *(Alternativas — Análisis de argumento — desafiante)* "La filosofía no sirve para nada porque nunca llega a conclusiones definitivas, a diferencia de la ciencia." ¿Qué evaluación es correcta?
    a) Es discutible: la filosofía examina con rigor preguntas que no admiten un cierre empírico único, y que no tengan respuesta cerrada no significa que pensarlas carezca de valor
-   b) Es correcta: solo vale lo que tiene una respuesta definitiva, y las preguntas que no admiten un cierre empírico único deberían dejarse de lado por no producir conocimiento útil
-   c) Es correcta: la filosofía y la ciencia no tienen ningún método
+   b) Es correcta: vale sobre todo lo que tiene una respuesta definitiva, y las preguntas que no admiten un cierre empírico único deberían dejarse de lado
+   c) Es correcta: la filosofía y la ciencia carecen de un método propio para responder sus preguntas, y por eso discuten sin llegar a acuerdos
    d) Es incorrecta porque la filosofía siempre llega a leyes físicas, igual que la ciencia: la diferencia es que la filosofía las obtiene por razonamiento y no por experimentación
    **Respuesta correcta:** a) Es discutible: la filosofía examina con rigor preguntas que no admiten un cierre empírico único, y que no tengan respuesta cerrada no significa que pensarlas carezca de valor.
    **Retroalimentación:** El rigor filosófico se mide por la calidad de la argumentación, no por llegar a una fórmula final.
@@ -590,7 +590,7 @@ tomando —sin saberlo— una postura epistemológica.
    que sí niega la posibilidad de conocimiento seguro.
 
 8. *(Alternativas — Análisis de argumento — desafiante)* A dice: "la ciencia demuestra verdades absolutas"; B dice: "como la ciencia cambia de teorías, nunca ha dicho nada verdadero". ¿Qué evaluación es correcta?
-   a) Ambas posturas son correctas: la ciencia demuestra verdades absolutas, pero como cambia de teorías, también es cierto que nunca ha dicho nada verdadero
+   a) Ambas posturas son correctas: la ciencia demuestra verdades absolutas, pero como cambia de teorías, también es cierto que pocas veces ha dicho algo verdadero
    b) Solo A es problemática, porque B describe correctamente que el cambio de teorías demuestra que el conocimiento científico no tiene ninguna justificación
    c) A es dogmática y B excesivamente escéptica; la postura crítica sostiene que el conocimiento está bien justificado según la evidencia, sin ser absoluto
    d) B es la postura problemática; A tiene razón, porque la ciencia, cuando demuestra algo, lo hace de manera absoluta y definitiva
@@ -622,7 +622,7 @@ tomando —sin saberlo— una postura epistemológica.
 
 11. *(Alternativas — Análisis de caso — intermedio)* Un amigo dice: "No le creo nada a ningún médico, todos mienten". ¿Qué evaluación y alternativa son correctas?
     a) Es un escepticismo radical; lo crítico es evaluar cada afirmación médica según la evidencia, sin rechazarla en bloque ni aceptarla sin más
-    b) Es una postura crítica razonable, porque desconfiar de todos los médicos por igual protege de posibles engaños
+    b) Es una postura crítica razonable, porque desconfiar de los médicos por igual protege a las personas de posibles engaños y errores
     c) Es dogmatismo; lo correcto es creerle todo a cualquier médico, porque su título garantiza que dice la verdad
     d) Es correcta: si algunos médicos se equivocan, la medicina pierde la capacidad de ofrecer evidencia confiable a sus pacientes
     **Respuesta correcta:** a) Es un escepticismo radical; lo crítico es evaluar cada afirmación médica según la evidencia, sin rechazarla en bloque ni aceptarla sin más.
@@ -630,8 +630,8 @@ tomando —sin saberlo— una postura epistemológica.
 
 12. *(Alternativas — Percepción — intermedio)* ¿Por qué es difícil responder con total seguridad "¿cómo sé que lo que percibo es real y no una ilusión?", y qué postura parece más razonable?
     a) Porque es una pregunta sin sentido, ya que nadie confunde un sueño con la vigilia; lo razonable es dejarla de lado y seguir adelante
-    b) Porque siempre sabemos con certeza absoluta que estamos despiertos; lo razonable es el dogmatismo, que acepta la experiencia sin examinarla ni compararla
-    c) Porque nada existe; lo razonable es el escepticismo radical
+    b) Porque sabemos con certeza que estamos despiertos; lo razonable es el dogmatismo, que acepta la experiencia sin examinarla ni ponerla en duda
+    c) Porque nada de lo que percibimos existe realmente fuera de la mente; lo razonable es el escepticismo radical, que duda de lo que se ve y se siente
     d) Porque un sueño vívido puede sentirse igual que la vigilia; una postura crítica confía provisionalmente en la coherencia de la experiencia, sin certeza absoluta
     **Respuesta correcta:** d) Porque un sueño vívido puede sentirse igual que la vigilia; una postura crítica confía provisionalmente en la coherencia de la experiencia, sin certeza absoluta.
     **Retroalimentación:** Se reconoce la dificultad genuina del problema y se justifica una postura.
@@ -786,7 +786,7 @@ resto del sistema, como en geometría).
    a) Es inválido (afirmación del consecuente) y además una premisa es falsa: la ballena respira aire
    b) Es válido y sus premisas son verdaderas, porque la conclusión se sigue de ellas
    c) Es válido, pero una premisa es falsa: la ballena respira aire, no agua, como cualquier mamífero
-   d) Es inválido, pero todas sus premisas son verdaderas, incluida la de la ballena
+   d) Es inválido, pero sus premisas son verdaderas, incluida la que dice que la ballena respira agua
    **Respuesta correcta:** a) Es inválido (afirmación del consecuente) y además una premisa es falsa: la ballena respira aire.
    **Retroalimentación:** Hay un problema de estructura (inválido) y uno de contenido (premisa falsa).
 
@@ -807,10 +807,10 @@ resto del sistema, como en geometría).
    **Retroalimentación:** La opción tiene los tres componentes: una razón (la lógica ayuda a distinguir argumentos de manipulaciones), una garantía que la conecta con la conclusión (quien distingue argumentos es menos vulnerable a la desinformación) y evidencia que la respalda.
 
 8. *(Alternativas — Falacias — desafiante)* "O estás totalmente de acuerdo conmigo, o eres de los que no piensan nada." ¿Qué falacia es y por qué distorsiona la discusión?
-   a) Argumento de autoridad: cita a un experto para cerrar la discusión
+   a) Argumento de autoridad: cita a un experto para cerrar la discusión sin dar razones
    b) Generalización apresurada: parte de muchos casos para concluir sobre todos ellos
    c) Falsa dicotomía: reduce la discusión a dos extremos, excluyendo posturas intermedias
-   d) No es una falacia
+   d) Ad hominem: descalifica a quien piensa distinto en vez de discutir sus razones
    **Respuesta correcta:** c) Falsa dicotomía: reduce la discusión a dos extremos, excluyendo posturas intermedias.
    **Retroalimentación:** Limita ilegítimamente las opciones y cierra el examen genuino de razones.
 
@@ -827,8 +827,7 @@ resto del sistema, como en geometría).
     a) Describir la experiencia consciente tal como se vive, sin presuponer teorías ni explicaciones previas sobre ella.
     b) Partir de principios básicos aceptados sin demostración (axiomas) y
        derivar de ellos, con reglas lógicas, el resto de un sistema.
-    c) Hacer preguntas sucesivas para que el interlocutor descubra
-       contradicciones en sus propias creencias.
+    c) Hacer preguntas sucesivas para que el interlocutor descubra contradicciones en sus propias creencias y opiniones.
     d) Imaginar una situación hipotética para poner a prueba una intuición o un concepto, sin realizar experimentos reales.
     **Respuesta correcta:** b.
     **Retroalimentación:** La axiomática es el método que, como en la

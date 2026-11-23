@@ -200,9 +200,9 @@ d) U(t) = 2.000 · (1,3)ᵗ; ≈ 27.572
 *Retroalimentación:* (1,3)¹⁰ ≈ 13,786.
 
 **Pregunta 16 (alternativas — modelo desde dos datos).** Una población de conejos pasó de 50 a 135 en 3 años con crecimiento exponencial. ¿Cuál es la tasa anual aproximada?
-a) ≈ 57%
+a) ≈ 57,0%
 b) ≈ 39,2%
-c) ≈ 170%
+c) ≈ 170,0%
 d) ≈ 2,7%
 
 **Respuesta correcta: b) ≈ 39,2%.**
@@ -537,9 +537,9 @@ d) 5
 
 **Pregunta 3 (calcular).** Calcula la varianza del conjunto de datos {2, 4, 6}.
 a) 2,67
-b) 8
-c) 2
-d) 4
+b) 8,00
+c) 2,00
+d) 4,00
 
 **Respuesta correcta: a) 2,67.**
 *Retroalimentación:* la media es 4; las desviaciones son (−2,0,2), al cuadrado (4,0,4), suma=8, y varianza=8/3≈2,67.
@@ -583,8 +583,8 @@ d) Varianza 13; desviación ≈ 3,61 min
 
 **Pregunta 8 (alternativas — decisión con dispersión).** Dos rutas al aeropuerto promedian 45 min; la Ruta 1 tiene desviación estándar 5 min y la Ruta 2, 20 min. Si necesitas llegar con certeza, ¿cuál conviene?
 a) La Ruta 1, porque sus tiempos son más predecibles
-b) La Ruta 2, porque su desviación es mayor
-c) Da lo mismo, porque el promedio es igual
+b) La Ruta 2, porque su desviación estándar es mayor
+c) Da lo mismo, porque el promedio de ambas es igual
 d) Ninguna, porque ambas tardan 45 min en promedio
 
 **Respuesta correcta: a) La Ruta 1, porque sus tiempos son más predecibles.**
@@ -657,9 +657,9 @@ d) 45/115 ≈ 39,1%
 *Retroalimentación:* se restringe a la columna "no fuma" (115 personas).
 
 **Pregunta 15 (alternativas — árbol con prueba médica).** Un examen detecta al 95% de los enfermos y se aplica donde el 5% está enfermo. ¿Cuánto vale P(enfermo y positivo)?
-a) 0,95
-b) 0,05
-c) 1
+a) 0,95 (95%)
+b) 0,05 (5%)
+c) 0,0025 (0,25%)
 d) 0,0475 (4,75%)
 
 **Respuesta correcta: d) 0,0475 (4,75%).**

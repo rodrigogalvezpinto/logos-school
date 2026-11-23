@@ -328,7 +328,7 @@ d) 2 → 3 → 1 → 4
 **4. (Alternativas — análisis de mapa)** Un mapa de América Latina de 1830 muestra territorios que antes formaban la Gran Colombia, ahora divididos en tres países. ¿Qué concepto ilustra mejor?
 a) La reorganización de la geografía política americana, mediante la disolución de una unión mayor en Estados-nación más pequeños
 b) La unificación de Italia y de Alemania, que reunió reinos pequeños en un solo Estado-nación durante la segunda mitad del siglo XIX
-c) La expansión del Imperio español en América, que incorporó nuevos virreinatos al sur del continente
+c) La expansión del Imperio español en América, que incorporó nuevos virreinatos al sur del continente durante el siglo XIX
 d) La formación de la Unión Europea, que reunió a varios países en una sola organización política
 
 ✅ Respuesta correcta: **a) La reorganización de la geografía política americana, mediante la disolución de una unión mayor en Estados-nación más pequeños**
@@ -657,7 +657,7 @@ d) Porque Chile debió construir un orden político desde cero, con sucesivas co
 **6. (Alternativas — desafiante)** ¿Por qué la Constitución de 1833 logró "relativa estabilidad" pero excluyó a la mayoría de la población?
 a) Porque estableció el voto universal desde su promulgación, lo que dio estabilidad, pero excluyó a los extranjeros y a los menores de edad
 b) Porque concentró el poder en un Ejecutivo fuerte y restringió la participación a hombres con renta y alfabetizados, dejando fuera a mujeres y sectores populares
-c) Porque eliminó al Poder Ejecutivo y entregó el gobierno al Congreso, lo que dio estabilidad, pero dejó sin representación a las provincias
+c) Porque eliminó al Poder Ejecutivo y entregó el gobierno al Congreso, lo que dio estabilidad, pero dejó sin representación a los sectores medios
 d) Porque entregó el poder a las regiones mediante un sistema federal, lo que dio estabilidad, pero excluyó a la elite de Santiago del gobierno
 
 ✅ Respuesta correcta: **b) Porque concentró el poder en un Ejecutivo fuerte y restringió la participación a hombres con renta y alfabetizados, dejando fuera a mujeres y sectores populares**

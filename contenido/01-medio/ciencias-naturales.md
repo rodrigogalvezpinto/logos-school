@@ -412,7 +412,7 @@ afectar gravemente a los depredadores tope, incluido el ser humano.
 
 6. *(Alternativas — Análisis de evidencia)* Aves rapaces presentan concentraciones muy altas de pesticidas aplicados en baja concentración en cultivos lejanos. ¿Qué fenómeno lo explica?
    a) La bioacumulación (biomagnificación): la concentración aumenta al subir de nivel trófico
-   b) La fotosíntesis de las aves, que transforman los pesticidas en energía química
+   b) La fotosíntesis de las aves marinas, que transforman los pesticidas en energía química
    c) La resonancia acústica de los pesticidas en el cuerpo de los animales marinos
    d) La competencia intraespecífica entre las aves por los mismos peces y alimentos
    **Respuesta correcta:** a) La bioacumulación (biomagnificación): la concentración aumenta al subir de nivel trófico.
@@ -521,7 +521,7 @@ interconectados.
 4. *(Alternativas)* ¿Qué diferencia hay entre un recurso natural renovable y uno no renovable?
    a) El renovable se mantiene aunque se sobreexplote (agua de una cuenca, madera de un bosque); el no renovable se regenera en pocos años si se deja de extraer
    b) El renovable puede regenerarse en escalas de tiempo humanas si se usa sustentablemente (agua de una cuenca, madera de un bosque manejado); el no renovable se agota (cobre, petróleo)
-   c) El cobre y el petróleo son recursos renovables, porque se siguen formando en la corteza; el agua y la madera son no renovables, porque se agotan al usarlos
+   c) El cobre y el petróleo son recursos renovables, porque se siguen formando en la corteza terrestre; el agua y la madera son no renovables, porque se gastan
    d) Se diferencian poco: ambos tipos de recursos se agotan al mismo ritmo si se usan sin control, y los dos pueden regenerarse si se dejan de extraer por un tiempo
    **Respuesta correcta:** b) El renovable puede regenerarse en escalas de tiempo humanas si se usa sustentablemente (agua de una cuenca, madera de un bosque manejado); el no renovable se agota (cobre, petróleo).
    **Retroalimentación:** Que un recurso sea renovable no significa que sea inagotable: si se extrae más rápido de lo que se regenera, también puede agotarse.

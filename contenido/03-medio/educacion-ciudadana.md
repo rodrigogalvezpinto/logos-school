@@ -1215,7 +1215,7 @@ impuestos no corresponde a ninguna de ellas.
 **11. (Alternativas — análisis de caso)** Jóvenes difunden en redes información verificada sobre un proyecto de ley antes de un plebiscito, sin promover una postura. ¿Con qué forma de participación se vincula?
 a) Ejercer un cargo público de representación en el municipio
 b) Informarse y emitir juicios y opiniones fundadas sobre asuntos públicos
-c) Votar en el plebiscito nacional que se realizará el próximo año
+c) Votar en el plebiscito nacional que se realizará el próximo año en el país
 d) Difundir información en redes, que no cuenta como participación
 
 ✅ Respuesta correcta: **b) Informarse y emitir juicios y opiniones fundadas sobre asuntos públicos**
@@ -1246,7 +1246,7 @@ informarse y opinar.
 
 **14. (Alternativas — análisis de caso)** Una persona no vota ni se integra a organizaciones, argumentando que "el bien común se logra mejor si cada quien se dedica a su propia vida sin interferir ni verse obligado a participar". ¿Con qué perspectiva se vincula más?
 a) Con el liberalismo llevado a un extremo; no representa al republicanismo, que valora la participación activa
-b) Con el republicanismo, porque valora la no participación y la independencia de cada ciudadano
+b) Con el republicanismo, porque valora la no participación y la independencia de cada ciudadano frente al Estado
 c) Con el comunitarismo, porque prioriza los lazos de la comunidad y las tradiciones compartidas
 d) Con el comunitarismo extremo, porque no participar fortalece los lazos de la comunidad
 
@@ -1374,10 +1374,10 @@ d) 1-B, 2-C, 3-A
 ---
 
 **4. (Alternativas — análisis de caso)** Una comuna costera destina, en su plan regulador, una franja frente al mar solo a proyectos inmobiliarios de alto valor, sin áreas verdes públicas; los vecinos exigen reconsiderarlo. ¿Qué conflicto de justicia social hay?
-a) Ninguno, porque el plan regulador no afecta a nadie: solo ordena dónde construir en la comuna
+a) Un conflicto menor, porque el plan regulador afecta poco a los vecinos: ordena dónde construir en la comuna
 b) El acceso a un bien valioso (el borde costero) quedaría restringido a quienes puedan pagar, excluyendo el acceso público
 c) Los vecinos quieren construir edificios de lujo en la franja costera y el municipio se los impide por ley
-d) El municipio no tiene ninguna responsabilidad en el uso del suelo, que deciden las inmobiliarias
+d) El municipio tiene poca responsabilidad en el uso del suelo, que deciden sobre todo las inmobiliarias
 
 ✅ Respuesta correcta: **b) El acceso a un bien valioso (el borde costero) quedaría restringido a quienes puedan pagar, excluyendo el acceso público**
 *Retroalimentación:* Si la franja costera se reserva para proyectos de alto valor sin áreas públicas, el acceso al borde costero quedaría limitado a quienes pueden pagar. Las decisiones de uso de suelo del municipio no son neutras.
