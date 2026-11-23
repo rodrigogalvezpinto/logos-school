@@ -122,10 +122,10 @@ d) ≈ $2.530.638
 *Retroalimentación:* M = 2.000.000 · (1,04)⁶ ≈ 2.000.000 · 1,2653; $2.480.000 sería con interés simple.
 
 **Pregunta 6 (alternativas — tasa efectiva).** Una cuenta ofrece 12% nominal anual capitalizado trimestralmente. ¿Cuál es la tasa efectiva anual?
-a) 12%
+a) 12,00%
 b) ≈ 12,55%
-c) 3%
-d) 48%
+c) 3,00%
+d) 48,00%
 
 **Respuesta correcta: b) ≈ 12,55%.**
 *Retroalimentación:* TEA = (1 + 0,12/4)⁴ − 1 = (1,03)⁴ − 1 ≈ 0,1255.
@@ -149,9 +149,9 @@ d) $385.000
 *Retroalimentación:* 15 · 38.500 = 577.500.
 
 **Pregunta 9 (alternativas — comparar CAE).** El Crédito X anuncia 10% de tasa con CAE de 15%; el Y anuncia 12% con CAE de 13%. ¿Cuál conviene y por qué?
-a) El X, porque su tasa anunciada (10%) es menor y refleja todo el costo del crédito
-b) Ambos cuestan lo mismo, porque la diferencia entre la tasa y el CAE se compensa
-c) No se puede saber sin conocer el nombre y el prestigio del banco que ofrece cada uno
+a) El X, porque su tasa anunciada (10%) es menor y esa tasa refleja el costo total del crédito
+b) Ambos cuestan lo mismo al final, porque la diferencia entre la tasa y el CAE se compensa con las cuotas
+c) No se puede saber sin conocer el nombre y el prestigio del banco que ofrece cada uno de los créditos
 d) El Y, porque su CAE es menor; el CAE incluye comisiones y seguros que la tasa anunciada no considera
 
 **Respuesta correcta: d) El Y, porque su CAE es menor; el CAE incluye comisiones y seguros que la tasa anunciada no considera.**
@@ -160,8 +160,8 @@ d) El Y, porque su CAE es menor; el CAE incluye comisiones y seguros que la tasa
 **Pregunta 10 (alternativas — evaluar alternativas de ahorro).** Para ahorrar $300.000 durante 2 años: A paga 8% anual simple y B, 7% anual compuesto. ¿Cuál conviene?
 a) B: ≈ $343.470 frente a $348.000 de A
 b) A: $348.000 frente a ≈ $343.470 de B
-c) Ambas dan exactamente lo mismo
-d) B, porque el interés compuesto siempre gana
+c) Ambas dan lo mismo: $348.000 cada una
+d) B, porque el interés compuesto rinde más que el simple
 
 **Respuesta correcta: b) A: $348.000 frente a ≈ $343.470 de B.**
 *Retroalimentación:* A: 300.000 · 1,16; B: 300.000 · (1,07)²; en un plazo corto, la mayor tasa simple supera al compuesto.
@@ -209,17 +209,17 @@ d) Disminuyó, porque el sueldo subió 4% y los precios 6%
 **Pregunta 15 (alternativas — tasa nominal y efectiva).** Dos bancos ofrecen 10% nominal anual: A capitaliza mensualmente y B semestralmente. ¿Cuál conviene para depositar?
 a) B: TEA ≈ 10,47% frente a 10,25% de A
 b) A: TEA ≈ 10,47% frente a 10,25% de B
-c) Ambos dan 10%
-d) No se puede comparar
+c) Ambos dan 10%, porque tienen la misma tasa
+d) No se pueden comparar porque capitalizan distinto
 
 **Respuesta correcta: b) A: TEA ≈ 10,47% frente a 10,25% de B.**
 *Retroalimentación:* la capitalización más frecuente genera una tasa efectiva mayor.
 
 **Pregunta 16 (alternativas — crédito hipotecario en UF).** ¿Por qué un crédito hipotecario en UF "traspasa" el riesgo de inflación al deudor?
 a) Porque la UF baja cuando sube la inflación, y el deudor debe pagar más cuotas para compensar
-b) Porque el banco asume todas las pérdidas por inflación, y el deudor paga siempre la misma cantidad de pesos durante todo el crédito
+b) Porque el banco asume las pérdidas por inflación, y el deudor paga la misma cantidad de pesos durante el crédito
 c) Porque la deuda en UF se reajusta con el IPC: si sube la inflación, sube su valor en pesos aunque el deudor no gane más
-d) Porque la UF no tiene relación con los precios
+d) Porque la UF sube y baja según el precio del dólar, y eso encarece las cuotas en algunos meses del año
 
 **Respuesta correcta: c) Porque la deuda en UF se reajusta con el IPC: si sube la inflación, sube su valor en pesos aunque el deudor no gane más.**
 *Retroalimentación:* la UF sube con la inflación (IPC), así que la deuda y las cuotas suben en pesos aunque el sueldo del deudor no suba: el riesgo de la inflación lo asume el deudor, mientras el banco recupera el valor real de lo prestado.
@@ -322,7 +322,7 @@ d) f(x) = 5ˣ
 **Pregunta 3 (calcular).** Si f(x) = 4x³, ¿cuál es el valor de f(3)?
 a) 12
 b) 36
-c) 64
+c) 216
 d) 108
 
 **Respuesta correcta: d) 108.**
@@ -374,9 +374,9 @@ d) x(t) = 10·sen((π/2)t)
 *Retroalimentación:* A = 10, D = 0, B = 2π/4 = π/2; parte en 0 y sube, por eso seno sin desfase (el coseno partiría en 10).
 
 **Pregunta 9 (alternativas — variar el exponente).** ¿Qué afirmación sobre f(x) = x² y g(x) = x³ es correcta?
-a) g siempre es mayor que f, para cualquier valor positivo de x
+a) g es mayor que f para los valores positivos de x, sin excepción
 b) Para x > 1, g crece más rápido; para 0 < x < 1, g es menor que f
-c) f siempre es mayor que g, porque el cuadrado crece más rápido
+c) f es mayor que g para x > 0, porque el cuadrado crece más rápido
 d) Son iguales para todo x, porque ambas son funciones potencia
 
 **Respuesta correcta: b) Para x > 1, g crece más rápido; para 0 < x < 1, g es menor que f.**
@@ -392,8 +392,8 @@ d) f(L) = 2ᴸ
 *Retroalimentación:* 1³, 2³, 3³ y 4³ coinciden exactamente.
 
 **Pregunta 11 (alternativas — coseno vs. seno).** ¿Cuál es la diferencia principal entre los modelos f(x)=A·sen(Bx) y g(x)=A·cos(Bx), ambos con el mismo valor medio D=0?
-a) tienen distinta amplitud: el coseno alcanza valores más altos que el seno
-b) tienen distinto período: el coseno completa su ciclo en la mitad del tiempo
+a) tienen distinta amplitud: el coseno alcanza valores más altos que el seno en cada ciclo
+b) tienen distinto período: el coseno completa su ciclo en la mitad del tiempo que el seno
 c) representan el mismo tipo de oscilación, pero con distinto punto de partida (desfase)
 d) el coseno no puede modelar fenómenos periódicos, porque comienza en su máximo
 
@@ -548,8 +548,8 @@ d) aleatorias; fijas
 *Retroalimentación:* el binomial cuenta resultados y el normal mide en una escala continua.
 
 **Pregunta 5 (alternativas — probabilidad binomial).** Un vendedor cierra una venta con probabilidad 0,3 por visita. En 4 visitas, ¿cuál es la probabilidad de cerrar exactamente 2?
-a) 0,09
-b) 0,6
+a) 0,0900
+b) 0,6000
 c) ≈ 0,2646
 d) ≈ 0,0441
 
@@ -584,8 +584,8 @@ d) Ambos normales
 *Retroalimentación:* (1) es un conteo de resultados binarios; (2) es una variable continua.
 
 **Pregunta 9 (alternativas — probabilidad binomial).** Un estudiante responde al azar 5 preguntas de verdadero o falso. ¿Cuál es la probabilidad de acertar las 5?
-a) 0,5
-b) 0,1
+a) 0,15625
+b) 0,0625
 c) 0,03125
 d) 0,25
 
@@ -599,17 +599,17 @@ d) 0,25
 
 **Pregunta 11 (alternativas — corvínculo y causalidad).** En distintas ciudades hay una fuerte correlación entre el número de heladerías y de ahogamientos en piscinas. ¿Se puede concluir que las heladerías causan ahogamientos?
 a) No: ambas variables dependen de una tercera, la temperatura
-b) Sí: una correlación fuerte prueba causalidad
+b) Sí: una correlación fuerte entre dos variables prueba causalidad
 c) Sí: comer helado antes de nadar produce ahogamientos
-d) No: no existe ninguna correlación entre ambas variables
+d) No: la correlación entre ambas variables es pura coincidencia
 
 **Respuesta correcta: a) No: ambas variables dependen de una tercera, la temperatura.**
 *Retroalimentación:* correlación no implica causalidad cuando hay una variable oculta.
 
 **Pregunta 12 (alternativas — pertinencia del modelo).** Un analista usa un modelo normal para el número de defectuosos en lotes de 20 unidades con probabilidad fija de defecto. ¿Es pertinente?
 a) Sí: el número de defectuosos es una variable continua con distribución simétrica
-b) Sí: el modelo normal sirve para cualquier conteo pequeño, como 20 unidades
-c) No: debería usarse un modelo trigonométrico
+b) Sí: el modelo normal sirve para los conteos pequeños, como 20 unidades
+c) No: debería usarse un modelo trigonométrico, porque los defectos se repiten
 d) No: es una variable discreta con n fijo y p fija, condiciones del modelo binomial
 
 **Respuesta correcta: d) No: es una variable discreta con n fijo y p fija, condiciones del modelo binomial.**
@@ -625,8 +625,8 @@ d) Ambos 10
 *Retroalimentación:* μ = n · p.
 
 **Pregunta 14 (alternativas — límites de una encuesta).** Una encuesta telefónica solo contacta a mayores de 60 años y generaliza su resultado a "toda la población". ¿Qué límite tiene?
-a) Ninguno: cualquier muestra grande representa a toda la población
-b) Que hubo demasiados encuestados y eso aumenta el margen de error
+a) Es confiable, porque una muestra grande representa bien a la población votante
+b) Que hubo demasiados encuestados y eso aumenta el margen de error de la encuesta
 c) Sesgo de muestra: la muestra no es representativa de toda la población votante
 d) Que las encuestas telefónicas son ilegales si no se avisa con anticipación
 
@@ -645,7 +645,7 @@ d) 0,729
 **Pregunta 16 (alternativas — dispersión y modelo normal).** Dos envasadoras tienen media 1.000 g; la 1 tiene σ = 5 g y la 2, σ = 20 g. Si se rechazan bolsas bajo 970 g, ¿cuál generará más rechazos?
 a) La 1: 970 g está a 6σ bajo la media, más cerca que en la 2
 b) Ambas igual, porque tienen la misma media de 1.000 g
-c) Ninguna rechaza bolsas
+c) Las dos rechazan la misma cantidad de bolsas
 d) La 2: 970 g está a 1,5σ bajo la media, frente a 6σ en la 1
 
 **Respuesta correcta: d) La 2: 970 g está a 1,5σ bajo la media, frente a 6σ en la 1.**
