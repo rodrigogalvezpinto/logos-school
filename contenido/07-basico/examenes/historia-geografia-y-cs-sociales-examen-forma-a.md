@@ -46,10 +46,10 @@ Corrección final) busca acercarte a la experiencia del examen real.
 **Pregunta 1.** (1 punto)
 ¿Cuál fue el cambio central de la Revolución neolítica?
 
-a) La invención de la escritura para registrar las leyes y los impuestos
+a) La invención de la escritura para registrar las leyes, el comercio y los impuestos
 b) La agricultura y la domesticación de animales, que permitieron vivir en un lugar
-c) La construcción de grandes imperios con ejércitos permanentes y caminos
-d) El uso del hierro para fabricar armas y herramientas para la guerra
+c) La construcción de grandes imperios con ejércitos permanentes y caminos de piedra
+d) El uso del hierro para fabricar armas y herramientas de trabajo más resistentes
 
 ---
 
@@ -57,9 +57,9 @@ d) El uso del hierro para fabricar armas y herramientas para la guerra
 ¿Por qué el sedentarismo favoreció el aumento de la población en el Neolítico?
 
 a) Porque producir alimentos era más seguro y en aldeas fijas se podía criar a más hijos
-b) Porque las personas dejaron de comer carne y así vivieron muchos más años
-c) Porque los grupos se separaron y cada uno buscó un territorio vacío para vivir
-d) Porque se dejó de trabajar la tierra y las familias tenían más tiempo libre
+b) Porque las personas dejaron de comer carne y, con una dieta de cereales, vivieron más años
+c) Porque los grupos se separaron y cada uno buscó un territorio vacío donde vivir y cazar
+d) Porque se dejó de trabajar la tierra y las familias tuvieron más tiempo libre para criar
 
 ---
 
@@ -68,19 +68,19 @@ d) Porque se dejó de trabajar la tierra y las familias tenían más tiempo libr
 **Pregunta 3.** (1 punto)
 ¿Qué tienen en común Mesopotamia, Egipto, el valle del Indo y China en sus orígenes?
 
-a) Surgieron en zonas heladas, cerca de los polos
-b) Surgieron en islas pequeñas, aisladas del continente
+a) Surgieron en zonas frías del norte, donde casi no llovía en el año
+b) Surgieron en islas pequeñas, separadas del continente por el mar
 c) Surgieron junto a grandes ríos, que permitían regar los cultivos
-d) Surgieron en la cima de altas montañas, lejos del agua
+d) Surgieron en la cima de altas montañas, lejos de las inundaciones
 
 ---
 
 **Pregunta 4.** (2 puntos)
 ¿Por qué la escritura fue tan importante para las primeras civilizaciones?
 
-a) Porque reemplazó a la agricultura como la principal fuente de alimento
-b) Porque solo servía para escribir cuentos y poemas en las escuelas de niños
-c) Porque eliminó la necesidad de tener gobernantes, jueces y sacerdotes
+a) Porque reemplazó a la agricultura como la principal actividad económica de las ciudades
+b) Porque servía sobre todo para escribir cuentos y poemas en las escuelas de los niños
+c) Porque eliminó la necesidad de tener gobernantes, jueces y sacerdotes en las ciudades
 d) Porque permitió registrar impuestos, leyes y comercio para administrar el Estado
 
 ---
@@ -116,10 +116,10 @@ d) D
 **Pregunta 7.** (2 puntos)
 ¿Por qué se dice que el latín, la lengua de los romanos, sigue presente en nuestra vida diaria?
 
-a) Porque en Chile el latín es el idioma oficial de las leyes
-b) Porque todos los idiomas del mundo provienen del latín
+a) Porque en Chile el latín es el idioma oficial de las leyes y de los tribunales
+b) Porque el inglés y el alemán son lenguas que se formaron directamente a partir del latín
 c) Porque el castellano y otras lenguas romances se formaron a partir del latín
-d) Porque el latín se habla todavía en la mayoría de las casas de Italia
+d) Porque el latín se habla todavía en la mayoría de las casas de Italia y de España
 
 ---
 
@@ -141,19 +141,19 @@ d) La Iglesia católica
 ¿Qué cambio ocurrió en Europa a partir del siglo XII?
 
 a) Crecieron las ciudades (burgos) y el comercio, y surgió la burguesía
-b) Desaparecieron todas las ciudades y la población volvió al campo
-c) Se abandonó la agricultura y la gente vivió solo de la caza
-d) Los reinos europeos se unieron en un solo imperio sin reyes
+b) Desaparecieron muchas ciudades y la población volvió a vivir en el campo
+c) Se abandonó la agricultura y la gente vivió sobre todo de la caza y la pesca
+d) Los reinos europeos se unieron en un gran imperio gobernado por el Papa
 
 ---
 
 **Pregunta 10.** (2 puntos)
 ¿Por qué la imprenta de tipos móviles, difundida en Europa por Johannes Gutenberg en el siglo XV, transformó la difusión del conocimiento?
 
-a) Porque prohibió copiar libros a mano en los monasterios de toda Europa
+a) Porque prohibió copiar libros a mano en los monasterios y en las universidades de Europa
 b) Porque permitió producir libros más rápido y más baratos, y más personas pudieron leerlos
-c) Porque hizo que los libros solo pudieran leerse en latín y en las iglesias
-d) Porque reemplazó a las universidades, que cerraron por falta de estudiantes
+c) Porque hizo que los libros se escribieran en latín y se leyeran sobre todo en las iglesias
+d) Porque reemplazó a las universidades, que cerraron porque los libros enseñaban por sí solos
 
 ---
 
@@ -162,19 +162,19 @@ d) Porque reemplazó a las universidades, que cerraron por falta de estudiantes
 **Pregunta 11.** (1 punto)
 Los aztecas construyeron su capital, Tenochtitlan, sobre un lago. ¿Qué eran las chinampas?
 
-a) Templos en forma de pirámide dedicados al Sol
-b) Caminos de piedra que unían las ciudades mayas
+a) Templos en forma de pirámide dedicados al Sol y a la lluvia
+b) Caminos de piedra que unían Tenochtitlan con otras ciudades
 c) Islas artificiales de cultivo construidas sobre el lago
-d) Barcos de madera para cruzar el océano Atlántico
+d) Barcos de madera para cruzar el lago y llegar a la capital
 
 ---
 
 **Pregunta 12.** (1 punto)
 ¿Cuál fue un aporte de la civilización maya al conocimiento?
 
-a) La invención de la imprenta de tipos móviles en Europa
+a) La invención de la imprenta de tipos móviles para copiar libros
 b) La construcción del primer gran acueducto de la ciudad de Roma
-c) La creación del alfabeto que usamos hoy en castellano
+c) La creación del alfabeto que usamos hoy para escribir en castellano
 d) Un calendario muy preciso y una numeración que usaba el cero
 
 ---
@@ -185,8 +185,8 @@ d) Un calendario muy preciso y una numeración que usaba el cero
 Las palabras «chocolate», «tomate» y «aguacate» llegaron al castellano desde el náhuatl. ¿De qué pueblo es este legado?
 
 a) De los aztecas (mexicas)
-b) De los griegos
-c) De los romanos
+b) De los griegos antiguos
+c) De los romanos (latinos)
 d) De los mayas de Guatemala
 
 ---
@@ -196,8 +196,8 @@ d) De los mayas de Guatemala
 
 a) Porque son lugares abandonados que no tienen ningún valor para las personas de hoy
 b) Porque son parte de la identidad latinoamericana y permiten conocer su historia
-c) Porque solo sirven como lugares de vacaciones y no enseñan nada sobre el pasado
-d) Porque fueron construidos por europeos y muestran solo la historia de Europa
+c) Porque sirven sobre todo como lugares de vacaciones y atraen turistas de otros países
+d) Porque fueron construidos por europeos y muestran la historia de la conquista de América
 
 ---
 
@@ -208,17 +208,17 @@ d) Porque fueron construidos por europeos y muestran solo la historia de Europa
 **Pregunta 15.** (1 punto)
 En la cordillera de los Andes, distintos pueblos construyeron terrazas de cultivo en las laderas. ¿Qué muestra esta práctica?
 
-a) Que preferían vivir en zonas planas cerca del mar
-b) Que no necesitaban producir alimentos para vivir
+a) Que preferían vivir en zonas planas y bajas, cerca del mar
+b) Que no necesitaban producir alimentos porque vivían de la caza
 c) Que adaptaron el relieve de pendientes para poder cultivar
-d) Que destruyeron los cerros para construir ciudades
+d) Que destruyeron los cerros para construir ciudades más grandes
 
 ---
 
 **Pregunta 16.** (1 punto)
 ¿Por qué construir viviendas en el cauce seco de una quebrada aumenta el riesgo para las personas?
 
-a) Porque en las quebradas nunca llega la luz del sol
+a) Porque en las quebradas llega poca luz del sol y hace más frío
 b) Porque en las quebradas está prohibido plantar árboles
 c) Porque el suelo de las quebradas es demasiado blando para caminar
 d) Porque con lluvias intensas puede bajar un aluvión por ese cauce
@@ -229,9 +229,9 @@ d) Porque con lluvias intensas puede bajar un aluvión por ese cauce
 La construcción de un embalse en un río permite guardar agua para regar en verano. ¿Qué efecto puede tener también sobre el medio?
 
 a) Puede inundar valles y cambiar el caudal, afectando a las especies del río
-b) No tiene ningún efecto, porque el agua del río sigue exactamente igual
-c) Hace que el agua del río se vuelva salada, como el agua de mar
-d) Aumenta las lluvias en toda la región durante todo el año
+b) Mejora la calidad del agua del río, porque el embalse filtra la basura y el barro
+c) Hace que el agua del río se vuelva salada, como el agua del mar cercano
+d) Aumenta las lluvias en toda la región durante el verano y el otoño
 
 ---
 
@@ -264,9 +264,9 @@ d) No tiene ningún efecto, porque los árboles no influyen en el medio
 **Pregunta 20.** (1 punto)
 ¿En qué se diferencia la ciudadanía de la Atenas clásica de la ciudadanía en el Chile actual?
 
-a) En Atenas votaban todos sus habitantes; hoy en Chile solo votan los hombres
-b) En los dos casos solo pueden votar las personas que son dueñas de tierras
-c) No hay diferencias: en ambos casos votan todas las personas, sin importar la edad
+a) En Atenas votaban los habitantes mayores de 30 años; hoy en Chile votan los mayores de 21 años
+b) En los dos casos pueden votar las personas que son dueñas de tierras o de una casa propia
+c) No hay diferencias importantes: en ambos casos votan las personas adultas, hombres y mujeres
 d) En Atenas era solo de algunos hombres; en Chile votan todas las personas chilenas desde los 18 años
 
 ---
@@ -275,8 +275,8 @@ d) En Atenas era solo de algunos hombres; en Chile votan todas las personas chil
 La palabra «Senado» viene de la Roma antigua. ¿Qué función cumple hoy el Senado en Chile?
 
 a) Forma parte del Congreso Nacional y participa en la aprobación de las leyes
-b) Es el tribunal que juzga todos los delitos cometidos en el país
-c) Es el grupo de ministros que gobierna el país junto al Presidente
+b) Es el tribunal que juzga los delitos más graves cometidos por las autoridades del país
+c) Es el grupo de ministros que gobierna el país junto al Presidente de la República
 d) Es un consejo de sacerdotes que organiza las fiestas religiosas del año
 
 ---
@@ -286,20 +286,20 @@ d) Es un consejo de sacerdotes que organiza las fiestas religiosas del año
 **Pregunta 22.** (1 punto)
 ¿Qué conocimiento llegó a Europa medieval a través del contacto con el mundo musulmán?
 
-a) El uso del hierro para fabricar herramientas
+a) El uso del hierro para fabricar herramientas y armas
 b) El sistema de numeración indoarábigo, que usamos hoy
-c) La construcción de pirámides escalonadas
-d) La domesticación del caballo y del perro
+c) La construcción de pirámides escalonadas de piedra
+d) La domesticación del caballo y del perro para el trabajo
 
 ---
 
 **Pregunta 23.** (2 puntos)
 En un curso hay estudiantes nacidos en Chile, Venezuela, Haití y Perú. ¿Qué actitud refleja que se valora la diversidad cultural?
 
-a) Pedir que todos dejen de lado sus costumbres para ser iguales
-b) Formar grupos de trabajo solo con compañeros del mismo país
+a) Pedir que cada uno deje de lado sus costumbres para que el curso sea más unido
+b) Formar grupos de trabajo con compañeros del mismo país para que se entiendan mejor
 c) Conocer las costumbres de cada uno y compartirlas, respetando sus diferencias
-d) Burlarse de los acentos distintos para hacer reír al curso
+d) Burlarse de los acentos distintos como una forma de hacer reír al curso
 
 ---
 
@@ -309,8 +309,8 @@ d) Burlarse de los acentos distintos para hacer reír al curso
 ¿Qué fueron las Cruzadas, entre los siglos XI y XIII?
 
 a) Viajes de comercio pacífico entre Roma y China por la antigua Ruta de la Seda
-b) Reuniones de paz entre aztecas y mayas para dividir su territorio en América
-c) Campañas para llevar la imprenta a todas las ciudades y aldeas de Europa
+b) Reuniones de paz entre aztecas y mayas para dividir su territorio en América Central
+c) Campañas para llevar la imprenta y los libros a las ciudades y aldeas de Europa
 d) Guerras de reinos cristianos europeos contra musulmanes por el control de Tierra Santa
 
 ---
@@ -321,10 +321,10 @@ d) Guerras de reinos cristianos europeos contra musulmanes por el control de Tie
 
 ¿Qué conclusión sobre la convivencia entre culturas se puede obtener del caso?
 
-a) Que la convivencia entre culturas distintas es imposible y siempre termina en conflicto
-b) Que los conflictos se resuelven expulsando a quienes tienen costumbres distintas
+a) Que la convivencia entre culturas distintas es muy difícil y lo mejor es que cada grupo viva en su barrio
+b) Que los conflictos se resuelven pidiendo a las familias extranjeras que dejen sus costumbres
 c) Que pueden existir conflictos y también encuentros, y que el diálogo y el respeto ayudan a convivir
-d) Que la feria no sirve de nada, porque las comidas no tienen relación con la cultura
+d) Que la feria sirve poco, porque las comidas típicas no tienen relación con la cultura de un país
 
 ---
 
