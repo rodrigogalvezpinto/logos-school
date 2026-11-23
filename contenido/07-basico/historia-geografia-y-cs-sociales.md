@@ -1434,8 +1434,8 @@ d) Continuidad: la escala del impacto es idéntica, porque en ambos casos se tal
 **6. (Alternativas — desafiante)** ¿Por qué es importante evaluar tanto las ventajas como las desventajas de una intervención en el medio, y no solo sus beneficios inmediatos?
 a) Porque toda intervención puede generar efectos secundarios no deseados, y una evaluación completa permite decisiones más responsables a mediano y largo plazo
 b) Porque los beneficios inmediatos son lo único que importa, y las desventajas pueden resolverse más adelante si llegan a aparecer
-c) Porque las intervenciones bien planificadas nunca tienen efectos secundarios, así que evaluar las desventajas es solo una formalidad
-d) Porque evaluar las desventajas de una obra impide cualquier intervención, ya que toda obra tiene algún costo para el medio natural
+c) Porque las intervenciones bien planificadas tienen pocos efectos secundarios, así que evaluar las desventajas es una formalidad que exige la ley
+d) Porque evaluar las desventajas de una obra frena las intervenciones, ya que cada obra tiene algún costo para el medio natural de la zona
 
 ✅ Respuesta correcta: **a) Porque toda intervención puede generar efectos secundarios no deseados, y una evaluación completa permite decisiones más responsables a mediano y largo plazo**
 *Retroalimentación:* Considerar costos y beneficios a mediano y largo plazo permite tomar decisiones más responsables.
@@ -1511,10 +1511,10 @@ democrática.
 **1. (Alternativas)** ¿Cuál de las siguientes afirmaciones describe correctamente una
 diferencia entre la ciudadanía en la Atenas clásica y en la sociedad actual?
 
-a) En Atenas, la ciudadanía incluía a todas las personas por igual; hoy está más restringida
+a) En Atenas, la ciudadanía incluía a las personas por igual, incluidos los esclavos; hoy está más restringida por la edad y la nacionalidad
 b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros; hoy se extiende a mujeres y hombres adultos,
 sin distinción de sexo ni condición social
-c) Ambas nociones de ciudadanía son exactamente iguales: en los dos casos participan todos los habitantes adultos sin excepción, incluidos esclavos y extranjeros
+c) Ambas nociones de ciudadanía son muy parecidas: en los dos casos participan los habitantes adultos, y cambia el lugar donde se reúnen
 d) En Atenas no existía el concepto de ciudadanía, que surgió recién en la época moderna con las revoluciones del siglo XVIII
 
 ✅ Respuesta correcta: **b) En Atenas, la ciudadanía excluía a mujeres, esclavos y extranjeros;
@@ -1552,10 +1552,10 @@ d) 1-B, 2-A, 3-C
 ---
 
 **4. (Alternativas)** ¿Qué afirmación muestra correctamente una similitud y una diferencia entre la ciudadanía ateniense y la ciudadanía actual?
-a) Similitud: en ambos casos solo votan los hombres ricos que poseen tierras. Diferencia: ninguna, porque la ciudadanía ateniense y la actual excluyen a los mismos grupos de la población
+a) Similitud: en ambos casos votan sobre todo los hombres ricos que poseen tierras. Diferencia: escasa, porque la ciudadanía ateniense y la actual funcionan casi igual
 b) Similitud: los ciudadanos participan en decisiones políticas. Diferencia: hoy la ciudadanía incluye a mujeres y no excluye a grupos por su condición de esclavos o extranjeros de origen
-c) Similitud: ninguna. Diferencia: en Atenas no existía la participación política
-d) Similitud: la ciudadanía incluía a todos los habitantes, incluidos mujeres, esclavos y extranjeros. Diferencia: hoy solo vota el rey y los ciudadanos no participan en las decisiones
+c) Similitud: escasa. Diferencia: en Atenas no existía la participación política de los ciudadanos, que surgió recién con las revoluciones modernas
+d) Similitud: la ciudadanía incluía a los habitantes, incluidos mujeres, esclavos y extranjeros. Diferencia: hoy votan los mayores de 21 años
 
 ✅ Respuesta correcta: **b) Similitud: los ciudadanos participan en decisiones políticas. Diferencia: hoy la ciudadanía incluye a mujeres y no excluye a grupos por su condición de esclavos o extranjeros de origen**
 *Retroalimentación:* Comparar conceptos políticos permite identificar elementos de continuidad (la participación) y de cambio (la ampliación de la ciudadanía).
@@ -1563,10 +1563,10 @@ d) Similitud: la ciudadanía incluía a todos los habitantes, incluidos mujeres,
 ---
 
 **5. (Alternativas — análisis de fuente)** Imagina un texto que describe a un gremio medieval de tejedores que fijaba normas de calidad, organizaba la formación de aprendices y defendía los intereses de sus miembros ante las autoridades. ¿Con qué organización actual se puede comparar?
-a) Con un club deportivo, porque organiza campeonatos entre sus socios y entrena a los jugadores más jóvenes
+a) Con un club deportivo, porque organiza campeonatos entre sus socios y entrena a los jugadores más jóvenes del barrio cada semana
 b) Con una municipalidad, porque elige alcalde y administra los servicios de la comuna donde trabajan los tejedores
 c) Con un sindicato o un colegio profesional, porque agrupan a personas de un mismo oficio para regular su actividad y representar sus intereses
-d) Con un partido político, porque presenta candidatos a Presidente y defiende un programa de gobierno para todo el país
+d) Con un partido político, porque presenta candidatos a Presidente y defiende un programa de gobierno para el país completo
 
 ✅ Respuesta correcta: **c) Con un sindicato o un colegio profesional, porque agrupan a personas de un mismo oficio para regular su actividad y representar sus intereses**
 *Retroalimentación:* Aunque el contexto es distinto, la función de agrupar y representar los intereses de un oficio se mantiene entre los gremios y organizaciones actuales.
@@ -1693,10 +1693,10 @@ d) La conservación del legado clásico por parte de Bizancio
 ---
 
 **5. (Alternativas — análisis de fuente)** Imagina un texto medieval traducido del árabe al latín en la península ibérica, con avances matemáticos y astronómicos desconocidos en buena parte de Europa occidental. ¿Qué nos muestra este ejemplo?
-a) Que la cultura árabe no hizo ningún aporte a Europa, porque los textos solo se tradujeron para ser prohibidos por la Iglesia
+a) Que la cultura árabe hizo un aporte menor a Europa, porque los textos se tradujeron sobre todo para ser revisados y prohibidos por la Iglesia
 b) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a ambas sociedades, más allá de sus diferencias
-c) Que en la Edad Media no existían traducciones
-d) Que el conocimiento solo se producía en Europa occidental, y los árabes se limitaron a copiar textos latinos antiguos sin agregar nada
+c) Que en la Edad Media las traducciones eran escasas y se hacían para los reyes
+d) Que el conocimiento se producía sobre todo en Europa occidental, y los árabes copiaron textos latinos antiguos sin agregarles ideas nuevas
 
 ✅ Respuesta correcta: **b) Que el intercambio entre culturas distintas permitió difundir conocimientos que enriquecieron a ambas sociedades, más allá de sus diferencias**
 *Retroalimentación:* Los procesos de traducción e intercambio, como en la península ibérica medieval, muestran cómo la diversidad puede ser fuente de enriquecimiento mutuo.
@@ -1704,10 +1704,10 @@ d) Que el conocimiento solo se producía en Europa occidental, y los árabes se 
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué es importante reconocer los aportes de culturas como la árabe, la bizantina o la germana a la formación de Europa?
-a) Porque Europa se formó únicamente con la tradición romana, y reconocer otros aportes permite demostrar que las demás culturas fueron irrelevantes
-b) Porque esas culturas no tuvieron contacto con Europa, y estudiar sus aportes sirve solo para conocer historias de lugares lejanos y aislados
+a) Porque Europa se formó con la tradición romana, y reconocer otros aportes permite demostrar que las demás culturas fueron menos importantes en su historia
+b) Porque esas culturas tuvieron poco contacto con Europa, y estudiar sus aportes sirve para conocer historias de lugares lejanos y distintos
 c) Porque la civilización europea resulta de la confluencia de múltiples culturas, y reducirla a una sola tradición invisibiliza contribuciones reales
-d) Porque la diversidad cultural siempre es una amenaza
+d) Porque la diversidad cultural fue una amenaza para Europa durante la Edad Media
 
 ✅ Respuesta correcta: **c) Porque la civilización europea resulta de la confluencia de múltiples culturas, y reducirla a una sola tradición invisibiliza contribuciones reales**
 *Retroalimentación:* Reconocer estos aportes ayuda a valorar la diversidad cultural como algo enriquecedor.
@@ -1832,10 +1832,10 @@ d) Convivencia: intercambios científicos entre musulmanes y cristianos en la pe
 ---
 
 **5. (Alternativas — análisis de fuente — debate)** En un debate se pregunta: "¿Puede una misma relación entre dos pueblos incluir, al mismo tiempo, convivencia y conflicto?". Usando el ejemplo de musulmanes y católicos en la península ibérica, ¿qué argumento apoya una respuesta afirmativa?
-a) Que nunca tuvieron ningún contacto entre sí, porque vivían en regiones separadas de la península y no compartían idioma, religión ni costumbres
+a) Que tuvieron poco contacto entre sí, porque vivían en regiones separadas de la península y no compartían idioma, religión ni costumbres
 b) Que durante siglos mantuvieron intercambios culturales y científicos mientras, al mismo tiempo, se enfrentaban en conflictos territoriales y militares
-c) Que siempre vivieron en paz absoluta, sin ningún conflicto territorial ni militar, durante toda la Edad Media
-d) Que solo se relacionaron mediante guerras por el territorio, sin ningún tipo de intercambio cultural ni científico
+c) Que vivieron en paz durante la Edad Media, sin conflictos territoriales ni militares importantes entre ellos
+d) Que se relacionaron sobre todo mediante guerras por el territorio, con poco intercambio cultural o científico
 
 ✅ Respuesta correcta: **b) Que durante siglos mantuvieron intercambios culturales y científicos mientras, al mismo tiempo, se enfrentaban en conflictos territoriales y militares**
 *Retroalimentación:* Reconocer que la historia rara vez es completamente pacífica o completamente conflictiva ayuda a comprender la complejidad de las relaciones entre pueblos.
@@ -1843,10 +1843,10 @@ d) Que solo se relacionaron mediante guerras por el territorio, sin ningún tipo
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué el respeto, la tolerancia y la resolución pacífica de conflictos siguen siendo importantes hoy?
-a) Porque hoy ya no existen culturas distintas, y estas actitudes sirven solo para recordar los conflictos que hubo en el pasado entre pueblos
-b) Porque los conflictos solo se resuelven con la guerra, y la tolerancia es útil únicamente para ganar tiempo antes de enfrentarse al otro
+a) Porque hoy las culturas se parecen cada vez más, y estas actitudes sirven para recordar los conflictos que hubo en el pasado entre pueblos distintos
+b) Porque los conflictos se resuelven sobre todo con la guerra, y la tolerancia sirve para ganar tiempo antes de enfrentarse al otro bando
 c) Porque, igual que en el pasado, en un mundo diverso estas actitudes son fundamentales para prevenir conflictos y construir respeto mutuo entre culturas
-d) Porque la tolerancia solo fue útil en la Edad Media
+d) Porque la tolerancia fue útil en la Edad Media, cuando había más conflictos religiosos que hoy
 
 ✅ Respuesta correcta: **c) Porque, igual que en el pasado, en un mundo diverso estas actitudes son fundamentales para prevenir conflictos y construir respeto mutuo entre culturas**
 *Retroalimentación:* Así como la tolerancia y la diplomacia permitieron la convivencia en el pasado, siguen siendo claves en sociedades diversas.

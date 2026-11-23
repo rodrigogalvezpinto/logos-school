@@ -100,9 +100,9 @@ culturas.
 1. *(Alternativas)* Read: *"Volcanoes are common in Chile because the country is
    located between two tectonic plates. There are more than 500 volcanoes in the
    country."* What is the text mainly about?
-   a) Chilean food
-   b) Chilean history
-   c) Tectonic games
+   a) Chilean food and dishes
+   b) Chilean history and wars
+   c) Tectonic games for kids
    d) Volcanoes in Chile
    **Respuesta correcta:** d) Volcanoes in Chile.
    **Retroalimentación:** El texto completo gira en torno a los volcanes; los
@@ -128,9 +128,9 @@ culturas.
    **Retroalimentación:** *Main idea* (idea principal/general) es el concepto que resume de qué trata todo el texto.
 
 4. *(Alternativas — Comprensión)* Read: *"Diego plays basketball three times a week at the community center."* *How many times a week does Diego play basketball?*
-   a) He plays once a week.
-   b) He plays every day.
-   c) He plays at school.
+   a) He plays once a week at the park.
+   b) He plays every day after school.
+   c) He plays at school with his friends.
    d) He plays three times a week.
    **Respuesta correcta:** d) He plays three times a week.
    **Retroalimentación:** El dato exacto (*three times a week*) aparece directamente en el texto; no requiere inferencia.
@@ -146,9 +146,9 @@ culturas.
 6. *(Alternativas)* Read: *"Recycling helps reduce waste in landfills. Many
    countries now require families to separate their garbage."* ¿Cuál es un dato
    explícito del texto?
-   a) Recycling is boring for most families.
-   b) All families love to separate their garbage.
-   c) Recycling is the best hobby for families.
+   a) Recycling is boring for most families in the city.
+   b) Families love to separate their garbage at home.
+   c) Recycling is the favourite hobby of many families.
    d) Many countries require families to separate garbage.
    **Respuesta correcta:** d) Many countries require families to separate
    garbage.
@@ -249,10 +249,10 @@ Para completar un organizador se busca la información **explícita** en el text
 1. *(Alternativas)* Read the instructions: *"First, turn on the computer. Next,
    open the browser. Finally, type the website address."* ¿Qué tipo de texto es
    este?
-   a) A biography
+   a) A biography of a famous person
    b) An opinion column
    c) A set of instructions
-   d) A poem
+   d) A poem about nature
    **Respuesta correcta:** c) A set of instructions.
    **Retroalimentación:** Los conectores de secuencia (*first, next, finally*) y
    los pasos ordenados son típicos de un texto de instrucciones.
@@ -299,9 +299,9 @@ Para completar un organizador se busca la información **explícita** en el text
 7. *(Alternativas — desafiante)* Read: *"The ice melted because the sun was very
    hot."* ¿Qué relación expresa esta oración?
    a) Causa y efecto
-   b) Secuencia
+   b) Secuencia temporal
    c) Comparación
-   d) Opinión
+   d) Opinión del autor
    **Respuesta correcta:** a) Causa y efecto.
    **Retroalimentación:** *Because* introduce la causa (el sol estaba caliente)
    que explica el efecto (el hielo se derritió).
@@ -412,16 +412,16 @@ justificándola con *because*.
 
 5. *(Alternativas — Escribir siguiendo modelo)* Which option completes the model *"In my country, we celebrate ___. People usually ___."* correctly?
    a) Fiestas Patrias / dance cueca and eat empanadas
-   b) Fiestas Patrias / is a beautiful country
-   c) empanadas / celebrate Fiestas Patrias
+   b) Fiestas Patrias / is a beautiful country in September
+   c) empanadas / celebrate Fiestas Patrias with family
    d) dance cueca / Fiestas Patrias
    **Respuesta correcta:** a) Fiestas Patrias / dance cueca and eat empanadas.
    **Retroalimentación:** «Fiestas Patrias» es una celebración y «dance cueca and eat empanadas» describe lo que la gente suele hacer (verbo + complemento). Cada espacio queda con la información que pide el modelo.
 
 6. *(Alternativas — Conectores)* ¿En qué parte de una historia se usa normalmente el conector *"After that,"*?
-   a) Siempre al comienzo de la historia, para presentar a los personajes
-   b) Solo en el título, para anunciar de qué tratará la historia
-   c) Nunca se usa en historias, solo en recetas e instrucciones
+   a) Al comienzo de la historia, para presentar a los personajes
+   b) En el título, para anunciar de qué tratará la historia
+   c) En las recetas e instrucciones, más que en las historias
    d) En medio o hacia el final, para conectar un evento con el anterior
    **Respuesta correcta:** d) En medio o hacia el final, para conectar un evento con el anterior.
    **Retroalimentación:** *After that* (después de eso) conecta un evento con el que ocurrió justo antes; no se usa para iniciar una historia.
@@ -564,9 +564,9 @@ El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
    distinto de *don't have to*, que indica que algo no es obligatorio.
 
 5. *(Alternativas — Vocabulario)* What does *"I'm fed up with homework"* mean?
-   a) Me encanta la tarea
+   a) Me encanta hacer la tarea
    b) Terminé la tarea
-   c) Comí durante la tarea
+   c) Comí algo durante la tarea
    d) Estoy harto/a de la tarea
    **Respuesta correcta:** d) Estoy harto/a de la tarea.
    **Retroalimentación:** *Fed up with* es una expresión que indica hartazgo o cansancio de algo, no agrado.
