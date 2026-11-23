@@ -162,9 +162,9 @@ d) No hubo dilema, porque el bus a Copiapó no salió ese día por el barro
 **13. (Alternativas)** ¿Qué interpretación del relato integra mejor el dilema, el contexto histórico y el final?
 
 a) Que en una catástrofe real, como la de 2015, la solidaridad puede pesar más que una meta personal
-b) Que los campeonatos de ajedrez deben suspenderse cada vez que llueve en el desierto
+b) Que los campeonatos de ajedrez deben suspenderse cada vez que llueve en el desierto de Atacama
 c) Que Joaquín dejó de jugar ajedrez porque perdió su tablero favorito en el barro
-d) Que el aluvión de Chañaral afectó a pocas personas y Joaquín ayudó por aburrimiento
+d) Que el aluvión de Chañaral afectó a pocas personas y que Joaquín ayudó a su vecina por aburrimiento
 
 ---
 
@@ -259,8 +259,8 @@ d) 400 usuarios; no indica cuánto durará el cierre de la piscina
 
 **21. (Alternativas)** ¿En qué se diferencian el tono y el propósito de los textos A y B?
 
-a) El A es emotivo y busca protestar; el B es neutro y busca informar con cifras
-b) Ambos son neutros y buscan informar el horario de la piscina durante el cierre
+a) El A es emotivo y busca protestar contra el cierre; el B es neutro y busca informar con cifras
+b) Ambos son neutros y buscan informar el horario de la piscina municipal durante el cierre
 c) El A es informativo y apoya los datos en el municipio; el B es emotivo y busca movilizar
 d) Ambos son emotivos y buscan vender entradas para el campeonato regional
 
