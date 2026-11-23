@@ -35,9 +35,9 @@ ultima_actualizacion: 2026-11-17
 **1.** *(Selección múltiple)* Which statement best expresses the central conflict of *Silent Streets*?
 
 a) Mara wants to win the town's cycling race, but the new talking app keeps changing the route of the competition every day.
-b) The council and Mara argue about the price of the new talking app for the town.
+b) The council and Mara argue about the price of the new talking app and about who should pay for it each year.
 c) The app is presented as a city for everyone, but it leaves out people who cannot use it, and Mara challenges this.
-d) Mara's neighbour wants to move to another town because the streets are too noisy.
+d) Mara's neighbour wants to move to another town because the streets have become too noisy at night.
 
 ---
 
@@ -52,9 +52,9 @@ d) To report a real news event about a town that lost its street signs.
 
 **3.** *(Alternativas — tabla)* Which option completes the table with relevant information from the review? Technology / Mara's discovery / Action she takes
 
-a) A bicycle / the streets are dangerous / she stops cycling
+a) A bicycle / the streets are too dangerous for cyclists at night / she stops cycling and walks to school
 b) A talking app / it is too expensive for the council to maintain / she writes a newspaper article against the council
-c) Street signs / they are too colourful / she removes them
+c) Street signs / they are too colourful for the town's old buildings / she removes them at night
 d) A talking app / it excludes people who cannot hear it or speak English / she paints signs with words and pictures
 
 ---
@@ -64,7 +64,7 @@ d) A talking app / it excludes people who cannot hear it or speak English / she 
 a) "Mara paints simple signs with words and pictures."
 b) "Although the middle chapters move slowly, the novel asks a valuable question."
 c) "Every street sign in the town has been replaced by a talking app that guides people."
-d) "The council calls it a city for everyone."
+d) "The council calls it a city for everyone in its campaign."
 
 ---
 
@@ -95,19 +95,19 @@ d) Pay an extra fee for a special table near the entrance
 
 **7.** *(Selección múltiple)* Which statement accurately compares how the two texts deal with community voices?
 
-a) Both texts are fictional stories about a girl who paints street signs.
+a) Both texts are fictional stories about a girl who paints street signs in her small town.
 b) Text A is a real news report about a town, whereas Text B is a novel about languages in Scotland.
-c) Both texts ask readers to record their neighbours without permission.
+c) Both texts ask readers to record their neighbours' voices without asking permission.
 d) Both value voices that are usually left out: A through a novel, B through a community workshop.
 
 ---
 
 **8.** *(Alternativas — organizador)* Which option completes the planning table for Text B? Event date and time / Booking deadline / Participation cost / Permission rule
 
-a) 5 August, 10 a.m. / 9 August / a small fee / words are displayed automatically
+a) 5 August, 10 a.m.–12 p.m. / 9 August / a small fee / words are displayed automatically
 b) 9 August, 10 a.m.–12 p.m. / 5 August / free / permission is asked before displaying words
-c) 9 August, 2–4 p.m. / 15 July / free / nobody can remove their words
-d) 9 August, 10 a.m.–12 p.m. / 9 August / free / recordings are required
+c) 9 August, 2–4 p.m. / 15 July / free / nobody can remove their words later
+d) 9 August, 10 a.m.–12 p.m. / 9 August / free / recordings of every voice are required
 
 ---
 
@@ -141,18 +141,18 @@ d) The steps must disappear if the club buys new stage lights.
 **11.** *(Alternativas — estructura)* Which option identifies the recommendation and a supporting reason in Text C?
 
 a) Recommendation: buy stage lights first. Reason: Tomás believes brighter shows will attract more people to the hall.
-b) Recommendation: stop performing. Reason: the hall has two steps.
-c) Recommendation: sell more tickets. Reason: the budget is small.
+b) Recommendation: stop performing until the hall is repaired. Reason: the entrance to the hall has two steps.
+c) Recommendation: sell more tickets. Reason: the budget for this year is very small.
 d) Recommendation: buy a portable ramp first. Reason: two families said a relative in a wheelchair could not attend.
 
 ---
 
 **12.** *(Alternativas — tabla)* Which option completes the table? Number of purchases this year / Competing purchase / Evidence from the audience / Proposed way to evaluate
 
-a) Two / a new stage / Tomás's opinion / count ticket sales
+a) Two / a new stage / Tomás's opinion about the lights / count the ticket sales
 b) One / stage lights / two families' messages / ask the audience to test the access
 c) One / a portable ramp / Ana's measurements of the steps / ask the council for advice
-d) Three / costumes / ticket sales / buy the lights later
+d) Three / costumes / ticket sales from last year / buy the lights later
 
 ---
 
@@ -176,19 +176,19 @@ d) That the club has a small budget
 
 **15.** *(Selección múltiple)* Which outline matches the proposal's structure?
 
-a) Recommendation → the history of theatre → a poem → a joke
+a) Recommendation → the history of theatre → a poem about the hall → a joke
 b) Ticket prices → the director's biography → a list of costumes → the date of the next show
-c) Evidence → conclusion → problem → nothing about limitations
+c) Evidence → conclusion → problem → recommendation, with no mention of the limitations
 d) Context and problem → competing proposal → evidence → recommendation and evaluation → limitation
 
 ---
 
 **16.** *(Alternativas — propuesta escrita)* Which proposal includes a recommendation, evidence from C, a limitation and a next step, and uses reported speech and a passive?
 
-a) We want lights. Lights are nice. Buy lights now.
+a) We want lights. Lights are nice and bright. Everybody likes them. Buy lights now, before the next show.
 b) Ana said that the entrance had two steps. Because two families wrote that a relative could not attend, a ramp should be bought first. It may not increase sales, so the access will be tested at the next show.
 c) Tomás said that he had bought new stage lights. Because they are bright, more people will come to the shows. The lights were installed yesterday, so nothing else needs to be done this year.
-d) Ana says the hall is big. We recommend nothing until next year.
+d) Ana says the hall is big enough. We recommend nothing until next year, because the budget is small.
 
 ---
 
@@ -209,24 +209,24 @@ d) Ana says the hall is big. We recommend nothing until next year.
 
 a) Belonging can grow when others recognise you, without forgetting where you come from.
 b) Belonging means forgetting your old home and your first language as quickly as possible.
-c) Belonging only depends on living in a big house in the city.
-d) Belonging is impossible for people who move to a new place.
+c) Belonging depends mainly on living in a big house in the city.
+d) Belonging is very difficult for people who move to a new place.
 
 ---
 
 **18.** *(Alternativas — léxico en contexto)* Which caption uses *"sense of belonging"* correctly with a concrete detail from Text E?
 
 a) My sense of belonging is a kind of library book with a red cover.
-b) The library has a sense of belonging of twenty tables.
+b) The library has a sense of belonging of twenty tables and chairs.
 c) My sense of belonging grew when the librarian learned to say my name.
-d) I lost my sense of belonging at the football pitch yesterday.
+d) I lost my sense of belonging at the football pitch near school yesterday.
 
 ---
 
 **19.** *(Alternativas — síntesis)* Which option correctly explains a shared idea in D and E and attributes each source?
 
-a) Both texts say that moving is always a happy experience for everyone.
-b) Text D says the library is the only place to belong; Text E disagrees.
+a) Both texts say that moving to a new place is a happy experience for most students, as long as they find a library.
+b) Text D says the library is the best place to belong; Text E disagrees, because the student still misses her grandmother's kitchen.
 c) Both texts claim that every student who moves misses their grandmother's kitchen, and that libraries are the only places where students can belong.
 d) Text D says moving can mean opportunities or loss; Text E shows both, as the student belongs at the library but misses her grandmother's kitchen.
 
@@ -234,9 +234,9 @@ d) Text D says moving can mean opportunities or loss; Text E shows both, as the 
 
 **20.** *(Alternativas — comprensión y precisión)* Which caption is faithful to Text E?
 
-a) The student hated the library until the end of the year.
+a) The student hated the library until the end of the school year, when she left.
 b) The librarian learned to pronounce the student's name, and later the student helped at the library desk.
-c) The student's grandmother worked as the school librarian.
+c) The student's grandmother worked as the school librarian and taught her to read.
 d) The student taught the librarian to cook, and she no longer misses anything at all about her old home.
 
 ---
@@ -253,35 +253,35 @@ d) Hey organisers!!! I want my audio in your show, so just put it in and text me
 **22.** *(Alternativas — perspectiva personal)* Which answer clearly explains whether an **activity**, rather than a place, could provide belonging, with an example linked to E?
 
 a) No: activities are boring, and places like a house are always better than activities, because they never change.
-b) I like libraries because they have many books and big windows.
+b) I like libraries because they have many books, big windows and comfortable chairs.
 c) Yes: helping at the library desk gave the student a role, so an activity like volunteering can create belonging too.
-d) No, because nobody can feel they belong anywhere after moving.
+d) No, because nobody can feel they belong anywhere after moving to a new city.
 
 ---
 
 **23.** *(Selección múltiple)* Which conclusion avoids generalising beyond the two sources?
 
 a) All students who move to a new city feel invisible for exactly one day and then belong.
-b) Every library in the world helps people feel at home.
-c) Moving always means losing your culture forever.
+b) Every library in the world helps people feel at home in a new country.
+c) Moving always means losing your culture and your language forever.
 d) In these texts, small acts of recognition helped at least one student feel she belonged.
 
 ---
 
 **24.** *(Alternativas — oración y perspectiva)* A contributor says, "The librarian welcomed me at the library." Which sentence uses the passive **and** a relative clause correctly?
 
-a) The librarian was welcomed me, who learned my name.
+a) The librarian was welcomed me, who learned to say my name.
 b) I was welcomed by the librarian, who learned to say my name.
-c) I welcomed by the librarian which learn my name.
-d) The librarian who welcomed was me at the library.
+c) I welcomed by the librarian which learn to say my name.
+d) The librarian who welcomed was me, at the library desk.
 
 ---
 
 **25.** *(Alternativas — reflexión de cierre)* Which reflection for "Voices of Home" introduces a place, explains its effect on identity, connects to BOTH D and E, and ends with a question?
 
-a) My place is a park. Parks are green. The end.
+a) My place is a park. Parks are green and quiet. I like them a lot. The end.
 b) My place is the bus terminal, because I arrived there. Buses are big and noisy, and the terminal has many shops and a big clock. I go there sometimes with my cousins on Saturdays in summer.
-c) Libraries are important for students because they have computers.
+c) Libraries are important for students because they have computers and books. Do you agree?
 d) My place is the community market, where a stallholder taught me local words. Like the student in E, I felt recognised, and, as D says, moving brought both gains and loss. Which place made you feel at home?
 
 ---
