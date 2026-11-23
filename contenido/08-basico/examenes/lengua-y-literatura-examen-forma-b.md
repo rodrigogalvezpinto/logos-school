@@ -42,9 +42,9 @@ relación con otras formas: segunda versión (Forma B), con preguntas propias, m
 **1. (Alternativas)** ¿Cuál es el conflicto central del fragmento?
 
 a) La tensión entre la imagen de "sabio" que el barrio construye de don Servando y la verdadera fuente, oculta, de su conocimiento
-b) La competencia entre don Servando y el profesor del liceo por ser reconocido como la persona más sabia del barrio
-c) La pelea de don Servando con su esposa, que quería deshacerse de los cuadernos que él guardaba en el kiosco
-d) La decisión del narrador de dejar de visitar el kiosco cuando descubre que don Servando le había mentido
+b) La competencia entre don Servando y el profesor del liceo por ser reconocido como la persona más sabia y respetada del barrio
+c) La pelea de don Servando con su esposa, que quería deshacerse de los cuadernos viejos que él guardaba con cuidado en el kiosco
+d) La decisión del narrador de dejar de visitar el kiosco cuando descubre que don Servando le había mentido durante años
 
 **2. (Alternativas)** ¿A qué **personaje tipo** corresponde don Servando, aunque el relato termine mostrando que la fuente de su saber no es la que todos suponían?
 
@@ -58,9 +58,9 @@ d) La madrastra
 **4. (Alternativas)** ¿Por qué el cuaderno amarrado con cordel puede considerarse un **símbolo** dentro del relato?
 
 a) Porque representa el esfuerzo de don Servando por preservar un conocimiento que no podía leer, y simboliza que la sabiduría puede construirse sin la lectura formal
-b) Porque es el objeto más valioso de la casa, que don Servando guardaba con cordel para que nadie lo robara del kiosco
+b) Porque es el objeto más valioso de la casa, que don Servando guardaba atado con cordel para que nadie lo robara del kiosco del barrio
 c) Porque contiene las instrucciones que don Servando seguía para atender el kiosco, y que el narrador debía aprender de memoria antes de reemplazarlo en el negocio familiar
-d) Porque el narrador lo pierde al final del relato y, al no poder recuperarlo, entiende que nunca conocerá la historia completa
+d) Porque el narrador lo pierde al final del relato y, al no poder recuperarlo, entiende que no conocerá la historia completa de don Servando
 
 **5. (Alternativas)** ¿Cómo evoluciona la comprensión del narrador sobre don Servando y qué recurso marca los saltos temporales?
 
@@ -87,9 +87,9 @@ d) Pasa de suponer que don Servando sabía porque leía mucho (asociando sabidur
 
 **6. (Alternativas)** ¿Qué efecto produce principalmente la repetición de la palabra "tejo" a lo largo del poema?
 
-a) Confunde al lector sobre el tema del poema, porque no deja claro si la hablante teje o descansa
+a) Confunde al lector sobre el tema del poema, porque no deja claro si la hablante teje o si descansa junto a su abuela
 b) Indica que el poema tiene errores de redacción que la autora no alcanzó a corregir antes de publicarlo
-c) No produce ningún efecto relevante: la repetición solo sirve para completar la cantidad de versos
+c) Produce un efecto menor: la repetición sirve sobre todo para completar la cantidad de versos y de sílabas del poema
 d) Produce un efecto de constancia e insistencia, como si la actividad de tejer fuera lo único capaz de sostener a la hablante
 
 **7. (Alternativas)** ¿Qué figura de lenguaje figurado se reconoce en "el frío que muerde los dedos cansados"?
@@ -101,17 +101,17 @@ d) Aliteración
 
 **8. (Alternativas)** ¿Qué idea transmite la comparación "tejo, tejo, tejo, como teje la araña / su casa de hilos"?
 
-a) Que la hablante le teme a las arañas que tejen sus casas en la esquina del alero de su casa
-b) Que la hablante vive en una casa de hilos, tan frágil como la tela que construye una araña
+a) Que la hablante le teme a las arañas que tejen sus telas en la esquina del alero de su casa en el campo
+b) Que la hablante vive en una casa hecha de hilos, tan frágil como la tela que construye una araña en el alero
 c) Que tejer es una actividad rápida y sencilla, que la hablante termina pronto y sin ningún esfuerzo
 d) Que tejer es para la hablante una labor constante, paciente y casi instintiva, sostenida pese al cansancio
 
 **9. (Alternativas)** ¿Qué efecto produce la repetición de estructura ("tejo el...", "tejo aunque...") y qué pasaría si "tejo" apareciera una sola vez?
 
 a) Produce un efecto de humor que aligera el tono del poema; sin la repetición, el texto sería más serio e insistente en el cansancio de la hablante
-b) No produce ningún efecto: la repetición solo alarga el poema, y sin ella el sentido y el ritmo de los versos quedarían exactamente iguales
+b) Produce un efecto menor: la repetición alarga el poema, y sin ella el sentido y el ritmo de los versos quedarían casi iguales para el lector
 c) Produce cadencia e insistencia, coherente con el título "Tejo, abuela, tejo"; sin la repetición, se perdería el efecto de constancia y la actividad parecería aislada
-d) Produce rima consonante entre todos los versos; sin la repetición, el poema perdería la rima, aunque mantendría la misma cadencia y el mismo tono
+d) Produce rima consonante entre los versos; sin la repetición, el poema perdería la rima, aunque mantendría la misma cadencia y el mismo tono
 
 ---
 
@@ -126,8 +126,8 @@ d) Produce rima consonante entre todos los versos; sin la repetición, el poema 
 **10. (Alternativas)** ¿Cuál es el dilema principal que enfrenta Tomás en el relato?
 
 a) Decidir si sigue camino al muelle junto a su padre o vuelve a buscar al perro de la vecina, arriesgando el último lugar disponible en el bote
-b) Elegir entre subir al bote solo, como le pedía su padre, o esperar en el muelle hasta que llegaran sus padres
-c) Decidir si le cuenta o no a doña Nelly que el volcán había entrado en erupción, para no asustarla antes de partir
+b) Elegir entre subir al bote solo, como le pedía su padre, o esperar en el muelle hasta que llegaran su madre y sus hermanos
+c) Decidir si le cuenta o no a doña Nelly que el volcán había entrado en erupción, para no asustarla antes de partir en el bote
 d) Elegir entre dos botes distintos para evacuar el pueblo: uno más rápido o uno más seguro, pero con menos espacio
 
 **11. (Verdadero o Falso)** "La erupción del volcán Chaitén mencionada en el relato es un hecho ficticio, inventado por el autor para ambientar la historia."
@@ -135,8 +135,8 @@ d) Elegir entre dos botes distintos para evacuar el pueblo: uno más rápido o u
 **12. (Alternativas — postura fundamentada)** Frente al dilema de Tomás, ¿qué respuesta es un posicionamiento fundamentado que considera el riesgo real?
 
 a) "Creo que acertó al cumplir su promesa a doña Nelly, aunque arriesgó perder el último bote durante la erupción"
-b) "Creo que acertó, porque siempre hay que hacer lo que uno siente, sin pensar en lo que pueda pasar"
-c) "No había ningún riesgo real en volver por el perro, así que la decisión de Tomás daba lo mismo"
+b) "Creo que acertó, porque hay que hacer lo que uno siente en el momento, sin pensar en lo que pueda pasar después"
+c) "No había un riesgo real en volver por el perro, así que la decisión de Tomás daba lo mismo para el relato"
 d) "Me gustan mucho los perros, y por eso el relato me pareció el más entretenido de toda la prueba"
 
 **13. (Alternativas)** ¿Qué interpretación de "Ceniza sobre el pueblo" integra mejor el dilema, el contexto histórico y la visión de mundo?
@@ -158,9 +158,9 @@ d) En el contexto real de la erupción del Chaitén (2008), el relato valora cum
 
 **14. (Alternativas)** ¿Cuál es la postura principal del autor o autora de la columna?
 
-a) La bicicleta es un medio de transporte demasiado peligroso para la ciudad y debería desincentivarse con más impuestos
-b) El Estado no tiene ningún rol en la seguridad vial: cada ciclista debe protegerse por su cuenta con casco y luces
-c) Los ciclistas son los únicos responsables de los accidentes que sufren, porque no respetan las normas del tránsito
+a) La bicicleta es un medio de transporte demasiado peligroso para la ciudad y debería desincentivarse con más impuestos a los ciclistas
+b) La seguridad vial depende de los ciclistas: cada uno debe protegerse por su cuenta con casco, chaleco reflectante y luces
+c) Los ciclistas son los principales responsables de los accidentes que sufren, porque no respetan las normas del tránsito
 d) El aumento de accidentes ciclistas se debe principalmente a una infraestructura vial insuficiente, y se necesita un plan real de movilidad segura
 
 **15. (Alternativas)** ¿Cuál de las siguientes oraciones del texto corresponde a un **hecho**, y no a una opinión?
