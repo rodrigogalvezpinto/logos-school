@@ -70,19 +70,19 @@ d) Que las estrellas giran alrededor de la Luna
 **Pregunta 3.** (1 punto)
 A Luis XIV de Francia se le atribuye la frase «El Estado soy yo». ¿Qué forma de gobierno refleja?
 
-a) Una democracia, en la que el pueblo elige a sus autoridades
+a) Una democracia, en la que el pueblo elige a sus autoridades cada año
 b) La monarquía absoluta, en la que el rey concentra todo el poder
-c) Una república, en la que el poder se divide en tres
-d) Un gobierno feudal, en el que el rey casi no tiene poder
+c) Una república, en la que el poder se divide en tres ramas distintas
+d) Un gobierno feudal, en el que los nobles tienen más poder que el rey
 
 ---
 
 **Pregunta 4.** (2 puntos)
 ¿Qué conjunto de elementos caracteriza al Estado moderno que se formó en Europa entre los siglos XV y XVII?
 
-a) Señores feudales con ejércitos propios y un rey sin funcionarios ni impuestos
+a) Señores feudales con ejércitos propios y un rey con pocos funcionarios y sin impuestos
 b) Ciudades independientes sin rey, cada una con sus propias leyes y monedas
-c) Un gobierno elegido por votación universal y una constitución escrita
+c) Un gobierno elegido por votación universal, con una constitución escrita y parlamento
 d) Un ejército permanente, funcionarios del rey, cobro de impuestos y fronteras definidas
 
 ---
@@ -102,10 +102,10 @@ d) Por la cantidad de bosques que conservaba
 **Pregunta 6.** (1 punto)
 ¿Qué buscaban los Estados mercantilistas al procurar una balanza comercial favorable?
 
-a) Importar más de lo que exportaban, para gastar su oro rápidamente
+a) Importar más de lo que exportaban, para gastar su oro en productos de lujo
 b) Dejar de comerciar con otros reinos para no perder sus monedas
 c) Exportar más de lo que importaban, para que entrara más metal precioso
-d) Repartir su oro en partes iguales entre todos los reinos de Europa
+d) Repartir su oro en partes iguales entre los reinos vecinos para evitar guerras
 
 ---
 
@@ -124,9 +124,9 @@ d) La manzana, la pera, la uva y el durazno
 **Pregunta 8.** (2 puntos)
 ¿Cómo cambió la llegada de los europeos a América su visión del mundo?
 
-a) No cambió nada, porque los europeos ya conocían América desde la Antigüedad
-b) Hizo que abandonaran por completo la navegación y el comercio con otros continentes
-c) Confirmó que la Tierra era plana y que no había tierras al oeste de Europa
+a) Cambió poco, porque los europeos ya conocían América por los viajes de los vikingos y los romanos
+b) Hizo que abandonaran la navegación por el Mediterráneo y el comercio con Asia y con África
+c) Confirmó que la Tierra era plana y que más allá del océano Atlántico no había otras tierras
 d) Amplió su conocimiento geográfico, obligó a corregir saberes antiguos y llevó a dibujar nuevos mapas
 
 ---
@@ -168,8 +168,8 @@ d) Libros impresos por esclavos traídos desde África
 **Pregunta 12.** (2 puntos)
 ¿Qué papel cumplieron los misioneros en la sociedad de frontera del Chile colonial?
 
-a) Eran los jefes del ejército español que dirigían los ataques en la frontera
-b) Se dedicaban solo a comerciar ganado y no tenían contacto con los mapuches
+a) Eran los jefes del ejército español que dirigían los ataques en la frontera del sur
+b) Se dedicaban sobre todo a comerciar ganado y tenían poco contacto con los mapuches
 c) Eran autoridades mapuches elegidas para negociar con el rey de España
 d) Buscaban evangelizar a los mapuches y a veces mediaron entre ellos y las autoridades
 
@@ -190,10 +190,10 @@ d) Nicolás Copérnico
 **Pregunta 14.** (1 punto)
 ¿Qué caracterizó al pensamiento de la Ilustración en el siglo XVIII?
 
-a) La obediencia a las tradiciones sin hacerse preguntas sobre ellas
-b) El rechazo a la ciencia y a la educación de las personas
+a) La obediencia a las tradiciones y a la Iglesia, sin hacerse preguntas sobre ellas
+b) El rechazo a la ciencia y a la educación de las personas más pobres
 c) La confianza en la razón para comprender el mundo y mejorar la sociedad
-d) La defensa del poder absoluto de los reyes por mandato divino
+d) La defensa del poder absoluto de los reyes por mandato de Dios
 
 ---
 
@@ -237,19 +237,19 @@ d) Porque la independencia de Chile ocurrió muchos años después que la de tod
 ¿Qué criterio define a una región político-administrativa, como la Región de Valparaíso?
 
 a) Que todo su territorio tenga el mismo clima y el mismo tipo de vegetación nativa
-b) Que todos sus habitantes trabajen en una misma actividad económica principal
+b) Que sus habitantes trabajen en una misma actividad económica principal, como la minería
 c) Una decisión del Estado para administrar el territorio, con límites y autoridades
-d) Que su territorio coincida exactamente con una sola cuenca hidrográfica
+d) Que su territorio coincida con una cuenca hidrográfica, desde la cordillera hasta el mar
 
 ---
 
 **Pregunta 19.** (2 puntos)
 ¿Por qué un mismo lugar de Chile puede pertenecer a distintos tipos de regiones al mismo tiempo?
 
-a) Porque los límites de todas las regiones cambian cada año según el clima del lugar
+a) Porque los límites de las regiones cambian cada cierto tiempo según el clima del lugar
 b) Porque cada tipo de región usa un criterio distinto: natural, económico o político
-c) Porque en Chile cada lugar pertenece solo a un tipo de región, sin ninguna excepción
-d) Porque las regiones se definen únicamente por la cantidad de habitantes que tienen
+c) Porque los habitantes eligen a qué tipo de región quieren pertenecer en cada elección
+d) Porque las regiones se definen por la cantidad de habitantes y cambian cuando esta crece
 
 ---
 
@@ -269,9 +269,9 @@ d) La concentración de población, servicios y decisiones en Santiago
 En algunas localidades de la Región de Aysén, viajar a un hospital de alta complejidad puede tomar muchas horas. ¿Qué problemática regional refleja esto?
 
 a) La baja conectividad por la distancia y un relieve difícil
-b) El exceso de carreteras y aeropuertos en la región
-c) La sobrepoblación de las ciudades de Aysén
-d) La falta de lluvias y de agua en la zona austral
+b) El exceso de carreteras y aeropuertos en la región austral
+c) La sobrepoblación de las ciudades de la Región de Aysén
+d) La falta de lluvias y de agua dulce en la zona austral
 
 ---
 
@@ -290,10 +290,10 @@ d) El número de habitantes y la superficie de cada territorio
 **Pregunta 23.** (2 puntos)
 La Región de Magallanes recibe miles de visitantes en el Parque Nacional Torres del Paine y tiene una larga tradición de ganadería ovina. ¿Qué afirmación sobre su desarrollo es correcta?
 
-a) No tiene ninguna actividad económica, porque su clima impide cualquier trabajo
+a) Tiene poca actividad económica, porque su clima frío impide trabajar gran parte del año
 b) El turismo y la ganadería son oportunidades, y el aislamiento es un desafío
-c) Su desarrollo depende solo de la minería del cobre, como ocurre en el norte
-d) El turismo daña siempre a la región, por lo que no aporta nada a su desarrollo
+c) Su desarrollo depende sobre todo de la minería del cobre, como ocurre en el norte
+d) El turismo daña a la región, por lo que conviene limitarlo y apostar por la industria
 
 ---
 
@@ -304,9 +304,9 @@ d) El turismo daña siempre a la región, por lo que no aporta nada a su desarro
 **Pregunta 24.** (1 punto)
 ¿Qué principio afirma el primer artículo de la Declaración de los Derechos del Hombre y del Ciudadano de 1789?
 
-a) Que el rey es dueño de todas las tierras y de las personas
-b) Que solo los nobles pueden votar y ocupar cargos públicos
-c) Que la religión del rey debe ser la de todos los habitantes
+a) Que el rey es dueño de las tierras del reino y de quienes viven en ellas
+b) Que los nobles y el clero tienen derecho a votar y a ocupar cargos
+c) Que la religión del rey debe ser la de los habitantes del reino
 d) Que los hombres nacen y permanecen libres e iguales en derechos
 
 ---
@@ -314,10 +314,10 @@ d) Que los hombres nacen y permanecen libres e iguales en derechos
 **Pregunta 25.** (3 puntos)
 ¿En qué se diferencia la Declaración de 1789 de la Declaración Universal de los Derechos Humanos de 1948?
 
-a) La de 1789 reconocía derechos a todas las personas del mundo; la de 1948 solo a quienes vivían en Francia
-b) Las dos son idénticas: la de 1948 solo copió el texto de 1789 sin cambiar ninguna palabra del original
+a) La de 1789 reconocía derechos a las personas de Europa; la de 1948, a quienes vivían en los países vencedores de la guerra
+b) Las dos dicen lo mismo: la de 1948 tradujo el texto de 1789 a otros idiomas para difundirlo en el mundo
 c) La de 1789 excluyó en la práctica a mujeres y esclavos; la de 1948 reconoce derechos a toda persona
-d) La de 1789 eliminó los derechos de las personas y la de 1948 se los devolvió solo a los reyes de Europa
+d) La de 1789 eliminó los derechos de los nobles y la de 1948 se los devolvió a las familias reales de Europa
 
 ---
 

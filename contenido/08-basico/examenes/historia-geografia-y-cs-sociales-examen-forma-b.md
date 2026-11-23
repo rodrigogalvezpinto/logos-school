@@ -89,8 +89,8 @@ d) La autonomía absoluta de las ciudades frente al rey y sus funcionarios
 
 a) La expansión unificó regiones bajo una misma administración (como la unión de Castilla y Aragón) y el monopolio comercial generó ingresos para financiar la burocracia y el ejército del rey
 b) Debilitaron al rey, porque los nuevos territorios y el comercio quedaron en manos de los señores feudales, que usaron esas riquezas para formar ejércitos propios y resistir la centralización
-c) Eliminaron la necesidad de cobrar impuestos, porque las ganancias del comercio internacional bastaban para cubrir todos los gastos, y por eso el rey pudo prescindir de funcionarios y ejércitos
-d) No tuvieron ninguna relación con el poder del rey: la expansión territorial la impulsaron las ciudades y el comercio lo controlaron mercaderes independientes, sin intervención de la Corona
+c) Redujeron la necesidad de cobrar impuestos, porque las ganancias del comercio internacional cubrían buena parte de los gastos, y por eso el rey pudo reducir sus funcionarios y sus ejércitos
+d) Tuvieron poca relación con el poder del rey: la expansión territorial la impulsaron las ciudades y el comercio lo controlaron mercaderes independientes, con escasa intervención de la Corona
 
 ---
 
@@ -112,9 +112,9 @@ d) El proteccionismo estatal
 americanas durante el mercantilismo?
 
 a) La restricción del comercio colonial a un único socio: la metrópoli
-b) La libertad de las colonias para comerciar con cualquier potencia extranjera
-c) La prohibición total de todo comercio en las colonias
-d) El reparto igualitario de las rutas comerciales entre todas las potencias europeas
+b) La libertad de las colonias para comerciar con otras potencias
+c) La prohibición del comercio entre las colonias y sus vecinas
+d) El reparto de las rutas comerciales entre las potencias europeas
 
 ---
 
@@ -137,9 +137,9 @@ d) Que los indígenas debían gobernar sin ninguna relación con la Corona espa�
 
 A partir del estímulo, ¿qué vínculo existe entre las Leyes Nuevas (1542) y el debate de Valladolid (1550-1551)?
 
-a) El debate de Valladolid ocurrió antes que las Leyes Nuevas y fue su causa directa: allí se acordó prohibir la encomienda, y las leyes de 1542 solo pusieron por escrito lo que se había resuelto en ese debate
+a) El debate de Valladolid ocurrió antes que las Leyes Nuevas y fue su causa directa: allí se acordó prohibir la encomienda, y las leyes de 1542 pusieron por escrito lo que se había resuelto en ese debate
 b) Las Leyes Nuevas declararon la "esclavitud natural" de los indígenas que defendía Sepúlveda, y el debate de Valladolid las confirmó, por lo que ambos expresan una postura común a favor de la conquista sin límites
-c) No tienen ninguna relación entre sí: el debate de Valladolid trató sobre la astronomía y el lugar de la Tierra en el universo, mientras que las Leyes Nuevas regularon el comercio entre España y sus colonias
+c) Tienen poca relación entre sí: el debate de Valladolid trató sobre la astronomía y el lugar de la Tierra en el universo, mientras que las Leyes Nuevas regularon el comercio entre España y sus colonias
 d) Ambos expresan una misma discusión dentro de España sobre la humanidad y el trato de los indígenas, impulsada por denuncias como las de Bartolomé de las Casas, con consecuencias legales concretas aunque de aplicación limitada
 
 ---
@@ -149,9 +149,9 @@ d) Ambos expresan una misma discusión dentro de España sobre la humanidad y el
 **Pregunta 9.** (1 punto)
 ¿Qué era la "encomienda" en la sociedad colonial americana?
 
-a) Un tributo que pagaban únicamente los peninsulares a la Corona a cambio del derecho a ocupar cargos públicos en América
-b) Un tribunal encargado exclusivamente de juzgar a los mestizos acusados de rebelarse contra las autoridades coloniales
-c) Un sistema de elecciones populares en el que indígenas y españoles elegían juntos a las autoridades de cada pueblo
+a) Un tributo que pagaban los peninsulares a la Corona a cambio del derecho a ocupar cargos públicos en las ciudades de América
+b) Un tribunal encargado de juzgar a los mestizos y a los criollos acusados de rebelarse contra las autoridades coloniales
+c) Un sistema de elecciones populares en el que indígenas y españoles elegían juntos a las autoridades de cada pueblo y de cada ciudad
 d) Una institución que obligaba a los indígenas a trabajar y tributar a un encomendero español a
    cambio de "protección" y evangelización
 
@@ -183,10 +183,10 @@ d) El mestizaje entre españoles, mapuches y mestizos en los fuertes
 **Pregunta 12.** (2 puntos)
 En el siglo XVII, en la zona del Biobío, españoles y mapuches intercambiaban ganado, sal y tejidos, convivían en fuertes y misiones y se mezclaban entre sí, a pesar de los conflictos. ¿Qué concepto describe esta realidad?
 
-a) Encomienda
-b) Cabildo
+a) Encomienda indígena
+b) Cabildo colonial
 c) Sociedad de frontera
-d) Virreinato
+d) Virreinato del Perú
 
 ---
 
@@ -264,8 +264,8 @@ y no por factores humanos?
 
 a) La región andina, definida por elementos culturales compartidos entre países
 b) La región de la Patagonia, definida por su clima frío y su geografía particular
-c) Una región definida por su lengua o religión compartida
-d) Una región definida únicamente por su historia común
+c) Una región definida por su lengua o por su religión compartida
+d) Una región definida por la historia común de sus habitantes
 
 ---
 
@@ -273,9 +273,9 @@ d) Una región definida únicamente por su historia común
 ¿Por qué los distintos tipos de región (geográfica, cultural, económica, político-administrativa) no siempre coinciden en sus límites?
 
 a) Porque cada tipo se define con criterios distintos; por ejemplo, la región andina (cultural) atraviesa varios países, mientras que las regiones administrativas chilenas solo tienen límites dentro del país
-b) Porque todos los tipos de región usan exactamente los mismos criterios, pero cada país los aplica de forma distinta, por lo que sus límites cambian según quién los dibuje en el mapa
-c) Porque las regiones no tienen límites definidos de ningún tipo: son solo nombres que se usan para ubicar lugares, y cualquier persona puede trazarlas según su preferencia
-d) Porque solo existen las regiones político-administrativas; las regiones geográficas, culturales y económicas son clasificaciones informales que no tienen ningún límite propio
+b) Porque los tipos de región usan los mismos criterios, pero cada país los aplica de forma distinta, por lo que sus límites cambian según quién los dibuje en el mapa oficial de cada gobierno
+c) Porque las regiones no tienen límites definidos: son nombres que se usan para ubicar lugares, y cada persona puede trazarlas según su preferencia o según su propia experiencia de viaje por el país
+d) Porque las regiones político-administrativas son las únicas oficiales; las geográficas, culturales y económicas son clasificaciones informales que no tienen límites propios en los mapas del país
 
 ---
 
@@ -288,7 +288,7 @@ joven que migra hacia otras zonas del país?
 a) Un rejuvenecimiento de la población y una mayor diversificación de los empleos disponibles
 b) Escasez de mano de obra joven y mayor demanda de servicios orientados a la población adulta
    mayor
-c) Ningún efecto relevante en el mercado laboral, porque las empresas reemplazan a los jóvenes con facilidad
+c) Un efecto menor en el mercado laboral, porque las empresas reemplazan a los trabajadores jóvenes con facilidad
 d) Una disminución automática de la demanda de servicios de salud y de cuidado para la población
 
 ---
@@ -297,10 +297,10 @@ d) Una disminución automática de la demanda de servicios de salud y de cuidado
 ¿Cómo puede afectar el aislamiento territorial de una región a sus habitantes en situaciones de
 urgencia médica?
 
-a) No genera ninguna dificultad, pues la salud no depende de la conectividad
+a) Genera pocas dificultades, porque la salud depende más de los hábitos que de la conectividad
 b) Puede dificultar seriamente el acceso oportuno a atención médica especializada
-c) Solo afecta a la población de menor edad
-d) Mejora el acceso a servicios de salud especializados
+c) Afecta sobre todo a la población de menor edad de la región
+d) Mejora el acceso a servicios de salud especializados en la zona
 
 ---
 
@@ -311,7 +311,7 @@ d) Mejora el acceso a servicios de salud especializados
 a) La ventaja absoluta: produce absolutamente todo más barato que las demás regiones, por eso no necesita cultivar alimentos
 b) La ventaja comparativa: puede producir cobre de forma relativamente más eficiente que otras regiones, gracias a sus condiciones naturales
 c) La autosuficiencia: la región no comercia con otras regiones ni países, porque produce todo lo que su población necesita
-d) La dependencia del turismo: sus condiciones naturales solo permiten recibir visitantes, y el cobre es una actividad secundaria
+d) La dependencia del turismo: sus condiciones naturales permiten sobre todo recibir visitantes, y el cobre es una actividad secundaria
 
 ---
 
@@ -348,10 +348,10 @@ d) En los señores feudales
 
 A partir del estímulo, ¿con qué idea ilustrada se vincula este principio, y qué limitación tuvo en la práctica?
 
-a) Con el derecho divino de los reyes: las leyes provienen de la voluntad del monarca; y en la práctica no tuvo ninguna limitación, porque se aplicó por igual a todas las personas
+a) Con el derecho divino de los reyes: las leyes provienen de la voluntad del monarca; y en la práctica se aplicó por igual a las personas, sin limitaciones importantes
 b) Con la soberanía popular (Rousseau): las leyes deben emanar del pueblo; pero en la práctica no otorgó los mismos derechos políticos a las mujeres ni a otros grupos
-c) Con el mercantilismo: las leyes deben proteger el comercio y la riqueza del Estado; y en la práctica se aplicó por igual a todas las personas, incluidas las mujeres
-d) Con la Contrarreforma: las leyes deben ajustarse a la doctrina de la Iglesia; y en la práctica excluyó solo a los reyes y a la nobleza de los derechos políticos
+c) Con el mercantilismo: las leyes deben proteger el comercio y la riqueza del Estado; y en la práctica se aplicó por igual a las personas, incluidas las mujeres
+d) Con la Contrarreforma: las leyes deben ajustarse a la doctrina de la Iglesia; y en la práctica excluyó a los reyes y a la nobleza de los derechos políticos
 
 ---
 
