@@ -42,9 +42,9 @@ ultima_actualizacion: 2026-11-02
 
 **1. (Alternativas)** ¿Qué contexto de producción histórico explica el tratamiento del trabajo en el Texto 1?
 
-a) La pandemia de 2020 y el auge del trabajo a domicilio en las ciudades
-b) La Reforma Agraria de la década de 1960 y la entrega de tierras a campesinos
-c) La industrialización europea del siglo XVIII y el trabajo infantil en las fábricas
+a) La pandemia de 2020 y el auge del trabajo a domicilio y de las aplicaciones en las ciudades
+b) La Reforma Agraria de la década de 1960 y la entrega de tierras a los campesinos del valle central
+c) La industrialización europea del siglo XVIII y el trabajo infantil en las fábricas textiles
 d) La crisis del salitre y el sistema de pulperías del norte de Chile a comienzos del siglo XX
 
 **2. (Alternativas)** ¿Desde qué perspectiva se narra principalmente el trabajo forzado en el Texto 1?
@@ -72,17 +72,17 @@ d) La ficha simboliza la riqueza y libertad del trabajador, que podía gastarla 
 
 **6. (Alternativas — aplicación)** ¿Qué tipo de control enfrenta cada personaje?
 
-a) Ambos enfrentan solo un control automatizado: en el Texto 1, la máquina que registra las horas en la oficina salitrera; en el Texto 2, el algoritmo de la aplicación, que decide los pedidos y las calificaciones
-b) Texto 1: un control difuso y automatizado (un sistema de registro que nadie maneja directamente); Texto 2: un control visible y humano (un jefe que supervisa a Camila en persona y le asigna los pedidos cada día)
-c) Ninguno de los dos personajes enfrenta control: el abuelo elige libremente dónde comprar con sus fichas y Camila decide todos sus horarios y pedidos, como ella misma afirma al pensar que es su "propia jefa"
+a) Ambos enfrentan un control automatizado: en el Texto 1, la máquina que registra las horas de trabajo en la oficina salitrera; en el Texto 2, el algoritmo de la aplicación, que decide los pedidos, las calificaciones y el ranking de Camila
+b) Texto 1: un control difuso y automatizado (un sistema de registro que nadie maneja directamente); Texto 2: un control visible y humano (un jefe que supervisa a Camila en persona y le asigna los pedidos cada día en la ciudad)
+c) Los dos personajes eligen con libertad: el abuelo decide dónde comprar con sus fichas y Camila decide sus horarios y sus pedidos, como ella misma afirma al pensar que es su "propia jefa" dentro de la aplicación de reparto
 d) Texto 1: un control visible y humano (el dueño de la oficina salitrera y la pulpería: "no había otro trabajo en cien kilómetros a la redonda"); Texto 2: un control difuso y automatizado (el algoritmo y las calificaciones: "la app decide casi todo lo demás")
 
 **7. (Alternativas)** ¿Qué efecto produce que el Texto 2 esté narrado en tercera persona centrada en la experiencia interior de Camila, en vez de en primera persona como el Texto 1 (a través del relato heredado de la abuela)?
 
-a) Impide conocer lo que piensa Camila y la presenta solo desde fuera, como una repartidora más; en cambio, el Texto 1 permite conocer en detalle los pensamientos del abuelo, que narra en primera persona y en presente
+a) Impide conocer lo que piensa Camila y la presenta desde fuera, como una repartidora más; en cambio, el Texto 1 permite conocer en detalle los pensamientos del abuelo, que narra en primera persona y en presente desde la pampa
 b) Permite contrastar lo que Camila cree (controlar su trabajo) con lo que ocurre (el control del algoritmo), generando ironía; el Texto 1 transmite la experiencia como memoria familiar heredada, con autoridad emocional de testimonio
-c) Hace que ambos textos tengan exactamente el mismo efecto: en los dos casos el lector conoce los hechos desde la mirada directa de quien trabaja, sin ninguna distancia irónica entre lo que creen y lo que ocurre
-d) Convierte el Texto 2 en una noticia objetiva sobre las aplicaciones de reparto, mientras el Texto 1 se mantiene como un relato literario contado por un narrador que inventa los hechos
+c) Hace que ambos textos tengan el mismo efecto: en los dos casos el lector conoce los hechos desde la mirada directa de quien trabaja, sin una distancia irónica entre lo que creen los personajes y lo que ocurre
+d) Convierte el Texto 2 en una noticia objetiva sobre las aplicaciones de reparto, mientras el Texto 1 se mantiene como un relato literario contado por un narrador que inventa los hechos que relata sobre la pampa
 
 **8. (Varias correctas)** Considerando los contextos hipotéticos de producción y las dos audiencias descritas al inicio, ¿qué afirmaciones son pertinentes y no universalizan reacciones? Marca **todas** las correctas.
 
@@ -110,8 +110,8 @@ d) Argumentar que restringir el uso del celular en clases mejora la concentraci�
 
 **10. (Alternativas)** ¿Qué afirmación del texto ofrece nombres institucionales como pistas para intentar contrastarla, sin que esos nombres basten para verificarla?
 
-a) Que "cuarenta años de cambio tecnológico" alteraron la forma de relacionarse con la atención
-b) Que oponerse a la restricción equivale a priorizar la comodidad por sobre el aprendizaje del curso
+a) Que "cuarenta años de cambio tecnológico" alteraron la forma en que los estudiantes se relacionan con la atención y la lectura en las salas de clases
+b) Que oponerse a la restricción equivale a priorizar la comodidad individual por sobre el aprendizaje del curso completo
 c) Que un estudio de la Universidad de Chile, citado por el Mineduc, registró una mejora perceptible en la concentración reportada por los profesores
 d) Que algunos apoderados insisten en que la medida es "excesiva" y que sus hijos "necesitan estar disponibles" durante toda la jornada escolar
 
@@ -126,22 +126,22 @@ d) Voz crítica frente al argumento de que "antes no había celulares y también
 
 **13. (Alternativas)** ¿Qué rol asume el enunciador de la columna frente a su audiencia, y qué lo sostiene?
 
-a) Mediador neutral que expone por igual las posturas a favor y en contra de la restricción, y deja que el lector decida sin orientar su opinión ni atribuir motivaciones a nadie
-b) Vocero de los apoderados que se oponen a la medida; presenta sus argumentos con detalle y critica al colegio por imponer una restricción sin consultar a las familias del curso
+a) Mediador neutral que expone por igual las posturas a favor y en contra de la restricción, y deja que el lector decida sin orientar su opinión ni atribuir motivaciones a quienes piensan distinto
+b) Vocero de los apoderados que se oponen a la medida; presenta sus argumentos con detalle y critica al colegio por imponer una restricción sin consultar antes a las familias del curso ni a los estudiantes
 c) Defensor del derecho colectivo del curso a aprender sin distracciones; no presenta en igual medida los argumentos contrarios y su cierre atribuye a quien se opone una motivación (la comodidad) sin dejarla argumentar
-d) Científico que solo informa los resultados de un estudio sobre la concentración, sin tomar postura sobre la restricción ni dirigirse a quienes podrían estar en desacuerdo
+d) Científico que informa los resultados de un estudio sobre la concentración, sin tomar postura sobre la restricción ni dirigirse a quienes podrían estar en desacuerdo con ella o con el colegio
 
 **14. (Alternativas — aplicación)** ¿Qué visión de fondo sostiene la columna y qué implica reconocerla?
 
 a) Prioriza el bien colectivo del aprendizaje en el aula sobre la conveniencia individual de estar siempre disponible; reconocerla no invalida el argumento, aunque el estudio ficticio no aporta evidencia externa comprobada y requiere contraste
-b) Prioriza la comodidad individual de estar siempre conectado sobre el aprendizaje del curso; reconocer esa ideología prueba que el argumento es falso, porque un texto con una visión de fondo no puede usar datos verdaderos
-c) No tiene ninguna visión de fondo: la columna se limita a informar el resultado de un estudio verificado, de modo que no hay valores en juego que el lector deba reconocer ni evaluar
-d) Prioriza el bien colectivo del aprendizaje; reconocer esa ideología obliga a aceptar todas sus conclusiones, porque si los valores de partida son buenos, el argumento queda automáticamente demostrado
+b) Prioriza la comodidad individual de estar conectado sobre el aprendizaje del curso; reconocer esa ideología prueba que el argumento es falso, porque un texto con una visión de fondo no puede usar datos verdaderos
+c) Carece de visión de fondo: la columna se limita a informar el resultado de un estudio verificado, de modo que no hay valores en juego que el lector deba reconocer ni evaluar antes de aceptarla
+d) Prioriza el bien colectivo del aprendizaje; reconocer esa ideología obliga a aceptar sus conclusiones, porque si los valores de partida son buenos, el argumento queda demostrado por sí mismo ante el lector
 
 **15. (Alternativas)** ¿Qué par ejemplifica correctamente la intención explícita y la implícita de la columna sobre el celular en el aula?
 
 a) Explícita: desacreditar a los apoderados que se oponen, calificándolos de cómodos. Implícita: informar de manera neutral sobre la historia del celular en las salas de clases chilenas
-b) Ambas intenciones son la misma: pedir que se valore la restricción del celular. El texto no persigue ningún propósito que no declare abiertamente en sus oraciones
+b) Ambas intenciones son la misma: pedir que se valore la restricción del celular. El texto declara abiertamente en sus oraciones cada propósito que persigue con sus lectores
 c) Explícita: recomendar a los estudiantes qué modelos de celular comprar. Implícita: proponer que se eliminen los recreos para que los estudiantes no usen el celular en el colegio
 d) Explícita: pedir que se valore la restricción del celular por su efecto en la concentración. Implícita: desacreditar de antemano a quien se opone, reduciendo el desacuerdo a "priorizar la comodidad"
 
@@ -164,17 +164,17 @@ d) Mencionar un estudio no acredita su existencia ni sus resultados: faltan tít
 
 **17. (Alternativas)** ¿Cuál es la principal diferencia de propósito entre la versión (a) y la versión (b)?
 
-a) Ambas buscan exactamente lo mismo, informar sobre los dos textos; solo cambia la duración, porque el video debe ser más corto
+a) Ambas buscan lo mismo, informar sobre los dos textos; cambia la duración, porque el video debe ser más corto que el ensayo escrito
 b) La versión (a) busca argumentar una comparación fundamentada; la versión (b) busca despertar interés en un formato breve y audiovisual
 c) La versión (a) es un guion audiovisual para compañeros y la versión (b) es un ensayo escrito para un profesor o profesora
-d) La versión (b) no tiene ningún propósito comunicativo: es solo un resumen de la versión (a) con frases más cortas
+d) La versión (b) busca resumir la versión (a) con frases más cortas, sin agregar un propósito comunicativo distinto al del ensayo
 
 **18. (Alternativas)** ¿Por qué usar un ritmo de oraciones muy breves y directas en el guion del video corto no representa, por sí solo, un error de adecuación?
 
-a) Porque las oraciones breves siempre deben evitarse en cualquier texto, aunque en un video corto se toleran si el tema es entretenido
+a) Porque las oraciones breves deben evitarse en los textos formales, aunque en un video corto se toleran si el tema es entretenido
 b) Porque en un guion de video corto dirigido a compañeros de curso, un ritmo breve y directo es una convención de género válida y esperada
 c) Porque las oraciones breves reemplazan la necesidad de un contenido interpretativo sólido, ya que en un video lo que importa es el ritmo
-d) Porque los videos cortos no tienen convenciones propias de género, así que cualquier forma de escribir el guion resulta igualmente adecuada
+d) Porque los videos cortos no tienen convenciones propias de género, así que las distintas formas de escribir el guion resultan igual de adecuadas
 
 **19. (Verdadero o Falso)** "En el guion de la versión (b), la oración «Las apps tienen algoritmo» ayuda a avanzar en la comparación entre los dos personajes."
 
@@ -182,10 +182,10 @@ d) Porque los videos cortos no tienen convenciones propias de género, así que 
 
 **21. (Alternativas)** ¿Qué función cumplen los conectores "mientras que", "en cambio" y "por lo tanto" en el párrafo comparativo de la versión (a)?
 
-a) Los tres introducen ejemplos de cada texto: "mientras que" del Texto 1, "en cambio" del Texto 2 y "por lo tanto" de ambos a la vez
+a) Los tres introducen ejemplos de cada texto: "mientras que" del Texto 1, "en cambio" del Texto 2 y "por lo tanto" de ambos textos a la vez, dentro del mismo párrafo comparativo
 b) "Mientras que" contrasta el tratamiento del trabajo dentro de una oración; "en cambio" contrasta el efecto estético de cada texto; "por lo tanto" introduce la conclusión de la comparación
-c) Los tres expresan causa: explican por qué el abuelo y Camila trabajan en condiciones distintas, y por qué los textos se escribieron en épocas diferentes
-d) "Por lo tanto" contrasta el tratamiento del trabajo en cada texto; "mientras que" introduce la conclusión final; "en cambio" agrega un ejemplo del Texto 1
+c) Los tres expresan causa: explican por qué el abuelo y Camila trabajan en condiciones distintas, y por qué los dos textos se escribieron en épocas tan diferentes de la historia de Chile
+d) "Por lo tanto" contrasta el tratamiento del trabajo en cada texto; "mientras que" introduce la conclusión final del párrafo; "en cambio" agrega un ejemplo del Texto 1 sobre la pampa
 
 **22. (Alternativas — aplicación)** ¿Qué reescritura mejora la cohesión de "Una es del norte, salitre. Camila reparte en bici." con un conector adecuado?
 
@@ -197,15 +197,15 @@ d) "Una historia ocurre en el norte, en tiempos del salitre, así que la otra si
 **23. (Alternativas)** Usando las versiones (a) y (b) como ejemplo, ¿por qué adecuar un texto a otra audiencia (de un ensayo comparativo a un guion de video corto) no significa necesariamente perder profundidad?
 
 a) Cambiar registro y soporte no obliga a perder profundidad: un video puede contrastar fichas y algoritmo con lenguaje directo y una interpretación sustentada; la versión (b), en cambio, es un borrador que aún debe conectar sus ideas
-b) Porque la versión (b) ya es un modelo logrado, equivalente a la (a): con frases breves comunica la misma comparación interpretativa, y no necesita ninguna revisión para cumplir su propósito ante sus compañeros
-c) Porque adecuar un texto consiste en copiar el mismo contenido en otro formato: basta con dividir el ensayo en frases cortas y leerlas frente a la cámara para que el video mantenga toda su profundidad
-d) Sí significa perderla siempre: todo video corto es superficial por naturaleza, de modo que la única forma de conservar la profundidad interpretativa es mantener el formato de ensayo escrito
+b) Porque la versión (b) ya es un modelo logrado, equivalente a la (a): con frases breves comunica la misma comparación interpretativa, y no necesita revisiones para cumplir su propósito ante sus compañeros del curso
+c) Porque adecuar un texto consiste en copiar el mismo contenido en otro formato: basta con dividir el ensayo en frases cortas y leerlas frente a la cámara para que el video mantenga toda su profundidad ante los compañeros
+d) Sí significa perderla: un video corto tiende a ser superficial por su formato, de modo que la manera de conservar la profundidad interpretativa es mantener el formato del ensayo escrito
 
 **24. (Alternativas — planificación)** ¿Qué planificación de un texto que evalúe críticamente la columna sobre el celular es coherente entre propósito, género, audiencia y convención?
 
 a) Propósito: entretener a la audiencia con una historia inventada sobre el celular. Género: novela de 300 páginas. Audiencia: niños de 4 años. Convención: tecnicismos económicos y citas académicas
-b) Propósito: evaluar si los argumentos de la columna están respaldados. Género: soneto con rima consonante. Audiencia: ninguna en particular. Convención: vocabulario arcaico propio de la poesía clásica
-c) No hace falta planificar: basta con empezar a escribir
+b) Propósito: evaluar si los argumentos de la columna están respaldados. Género: soneto con rima consonante. Audiencia: lectores de poesía clásica. Convención: vocabulario arcaico propio de la poesía del Siglo de Oro
+c) No hace falta planificar: basta con empezar a escribir el comentario y corregirlo al final, cuando ya esté terminado
 d) Propósito: evaluar si los argumentos están respaldados en evidencia. Género: comentario audiovisual breve para redes sociales. Audiencia: otros estudiantes y sus familias. Convención: lenguaje directo, sin tecnicismos
 
 **25. (Varias correctas — cierre del ciclo)** Al reflexionar sobre cuál de los tres grandes temas del año (comparar obras, evaluar críticamente discursos, producir textos propios) resultó más desafiante, ¿qué respuestas están fundamentadas con un ejemplo de esta prueba? Marca **todas** las correctas.

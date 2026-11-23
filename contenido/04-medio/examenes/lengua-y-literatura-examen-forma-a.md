@@ -42,17 +42,17 @@ ultima_actualizacion: 2026-11-17
 
 **1. (Alternativas)** ¿Qué contexto histórico de producción y de ambientación ayuda a comprender la experiencia narrada en el Texto 1?
 
-a) La llegada de inmigrantes europeos a los puertos del país a fines del siglo XIX
+a) La llegada de inmigrantes europeos a los puertos del sur del país a fines del siglo XIX
 b) El terremoto de 1960 y la migración hacia Santiago, con familias que levantaron tomas en la periferia
-c) La Guerra del Pacífico y el traslado de soldados desde el norte hacia la capital
-d) La crisis del salitre y el cierre de las oficinas de la pampa en la década de 1930
+c) La Guerra del Pacífico y el regreso de los soldados desde el norte hacia la capital del país
+d) La crisis del salitre y el cierre de las oficinas de la pampa en la década de 1930, en el norte
 
 ---
 
 **2. (Alternativas)** ¿Desde qué perspectiva se narra principalmente la llegada a Santiago en el Texto 1?
 
 a) Desde la mirada de un funcionario que recibe a los damnificados en la estación
-b) Desde un narrador omnisciente que conoce los pensamientos de todas las familias
+b) Desde un narrador omnisciente que conoce los pensamientos de cada una de las familias
 c) Desde la voz de un hijo o una hija que recuerda la experiencia de su madre
 d) Desde la perspectiva de los vecinos de la ciudad que observan la toma
 
@@ -84,17 +84,17 @@ d) Condensa la pobreza de quienes lo perdieron todo y llegaron solo con lo esenc
 
 a) Texto 1: aprender un idioma nuevo en la ciudad. Texto 2: conseguir una vivienda en una toma de terreno
 b) Texto 1: la falta de vivienda y de recibimiento. Texto 2: la pertenencia y la identidad cultural
-c) Texto 1: un conflicto con su hija mayor. Texto 2: un conflicto con sus profesores del liceo
-d) Ambos textos: la falta de trabajo en el puerto de Antofagasta y en la capital
+c) Texto 1: un conflicto con su hija mayor. Texto 2: un conflicto con sus profesores del liceo nuevo
+d) Ambos textos: la falta de trabajo estable en el puerto de Antofagasta y en la capital
 
 ---
 
 **7. (Alternativas)** ¿Qué efecto produce que el Texto 2 esté narrado en tercera persona, pero centrado en lo que piensa Valentina?
 
 a) Permite acceder a su conflicto interior y, a la vez, mostrarlo con cierta distancia
-b) Impide conocer lo que siente Valentina, porque solo describe lo que hace
-c) Convierte el relato en una noticia objetiva sobre la migración en Chile
-d) Hace que el narrador critique abiertamente a los compañeros de Valentina
+b) Impide conocer lo que siente Valentina, porque describe sus acciones desde afuera
+c) Convierte el relato en una noticia objetiva sobre la migración reciente en Chile
+d) Hace que el narrador critique abiertamente a los compañeros de curso de Valentina
 
 ---
 
@@ -119,10 +119,10 @@ d) La producción hipotética contrapone la memoria de 1975 con un debate sobre 
 
 **9. (Alternativas)** ¿Cuál es la intención explícita de la columna?
 
-a) Informar sin opinar sobre las ausencias de los viernes en los liceos del país
+a) Informar sin opinar sobre las ausencias de los viernes en los liceos de todo el país
 b) Criticar a los estudiantes que faltan los viernes por motivos personales
 c) Proponer que los liceos prueben un viernes de talleres prácticos durante un semestre
-d) Pedir al Ministerio que elimine las clases del viernes en todos los liceos
+d) Pedir al Ministerio que elimine las clases del viernes en los liceos públicos del país
 
 ---
 
@@ -139,8 +139,8 @@ d) «Un estudio de un centro de investigación… habría encontrado que… redu
 
 a) El de un investigador que presenta un estudio propio con su metodología completa
 b) El de un director con experiencia que habla desde su trayectoria en un liceo
-c) El de alguien que propone una medida concreta para los liceos
-d) El de un testigo que cuenta lo que ocurrió en su propio liceo
+c) El de alguien que propone una medida para mejorar la asistencia en los liceos del país
+d) El de un testigo que cuenta lo que ocurrió en el liceo donde trabaja como director
 
 ---
 
@@ -152,17 +152,17 @@ d) El de un testigo que cuenta lo que ocurrió en su propio liceo
 
 a) El de un estudiante que habla desde su propia experiencia en clases los viernes
 b) El de un directivo con experiencia, que apoya su propuesta en su trayectoria y en un dato citado
-c) El de un periodista neutral que solo informa, sin opinar, los dos lados del debate
-d) El de un político que promete una ley nueva para todos los liceos del país
+c) El de un periodista neutral que informa los dos lados del debate sin tomar partido por uno de ellos
+d) El de un político que promete presentar una ley nueva para los liceos públicos del país
 
 ---
 
 **14. (Alternativas)** ¿Qué visión de fondo sostiene la columna y qué permite reconocerla?
 
-a) Que los estudiantes deberían ir menos días al liceo; permite saber que el autor solo quiere más días de vacaciones
-b) Que las clases tradicionales son inútiles; permite concluir que deben eliminarse por completo en todos los niveles
+a) Que los estudiantes deberían ir menos días al liceo; permite saber que el autor quiere aumentar los días de vacaciones
+b) Que las clases tradicionales son inútiles; permite concluir que deben reemplazarse por talleres en los distintos niveles
 c) Que el aprendizaje práctico y la motivación importan tanto como las horas en sala; permite evaluar si compartimos ese valor
-d) Que los talleres solo sirven para entretener a los estudiantes; permite descartar la propuesta sin leerla con atención
+d) Que los talleres sirven sobre todo para entretener a los estudiantes; permite descartar la propuesta sin leerla con atención
 
 ---
 
@@ -198,17 +198,17 @@ d) La experiencia del autor es pertinente, pero un mes de ensayo en un solo lice
 
 a) La versión (a) argumenta una comparación fundamentada; la (b) busca despertar interés en un formato oral y breve
 b) La versión (a) busca entretener con humor; la (b) busca informar con datos estadísticos sobre la migración
-c) Las dos versiones tienen exactamente el mismo propósito y la misma audiencia
-d) La versión (a) es un resumen de la noticia; la (b) es una entrevista a Valentina
+c) Las dos versiones tienen el mismo propósito y la misma audiencia, pero la (b) usa un vocabulario más simple
+d) La versión (a) es un resumen de la noticia sobre migración; la (b) es una entrevista breve a Valentina
 
 ---
 
 **18. (Alternativas)** ¿Por qué un tono cercano y oraciones breves en el guion de un pódcast para compañeros no es, por sí solo, un error?
 
-a) Porque en todos los géneros, incluido el ensayo, se debe escribir de la manera más informal posible
+a) Porque en los distintos géneros, incluido el ensayo, conviene escribir de la manera más informal y cercana posible
 b) Porque en un pódcast dirigido a estudiantes, un tono cercano y oraciones breves son convenciones válidas del género
-c) Porque la audiencia de 4° medio no es capaz de entender oraciones largas ni vocabulario formal
-d) Porque en un pódcast no importa la cohesión entre las ideas que se presentan a quienes escuchan
+c) Porque la audiencia de 4° medio no es capaz de entender oraciones largas ni un vocabulario formal en un pódcast
+d) Porque en un pódcast no importa la cohesión entre las ideas, mientras el tono sea cercano para quienes escuchan
 
 ---
 
@@ -222,10 +222,10 @@ d) Porque en un pódcast no importa la cohesión entre las ideas que se presenta
 
 **21. (Alternativas)** ¿Qué función cumplen los conectores «mientras que», «sin embargo» y «en consecuencia» en la versión (a)?
 
-a) Los tres introducen ejemplos concretos y citas textuales tomados de los dos textos comparados
-b) Los tres repiten la misma idea con palabras distintas, sin ninguna relación lógica entre las oraciones
+a) Los tres introducen ejemplos concretos y citas textuales tomados de los dos textos comparados en la versión (a)
+b) Los tres repiten la misma idea con palabras distintas para darle más énfasis al párrafo, sin agregar una relación lógica
 c) «Mientras que» contrasta los dos textos, «sin embargo» introduce un punto común y «en consecuencia» presenta la conclusión
-d) Los tres indican el orden temporal en que ocurrieron los hechos narrados en ambos relatos
+d) Los tres indican el orden temporal en que ocurrieron los hechos narrados en ambos relatos, del más antiguo al más reciente
 
 ---
 
@@ -241,18 +241,18 @@ d) «Una historia comienza con una familia que huye del terremoto del sur, mient
 **23. (Alternativas)** ¿Por qué adecuar un ensayo comparativo a un guion de pódcast no implica necesariamente perder rigor?
 
 a) Porque se pueden mantener la comparación central y la evidencia de los textos, cambiando el registro y la extensión
-b) Porque el rigor depende solo de usar muchas palabras técnicas y oraciones muy largas y complejas
-c) Porque los pódcast nunca necesitan evidencia de los textos, solo opiniones personales del locutor
-d) Porque adecuar significa leer en voz alta el mismo párrafo sin cambiar ninguna palabra
+b) Porque el rigor depende de usar palabras técnicas y oraciones largas, que también pueden leerse en voz alta
+c) Porque los pódcast se basan en las opiniones personales del locutor, y la evidencia de los textos puede quedar fuera
+d) Porque adecuar significa leer en voz alta el mismo párrafo del ensayo, con una música de fondo que lo acompañe
 
 ---
 
 **24. (Alternativas)** ¿Qué planificación de un texto que evalúe críticamente la columna «Un viernes distinto» es coherente?
 
-a) Propósito: resumir la columna en pocas líneas. Criterios: ninguno en particular. Audiencia: no definida todavía
+a) Propósito: resumir la columna en pocas líneas. Criterios: extensión y ortografía del texto. Audiencia: el autor de la columna
 b) Propósito: evaluar la columna. Criterios: veracidad del dato, rol del autor y visión de fondo. Audiencia: estudiantes de 4° medio
 c) Propósito: vender talleres a otros liceos. Criterios: precio y horario de cada taller. Audiencia: empresas de la zona
-d) Propósito: opinar sin leer la columna. Criterios: si me cae bien el autor. Audiencia: mi familia y mis amigos
+d) Propósito: opinar sin leer la columna completa. Criterios: si me cae bien el autor. Audiencia: mi familia y mis amigos del barrio
 
 ---
 
