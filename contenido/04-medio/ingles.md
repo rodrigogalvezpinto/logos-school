@@ -126,10 +126,10 @@ forma ordenada.
 1. *(Alternativas)* Read: *"In this dystopian novel, the government controls
    all information citizens can access, and independent thought is
    punished."* ¿Cuál es el elemento principal del tema tratado?
-   a) A government that promotes free speech and protects independent thinkers.
+   a) A government that promotes free speech and protects independent thinkers and artists.
    b) A story about space exploration and the discovery of new planets by citizens.
    c) A society where the government controls information and punishes independent thought.
-   d) A romantic comedy set in the future, where citizens look for love online.
+   d) A romantic comedy set in the future, where young citizens look for love on the internet.
    **Respuesta correcta:** c.
    **Retroalimentación:** El elemento central es el control gubernamental de
    la información y la represión del pensamiento independiente — rasgos
@@ -216,9 +216,9 @@ forma ordenada.
     **Retroalimentación:** El Texto A, de una revista científica, usa vocabulario técnico para lectores especializados; el Texto B, un blog para adolescentes, explica con comparaciones simples y humor, en un tono informal.
 
 11. *(Alternativas — Comprensión — desafiante)* Read: *"This article was written for a general audience with no scientific background. It uses simple analogies, such as comparing neural networks to how the human brain learns, to explain artificial intelligence."* Why does the author use simple analogies instead of technical language?
-    a) Because the author does not know technical words and prefers to write simple texts
-    b) Because analogies make the text longer and more entertaining for any kind of reader
-    c) Because the text is written for scientists who already understand neural networks
+    a) Because the author does not know technical words and prefers to write simple texts for kids
+    b) Because analogies make the text longer and more entertaining for any kind of reader online
+    c) Because the text is written for scientists who already understand how neural networks work
     d) Because the audience has no scientific background, so analogies make the topic easier to understand
     **Respuesta correcta:** d) Because the audience has no scientific background, so analogies make the topic easier to understand.
     **Retroalimentación:** Se conecta una decisión del autor (usar analogías simples) con el propósito y la audiencia del texto.
