@@ -1569,10 +1569,10 @@ equilibrar la actividad productiva actual con el cuidado ambiental de largo plaz
 
 **1. (Alternativas)** ¿Qué dimensiones combina el Índice de Desarrollo Humano (IDH)?
 
-a) Solo el ingreso económico promedio de la población
+a) El ingreso económico promedio de la población del país
 b) Salud (esperanza de vida), educación y nivel de vida (ingreso)
-c) Únicamente la cantidad de exportaciones de una región
-d) Solo la superficie territorial y la población de una región
+c) La cantidad de exportaciones que realiza cada región
+d) La superficie territorial y la población de cada región
 
 ✅ Respuesta correcta: **b) Salud (esperanza de vida), educación y nivel de vida (ingreso)**
 *Retroalimentación:* El IDH permite comparar el bienestar de regiones o países considerando más
@@ -1619,9 +1619,9 @@ d) Ninguna, porque el IDH solo se calcula para países y no para regiones
 ---
 
 **5. (Alternativas)** ¿Qué significa que una región tenga una "ventaja comparativa" en una actividad productiva?
-a) Que produce todos los bienes mejor y más barato que cualquier otra región, por lo que no necesita comerciar con ninguna otra ni especializarse en una actividad
+a) Que produce los bienes mejor y más barato que las demás regiones, por lo que no necesita comerciar con ellas ni con otros países del mundo
 b) Que no exporta ningún producto, porque consume dentro de la misma región todo lo que produce gracias a sus condiciones naturales, humanas o tecnológicas
-c) Que depende completamente de las importaciones, porque se especializa en una sola actividad productiva y debe comprar todo lo demás a otras regiones o países
+c) Que depende de las importaciones, porque se especializa en una sola actividad productiva y debe comprar afuera casi todo lo que consume su población
 d) Que puede producir cierto bien de forma relativamente más eficiente que otras, por sus condiciones naturales, humanas o tecnológicas, como una región minera especializada en minería
 
 ✅ Respuesta correcta: **d) Que puede producir cierto bien de forma relativamente más eficiente que otras, por sus condiciones naturales, humanas o tecnológicas, como una región minera especializada en minería**
@@ -1630,10 +1630,10 @@ d) Que puede producir cierto bien de forma relativamente más eficiente que otra
 ---
 
 **6. (Alternativas — desafiante)** ¿Por qué puede existir tensión entre el desarrollo productivo de una región y el desarrollo sustentable?
-a) Porque el desarrollo productivo nunca afecta el ambiente, pero las normas de sustentabilidad imponen costos que hacen menos rentable cualquier actividad económica de la región
+a) Porque el desarrollo productivo afecta poco al ambiente, pero las normas de sustentabilidad imponen costos que hacen menos rentables las actividades económicas de la región
 b) Porque actividades rentables en el corto plazo, como la explotación intensiva de un recurso, pueden generar impactos ambientales que comprometen esa actividad y la calidad de vida a largo plazo
-c) Porque la sustentabilidad prohíbe toda actividad económica que use recursos naturales, de modo que una región solo puede desarrollarse si deja de producir
-d) No existe ninguna tensión entre ambos
+c) Porque la sustentabilidad prohíbe las actividades económicas que usan recursos naturales, de modo que una región debe desarrollarse con servicios y turismo
+d) La tensión entre ambos es menor, porque una región puede crecer y cuidar el ambiente sin tener que elegir entre las dos cosas
 
 ✅ Respuesta correcta: **b) Porque actividades rentables en el corto plazo, como la explotación intensiva de un recurso, pueden generar impactos ambientales que comprometen esa actividad y la calidad de vida a largo plazo**
 *Retroalimentación:* Explotar un recurso de forma intensiva puede dejar ganancias rápidas, pero si daña el ambiente termina afectando esa misma actividad y a las personas. El desarrollo sustentable busca equilibrar producción y cuidado del ambiente.
@@ -1757,8 +1757,8 @@ d) 1-B, 2-C, 3-A
 **4. (Alternativas)** Según la declaración de 1789, ¿en qué consiste el principio de soberanía nacional?
 a) En que la autoridad política reside en la nación, y nadie puede ejercer un poder que no provenga de su voluntad, rompiendo con el derecho divino del rey
 b) En que el poder del rey proviene directamente de Dios, y por eso la nación debe obedecerlo sin cuestionar sus decisiones ni su autoridad
-c) En que solo la nobleza puede gobernar, porque es el grupo más preparado de la nación para ejercer el poder en nombre de todos los demás
-d) En que la nación debe obedecer siempre al rey, que representa su voluntad y concentra todos los poderes del Estado de manera absoluta
+c) En que la nobleza debe gobernar, porque es el grupo más preparado de la nación para ejercer el poder en nombre de los demás habitantes
+d) En que la nación debe obedecer al rey, que representa su voluntad y concentra los poderes del Estado de manera absoluta y hereditaria
 
 ✅ Respuesta correcta: **a) En que la autoridad política reside en la nación, y nadie puede ejercer un poder que no provenga de su voluntad, rompiendo con el derecho divino del rey**
 *Retroalimentación:* Representó una ruptura con la idea de que el poder del rey provenía de un derecho divino.

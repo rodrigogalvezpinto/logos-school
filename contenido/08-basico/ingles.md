@@ -145,9 +145,9 @@ frente a lo leído.
    **Retroalimentación:** Se espera conectar el texto leído con el contexto propio: We Tripantu es una celebración mapuche vinculada a la naturaleza y al ciclo del sol.
 
 5. *(Alternativas — Habilidades)* ¿Qué habilidad representa *"Writing three questions about a text you just read"*?
-   a) Resumir
-   b) Memorizar
-   c) Traducir
+   a) Resumir el texto
+   b) Memorizar palabras
+   c) Traducir oraciones
    d) Generar preguntas
    **Respuesta correcta:** d) Generar preguntas.
    **Retroalimentación:** Formular preguntas propias sobre un texto amplía la comprensión; resumir consiste en sintetizar lo leído, no en preguntar.
@@ -316,9 +316,9 @@ El conector *However* señala el paso de las ventajas a las desventajas: ayuda a
    fans were disappointed. Maybe they will reschedule it for next month."* ¿Qué
    función cumple la palabra *"so"* en la oración?
    a) Expresa una consecuencia
-   b) Añade información
+   b) Añade información nueva
    c) Expresa una condición
-   d) Expresa posibilidad
+   d) Expresa una posibilidad
    **Respuesta correcta:** a) Expresa una consecuencia.
    **Retroalimentación:** *So* conecta una causa (se canceló el concierto) con su
    consecuencia (los fans quedaron decepcionados); *maybe*, en cambio, expresa
@@ -345,10 +345,10 @@ El conector *However* señala el paso de las ventajas a las desventajas: ayuda a
    texto.
 
 10. *(Alternativas — Idea general)* Read: *"Many teenagers use their phones before going to sleep. The blue light from the screen makes the brain think it is still day. As a result, they fall asleep later and feel tired at school."* What is the main idea?
-   a) Phones are too expensive for most teenagers.
+   a) Phones are too expensive for most teenagers today.
    b) Using phones before sleeping affects teenagers' sleep.
-   c) Teenagers like going to school in the morning.
-   d) The brain needs a lot of blue light at night.
+   c) Teenagers like going to school early in the morning.
+   d) The brain needs a lot of blue light at night to rest.
    **Respuesta correcta:** b) Using phones before sleeping affects teenagers' sleep.
    **Retroalimentación:** La idea general es que *using phones before sleeping affects teenagers' sleep*: todo el texto explica cómo el teléfono antes de dormir retrasa el sueño; las otras opciones son ideas que el texto no dice o lo contradicen.
 
@@ -619,9 +619,9 @@ El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
    futuro, especialmente con expresiones como *I think*.
 
 5. *(Alternativas — Preposiciones)* ¿Para qué se usa *in* en *"in December"*?
-   a) Para una hora exacta
+   a) Para una hora exacta del día
    b) Para un día de la semana
-   c) Para un lugar exacto
+   c) Para un lugar exacto de la ciudad
    d) Para un mes o período más largo
    **Respuesta correcta:** d) Para un mes o período más largo.
    **Retroalimentación:** *In* se usa con meses, años y períodos largos; *at* con horas exactas y *on* con días.
@@ -652,10 +652,10 @@ El examen usa estas palabras en sus textos y preguntas. Apréndelas por tema.
 
 9. *(Alternativas — desafiante)* ¿Qué oración describe correctamente un lugar
    usando adjetivos?
-   a) The museum is. It is downtown, in the city.
+   a) The museum is. It is downtown, in the old city.
    b) The museum is an old, beautiful building downtown.
-   c) Museum old beautiful building downtown city.
-   d) I go to the museum downtown every Sunday.
+   c) Museum old beautiful building downtown city center.
+   d) I go to the old museum downtown every Sunday.
    **Respuesta correcta:** b.
    **Retroalimentación:** Una buena descripción combina varios adjetivos
    (*old, beautiful*) y ubicación (*downtown*) en una oración completa.
