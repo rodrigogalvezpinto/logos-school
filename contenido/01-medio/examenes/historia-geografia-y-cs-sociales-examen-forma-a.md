@@ -304,8 +304,8 @@ d) La Ley Indígena de 1993
 
 ¿En qué se diferenciaban las respuestas del catolicismo social y del movimiento obrero socialista frente a la cuestión social?
 
-a) Ambos proponían reducir el poder del Estado y que la Iglesia católica dirigiera la educación y la salud del país
-b) El catolicismo social pedía una revolución armada y el socialismo defendía la caridad voluntaria de los más ricos
+a) Ambos proponían reducir el poder del Estado y que la Iglesia católica dirigiera la educación y la salud de todo el país
+b) El catolicismo social pedía una revolución armada y el socialismo defendía la caridad voluntaria de los más ricos de la sociedad
 c) Tenían propuestas muy parecidas y compartían a sus principales líderes, aunque usaban nombres distintos
 d) El catolicismo social proponía caridad, reformas y armonía entre clases; el socialismo, organización obrera y cambios profundos
 
