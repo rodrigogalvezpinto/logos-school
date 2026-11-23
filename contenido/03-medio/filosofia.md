@@ -113,9 +113,9 @@ que preguntarse qué significa exactamente "justicia".
 
 1. *(Alternativas — simple)* Según la tradición filosófica griega, ¿cuál es
    el origen de la actitud filosófica?
-   a) La necesidad económica.
+   a) La necesidad económica diaria.
    b) El miedo a la muerte.
-   c) La obligación escolar.
+   c) La obligación escolar del curso.
    d) El asombro frente al mundo.
    **Respuesta correcta:** d.
    **Retroalimentación:** Platón y Aristóteles coinciden en que la filosofía
@@ -143,7 +143,7 @@ que preguntarse qué significa exactamente "justicia".
    a) Porque la diferencia no está en tener creencias, sino en examinarlas y fundamentarlas con razones; si se pregunta por qué cree lo que cree, ya filosofa
    b) Porque solo los filósofos profesionales tienen opiniones fundamentadas; el resto de las personas solo repite lo que escucha, sin examinar ni justificar sus creencias
    c) Porque las opiniones y la filosofía son exactamente lo mismo: toda creencia sobre la vida ya es filosofía, aunque nunca se examine ni se justifique con razones
-   d) Porque filosofar exige usar vocabulario técnico
+   d) Porque filosofar exige usar un vocabulario técnico y conocer de memoria a los autores clásicos, cosa que la abuela no hace cuando habla de sus creencias
    **Respuesta correcta:** a) Porque la diferencia no está en tener creencias, sino en examinarlas y fundamentarlas con razones; si se pregunta por qué cree lo que cree, ya filosofa.
    **Retroalimentación:** El quehacer filosófico depende de la actitud de examinar las propias creencias, no del vocabulario técnico.
 
@@ -162,7 +162,7 @@ que preguntarse qué significa exactamente "justicia".
 6. *(Alternativas — Asombro filosófico — intermedio)* Al ver una fotografía antigua de uno mismo de niño, ¿cuál de estas es una pregunta **filosófica** que podría surgir?
    a) "¿En qué año exacto se tomó esta foto, en qué ciudad vivía yo en ese momento y quién la sacó?"
    b) "¿Cuántas fotos hay en el álbum familiar y quién las ordenó por fecha?"
-   c) "¿Qué cámara se usó para tomarla, quién la sacó y por qué los colores se ven tan distintos hoy?"
+   c) "¿Qué cámara se usó para tomarla, quién la sacó y por qué los colores de la foto se ven tan distintos hoy?"
    d) "¿Sigo siendo la misma persona que a los 5 años? ¿Qué hace que algo permanezca 'lo mismo' a través del cambio?"
    **Respuesta correcta:** d) "¿Sigo siendo la misma persona que a los 5 años? ¿Qué hace que algo permanezca 'lo mismo' a través del cambio?".
    **Retroalimentación:** La pregunta filosófica no se responde con un dato, sino examinando conceptos como identidad, cambio y permanencia.
@@ -363,7 +363,7 @@ si cambia de nombre?" son preguntas ontológicas reales que te importan.
    manera." Esta afirmación es un buen ejemplo de:
    a) Una pregunta sobre la validez lógica de un argumento.
    b) Una falacia de apelación a la autoridad sobre Chile.
-   c) Una pregunta puramente empírica sobre geografía y límites.
+   c) Una pregunta puramente empírica sobre la geografía y los límites del país.
    d) Una pregunta ontológica sobre distintos modos o tipos de existencia.
    **Respuesta correcta:** d.
    **Retroalimentación:** Preguntarse si entidades como países, instituciones
@@ -567,7 +567,7 @@ tomando —sin saberlo— una postura epistemológica.
    b) "Esta teoría científica es la verdad final y ya no requiere ser revisada jamás, aunque aparezca nueva evidencia."
    c) "Puedo tener creencias justificadas por la evidencia disponible, y
       estoy dispuesto a revisarlas si aparece evidencia mejor."
-   d) "Confío en lo que dice la mayoría en redes sociales sin más, porque si tanta gente lo cree, debe ser verdad."
+   d) "Confío en lo que dice la mayoría en redes sociales sin más, porque si tanta gente lo cree, seguramente es verdad."
    **Respuesta correcta:** c.
    **Retroalimentación:** La postura crítica acepta grados de justificación
    basados en evidencia, sin caer en la certeza cerrada del dogmatismo ni en
@@ -593,7 +593,7 @@ tomando —sin saberlo— una postura epistemológica.
    a) Ambas posturas son correctas: la ciencia demuestra verdades absolutas, pero como cambia de teorías, también es cierto que nunca ha dicho nada verdadero
    b) Solo A es problemática, porque B describe correctamente que el cambio de teorías demuestra que el conocimiento científico no tiene ninguna justificación
    c) A es dogmática y B excesivamente escéptica; la postura crítica sostiene que el conocimiento está bien justificado según la evidencia, sin ser absoluto
-   d) Solo B es problemática
+   d) B es la postura problemática; A tiene razón, porque la ciencia, cuando demuestra algo, lo hace de manera absoluta y definitiva
    **Respuesta correcta:** c) A es dogmática y B excesivamente escéptica; la postura crítica sostiene que el conocimiento está bien justificado según la evidencia, sin ser absoluto.
    **Retroalimentación:** Por ejemplo, la mecánica newtoniana sigue siendo útil aunque fue refinada por la relatividad.
 
@@ -624,12 +624,12 @@ tomando —sin saberlo— una postura epistemológica.
     a) Es un escepticismo radical; lo crítico es evaluar cada afirmación médica según la evidencia, sin rechazarla en bloque ni aceptarla sin más
     b) Es una postura crítica razonable, porque desconfiar de todos los médicos por igual protege de posibles engaños
     c) Es dogmatismo; lo correcto es creerle todo a cualquier médico, porque su título garantiza que dice la verdad
-    d) Es correcta: si algunos médicos se equivocan, la medicina no tiene evidencia confiable en ningún caso
+    d) Es correcta: si algunos médicos se equivocan, la medicina pierde la capacidad de ofrecer evidencia confiable a sus pacientes
     **Respuesta correcta:** a) Es un escepticismo radical; lo crítico es evaluar cada afirmación médica según la evidencia, sin rechazarla en bloque ni aceptarla sin más.
     **Retroalimentación:** Hay que distinguir la duda razonable y puntual de la desconfianza total.
 
 12. *(Alternativas — Percepción — intermedio)* ¿Por qué es difícil responder con total seguridad "¿cómo sé que lo que percibo es real y no una ilusión?", y qué postura parece más razonable?
-    a) Porque es una pregunta sin sentido, ya que nadie confunde un sueño con la vigilia; lo razonable es ignorarla
+    a) Porque es una pregunta sin sentido, ya que nadie confunde un sueño con la vigilia; lo razonable es dejarla de lado y seguir adelante
     b) Porque siempre sabemos con certeza absoluta que estamos despiertos; lo razonable es el dogmatismo, que acepta la experiencia sin examinarla ni compararla
     c) Porque nada existe; lo razonable es el escepticismo radical
     d) Porque un sueño vívido puede sentirse igual que la vigilia; una postura crítica confía provisionalmente en la coherencia de la experiencia, sin certeza absoluta
@@ -784,7 +784,7 @@ resto del sistema, como en geometría).
 
 5. *(Alternativas — Análisis de argumento — intermedio)* "Todos los peces respiran bajo el agua; la ballena respira bajo el agua; luego la ballena es un pez." ¿Qué evaluación es correcta?
    a) Es inválido (afirmación del consecuente) y además una premisa es falsa: la ballena respira aire
-   b) Es válido y sus premisas son verdaderas
+   b) Es válido y sus premisas son verdaderas, porque la conclusión se sigue de ellas
    c) Es válido, pero una premisa es falsa: la ballena respira aire, no agua, como cualquier mamífero
    d) Es inválido, pero todas sus premisas son verdaderas, incluida la de la ballena
    **Respuesta correcta:** a) Es inválido (afirmación del consecuente) y además una premisa es falsa: la ballena respira aire.
@@ -799,7 +799,7 @@ resto del sistema, como en geometría).
    **Retroalimentación:** Diálogo socrático, imaginación controlada y descripción de la experiencia vivida.
 
 7. *(Alternativas — Construir un argumento — desafiante)* ¿Qué opción presenta un argumento completo (razón, garantía y evidencia) a favor de "Es importante que los estudiantes de 3° medio aprendan lógica"?
-   a) Razón: la lógica es importante para los estudiantes. Garantía: porque sí, ya que todo el mundo lo sabe. Evidencia: ninguna, porque es algo evidente para cualquier persona que haya estudiado
+   a) Razón: la lógica es importante para los estudiantes. Garantía: porque sí, ya que es algo que la mayoría sabe. Evidencia: la opinión del profesor, que lo repite en clases cada semana
    b) Razón: la lógica ayuda a distinguir argumentos de manipulaciones. Garantía: quien distingue argumentos válidos es menos vulnerable a la desinformación. Evidencia: estudios de alfabetización mediática muestran que el pensamiento crítico mejora la detección de noticias falsas
    c) Solo una afirmación: "la lógica sirve para pensar mejor", repetida con distintas palabras en la razón, en la garantía y en la evidencia, sin agregar información nueva ni ningún dato que la respalde, como si repetirla bastara para convencer al lector de 3° medio
    d) Razón: las matemáticas son difíciles para muchos estudiantes de 3° medio. Garantía: no hay ninguna, porque no es necesaria. Evidencia: mi opinión personal y la de mis compañeros de curso

@@ -220,7 +220,7 @@ def distractores_guia(archivo, oa, i, nuevos, modulo=None):
     assert len(despues) == len(antes)
     for (ka, ia, pa), (kd, idd, pd) in zip(antes, despues):
         assert (ka, ia, pa.tipo, pa.respuesta_correcta, pa.retroalimentacion) == (kd, idd, pd.tipo, pd.respuesta_correcta, pd.retroalimentacion), (ka, ia)
-        if (ka[0], ia) != (oa, i):
+        if (ka, ia) != (objetivo[0][0], i):
             assert pa.opciones == pd.opciones and pa.enunciado == pd.enunciado, (ka, ia)
         else:
             assert pd.opciones.index(pd.respuesta_correcta) == k
@@ -228,7 +228,7 @@ def distractores_guia(archivo, oa, i, nuevos, modulo=None):
                 assert pd.opciones['abcd'.index(letra)] == texto.strip()
     ruta.write_text(t, encoding='utf-8')
     print(f'ok {archivo} {oa}·{i} — {prob_acierto(pd.opciones, k):.0%}' if False else
-          f'ok {archivo} {oa}·{i} — prob. del truco: {prob_acierto([q for q in despues if q[0][0] == oa and q[1] == i][0][2].opciones, k):.0%}')
+          f'ok {archivo} {oa}·{i} — prob. del truco: {prob_acierto([q for q in despues if q[0] == objetivo[0][0] and q[1] == i][0][2].opciones, k):.0%}')
 
 
 def seguras_guia(patron):
