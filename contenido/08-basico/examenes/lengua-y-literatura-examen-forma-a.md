@@ -63,8 +63,8 @@ d) El viejo gruñón y solitario que espanta a los niños
 
 **4. (Alternativas)** ¿Por qué el reloj de la estación puede considerarse un **símbolo** dentro del relato?
 
-a) Porque es el objeto más caro del pueblo y todos querían comprarlo para venderlo
-b) Porque solo sirve para saber a qué hora pasa el tren por el pueblo
+a) Porque es el objeto más caro del pueblo y muchos querían comprarlo para venderlo
+b) Porque sirve para saber a qué hora pasa el tren por la estación del pueblo
 c) Porque representa la memoria del pueblo y el cuidado silencioso de don Efraín
 d) Porque es un objeto peligroso que la narradora quería destruir desde niña
 
@@ -73,8 +73,8 @@ d) Porque es un objeto peligroso que la narradora quería destruir desde niña
 **5. (Alternativas)** ¿Cómo cambia la comprensión de la narradora sobre don Efraín y qué expresión marca un salto temporal?
 
 a) Pasa del miedo a comprender su cuidado secreto; «Treinta años después» marca el salto
-b) Pasa de admirarlo a odiarlo para siempre; «Al amanecer» marca el salto temporal
-c) No cambia, porque siempre supo que él arreglaba el reloj; «aquel invierno» marca el salto
+b) Pasa de admirarlo a odiarlo para el resto de su vida; «Al amanecer» marca el salto
+c) No cambia, porque desde niña supo que él arreglaba el reloj; «aquel invierno» marca el salto
 d) Pasa de conocerlo a olvidarlo por completo; «la noche en que se cortó la luz» marca el salto
 
 ---
@@ -112,9 +112,9 @@ d) Una comparación, porque une dos ideas con la palabra «como»
 **8. (Alternativas)** ¿Qué idea transmite la comparación «amaso, amaso, amaso, como el mar amasa / la arena blanda de la orilla»?
 
 a) Que el pan se hace mezclando arena blanda y agua salada de mar
-b) Que la hablante vive lejos del mar y lo extraña todas las mañanas
+b) Que la hablante vive lejos del mar y lo extraña cada mañana al amasar el pan
 c) Que amasar es un gesto repetido y paciente, como el ir y venir de las olas
-d) Que el mar es peligroso y destruye todo lo que toca en la orilla
+d) Que el mar es peligroso y destruye lo que toca en la orilla durante las tormentas
 
 ---
 
@@ -122,7 +122,7 @@ d) Que el mar es peligroso y destruye todo lo que toca en la orilla
 
 a) Indica que la hablante vende pan en una panadería cerca de la playa
 b) Hace que el poema pierda el ritmo y se vuelva confuso para quien lee
-c) Muestra que el pan se prepara cada mañana solo para una persona
+c) Muestra que el pan se prepara cada mañana para una sola persona de la familia
 d) Insiste en que el pan es un modo de cuidar a quienes duermen y a quienes vuelven
 
 ---
@@ -162,9 +162,9 @@ d) No hubo dilema, porque el bus a Copiapó no salió ese día por el barro
 **13. (Alternativas)** ¿Qué interpretación del relato integra mejor el dilema, el contexto histórico y el final?
 
 a) Que en una catástrofe real, como la de 2015, la solidaridad puede pesar más que una meta personal
-b) Que los campeonatos de ajedrez deben suspenderse siempre que llueve en el desierto
-c) Que Joaquín nunca volvió a jugar ajedrez porque perdió su tablero en el barro
-d) Que el aluvión de Chañaral no afectó a nadie y Joaquín ayudó solo por aburrimiento
+b) Que los campeonatos de ajedrez deben suspenderse cada vez que llueve en el desierto
+c) Que Joaquín dejó de jugar ajedrez porque perdió su tablero favorito en el barro
+d) Que el aluvión de Chañaral afectó a pocas personas y Joaquín ayudó por aburrimiento
 
 ---
 
@@ -242,9 +242,9 @@ d) Presionar públicamente al municipio para que ofrezca un lugar donde entrenar
 **19. (Alternativas)** ¿Qué evidencia la comparación entre el Texto A y el Texto B sobre un mismo hecho?
 
 a) Que el punto de vista de quien escribe influye en qué aspectos del hecho se destacan
-b) Que los dos textos entregan exactamente la misma información con las mismas palabras
-c) Que una radio comunal nunca puede informar sobre temas deportivos
-d) Que las redes sociales siempre publican información más completa que las radios
+b) Que los dos textos entregan la misma información, aunque la cuentan con palabras distintas
+c) Que una radio comunal tiene prohibido informar sobre temas deportivos de la comuna
+d) Que las redes sociales publican información más completa que las radios comunales
 
 ---
 
@@ -260,7 +260,7 @@ d) 400 usuarios; no indica cuánto durará el cierre de la piscina
 **21. (Alternativas)** ¿En qué se diferencian el tono y el propósito de los textos A y B?
 
 a) El A es emotivo y busca protestar; el B es neutro y busca informar con cifras
-b) Ambos son neutros y solo buscan informar el horario de la piscina
+b) Ambos son neutros y buscan informar el horario de la piscina durante el cierre
 c) El A es informativo y apoya los datos en el municipio; el B es emotivo y busca movilizar
 d) Ambos son emotivos y buscan vender entradas para el campeonato regional
 
